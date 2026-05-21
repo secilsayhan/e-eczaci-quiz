@@ -1,0 +1,1504 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Kişisel Sağlık Planınız | e-Eczacı</title>
+<meta name="description" content="Birkaç kısa soruya cevap verin, 2.000+ ürün arasından size özel sağlık planınızı oluşturalım.">
+<meta property="og:title" content="Size Özel Sağlık Planı | e-Eczacı">
+<meta property="og:description" content="Birkaç kısa soruya cevap verin, ihtiyacınıza en uygun ürünleri sizin için belirleyelim.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://e-eczaci.com/pages/analiz">
+<meta property="og:image" content="https://cdn.myikas.com/images/theme-images/731a8afd-47a0-4440-9360-8a473c9a4f9e/image_1920.webp">
+<meta name="twitter:card" content="summary_large_image">
+<style>
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --primary:#2b2b2b;--primary-light:#444444;--primary-dark:#1a1a1a;
+  --accent:#f4f4f4;--accent-strong:#eeeeee;
+  --gold:#C5943A;--gold-light:#F5E6C8;
+  --bg:#FFFFFF;--card:#FFFFFF;--text:#2b2b2b;--text-secondary:#555555;--text-muted:#999999;
+  --border:#eeeeee;--border-light:#f4f4f4;
+  --shadow-sm:0 1px 3px rgba(0,0,0,.04);
+  --shadow:0 4px 16px rgba(0,0,0,.06);
+  --shadow-lg:0 12px 40px rgba(0,0,0,.08);
+  --radius:16px;--radius-sm:10px;--radius-xs:8px;
+  --font:-apple-system,BlinkMacSystemFont,'SF Pro Display','Segoe UI',Roboto,sans-serif;
+  --transition:all .3s cubic-bezier(.4,0,.2,1);
+}
+html{scroll-behavior:smooth}
+body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:1.6;
+  min-height:100vh;-webkit-font-smoothing:antialiased}
+
+/* ===== LAYOUT ===== */
+.quiz-container{max-width:600px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
+
+/* ===== HEADER ===== */
+.quiz-header{padding:20px 24px 16px;display:flex;align-items:center;justify-content:space-between}
+.logo{display:flex;align-items:center;gap:8px;font-weight:700;font-size:1.05rem;color:var(--primary)}
+.logo-icon{width:32px;height:32px;background:var(--primary);border-radius:8px;display:flex;
+  align-items:center;justify-content:center;color:#fff;font-size:.85rem;font-weight:800}
+.trust-badge{font-size:.7rem;color:var(--text-muted);display:flex;align-items:center;gap:4px}
+.trust-badge svg{width:14px;height:14px;fill:#0a4c32}
+
+/* ===== PROGRESS ===== */
+.progress{padding:0 24px 20px}
+.progress-track{height:4px;background:var(--border-light);border-radius:2px;overflow:hidden}
+.progress-bar{height:100%;background:linear-gradient(90deg,#0a4c32,#0d6b45);
+  border-radius:2px;transition:width .5s cubic-bezier(.4,0,.2,1)}
+.progress-info{display:flex;justify-content:space-between;margin-top:8px}
+.progress-step{font-size:.72rem;font-weight:600;color:#0a4c32;letter-spacing:.3px;text-transform:uppercase}
+.progress-count{font-size:.72rem;color:var(--text-muted)}
+
+/* ===== STEP CONTAINER ===== */
+.step-area{flex:1;padding:0 24px 32px}
+.step{display:none;animation:fadeUp .4s ease}
+.step.active{display:block}
+@keyframes fadeUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+
+/* ===== STEP HEADER ===== */
+.step-header{margin-bottom:24px}
+.step-emoji{font-size:2rem;margin-bottom:8px}
+.step-title{font-size:1.35rem;font-weight:700;line-height:1.3;letter-spacing:-.02em}
+.step-subtitle{font-size:.88rem;color:var(--text-secondary);margin-top:6px}
+.step-multi-hint{display:inline-block;font-size:.72rem;font-weight:600;color:var(--primary);
+  background:var(--accent);padding:4px 10px;border-radius:20px;margin-top:8px}
+
+/* ===== OPTION CARDS ===== */
+.options{display:flex;flex-direction:column;gap:10px}
+.option{display:flex;align-items:center;gap:14px;padding:16px 18px;
+  background:var(--card);border:1.5px solid var(--border);border-radius:var(--radius-sm);
+  cursor:pointer;transition:var(--transition);user-select:none;position:relative}
+.option:hover{border-color:var(--primary-light);background:#fafafa}
+.option.selected{border-color:var(--primary);background:var(--accent);box-shadow:0 0 0 3px rgba(43,43,43,.08)}
+.option .check{width:22px;height:22px;border-radius:50%;border:2px solid var(--border);
+  flex-shrink:0;display:flex;align-items:center;justify-content:center;transition:var(--transition)}
+.option.selected .check{background:var(--primary);border-color:var(--primary)}
+.option.selected .check::after{content:'';width:6px;height:6px;border-radius:50%;background:#fff}
+/* Multi-select: square checkbox */
+.options.multi .option .check{border-radius:5px}
+.options.multi .option.selected .check{border-radius:5px}
+.options.multi .option.selected .check::after{content:'';width:10px;height:8px;border-radius:0;
+  background:transparent;border-left:2px solid #fff;border-bottom:2px solid #fff;
+  transform:rotate(-45deg);margin-top:-2px}
+.option .opt-icon{font-size:1.4rem;flex-shrink:0}
+.option .opt-content{flex:1;min-width:0}
+.option .opt-label{font-size:.95rem;font-weight:600;color:var(--text)}
+.option .opt-desc{font-size:.78rem;color:var(--text-muted);margin-top:1px}
+
+/* ===== OTHER INPUT ===== */
+.other-input-wrap{margin-top:10px;overflow:hidden;max-height:0;opacity:0;transition:max-height .3s ease,opacity .3s ease}
+.other-input-wrap.visible{max-height:100px;opacity:1}
+.other-input{width:100%;padding:14px 16px;border:1.5px solid var(--border);border-radius:var(--radius-xs);
+  font-size:.95rem;font-family:var(--font);outline:none;transition:border-color .2s;background:var(--card)}
+.other-input:focus{border-color:var(--primary)}
+.other-input::placeholder{color:var(--text-muted)}
+
+/* ===== BUTTONS ===== */
+.btn-row{margin-top:28px;display:flex;flex-direction:column;gap:8px}
+.btn-primary{width:100%;padding:16px;background:#0a4c32;color:#fff;border:none;
+  border-radius:var(--radius-sm);font-size:1rem;font-weight:600;font-family:var(--font);
+  cursor:pointer;transition:var(--transition);letter-spacing:.01em}
+.btn-primary:hover:not(:disabled){background:#083d28;transform:translateY(-1px);box-shadow:var(--shadow)}
+.btn-primary:disabled{opacity:.35;cursor:not-allowed}
+.btn-back{background:none;border:none;color:var(--text-muted);font-size:.85rem;font-family:var(--font);
+  cursor:pointer;padding:8px;transition:color .2s}
+.btn-back:hover{color:var(--text)}
+
+/* ===== EMAIL STEP ===== */
+.email-section{text-align:center;padding:20px 0}
+.email-icon{font-size:3rem;margin-bottom:12px}
+.email-title{font-size:1.3rem;font-weight:700}
+.email-desc{font-size:.88rem;color:var(--text-secondary);margin:8px 0 24px;line-height:1.5}
+.email-field{position:relative}
+.email-field input{width:100%;padding:16px 18px;border:1.5px solid var(--border);border-radius:var(--radius-sm);
+  font-size:1rem;font-family:var(--font);outline:none;transition:border-color .2s;background:var(--card)}
+.email-field input:focus{border-color:var(--primary)}
+.email-field input::placeholder{color:var(--text-muted)}
+.email-privacy{font-size:.72rem;color:var(--text-muted);margin-top:10px;display:flex;align-items:center;justify-content:center;gap:4px}
+.email-privacy svg{width:12px;height:12px;fill:var(--text-muted)}
+
+/* ===== RESULTS ===== */
+.results-intro{text-align:center;padding:8px 0 28px}
+.results-intro h2{font-size:1.3rem;font-weight:700}
+.results-intro p{font-size:.88rem;color:var(--text-secondary);margin-top:6px}
+.results-plan{display:flex;flex-direction:column;gap:16px}
+
+/* Product recommendation card */
+.rec-card{background:var(--card);border-radius:var(--radius);border:1px solid var(--border-light);
+  box-shadow:var(--shadow-sm);overflow:hidden;transition:var(--transition)}
+.rec-card:hover{box-shadow:var(--shadow);transform:translateY(-2px)}
+.rec-reason{padding:10px 16px;background:var(--accent);display:flex;align-items:center;gap:8px;
+  font-size:.78rem;font-weight:600;color:var(--primary-dark)}
+.rec-reason .reason-icon{font-size:1rem}
+.rec-body{display:flex;gap:14px;padding:14px 16px}
+.rec-img{width:80px;height:80px;border-radius:var(--radius-xs);overflow:hidden;flex-shrink:0;
+  background:var(--border-light);display:flex;align-items:center;justify-content:center}
+.rec-img img{width:100%;height:100%;object-fit:contain}
+.rec-info{flex:1;min-width:0;display:flex;flex-direction:column;justify-content:center}
+.rec-brand{font-size:.7rem;font-weight:600;color:var(--text-muted);text-transform:uppercase;letter-spacing:.5px}
+.rec-name{font-size:.9rem;font-weight:600;margin:3px 0;line-height:1.35;
+  display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.rec-price-row{display:flex;align-items:center;gap:6px;margin-top:4px}
+.rec-price{font-size:1rem;font-weight:700;color:var(--primary-dark)}
+.rec-old-price{font-size:.82rem;color:var(--text-muted);text-decoration:line-through}
+.rec-discount{font-size:.68rem;font-weight:700;color:#fff;background:#D94F3F;
+  padding:2px 6px;border-radius:4px}
+.rec-action{padding:0 16px 14px}
+.rec-action a{display:block;text-align:center;padding:11px;background:var(--primary);color:#fff;
+  border-radius:var(--radius-xs);text-decoration:none;font-size:.88rem;font-weight:600;
+  transition:var(--transition)}
+.rec-action a:hover{background:var(--primary-dark)}
+
+/* Summary total */
+.plan-summary{background:var(--card);border-radius:var(--radius);border:1px solid var(--border);
+  padding:20px;margin-top:8px;text-align:center}
+.plan-summary .total-label{font-size:.82rem;color:var(--text-secondary)}
+.plan-summary .total-price{font-size:1.5rem;font-weight:700;color:var(--primary-dark);margin:4px 0}
+.plan-summary .total-savings{font-size:.82rem;color:#D94F3F;font-weight:600}
+
+/* Footer CTA */
+.results-footer{margin-top:24px;padding:24px;background:var(--accent);border-radius:var(--radius);text-align:center}
+.results-footer p{font-size:.88rem;color:var(--text-secondary);margin-bottom:10px}
+.wa-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 24px;
+  background:#25D366;color:#fff;border-radius:var(--radius-xs);text-decoration:none;
+  font-weight:600;font-size:.92rem;transition:var(--transition)}
+.wa-btn:hover{background:#1DAF54;transform:translateY(-1px)}
+.wa-btn svg{width:20px;height:20px;fill:#fff}
+
+.restart-link{display:block;text-align:center;margin:20px 0 40px;font-size:.82rem;
+  color:var(--text-muted);cursor:pointer;text-decoration:underline}
+.restart-link:hover{color:var(--text)}
+
+/* ===== INTRO SCREEN ===== */
+.intro{text-align:center;padding:40px 0 20px}
+.intro-badge{display:inline-flex;align-items:center;gap:6px;padding:6px 14px;
+  background:var(--gold-light);color:var(--gold);border-radius:20px;font-size:.75rem;font-weight:700;
+  letter-spacing:.3px;text-transform:uppercase;margin-bottom:20px}
+.intro h1{font-size:1.6rem;font-weight:800;line-height:1.25;letter-spacing:-.03em}
+.intro h1 span{color:var(--primary)}
+.intro-desc{font-size:.95rem;color:var(--text-secondary);margin:14px 0 8px;line-height:1.6}
+.intro-features{display:flex;flex-direction:column;gap:10px;margin:28px 0;text-align:left}
+.intro-feat{display:flex;align-items:center;gap:12px;padding:12px 16px;
+  background:var(--card);border:1px solid var(--border-light);border-radius:var(--radius-sm)}
+.intro-feat .feat-icon{width:36px;height:36px;background:var(--accent);border-radius:8px;
+  display:flex;align-items:center;justify-content:center;font-size:1.1rem;flex-shrink:0}
+.intro-feat .feat-text{font-size:.88rem;font-weight:500;color:var(--text)}
+.intro-feat .feat-text strong{font-weight:700}
+.intro-social-proof{display:flex;align-items:center;justify-content:center;gap:8px;
+  margin-top:24px;margin-bottom:8px;font-size:.85rem;color:var(--text-secondary)}
+.intro-social-proof svg{width:18px;height:18px;fill:#0a4c32}
+.intro-social-proof strong{color:var(--text);font-weight:700}
+
+/* ===== LOADING SCREEN ===== */
+.loading-section{text-align:center;padding:60px 0 20px}
+.loading-spinner{width:56px;height:56px;border:4px solid var(--border-light);border-top-color:var(--primary);
+  border-radius:50%;animation:spin 1s linear infinite;margin:0 auto 24px}
+@keyframes spin{to{transform:rotate(360deg)}}
+.loading-check{width:56px;height:56px;border-radius:50%;background:var(--primary);margin:0 auto 24px;
+  display:flex;align-items:center;justify-content:center;animation:popIn .4s ease}
+.loading-check svg{width:28px;height:28px;fill:#fff}
+@keyframes popIn{from{transform:scale(0)}to{transform:scale(1)}}
+.loading-phase{font-size:1.1rem;font-weight:600;color:var(--text);margin-bottom:8px;
+  animation:fadeUp .4s ease}
+.loading-sub{font-size:.85rem;color:var(--text-muted)}
+.loading-dots{display:flex;justify-content:center;gap:8px;margin-top:24px}
+.loading-dots span{width:8px;height:8px;border-radius:50%;background:var(--border);transition:background .3s}
+.loading-dots span.active{background:var(--primary)}
+
+/* ===== SHARE BUTTON ===== */
+.share-btn{display:inline-flex;align-items:center;gap:8px;padding:12px 24px;
+  background:#25D366;color:#fff;border-radius:var(--radius-xs);text-decoration:none;
+  font-weight:600;font-size:.88rem;transition:var(--transition);border:none;cursor:pointer;font-family:var(--font)}
+.share-btn:hover{background:#1DAF54;transform:translateY(-1px)}
+.share-btn svg{width:18px;height:18px;fill:#fff}
+
+/* ===== RESPONSIVE ===== */
+@media(max-width:480px){
+  .quiz-container{max-width:100%}
+  .step-title{font-size:1.2rem}
+  .intro h1{font-size:1.4rem}
+  .rec-body{gap:10px}
+  .rec-img{width:70px;height:70px}
+}
+@media(min-width:601px){
+  .quiz-container{margin-top:20px;margin-bottom:20px;background:var(--card);
+    border-radius:20px;box-shadow:var(--shadow-lg);min-height:auto;border:1px solid var(--border-light)}
+  body{background:#F0F4F2}
+}
+
+/* ===== POPULAR BADGE ===== */
+.popular-badge{position:absolute;top:-1px;right:12px;font-size:.62rem;font-weight:700;color:#fff;
+  background:linear-gradient(135deg,var(--gold),#D4A043);padding:3px 8px 4px;border-radius:0 0 6px 6px;
+  letter-spacing:.3px;text-transform:uppercase;box-shadow:0 2px 6px rgba(197,148,58,.3)}
+
+/* ===== SKIP BUTTON ===== */
+.btn-skip{background:none;border:1.5px solid var(--border);color:var(--text-secondary);width:100%;
+  padding:14px;border-radius:var(--radius-sm);font-size:.92rem;font-weight:500;font-family:var(--font);
+  cursor:pointer;transition:var(--transition)}
+.btn-skip:hover{border-color:var(--primary-light);color:var(--primary);background:var(--accent)}
+
+/* ===== STAGGER ANIMATION ===== */
+@keyframes cardSlideIn{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+.rec-card.stagger{opacity:0;animation:cardSlideIn .5s cubic-bezier(.4,0,.2,1) forwards}
+
+/* ===== SWAP BUTTON ===== */
+.swap-btn{display:inline-flex;align-items:center;gap:4px;background:none;border:1px solid var(--border);
+  color:var(--text-muted);font-size:.75rem;font-weight:500;font-family:var(--font);padding:6px 10px;
+  border-radius:6px;cursor:pointer;transition:var(--transition);margin-left:8px}
+.swap-btn:hover{border-color:var(--primary);color:var(--primary);background:var(--accent)}
+.swap-btn svg{width:12px;height:12px}
+.rec-action{display:flex;align-items:center;gap:6px;padding:0 16px 14px}
+.rec-action a{flex:1}
+
+/* ===== BUNDLE CTA ===== */
+.bundle-cta{margin-top:16px;padding:20px;background:linear-gradient(135deg,#0a4c32,#083d28);
+  border-radius:var(--radius);text-align:center;color:#fff}
+.bundle-cta p{font-size:.88rem;opacity:.9;margin-bottom:12px}
+.bundle-cta .bundle-btn{display:inline-flex;align-items:center;gap:8px;padding:14px 28px;
+  background:#fff;color:#0a4c32;border-radius:var(--radius-xs);text-decoration:none;
+  font-weight:700;font-size:.95rem;transition:var(--transition);border:none;cursor:pointer;font-family:var(--font)}
+.bundle-cta .bundle-btn:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(0,0,0,.2)}
+
+/* ===== OPTION PULSE (micro-interaction) ===== */
+@keyframes selectPulse{0%{box-shadow:0 0 0 0 rgba(43,43,43,.3)}100%{box-shadow:0 0 0 12px rgba(43,43,43,0)}}
+.option.just-selected{animation:selectPulse .4s ease}
+
+/* ===== HEALTH TIP (loading) ===== */
+.loading-tip{margin-top:20px;padding:12px 16px;background:var(--accent);border-radius:var(--radius-xs);
+  font-size:.8rem;color:var(--primary-dark);text-align:left;display:flex;align-items:flex-start;gap:8px;
+  animation:fadeUp .4s ease}
+.loading-tip .tip-icon{flex-shrink:0;font-size:1rem}
+
+/* ===== RESULT CATEGORY TAG ===== */
+.rec-reason .reason-tag{display:inline-block;padding:2px 6px;background:rgba(43,43,43,.12);
+  border-radius:4px;font-size:.68rem;font-weight:700;color:var(--primary-dark);margin-left:6px}
+
+/* ===== MEDICAL DISCLAIMER ===== */
+.medical-disclaimer{margin-top:20px;padding:14px 16px;background:#FFF8E1;border:1px solid #FFE082;
+  border-radius:var(--radius-xs);font-size:.78rem;color:#5D4037;line-height:1.5;display:flex;align-items:flex-start;gap:10px}
+.medical-disclaimer .disc-icon{flex-shrink:0;font-size:1.1rem;margin-top:1px}
+
+/* ===== DETAIL GROUPS ===== */
+.detail-group{margin-bottom:24px}
+.detail-group:last-child{margin-bottom:0}
+.detail-question{font-size:.95rem;font-weight:700;color:var(--text);margin-bottom:10px;display:flex;align-items:center;gap:8px}
+.detail-question .dq-icon{font-size:1.1rem}
+
+/* ===== NAME INPUT ===== */
+.step-name-wrap{margin-top:16px;text-align:center}
+.step-name-wrap label{display:block;font-size:.85rem;color:var(--text-muted);margin-bottom:6px}
+.step-name-input{width:100%;max-width:320px;padding:12px 16px;border:2px solid var(--border);border-radius:var(--radius-xs);
+  font-size:1rem;font-family:var(--font);text-align:center;transition:var(--transition);background:#fff}
+.step-name-input:focus{outline:none;border-color:var(--primary);box-shadow:0 0 0 3px rgba(43,43,43,.12)}
+</style>
+</head>
+<body>
+
+<div class="quiz-container">
+
+  <!-- HEADER -->
+  <div class="quiz-header">
+    <div class="logo">
+      <img src="https://cdn.myikas.com/images/theme-images/608fa6c1-a801-4455-8dab-be9d62116f71/image_1512.webp" alt="e-Eczacı" style="height:32px;width:auto">
+    </div>
+    <div class="trust-badge">
+      <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
+      Uzman Danışmanlığında
+    </div>
+  </div>
+
+  <!-- UZMAN GÜVEN BANDI -->
+  <div style="background:linear-gradient(135deg,#f0f7ff,#e8f4f8);border:1px solid #bee3f8;border-radius:10px;padding:12px 20px;margin:0 24px 16px;display:flex;align-items:center;gap:12px;font-size:13px;">
+    <span style="color:#1B7A4A;font-weight:700;font-size:15px;flex-shrink:0;">&#10003;</span>
+    <span style="color:#2b6cb0;line-height:1.5;">
+      <strong>Uzman Onaylı Quiz</strong> &middot; Klinik Sağlık Psikolojisi ve Wellbeing Uzmanı &middot; Harvard Lifestyle Medicine &middot; 40+ Yıllık Lisanslı Eczacı Danışmanlığı
+    </span>
+  </div>
+
+  <!-- PROGRESS -->
+  <div class="progress" id="progressWrap" style="display:none">
+    <div class="progress-track"><div class="progress-bar" id="progressBar" style="width:0%"></div></div>
+    <div class="progress-info">
+      <span class="progress-step" id="progressStep"></span>
+      <span class="progress-count" id="progressCount"></span>
+    </div>
+  </div>
+
+  <div class="step-area">
+
+    <!-- INTRO -->
+    <div class="step active" id="stepIntro">
+      <div class="intro">
+        <div class="intro-badge">&#9733; Ücretsiz Sağlık Analizi</div>
+        <h1>Size özel <span>sağlık planınızı</span> oluşturalım</h1>
+        <p class="intro-desc">Birkaç kısa soruya cevap verin, ihtiyacınıza en uygun ürünleri sizin için belirleyelim.</p>
+        <div class="intro-features">
+          <div class="intro-feat">
+            <div class="feat-icon">&#127919;</div>
+            <div class="feat-text">Hedeflerinize göre <strong>kişiye özel</strong> plan</div>
+          </div>
+          <div class="intro-feat">
+            <div class="feat-icon">&#128171;</div>
+            <div class="feat-text"><strong>2.000+</strong> güvenilir üründen seçim</div>
+          </div>
+          <div class="intro-feat">
+            <div class="feat-icon">&#9889;</div>
+            <div class="feat-text"><strong>1 dakikada</strong> planınız hazır</div>
+          </div>
+        </div>
+        <div class="btn-row">
+          <button class="btn-primary" onclick="startQuiz()" aria-label="Planı oluşturmaya başla">Planımı Oluştur</button>
+        </div>
+        <div class="intro-social-proof" id="socialProof">
+          <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
+          <span><strong id="proofCount">1.756</strong> kişi planını oluşturdu</span>
+        </div>
+      </div>
+    </div>
+
+    <!-- STEP 1: Kimin için -->
+    <div class="step" id="step1">
+      <div class="step-header">
+        <div class="step-title">Bu plan kimin için?</div>
+        <div class="step-subtitle">Yaş ve duruma göre size en uygun ürünleri belirleyeceğiz</div>
+      </div>
+      <div class="options" id="whoOptions">
+        <div class="option" data-value="yetiskin" onclick="selectSingle(this,'who')">
+          <div class="check"></div>
+          <div class="opt-icon">&#129489;</div>
+          <div class="opt-content">
+            <div class="opt-label">Kendim</div>
+            <div class="opt-desc">Yetişkin</div>
+          </div>
+        </div>
+        <div class="option" data-value="cocuk" onclick="selectSingle(this,'who')">
+          <div class="check"></div>
+          <div class="opt-icon">&#128118;</div>
+          <div class="opt-content">
+            <div class="opt-label">Çocuğum için</div>
+            <div class="opt-desc">0 – 12 yaş</div>
+          </div>
+        </div>
+        <div class="option" data-value="hamile" onclick="selectSingle(this,'who')">
+          <div class="check"></div>
+          <div class="opt-icon">&#129328;</div>
+          <div class="opt-content">
+            <div class="opt-label">Hamileyim / Emziriyorum</div>
+            <div class="opt-desc">Anne-bebek desteği</div>
+          </div>
+        </div>
+        <div class="option" data-value="yasli" onclick="selectSingle(this,'who')">
+          <div class="check"></div>
+          <div class="opt-icon">&#129491;</div>
+          <div class="opt-content">
+            <div class="opt-label">Yaşlı aile üyem</div>
+            <div class="opt-desc">65+ yaş</div>
+          </div>
+        </div>
+      </div>
+      <div class="btn-row">
+        <button class="btn-primary" id="btn1" disabled onclick="goTo(2)">Devam Et</button>
+        <button class="btn-back" onclick="goTo(0)">&#8592; Geri dön</button>
+      </div>
+    </div>
+
+    <!-- STEP 2: İhtiyaç (multi-select) -->
+    <div class="step" id="step2">
+      <div class="step-header">
+        <div class="step-title">Hangi konularda destek arıyorsunuz?</div>
+        <div class="step-subtitle">Size özel planınızı bu seçimlere göre oluşturacağız</div>
+        <div class="step-multi-hint">&#10003; Birden fazla seçebilirsiniz</div>
+      </div>
+      <div class="options multi" id="needOptions"></div>
+      <div class="other-input-wrap" id="otherWrap">
+        <input type="text" class="other-input" id="otherInput" placeholder="Örn: kolajen, göz bakımı, propolis..." oninput="onOtherInput()">
+      </div>
+      <div class="btn-row">
+        <button class="btn-primary" id="btn2" disabled onclick="goTo(3)">Devam Et</button>
+        <button class="btn-back" onclick="goTo(1)">&#8592; Geri dön</button>
+      </div>
+    </div>
+
+    <!-- STEP 3: Detay Sorular (dinamik) -->
+    <div class="step" id="step3">
+      <div class="step-header">
+        <div class="step-title">Biraz daha detaylandıralım</div>
+        <div class="step-subtitle">Size en doğru ürünleri önerebilmemiz için birkaç detay</div>
+      </div>
+      <div id="detailContainer"></div>
+      <div class="btn-row">
+        <button class="btn-primary" id="btn3" disabled onclick="goTo(4)">Devam Et</button>
+        <button class="btn-back" onclick="goTo(2)">&#8592; Geri dön</button>
+      </div>
+    </div>
+
+    <!-- STEP 4: Yaşam Tarzı -->
+    <div class="step" id="step4">
+      <div class="step-header">
+        <div class="step-title">Günlük yaşam tarzınız</div>
+        <div class="step-subtitle">Beslenme ve aktivite düzeyiniz önerilerimizi etkiler</div>
+      </div>
+      <div class="options" id="lifestyleOptions"></div>
+      <div class="btn-row">
+        <button class="btn-primary" id="btn4" disabled onclick="goTo(5)">Devam Et</button>
+        <button class="btn-back" onclick="goTo(3)">&#8592; Geri dön</button>
+      </div>
+    </div>
+
+    <!-- STEP 5: Ürün formu -->
+    <div class="step" id="step5">
+      <div class="step-header">
+        <div class="step-title">Ürün formu tercihiniz var mı?</div>
+        <div class="step-subtitle">Günlük kullanımda hangi form size daha rahat gelir?</div>
+      </div>
+      <div class="options" id="formOptions"></div>
+      <div class="btn-row">
+        <button class="btn-primary" id="btn5" disabled onclick="goTo(6)">Son Adım</button>
+        <button class="btn-back" onclick="goTo(4)">&#8592; Geri dön</button>
+      </div>
+    </div>
+
+    <!-- STEP 6: İsim & Email -->
+    <div class="step" id="step6">
+      <div class="email-section">
+        <div class="email-icon">&#10024;</div>
+        <div class="email-title" id="emailTitle">Son adım</div>
+        <div class="email-desc">Planınızı kişiselleştirmek için isminizi girin.</div>
+        <div class="email-field">
+          <input type="text" id="nameInput" placeholder="İsminiz" aria-label="İsminiz" required oninput="onNameEmailInput()" style="margin-bottom:10px">
+          <input type="email" id="emailInput" placeholder="E-posta adresiniz (opsiyonel)" oninput="onNameEmailInput()" aria-label="E-posta adresiniz">
+          <textarea id="noteInput" placeholder="Eklemek istediğiniz bir şey var mı? (sorun, istek, ilaç kullanımı vb.) — opsiyonel" rows="3" aria-label="Ek not" style="margin-top:10px;width:100%;padding:12px 14px;border:1.5px solid #e2e8f0;border-radius:10px;font-size:15px;font-family:inherit;resize:vertical;color:#2d3748;background:#fff;box-sizing:border-box;"></textarea>
+        </div>
+        <div class="email-privacy">
+          <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z"/></svg>
+          KVKK uyumlu, bilgileriniz güvende
+        </div>
+        <div class="btn-row" style="margin-top:20px">
+          <button class="btn-primary" id="btnEmail" disabled onclick="submitFinal()">Planımı Göster</button>
+          <button class="btn-back" onclick="goTo(5)">&#8592; Geri dön</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- LOADING ANIMATION -->
+    <div class="step" id="stepLoading">
+      <div class="loading-section">
+        <div id="loadingIcon"></div>
+        <div class="loading-phase" id="loadingPhase"></div>
+        <div class="loading-sub" id="loadingSub"></div>
+        <div class="loading-dots">
+          <span id="dot1"></span><span id="dot2"></span><span id="dot3"></span><span id="dot4"></span>
+        </div>
+        <div class="loading-tip" id="loadingTip" style="display:none"></div>
+      </div>
+    </div>
+
+    <!-- RESULTS -->
+    <div class="step" id="stepResults">
+      <div class="results-intro">
+        <h2 id="resultsTitle">Kişisel Sağlık Planınız</h2>
+        <p id="resultsSubtext">İhtiyaçlarınıza göre sizin için seçtik</p>
+        <p style="font-size:12px;color:#718096;text-align:center;margin:8px 0 20px;">
+          Bu öneriler uzman danışmanlığıyla hazırlanmış, 40 yılı aşkın deneyime sahip lisanslı eczacı tarafından incelenmiştir.
+        </p>
+      </div>
+      <div class="results-plan" id="productGrid"></div>
+      <div class="plan-summary" id="planSummary"></div>
+      <div id="bundleUpsell" style="display:none;margin:20px 0;"></div>
+      <div class="bundle-cta" id="bundleCta">
+        <p>Tüm planı tek mesajla sipariş verin</p>
+        <a class="bundle-btn" id="bundleBtn" href="#" target="_blank">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="var(--primary-dark)"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
+          WhatsApp ile Sipariş Ver
+        </a>
+      </div>
+      <div class="medical-disclaimer">
+        <div class="disc-icon">&#9888;&#65039;</div>
+        <div>Bu öneriler genel bilgi amaçlıdır ve tıbbi tavsiye yerine geçmez. Herhangi bir hastalığınız varsa veya ilaç kullanıyorsanız, takviye kullanmadan önce <strong>mutlaka doktorunuza danışın</strong>.</div>
+      </div>
+      <div class="results-footer">
+        <div style="display:flex;flex-direction:column;gap:12px;align-items:center">
+          <p>Sorularınız mı var?</p>
+          <a class="wa-btn" href="https://wa.me/908503091545" target="_blank">
+            <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
+            Eczacıya Danış
+          </a>
+          <a class="share-btn" id="shareBtn" href="#" target="_blank">
+            <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
+            Planını arkadaşınla paylaş
+          </a>
+        </div>
+      </div>
+      <span class="restart-link" onclick="restart()">Testi tekrarla</span>
+    </div>
+
+  </div>
+</div>
+
+<script>
+/* ===== DATA ===== */
+let quizData = null;
+fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
+  const el=document.getElementById('proofCount');
+  if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR');
+}).catch(()=>{});
+
+/* ===== STATE ===== */
+const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, note:'' };
+
+/* ===== CONFIG ===== */
+const needMap = {
+  yetiskin:[
+    {value:'bagisiklik',icon:'&#128737;&#65039;',label:'Bağışıklık Güçlendirme',desc:'Mevsim geçişlerinde güçlü kalın',popular:true},
+    {value:'enerji',icon:'&#9889;',label:'Enerji & Yorgunluk',desc:'Gün boyu enerjik ve zinde hissedin',popular:true},
+    {value:'cilt',icon:'&#129507;',label:'Cilt Bakımı',desc:'Parlak, sağlıklı ve genç görünen cilt',popular:true},
+    {value:'sac',icon:'&#128135;',label:'Saç & Tırnak',desc:'Güçlü, gür saçlar ve sağlam tırnaklar'},
+    {value:'sindirim',icon:'&#129440;',label:'Sindirim Sağlığı',desc:'Rahat bir sindirim ve dengeli flora'},
+    {value:'uyku',icon:'&#127769;',label:'Stres & Uyku',desc:'Derin uyku ve sakin bir zihin'},
+    {value:'eklem',icon:'&#129460;',label:'Eklem & Kemik',desc:'Esnek eklemler ve güçlü kemikler'},
+    {value:'kalp',icon:'&#10084;&#65039;',label:'Kalp & Damar',desc:'Sağlıklı kalp ve dolaşım sistemi'},
+    {value:'beyin',icon:'&#129504;',label:'Beyin & Hafıza',desc:'Keskin hafıza ve mental performans'},
+    {value:'goz',icon:'&#128065;&#65039;',label:'Göz Sağlığı',desc:'Net görüş ve göz konforu'},
+    {value:'kilo',icon:'&#9878;&#65039;',label:'Kilo Yönetimi',desc:'Sağlıklı kilo kontrolü ve metabolizma'},
+    {value:'kadin',icon:'&#9792;&#65039;',label:'Kadın Sağlığı',desc:'Hormonal denge ve kadına özel destek'},
+    {value:'multivitamin',icon:'&#128138;',label:'Multivitamin',desc:'Günlük tüm vitamin ve mineraller',popular:true},
+    {value:'sporcu',icon:'&#127947;&#65039;',label:'Sporcu Desteği',desc:'Performans, toparlanma ve kas desteği'}
+  ],
+  cocuk:[
+    {value:'multi',icon:'&#127752;',label:'Multivitamin',desc:'Sağlıklı büyüme için günlük destek',popular:true},
+    {value:'bagisiklik',icon:'&#128737;&#65039;',label:'Bağışıklık',desc:'Okul döneminde güçlü savunma',popular:true},
+    {value:'kemik',icon:'&#129463;',label:'Kemik & Diş',desc:'Güçlü kemikler ve sağlam dişler'},
+    {value:'sindirim',icon:'&#129440;',label:'Sindirim',desc:'Mutlu bir karın ve düzenli sindirim'},
+    {value:'beyin',icon:'&#129504;',label:'Beyin Gelişimi',desc:'Konsantrasyon ve öğrenme desteği',popular:true},
+    {value:'dis',icon:'&#129463;',label:'Diş Bakımı',desc:'Çocuğunuzun gülümsemesi için'},
+    {value:'gunes',icon:'&#9728;&#65039;',label:'Güneş Koruma',desc:'Hassas çocuk cildini koruyun'}
+  ],
+  hamile:[
+    {value:'vitamin',icon:'&#128138;',label:'Genel Vitamin',desc:'Anne ve bebek için kapsamlı destek',popular:true},
+    {value:'demir',icon:'&#129656;',label:'Demir & Folik Asit',desc:'Bebeğin sağlıklı gelişimi için kritik',popular:true},
+    {value:'omega',icon:'&#128031;',label:'Omega-3 / DHA',desc:'Beyin ve göz gelişimi desteği'},
+    {value:'bulanti',icon:'&#129326;',label:'Bulantı Desteği',desc:'İlk trimester rahatlığı'},
+    {value:'cilt',icon:'&#129507;',label:'Cilt & Çatlak Bakımı',desc:'Çatlak önleme ve cilt esnekliği'}
+  ],
+  yasli:[
+    {value:'eklem',icon:'&#129460;',label:'Eklem Sağlığı',desc:'Rahat hareket ve esnek eklemler',popular:true},
+    {value:'kalp',icon:'&#10084;&#65039;',label:'Kalp & Damar',desc:'Güçlü kalp ve sağlıklı tansiyon',popular:true},
+    {value:'kemik',icon:'&#129463;',label:'Kemik Sağlığı',desc:'Kemik yoğunluğu ve güç kaybına karşı'},
+    {value:'hafiza',icon:'&#129504;',label:'Hafıza & Beyin',desc:'Zihinsel berraklık ve hafıza desteği',popular:true},
+    {value:'goz',icon:'&#128065;&#65039;',label:'Göz Sağlığı',desc:'Net görüş ve göz konforu'},
+    {value:'sindirim',icon:'&#129440;',label:'Sindirim',desc:'Düzenli sindirim ve bağırsak sağlığı'},
+    {value:'multivitamin',icon:'&#128138;',label:'Multivitamin',desc:'50+ yaş için özel formül'}
+  ]
+};
+
+const categoryMapping = {
+  // Yetişkin
+  'yetiskin_bagisiklik':['C Vitamini','D Vitamini','Çinko','Propolis','Beta Glukan','Bağışıklık Sistemi','Soğuk Algınlığı ve Grip'],
+  'yetiskin_enerji':['B12 Vitamini','B Kompleks','Koenzim Q10','Demir','Enerji ve Zindelik'],
+  'yetiskin_cilt':['Nemlendirici Kremler','Nemlendirici','Güneş Koruma','SPF 50+','Cilt Bakımı','Temizleyiciler','Leke Karşıtı','Hassas ve Kızarık Cilt','Akne ve Sivilce Bakımı','Onarıcı Bakım'],
+  'yetiskin_sac':['Saç, Cilt ve Tırnak','Saç Cilt Tırnak','Biotin (B7 Vitamini)','Saç Bakımı','Saç Dökülmesi','Dökülme Karşıtı','Kepek Karşıtı','Şampuanlar'],
+  'yetiskin_sindirim':['Probiyotik','Probiyotik ve Prebiyotik','Sindirim Sağlığı','Sindirim Enzimleri'],
+  'yetiskin_uyku':['Stres ve Uyku Düzeni','Magnezyum','Magnezyum Bisglisinat'],
+  'yetiskin_eklem':['Kemik ve Eklem Sağlığı','Eklem ve Kemik Sağlığı','Kolajen Takviyeleri','Hidrolize Kolajen','Glukozamin','Magnezyum'],
+  'yetiskin_kalp':['Kalp ve Damar Sağlığı','Omega 3','Koenzim Q10','Resveratrol'],
+  'yetiskin_beyin':['Beyin ve Hafıza','Omega 3','Ginkgo Biloba'],
+  'yetiskin_goz':['Göz Sağlığı','Göz Damlası'],
+  'yetiskin_kilo':['Metabolizma ve Kilo Yönetimi','L-Karnitin'],
+  'yetiskin_kadin':['Kadın Sağlığı','Demir','Folik Asit (B9 Vitamini)'],
+  'yetiskin_multivitamin':['Multivitamin','Mineraller'],
+  'yetiskin_sporcu':['Sporcu Takviyeleri','L-Karnitin','L-Arjinin'],
+  // Çocuk
+  'cocuk_multi':['Çocuk Multivitamin','Çocuk Vitaminleri','Çocuk Sağlığı'],
+  'cocuk_bagisiklik':['C Vitamini','Propolis','Kara Mürver (Sambucus)','Çocuk Sağlığı','Bağışıklık Sistemi','Çocuk Vitaminleri'],
+  'cocuk_kemik':['D Vitamini','Kalsiyum','Çocuk Sağlığı'],
+  'cocuk_sindirim':['Probiyotik','Çocuk Sağlığı','Sindirim Sağlığı'],
+  'cocuk_beyin':['Omega 3','Çocuk Omega 3','Çocuk Sağlığı'],
+  'cocuk_dis':['Çocuk Diş Bakımı','Diş Macunu','Diş Fırçası'],
+  'cocuk_gunes':['Çocuk ve Bebek Güneş Koruma'],
+  // Hamile
+  'hamile_vitamin':['Hamilelik ve Emzirme','Hamile Vitamini'],
+  'hamile_demir':['Demir','Folik Asit (B9 Vitamini)','Hamilelik ve Emzirme'],
+  'hamile_omega':['Omega 3','Hamilelik ve Emzirme'],
+  'hamile_bulanti':['Hamilelik ve Emzirme'],
+  'hamile_cilt':['Onarıcı Bakım','Onarıcı Kremler','Kaşıntı ve Tahriş Bakımı','Vücut Losyonu'],
+  // Yaşlı
+  'yasli_eklem':['Kemik ve Eklem Sağlığı','Eklem ve Kemik Sağlığı','Kolajen Takviyeleri','Glukozamin'],
+  'yasli_kalp':['Kalp ve Damar Sağlığı','Omega 3','Koenzim Q10','Resveratrol'],
+  'yasli_kemik':['D Vitamini','Kalsiyum','Magnezyum','Kemik ve Eklem Sağlığı'],
+  'yasli_hafiza':['Beyin ve Hafıza','Omega 3','Ginkgo Biloba'],
+  'yasli_goz':['Göz Sağlığı','Göz Damlası'],
+  'yasli_sindirim':['Probiyotik','Probiyotik ve Prebiyotik','Sindirim Sağlığı'],
+  'yasli_multivitamin':['Multivitamin','Mineraller']
+};
+
+// Her kategoriye "neden öneriliyor" açıklaması
+const categoryReasons = {
+  'C Vitamini':'C Vitamini desteğiniz','D Vitamini':'D Vitamini desteğiniz','Çinko':'Çinko takviyeniz',
+  'Propolis':'Propolis desteğiniz','Beta Glukan':'Beta Glukan takviyeniz',
+  'Bağışıklık Sistemi':'Bağışıklık desteğiniz','Soğuk Algınlığı ve Grip':'Mevsimsel koruma',
+  'Probiyotik':'Probiyotik desteğiniz','Probiyotik ve Prebiyotik':'Sindirim floranız',
+  'Sindirim Sağlığı':'Sindirim desteğiniz','Sindirim Enzimleri':'Sindirim enzim desteği',
+  'Kemik ve Eklem Sağlığı':'Eklem desteğiniz','Eklem ve Kemik Sağlığı':'Eklem desteğiniz',
+  'Kolajen Takviyeleri':'Kolajen desteğiniz','Hidrolize Kolajen':'Kolajen takviyeniz',
+  'Glukozamin':'Glukozamin desteğiniz','Magnezyum':'Magnezyum takviyeniz',
+  'Magnezyum Bisglisinat':'Magnezyum desteğiniz',
+  'B12 Vitamini':'B12 Vitamini desteğiniz','B Kompleks':'B Kompleks takviyeniz',
+  'Koenzim Q10':'Koenzim Q10 desteğiniz','Demir':'Demir takviyeniz',
+  'Enerji ve Zindelik':'Enerji desteğiniz',
+  'Stres ve Uyku Düzeni':'Uyku & stres desteğiniz',
+  'Kalp ve Damar Sağlığı':'Kalp & damar desteğiniz','Resveratrol':'Antioksidan desteğiniz',
+  'Beyin ve Hafıza':'Beyin & hafıza desteğiniz','Ginkgo Biloba':'Hafıza desteğiniz',
+  'Göz Sağlığı':'Göz sağlığı desteğiniz','Göz Damlası':'Göz bakım desteğiniz',
+  'Metabolizma ve Kilo Yönetimi':'Kilo yönetim desteğiniz','L-Karnitin':'Yağ yakım desteğiniz',
+  'L-Arjinin':'Sporcu desteğiniz','Sporcu Takviyeleri':'Sporcu desteğiniz',
+  'Kadın Sağlığı':'Kadın sağlığı desteğiniz',
+  'Multivitamin':'Multivitamin desteğiniz','Mineraller':'Mineral desteğiniz',
+  'Karaciğer Sağlığı':'Karaciğer desteğiniz',
+  'Onarıcı Bakım':'Onarıcı bakımınız','Onarıcı Kremler':'Onarıcı bakımınız',
+  'SPF 50+':'Güneş korumanız','Renkli SPF 50+':'Güneş korumanız',
+  'Leke Karşıtı':'Leke bakımınız','Akne ve Sivilce Bakımı':'Akne bakımınız',
+  'Nemlendiriciler':'Nemlendirici bakımınız',
+  'Saç, Cilt ve Tırnak':'Saç & tırnak desteğiniz','Saç Cilt Tırnak':'Saç & cilt desteğiniz',
+  'Biotin (B7 Vitamini)':'Biotin desteğiniz','Saç Bakımı':'Saç bakım desteğiniz',
+  'Saç Dökülmesi':'Saç güçlendirme','Dökülme Karşıtı':'Dökülme karşıtı bakım',
+  'Kepek Karşıtı':'Kepek bakımınız','Şampuanlar':'Saç bakım desteğiniz',
+  'Cilt Bakımı':'Cilt bakım desteğiniz','Nemlendirici':'Nemlendirici bakımınız',
+  'Nemlendirici Kremler':'Nemlendirici kremleri','Temizleyiciler':'Cilt temizleme',
+  'Güneş Koruma':'Güneş korumanız','Hassas ve Kızarık Cilt':'Hassas cilt bakımı',
+  'Kaşıntı ve Tahriş Bakımı':'Tahriş bakımınız','Vücut Losyonu':'Vücut bakımınız',
+  'Kara Mürver (Sambucus)':'Kara mürver desteği',
+  'Çocuk Multivitamin':'Çocuk multivitamini','Çocuk Vitaminleri':'Çocuk vitamin desteği',
+  'Çocuk Diş Bakımı':'Çocuk diş bakımı','Diş Macunu':'Diş bakım desteği','Diş Fırçası':'Diş bakım desteği',
+  'Çocuk ve Bebek Güneş Koruma':'Çocuk güneş koruması','Hamile Vitamini':'Hamilelik desteğiniz',
+  'Çocuk Sağlığı':'Çocuk sağlık desteği','Çocuk Omega 3':'Çocuk omega desteği',
+  'Omega 3':'Omega 3 desteğiniz','Kalsiyum':'Kalsiyum takviyeniz',
+  'Hamilelik ve Emzirme':'Hamilelik desteğiniz','Folik Asit (B9 Vitamini)':'Folik asit desteğiniz',
+  'Kalp ve Damar Sağlığı':'Kalp & damar desteğiniz','Ginkgo Biloba':'Hafıza desteğiniz'
+};
+
+const formOptionsMap = {
+  default:[
+    {value:'tablet',icon:'&#128138;',label:'Tablet / Kapsül',desc:'Kolay ve pratik günlük kullanım'},
+    {value:'cigneme',icon:'&#127852;',label:'Çiğnenebilir / Gummy',desc:'Lezzetli jel tablet ve gummy'},
+    {value:'toz',icon:'&#129380;',label:'Toz / Saşe',desc:'Suya karıştırarak içilebilir'},
+    {value:'damla',icon:'&#128167;',label:'Damla / Şurup',desc:'Hızlı emilim sıvı form'},
+    {value:'any',icon:'&#10024;',label:'Farketmez',desc:'En uygun formu siz seçin'}
+  ],
+  cilt:[
+    {value:'krem',icon:'&#129507;',label:'Krem / Jel / Losyon',desc:'Cilde doğrudan uygulama'},
+    {value:'tablet',icon:'&#128138;',label:'Tablet / Kapsül',desc:'İçeriden cilt desteği'},
+    {value:'toz',icon:'&#129380;',label:'Toz / Saşe',desc:'Suya karıştırarak içilebilir'},
+    {value:'any',icon:'&#10024;',label:'Farketmez',desc:'En uygun formu siz seçin'}
+  ]
+};
+
+const formKeywords = {
+  tablet:['tablet','kapsül','kapsul','softgel','soft gel','kapsula','capsule','vcaps'],
+  cigneme:['çiğnenebilir','gummy','gummies','jel tablet','pastil','çiğneme','ciğnenebilir'],
+  toz:['toz','saşe','sase','sachet','powder'],
+  damla:['damla','şurup','surup','likit','sıvı','ml','oral spray','sprey'],
+  krem:['krem','jel','losyon','pomad','serum','spf','güneş','nemlendirici','tonik','şampuan','sampuan','yıkama']
+};
+
+/* ===== DETAIL MAP (follow-up questions per need) ===== */
+const detailMap = {
+  bagisiklik:{icon:'&#128737;&#65039;',question:'Bağışıklık desteğini neden düşünüyorsunuz?',options:[
+    {value:'mevsim',label:'Mevsim Geçişleri',desc:'Kış ve geçiş dönemlerinde korunma'},
+    {value:'sik',label:'Sık Hastalanıyorum',desc:'Direnci artırmak istiyorum'},
+    {value:'onlem',label:'Önlem Amaçlı',desc:'Genel bağışıklık güçlendirme'}
+  ]},
+  enerji:{icon:'&#9889;',question:'Yorgunluğunuzu nasıl tanımlarsınız?',options:[
+    {value:'sabah',label:'Sabahları Zor Kalkıyorum',desc:'Güne başlamakta zorlanma'},
+    {value:'ogleden',label:'Öğleden Sonra Düşüyor',desc:'Öğle sonrası enerji kaybı'},
+    {value:'surekli',label:'Sürekli Yorgunluk',desc:'Gün boyu enerji eksikliği'}
+  ]},
+  cilt:{icon:'&#129507;',question:'Cilt tipiniz nedir?',options:[
+    {value:'kuru',label:'Kuru & Dehidre',desc:'Sıkılık hissi, kuruluk'},
+    {value:'yagli',label:'Yağlı & Akneli',desc:'Parlaklık, sivilce eğilimi'},
+    {value:'karma',label:'Karma',desc:'T-bölgesi yağlı, yanaklar kuru'},
+    {value:'hassas',label:'Hassas & Kızarık',desc:'Tahriş ve kızarıklık eğilimi'}
+  ]},
+  sac:{icon:'&#128135;',question:'Saç konusundaki temel sorununuz?',options:[
+    {value:'dokulme',label:'Dökülme & İncelme',desc:'Saç kaybı ve zayıflama'},
+    {value:'kepek',label:'Kepek & Kaşıntı',desc:'Saç derisi sorunları'},
+    {value:'parlaklik',label:'Canlılık & Parlaklık',desc:'Cansız, mat saçlar'},
+    {value:'genel',label:'Genel Güçlendirme',desc:'Saç, cilt, tırnak desteği'}
+  ]},
+  sindirim:{icon:'&#129440;',question:'Sindirim şikayetiniz?',options:[
+    {value:'siskinlik',label:'Şişkinlik & Gaz',desc:'Yemek sonrası rahatsızlık'},
+    {value:'kabizlik',label:'Düzensiz Sindirim',desc:'Kabızlık veya düzensizlik'},
+    {value:'reflu',label:'Mide Hassasiyeti',desc:'Reflü, yanma, ekşime'},
+    {value:'flora',label:'Flora Desteği',desc:'Probiyotik ve bağırsak sağlığı'}
+  ]},
+  uyku:{icon:'&#127769;',question:'Uyku ile ilgili temel sorununuz?',options:[
+    {value:'dalamama',label:'Uykuya Dalamıyorum',desc:'Yatakta uzun süre uyanık kalma'},
+    {value:'bolunme',label:'Sık Uyanıyorum',desc:'Gece boyunca bölünen uyku'},
+    {value:'yorgun',label:'Dinlenmeden Uyanıyorum',desc:'Uyusam da yorgun kalkıyorum'},
+    {value:'stres',label:'Stres & Kaygı',desc:'Zihinsel huzursuzluk'}
+  ]},
+  eklem:{icon:'&#129460;',question:'Eklem/kemik durumunuz?',options:[
+    {value:'agri',label:'Ağrı & Sertlik',desc:'Hareketle artan ağrı'},
+    {value:'esneklik',label:'Esneklik Kaybı',desc:'Hareket kısıtlılığı'},
+    {value:'onlem',label:'Koruyucu Bakım',desc:'Henüz şikayet yok, önlem'}
+  ]},
+  kalp:{icon:'&#10084;&#65039;',question:'Kalp sağlığı önceliğiniz?',options:[
+    {value:'kolesterol',label:'Kolesterol Kontrolü',desc:'Kolesterol ve trigliserit dengesi'},
+    {value:'tansiyon',label:'Tansiyon Desteği',desc:'Sağlıklı kan basıncı'},
+    {value:'genel',label:'Genel Kalp Sağlığı',desc:'Kardiyovasküler koruma'}
+  ]},
+  beyin:{icon:'&#129504;',question:'Zihinsel performans hedefiniz?',options:[
+    {value:'konsantrasyon',label:'Odaklanma & Konsantrasyon',desc:'İş/okul performansı'},
+    {value:'hafiza',label:'Hafıza Güçlendirme',desc:'Unutkanlığı azaltma'},
+    {value:'berraklik',label:'Zihinsel Berraklık',desc:'Brain fog ve bulanıklığa karşı'}
+  ]},
+  goz:{icon:'&#128065;&#65039;',question:'Göz sağlığı ihtiyacınız?',options:[
+    {value:'ekran',label:'Ekran Yorgunluğu',desc:'Uzun süre bilgisayar/telefon'},
+    {value:'kuruluk',label:'Kuru Göz',desc:'Yanma, batma, kuruluk hissi'},
+    {value:'genel',label:'Genel Göz Sağlığı',desc:'Görüş kalitesi ve koruma'}
+  ]},
+  kilo:{icon:'&#9878;&#65039;',question:'Kilo yönetimi hedefiniz?',options:[
+    {value:'yakim',label:'Yağ Yakımı',desc:'Metabolizmayı hızlandırma'},
+    {value:'istah',label:'İştah Kontrolü',desc:'Aşırı yeme alışkanlığı'},
+    {value:'metabolizma',label:'Metabolizma Desteği',desc:'Yavaş metabolizma'}
+  ]},
+  kadin:{icon:'&#9792;&#65039;',question:'Kadın sağlığı ihtiyacınız?',options:[
+    {value:'pms',label:'PMS & Regl Düzeni',desc:'Ağrı, şişkinlik, ruh hali'},
+    {value:'hormonal',label:'Hormonal Denge',desc:'Düzensiz döngü, PCOS'},
+    {value:'menopoz',label:'Menopoz Dönemi',desc:'Menopoz semptomları'},
+    {value:'genel',label:'Genel Destek',desc:'Kadına özel vitamin/mineral'}
+  ]},
+  sporcu:{icon:'&#127947;&#65039;',question:'Spor hedefiniz?',options:[
+    {value:'kas',label:'Kas Gelişimi',desc:'Güç ve kas kütlesi'},
+    {value:'dayaniklilik',label:'Dayanıklılık',desc:'Uzun süreli performans'},
+    {value:'toparlanma',label:'Toparlanma',desc:'Antrenman sonrası recovery'}
+  ]},
+  multivitamin:{icon:'&#128138;',question:'Multivitamin kullanım amacınız?',options:[
+    {value:'eksiklik',label:'Vitamin Eksikliğim Var',desc:'Kan tahlilinde düşük değerler'},
+    {value:'genel',label:'Genel Sağlık Desteği',desc:'Günlük temel ihtiyaçlar'},
+    {value:'yas',label:'Yaşa Özel Formül',desc:'Yaş grubuma uygun'}
+  ]}
+};
+
+/* ===== LIFESTYLE OPTIONS ===== */
+const lifestyleOptions = [
+  {value:'aktif',icon:'&#127939;',label:'Aktif & Dengeli',desc:'Düzenli spor, sağlıklı beslenme'},
+  {value:'orta',icon:'&#128694;',label:'Orta Düzey',desc:'Arada spora giderim, genelde dengeli'},
+  {value:'sedanter',icon:'&#128187;',label:'Masa Başı & Hareketsiz',desc:'Sedanter yaşam tarzı'},
+  {value:'stresli',icon:'&#128548;',label:'Yoğun & Stresli',desc:'Düzensiz öğünler, yoğun tempo'}
+];
+
+/* ===== NEED LABEL MAP (for dynamic plan title) ===== */
+const needLabels = {
+  bagisiklik:'Bağışıklık',enerji:'Enerji',cilt:'Cilt Bakımı',sac:'Saç & Tırnak',
+  sindirim:'Sindirim',uyku:'Uyku & Stres',eklem:'Eklem & Kemik',kalp:'Kalp & Damar',
+  beyin:'Beyin & Hafıza',goz:'Göz Sağlığı',kilo:'Kilo Yönetimi',kadin:'Kadın Sağlığı',
+  multivitamin:'Multivitamin',sporcu:'Sporcu',multi:'Multivitamin',kemik:'Kemik & Diş',
+  dis:'Diş Bakımı',gunes:'Güneş Koruma',vitamin:'Genel Vitamin',demir:'Demir & Folat',
+  omega:'Omega-3',bulanti:'Bulantı Desteği',hafiza:'Hafıza'
+};
+
+/* ===== UI ===== */
+function selectSingle(el, field) {
+  el.closest('.options').querySelectorAll('.option').forEach(o=>{o.classList.remove('selected');o.classList.remove('just-selected')});
+  el.classList.add('selected','just-selected');
+  state[field] = el.dataset.value;
+  const stepEl = el.closest('.step');
+  const btn = stepEl.querySelector('.btn-primary');
+  if(btn) btn.disabled = false;
+  trackEvent('step_selection',{field,value:el.dataset.value});
+}
+
+function selectMulti(el) {
+  const val = el.dataset.value;
+  el.classList.toggle('selected');
+  if(el.classList.contains('selected')) el.classList.add('just-selected');
+  const idx = state.needs.indexOf(val);
+  if(idx > -1) state.needs.splice(idx,1); else state.needs.push(val);
+
+  // Diğer input
+  const wrap = document.getElementById('otherWrap');
+  if(state.needs.includes('diger')){
+    wrap.classList.add('visible');
+    document.getElementById('otherInput').focus();
+  } else {
+    wrap.classList.remove('visible');
+  }
+  updateBtn2();
+}
+
+function onOtherInput(){ updateBtn2(); }
+
+function updateBtn2(){
+  const hasNormal = state.needs.some(n=>n!=='diger');
+  const hasDiger = state.needs.includes('diger');
+  const digerOk = hasDiger ? !!document.getElementById('otherInput').value.trim() : true;
+  document.getElementById('btn2').disabled = !(hasNormal || (hasDiger && digerOk));
+}
+
+function startQuiz(){
+  document.getElementById('progressWrap').style.display = '';
+  trackEvent('quiz_start',{});
+  goTo(1);
+}
+
+function onNameEmailInput(){
+  const name=document.getElementById('nameInput').value.trim();
+  document.getElementById('nameInput').style.borderColor=name?'':'';
+  document.getElementById('btnEmail').disabled=!name;
+}
+
+function submitFinal(){
+  const name=document.getElementById('nameInput').value.trim();
+  if(!name){
+    document.getElementById('nameInput').focus();
+    document.getElementById('nameInput').style.borderColor='#D94F3F';
+    return;
+  }
+  state.name=name;
+  const emailVal=document.getElementById('emailInput').value.trim();
+  state.email=validateEmail(emailVal)?emailVal:null;
+  state.note=(document.getElementById('noteInput').value||'').trim();
+  trackEvent('quiz_submit',{name:true,email_provided:!!state.email,note_provided:!!state.note});
+  fetch('/api/analiz/submit',{method:'POST',headers:{'Content-Type':'application/json'},
+    body:JSON.stringify({
+      email:state.email,name:state.name,segment:state.who,
+      needs:state.needs,details:state.details,lifestyle:state.lifestyle,
+      form:state.form,brands:state.brands,budget:state.budget,
+      note:state.note,
+      product_count:(window._quizProducts||[]).length,
+      recommended_slugs:window._quizRecommendedSlugs||[],
+    })
+  }).catch(()=>{});
+  showLoading();
+}
+
+function goTo(n){
+  document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
+  if(n===2) buildNeedOptions();
+  if(n===3) buildDetailStep();
+  if(n===4) buildLifestyleOptions();
+  if(n===5) buildFormOptions();
+  const id = n===0?'stepIntro': n<=6?'step'+n:'stepResults';
+  document.getElementById(id).classList.add('active');
+  updateProgress(n);
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function buildDetailStep(){
+  const c=document.getElementById('detailContainer');
+  c.innerHTML='';
+  state.details={};
+  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
+  if(!activeNeeds.length){
+    // No detail questions — auto-advance
+    setTimeout(()=>goTo(4),100);
+    return;
+  }
+  activeNeeds.forEach(needKey=>{
+    const dm=detailMap[needKey];
+    const group=document.createElement('div');
+    group.className='detail-group';
+    group.innerHTML=`<div class="detail-question"><span class="dq-icon">${dm.icon}</span>${dm.question}</div>`;
+    const opts=document.createElement('div');
+    opts.className='options';
+    opts.id='detail_'+needKey;
+    dm.options.forEach(o=>{
+      const div=document.createElement('div');
+      div.className='option';
+      div.dataset.value=o.value;
+      div.dataset.need=needKey;
+      div.onclick=function(){selectDetail(this)};
+      div.innerHTML=`<div class="check"></div><div class="opt-content"><div class="opt-label">${o.label}</div><div class="opt-desc">${o.desc}</div></div>`;
+      opts.appendChild(div);
+    });
+    group.appendChild(opts);
+    c.appendChild(group);
+  });
+  updateDetailBtn();
+}
+
+function selectDetail(el){
+  const needKey=el.dataset.need;
+  el.closest('.options').querySelectorAll('.option').forEach(o=>{o.classList.remove('selected','just-selected')});
+  el.classList.add('selected','just-selected');
+  state.details[needKey]=el.dataset.value;
+  updateDetailBtn();
+}
+
+function updateDetailBtn(){
+  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
+  const allAnswered=activeNeeds.every(n=>state.details[n]);
+  document.getElementById('btn3').disabled=!allAnswered;
+}
+
+function buildLifestyleOptions(){
+  const c=document.getElementById('lifestyleOptions');
+  c.innerHTML='';
+  lifestyleOptions.forEach(o=>{
+    const div=document.createElement('div');
+    div.className='option'+(state.lifestyle===o.value?' selected':'');
+    div.dataset.value=o.value;
+    div.onclick=function(){selectSingle(this,'lifestyle')};
+    div.innerHTML=`<div class="check"></div><div class="opt-icon">${o.icon}</div><div class="opt-content"><div class="opt-label">${o.label}</div><div class="opt-desc">${o.desc}</div></div>`;
+    c.appendChild(div);
+  });
+  if(!state.lifestyle) document.getElementById('btn4').disabled=true;
+}
+
+function buildNeedOptions(){
+  const c = document.getElementById('needOptions');
+  c.innerHTML='';
+  const opts = needMap[state.who]||needMap.yetiskin;
+  opts.forEach(o=>{
+    const div = document.createElement('div');
+    div.className='option'+(state.needs.includes(o.value)?' selected':'');
+    div.dataset.value=o.value;
+    div.onclick=function(){selectMulti(this)};
+    const badge = o.popular ? '<span class="popular-badge">Popüler</span>' : '';
+    div.innerHTML=`<div class="check"></div><div class="opt-icon">${o.icon}</div><div class="opt-content"><div class="opt-label">${o.label}</div><div class="opt-desc">${o.desc}</div></div>${badge}`;
+    c.appendChild(div);
+  });
+  // Diğer
+  const dg=document.createElement('div');
+  dg.className='option'+(state.needs.includes('diger')?' selected':'');
+  dg.dataset.value='diger';
+  dg.onclick=function(){selectMulti(this)};
+  dg.innerHTML='<div class="check"></div><div class="opt-icon">&#9998;&#65039;</div><div class="opt-content"><div class="opt-label">Diğer</div><div class="opt-desc">Aradığınızı yazın</div></div>';
+  c.appendChild(dg);
+  if(!state.needs.includes('diger')) document.getElementById('otherWrap').classList.remove('visible');
+  updateBtn2();
+}
+
+function buildFormOptions(){
+  const c = document.getElementById('formOptions');
+  c.innerHTML='';
+  const opts = state.needs.includes('cilt') ? formOptionsMap.cilt : formOptionsMap.default;
+  opts.forEach(o=>{
+    const div=document.createElement('div');
+    div.className='option';
+    div.dataset.value=o.value;
+    div.onclick=function(){selectSingle(this,'form')};
+    div.innerHTML=`<div class="check"></div><div class="opt-icon">${o.icon}</div><div class="opt-content"><div class="opt-label">${o.label}</div><div class="opt-desc">${o.desc}</div></div>`;
+    c.appendChild(div);
+  });
+  state.form=null;
+  document.getElementById('btn5').disabled=true;
+}
+
+function updateProgress(step){
+  const pct = step<=0?0:Math.min(step/5*100,100);
+  document.getElementById('progressBar').style.width=pct+'%';
+  const names={1:'Profil',2:'Hedefler',3:'Detay',4:'Yaşam Tarzı',5:'Tercih',6:'Son Adım'};
+  document.getElementById('progressStep').textContent=names[step]||'';
+  document.getElementById('progressCount').textContent=step>=1&&step<=5?`${step} / 5`:'';
+}
+
+function validateEmail(s){return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(s)}
+
+function showLoading(){
+  document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
+  document.getElementById('stepLoading').classList.add('active');
+  document.getElementById('progressBar').style.width='85%';
+  document.getElementById('progressStep').textContent='Analiz';
+  document.getElementById('progressCount').textContent='';
+  window.scrollTo({top:0,behavior:'smooth'});
+
+  const tips=[
+    '&#128161; Günde en az 2 litre su içmek, takviye emilimini artırır.',
+    '&#128161; Vitaminleri sabah kahvaltıdan sonra almak emilimi artırır.',
+    '&#128161; D vitamini yağlı yemeklerle alındığında daha iyi emilir.',
+    '&#128161; Probiyotikleri aç karna almak daha etkilidir.',
+    '&#128161; Omega 3 düzenli kullanımda 8 haftada fark yaratır.',
+  ];
+  const tip=tips[Math.floor(Math.random()*tips.length)];
+  const phases=[
+    {text:'Profiliniz analiz ediliyor...',sub:'Yanıtlarınız değerlendiriliyor',icon:'spinner'},
+    {text:'2.000+ ürün taranıyor...',sub:'İhtiyaçlarınıza uygun kategoriler eşleştiriliyor',icon:'spinner'},
+    {text:'En uygun ürünler seçiliyor...',sub:'Tercihlerinize göre filtreleniyor',icon:'spinner'},
+    {text:'Planınız hazır!',sub:'',icon:'check'}
+  ];
+  let i=0;
+  function showPhase(){
+    const p=phases[i];
+    const iconEl=document.getElementById('loadingIcon');
+    if(p.icon==='check'){
+      iconEl.className='loading-check';
+      iconEl.innerHTML='<svg viewBox="0 0 24 24"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg>';
+    }else{
+      iconEl.className='loading-spinner';
+      iconEl.innerHTML='';
+    }
+    document.getElementById('loadingPhase').textContent=p.text;
+    document.getElementById('loadingSub').textContent=p.sub;
+    document.querySelectorAll('.loading-dots span').forEach((d,di)=>{
+      d.classList.toggle('active',di<=i);
+    });
+    // İkinci fazda sağlık ipucu göster
+    if(i===2){
+      const tipEl=document.getElementById('loadingTip');
+      tipEl.style.display='';
+      tipEl.innerHTML=`<span class="tip-icon">&#128161;</span><span>${tip.replace('&#128161; ','')}</span>`;
+    }
+    i++;
+    if(i<phases.length){
+      setTimeout(showPhase,1200);
+    }else{
+      setTimeout(showResults,800);
+    }
+  }
+  showPhase();
+}
+
+function showResults(){
+  document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
+  document.getElementById('stepResults').classList.add('active');
+  document.getElementById('progressBar').style.width='100%';
+  document.getElementById('progressStep').textContent='Tamamlandı';
+  document.getElementById('progressCount').textContent='';
+  renderProducts();
+  window.scrollTo({top:0,behavior:'smooth'});
+}
+
+function restart(){
+  state.name='';state.who=null;state.needs=[];state.details={};state.lifestyle=null;state.form=null;state.brands=['any'];state.budget='any';state.email=null;
+  document.querySelectorAll('.option').forEach(o=>o.classList.remove('selected'));
+  document.getElementById('progressWrap').style.display='none';
+  document.getElementById('nameInput').value='';
+  document.getElementById('otherInput').value='';
+  document.getElementById('emailInput').value='';
+  goTo(0);
+}
+
+/* ===== HELPERS ===== */
+function getDynamicPlanTitle(){
+  const labels=state.needs.filter(n=>n!=='diger').map(n=>needLabels[n]).filter(Boolean);
+  if(!labels.length) return 'Sağlık Planı';
+  if(labels.length<=2) return labels.join(' & ')+' Planı';
+  return labels.slice(0,2).join(' & ')+' + Planı';
+}
+
+function getCategoryReason(cat, needKey){
+  // Try to build a need-specific reason
+  const needLabel = needLabels[needKey];
+  const base = categoryReasons[cat];
+  if(needLabel && base){
+    // Map need to action phrase
+    const needActions = {
+      bagisiklik:'Bağışıklığını güçlendirmek için',enerji:'Enerjini artırmak için',
+      cilt:'Cildini beslemek için',sac:'Saçlarını güçlendirmek için',
+      sindirim:'Sindirimi desteklemek için',uyku:'Rahat uyumak için',
+      eklem:'Eklemlerini desteklemek için',kalp:'Kalp sağlığın için',
+      beyin:'Beyin fonksiyonlarını desteklemek için',goz:'Göz sağlığın için',
+      kilo:'Metabolizmayı hızlandırmak için',kadin:'Kadın sağlığını desteklemek için',
+      multivitamin:'Günlük vitamin ihtiyacın için',sporcu:'Performansını artırmak için',
+      multi:'Büyüme desteği için',kemik:'Kemik sağlığı için',
+      dis:'Diş bakımı için',gunes:'Güneşten korunmak için',
+      vitamin:'Genel sağlık desteğin için',demir:'Demir ihtiyacın için',
+      omega:'Omega-3 desteğin için',bulanti:'Bulantıyı hafifletmek için',
+      hafiza:'Hafızayı güçlendirmek için'
+    };
+    const action = needActions[needKey];
+    if(action){
+      // Extract the short product type from base reason (e.g. "C Vitamini" from "C Vitamini desteğiniz")
+      const shortName = cat;
+      return action+' '+shortName;
+    }
+  }
+  return base || cat;
+}
+
+/* ===== PRODUCT MATCHING ===== */
+function renderProducts(){
+  const grid=document.getElementById('productGrid');
+  grid.innerHTML='';
+  if(!quizData){grid.innerHTML='<div style="text-align:center;padding:40px;color:var(--text-muted)">Veriler yüklenemedi</div>';return;}
+
+  // Personalized header
+  const planTitle = getDynamicPlanTitle();
+  const subText='En yüksek etkili ürünler — fazlası değil, doğrusu';
+  if(state.name){
+    document.getElementById('resultsTitle').textContent=state.name+', planın hazır!';
+    document.getElementById('resultsSubtext').textContent=subText;
+  }else{
+    document.getElementById('resultsTitle').textContent='Kişisel Sağlık Planınız';
+    document.getElementById('resultsSubtext').textContent=subText;
+  }
+
+  // WhatsApp share link
+  const shareText=encodeURIComponent('e-Eczacı\'da kişisel sağlık planımı oluşturdum! Sen de dene: https://e-eczaci.com/pages/analiz');
+  document.getElementById('shareBtn').href='https://wa.me/?text='+shareText;
+
+  // Bütçe limiti (TOPLAM plan değeri olarak kullanılacak)
+  let budgetMax = 99999;
+  if(state.budget&&state.budget!=='any'){
+    budgetMax = parseInt(state.budget.split('-')[1]);
+  }
+
+  // Her ihtiyaç için ayrı kategori listesi — ihtiyaç sırası = öncelik sırası
+  const needGroups = []; // [{need, cats}]
+  for(const need of state.needs){
+    if(need==='diger') continue;
+    const key = state.who+'_'+need;
+    const cats = categoryMapping[key]||[];
+    if(cats.length) needGroups.push({need, cats:[...cats]});
+  }
+
+  // Kategori sırası mapping'deki sıraya güvenilir (manuel olarak optimize edildi)
+
+  const pickedSlugs = new Set();
+  const usedCats = new Set(); // Her kategoriden max 1 ürün
+  let products = [];
+  let runningTotal = 0;
+
+  const MAX_PRODUCTS = 4;
+  const perSlotTarget = MAX_PRODUCTS > 0 ? budgetMax / MAX_PRODUCTS : budgetMax;
+
+  const supKw=['tablet','kapsül','kapsul','softgel','damla','şurup','saşe','toz','sprey','efervesan','takviye','krem','serum','losyon'];
+  const blackKw=['çayı','çay ','pastil','sakız','sakiz','mendil','oje','pamuk','ruj','bandaj','bandı',
+    'kinesiyoloji','duratape','eldiven','maske ','bone','flaster','pamukçuk','tirnak','tırnak',
+    'termometre','ped ','gazlı bez','sargı','yara ','alçı','atel'];
+  const ageBlackKw = state.who==='yetiskin'||state.who==='yasli' ? ['junior','çocuk','bebek','kids','baby'] : [];
+
+  function scoreCandidates(items, catName, lenient){
+    let cands = items.filter(p=>!pickedSlugs.has(p.slug));
+    if(!lenient && state.form&&state.form!=='any'){
+      const kws=formKeywords[state.form]||[];
+      if(kws.length){const f=cands.filter(p=>kws.some(kw=>p.name.toLowerCase().includes(kw)));if(f.length)cands=f;}
+    }
+    const catWords=catName.toLowerCase().replace(/[()]/g,'').split(/\s+/).filter(w=>w.length>2);
+    cands.forEach(p=>{
+      const nl=p.name.toLowerCase();
+      const bl=(p.brand||'').toLowerCase();
+      p._nm=catWords.some(w=>nl.includes(w))?1:0;
+      p._sup=supKw.some(kw=>nl.includes(kw))?1:0;
+      p._black=(blackKw.some(kw=>nl.includes(kw))||ageBlackKw.some(kw=>nl.includes(kw)))?1:0;
+      p._price=p.discount_price||p.price;
+      p._brand=(state.brands.length&&!state.brands.includes('any'))
+        ? (state.brands.some(b=>bl.includes(b.toLowerCase()))?1:0) : 0;
+    });
+    cands=cands.filter(p=>!p._black && (lenient || p._price>=100));
+    const supOnly=cands.filter(p=>p._sup);
+    if(supOnly.length) cands=supOnly;
+    cands.sort((a,b)=>{
+      if(b._nm!==a._nm)return b._nm-a._nm;
+      if(b._brand!==a._brand)return b._brand-a._brand;
+      if(b._sup!==a._sup)return b._sup-a._sup;
+      if(budgetMax<99999) return Math.abs(a._price-perSlotTarget)-Math.abs(b._price-perSlotTarget);
+      const ad=a.discount_price?1:0,bd=b.discount_price?1:0;
+      if(bd!==ad)return bd-ad;
+      return a._price-b._price;
+    });
+    return cands;
+  }
+
+  function tryPick(cat, maxPrice, lenient){
+    if(usedCats.has(cat)) return false;
+    const cands=scoreCandidates(quizData.categories[cat]||[], cat, lenient);
+    for(const p of cands){
+      const price=p.discount_price||p.price;
+      if(maxPrice && price>maxPrice) continue;
+      if(runningTotal+price<=budgetMax || products.length===0){
+        pickedSlugs.add(p.slug); usedCats.add(cat);
+        products.push({...p, _fromCat:cat}); runningTotal+=price;
+        return true;
+      }
+    }
+    return false;
+  }
+
+  // Pass 1: Her need için garantili 1 ürün
+  // Sıkı filtrelerle dene, bulamazsa lenient fallback
+  for(const group of needGroups){
+    if(products.length>=MAX_PRODUCTS) break;
+    let picked=false;
+    for(const cat of group.cats){
+      if(tryPick(cat)) { picked=true; break; }
+    }
+    if(!picked){
+      // Lenient fallback: form filtresi yok, minimum fiyat yok
+      for(const cat of group.cats){
+        if(!usedCats.has(cat) && tryPick(cat, undefined, true)) { break; }
+      }
+    }
+  }
+
+  // Pass 2: Tamamlayıcı ürünler — primary need'den başlayarak boş slotları doldur
+  // (Her need grubunun ikinci kategorisi — gerçekten tamamlayıcı)
+  if(products.length < MAX_PRODUCTS){
+    for(const group of needGroups){
+      if(products.length>=MAX_PRODUCTS) break;
+      for(const cat of group.cats){
+        if(usedCats.has(cat)) continue;
+        if(tryPick(cat)) break;
+      }
+    }
+  }
+
+  // "Diğer" serbest metin
+  if(state.needs.includes('diger')){
+    const q=(document.getElementById('otherInput').value||'').trim().toLowerCase();
+    if(q){
+      const words=q.split(/\s+/);
+      const matched=Object.keys(quizData.categories)
+        .filter(c=>!usedCats.has(c)&&words.some(w=>c.toLowerCase().includes(w)))
+        .sort((a,b)=>(quizData.categories[a]||[]).length-(quizData.categories[b]||[]).length);
+      for(const cat of matched){
+        if(products.length>=maxProducts) break;
+        tryPick(cat);
+      }
+    }
+  }
+
+  if(!products.length){
+    grid.innerHTML='<div style="text-align:center;padding:40px;color:var(--text-muted)"><h3>Sonuç bulunamadı</h3><p>Filtreleri değiştirerek tekrar deneyin.</p></div>';
+    document.getElementById('planSummary').innerHTML='';
+    return;
+  }
+
+  // Build need lookup for reason generation
+  const catToNeed={};
+  for(const group of needGroups){
+    for(const cat of group.cats) catToNeed[cat]=group.need;
+  }
+
+  // Store products globally for swap functionality
+  window._quizProducts = products;
+  window._quizCatToNeed = catToNeed;
+  window._quizData = quizData;
+  window._quizPickedSlugs = pickedSlugs;
+  window._quizUsedCats = usedCats;
+
+  // Render cards with stagger animation
+  let totalPrice=0, totalDiscount=0;
+  products.forEach((p, idx) => {
+    const needKey=catToNeed[p._fromCat]||'';
+    const reason=getCategoryReason(p._fromCat, needKey);
+    const effectivePrice=p.discount_price||p.price;
+    totalPrice+=p.price;
+    totalDiscount+=effectivePrice;
+
+    let priceHTML='';
+    if(p.discount_price){
+      const pct=Math.round((1-p.discount_price/p.price)*100);
+      priceHTML=`<span class="rec-old-price">${fmt(p.price)}</span><span class="rec-price">${fmt(p.discount_price)}</span><span class="rec-discount">%${pct}</span>`;
+    }else{
+      priceHTML=`<span class="rec-price">${fmt(p.price)}</span>`;
+    }
+
+    const card=document.createElement('div');
+    card.className='rec-card stagger';
+    card.style.animationDelay=(idx*0.12)+'s';
+    card.dataset.idx=idx;
+    card.innerHTML=`
+      <div class="rec-reason">${esc(reason)}</div>
+      <div class="rec-body">
+        <div class="rec-img"><img src="${p.image}" alt="${esc(p.name)}" loading="lazy" onerror="this.parentElement.innerHTML='&#128138;'"></div>
+        <div class="rec-info">
+          <div class="rec-brand">${esc(p.brand)}</div>
+          <div class="rec-name">${esc(p.name)}</div>
+          <div class="rec-price-row">${priceHTML}</div>
+        </div>
+      </div>
+      <div class="rec-action">
+        <a href="https://e-eczaci.com/${p.slug}" target="_blank" onclick="trackEvent('product_click',{slug:'${p.slug}',position:${idx}})">Ürünü İncele &#8594;</a>
+        <button class="swap-btn" onclick="swapProduct(${idx})" title="Alternatif ürün göster">&#8635; Başka Öner</button>
+      </div>`;
+    grid.appendChild(card);
+  });
+
+  // Summary
+  const savings=totalPrice-totalDiscount;
+  const summaryName = state.name ? state.name+'\'in '+planTitle+'nı' : products.length+' ürünlük planınız';
+  let summaryHTML=`<div class="total-label">${esc(summaryName)} | ${products.length} ürün</div>`;
+  if(savings>0){
+    summaryHTML+=`<div class="total-price">${fmt(totalDiscount)}</div>`;
+    summaryHTML+=`<div class="total-savings">&#127881; ${fmt(savings)} tasarruf</div>`;
+  }else{
+    summaryHTML+=`<div class="total-price">${fmt(totalPrice)}</div>`;
+  }
+  document.getElementById('planSummary').innerHTML=summaryHTML;
+
+  // Bundle WhatsApp CTA
+  buildBundleLink(products);
+
+  // Bundle upsell — ihtiyaca göre hazır paket öner
+  renderBundleUpsell(state.needs||[]);
+
+  // Önerilen ürünleri global'e kaydet (submit'te DB'ye gider)
+  window._quizRecommendedSlugs = products.map(p=>p.slug);
+
+  // Analytics
+  trackEvent('quiz_complete',{
+    product_count:products.length,
+    total:totalDiscount,
+    segment:state.who,
+    needs:state.needs,
+    recommended_slugs:window._quizRecommendedSlugs,
+  });
+
+  // Subtle celebration (no confetti — clean, professional)
+}
+
+function fmt(n){return n.toLocaleString('tr-TR',{minimumFractionDigits:0,maximumFractionDigits:0})+' \u20BA'}
+function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
+
+/* ===== SWAP PRODUCT ===== */
+function swapProduct(idx){
+  const products=window._quizProducts;
+  const quizData=window._quizData;
+  const pickedSlugs=window._quizPickedSlugs;
+  if(!products||!quizData||idx>=products.length) return;
+
+  const cur=products[idx];
+  const cat=cur._fromCat;
+  const cands=(quizData.categories[cat]||[]).filter(p=>
+    p.slug!==cur.slug && !pickedSlugs.has(p.slug) && (p.discount_price||p.price)>=100
+  );
+  if(!cands.length){
+    const btn=document.querySelector(`.rec-card[data-idx="${idx}"] .swap-btn`);
+    if(btn){btn.textContent='Alternatif yok';btn.disabled=true;}
+    return;
+  }
+
+  // Random pick from top 5 candidates
+  const pick=cands[Math.floor(Math.random()*Math.min(cands.length,5))];
+
+  // Update state
+  pickedSlugs.delete(cur.slug);
+  pickedSlugs.add(pick.slug);
+  products[idx]={...pick, _fromCat:cat};
+
+  // Re-render card
+  const card=document.querySelector(`.rec-card[data-idx="${idx}"]`);
+  if(!card) return;
+  const needKey=(window._quizCatToNeed||{})[cat]||'';
+  const reason=getCategoryReason(cat, needKey);
+  let priceHTML='';
+  if(pick.discount_price){
+    const pct=Math.round((1-pick.discount_price/pick.price)*100);
+    priceHTML=`<span class="rec-old-price">${fmt(pick.price)}</span><span class="rec-price">${fmt(pick.discount_price)}</span><span class="rec-discount">%${pct}</span>`;
+  }else{
+    priceHTML=`<span class="rec-price">${fmt(pick.price)}</span>`;
+  }
+  card.style.animation='none';
+  card.offsetHeight; // reflow
+  card.style.animation='cardSlideIn .4s ease forwards';
+  card.innerHTML=`
+    <div class="rec-reason">${esc(reason)}</div>
+    <div class="rec-body">
+      <div class="rec-img"><img src="${pick.image}" alt="${esc(pick.name)}" loading="lazy" onerror="this.parentElement.innerHTML='&#128138;'"></div>
+      <div class="rec-info">
+        <div class="rec-brand">${esc(pick.brand)}</div>
+        <div class="rec-name">${esc(pick.name)}</div>
+        <div class="rec-price-row">${priceHTML}</div>
+      </div>
+    </div>
+    <div class="rec-action">
+      <a href="https://e-eczaci.com/${pick.slug}" target="_blank" onclick="trackEvent('product_click',{slug:'${pick.slug}',position:${idx}})">Ürünü İncele &#8594;</a>
+      <button class="swap-btn" onclick="swapProduct(${idx})" title="Alternatif ürün göster">&#8635; Başka Öner</button>
+    </div>`;
+
+  // Update summary
+  let total=0;
+  products.forEach(p=>{total+=(p.discount_price||p.price)});
+  const summaryEl=document.getElementById('planSummary');
+  if(summaryEl){
+    const planTitle=getDynamicPlanTitle();
+    const summaryName=state.name?state.name+'\'in '+planTitle+'nı':products.length+' ürünlük planınız';
+    summaryEl.innerHTML=`<div class="total-label">${esc(summaryName)} | ${products.length} ürün</div><div class="total-price">${fmt(total)}</div>`;
+  }
+  buildBundleLink(products);
+  trackEvent('product_swap',{from:cur.slug,to:pick.slug,position:idx});
+}
+
+/* ===== BUNDLE WHATSAPP LINK ===== */
+function buildBundleLink(products){
+  let msg='Merhaba! Quiz sonucuma göre bu ürünleri sipariş vermek istiyorum:\n\n';
+  products.forEach((p,i)=>{
+    msg+=`${i+1}. ${p.name} - ${fmt(p.discount_price||p.price)}\n`;
+  });
+  let total=0;
+  products.forEach(p=>{total+=(p.discount_price||p.price)});
+  msg+=`\nToplam: ${fmt(total)}`;
+  const bundleBtn=document.getElementById('bundleBtn');
+  if(bundleBtn) bundleBtn.href='https://wa.me/908503091545?text='+encodeURIComponent(msg);
+}
+
+/* ===== ANALYTICS ===== */
+function trackEvent(name,data){
+  window.dataLayer=window.dataLayer||[];
+  window.dataLayer.push({event:'quiz_'+name,...(data||{})});
+}
+
+/* ===== BUNDLE UPSELL ===== */
+const BUNDLE_UPSELL_MAP = {
+  cilt: [{key:'kolajen-cilt-paketi',name:'Kolajen & Cilt Güzelliği Paketi',problem:'İçten Dışa Cilt Bakımı',discount:10,product_count:3,slug:'kolajen-cilt-paketi'},
+         {key:'akne-bakim-paketi',name:'Akne Bakım Paketi',problem:'Akne ve Sivilce',discount:10,product_count:4,slug:'akne-bakim-paketi'},
+         {key:'kuru-cilt-nem-paketi',name:'Kuru Cilt Nem Paketi',problem:'Kuru ve Dehidre Cilt',discount:10,product_count:3,slug:'kuru-cilt-nem-paketi'},
+         {key:'yaslanma-karsiti-paketi',name:'Yaşlanma Karşıtı Bakım',problem:'Yaşlanma Karşıtı',discount:10,product_count:3,slug:'yaslanma-karsiti-paketi'}],
+  sac: [{key:'sac-dokulmesi-paketi',name:'Saç Dökülmesi Paketi',problem:'Saç Dökülmesi ve İncelmesi',discount:10,product_count:4,slug:'sac-dokulmesi-paketi'}],
+  bagisiklik: [{key:'bagisiklik-paketi',name:'Bağışıklık Destek Paketi',problem:'Zayıf Bağışıklık',discount:12,product_count:4,slug:'bagisiklik-paketi'}],
+  sindirim: [{key:'sindirim-sagligi-paketi',name:'Sindirim Sağlığı Paketi',problem:'Sindirim Sorunları',discount:10,product_count:3,slug:'sindirim-sagligi-paketi'}],
+  enerji: [{key:'enerji-paketi',name:'Enerji ve Canlılık Paketi',problem:'Kronik Yorgunluk',discount:10,product_count:3,slug:'enerji-paketi'},
+           {key:'hucresel-saglik-paketi',name:'Hücresel Sağlık Paketi',problem:'Hücresel Enerji',discount:10,product_count:3,slug:'hucresel-saglik-paketi'}],
+  eklem: [{key:'eklem-kemik-paketi',name:'Eklem & Kemik Destek Paketi',problem:'Eklem ve Kemik Sağlığı',discount:10,product_count:3,slug:'eklem-kemik-paketi'}],
+  kilo: [{key:'kilo-verme-paketi',name:'Kilo Verme Destek Paketi',problem:'Kilo Yönetimi',discount:10,product_count:3,slug:'kilo-verme-paketi'}],
+  vajinal: [{key:'vajinal-saglik-paketi',name:'Vajinal Sağlık Paketi',problem:'Vajinal Sağlık',discount:10,product_count:3,slug:'vajinal-saglik-paketi'}],
+  bebek: [{key:'yenidogan-hediye-seti',name:'Yenidoğan Bebek Hediye Seti',problem:'Yenidoğan Bakımı',discount:8,product_count:3,slug:'yenidogan-hediye-seti'}],
+};
+
+function renderBundleUpsell(needs){
+  const el=document.getElementById('bundleUpsell');
+  if(!el) return;
+
+  // İhtiyaçlara göre ilgili bundle'ları bul (max 2)
+  const matched=[];
+  for(const need of needs){
+    const bundles=BUNDLE_UPSELL_MAP[need];
+    if(bundles&&bundles.length){
+      for(const b of bundles){
+        if(!matched.find(x=>x.key===b.key)) matched.push(b);
+        if(matched.length>=2) break;
+      }
+    }
+    if(matched.length>=2) break;
+  }
+
+  if(!matched.length){el.style.display='none';return;}
+
+  let html=`<div style="margin:4px 0;">
+    <div style="font-size:13px;font-weight:700;color:#0a4c32;text-transform:uppercase;letter-spacing:.5px;margin-bottom:12px;">
+      Hazır Bakım Rutinleri — Ekstra Tasarruf
+    </div>`;
+
+  for(const b of matched){
+    html+=`
+    <a href="https://e-eczaci.com/${b.slug}" target="_blank" onclick="trackEvent('bundle_upsell_click',{key:'${b.key}'})"
+       style="display:block;text-decoration:none;margin-bottom:10px;padding:16px;
+              background:linear-gradient(135deg,#f0fdf4 0%,#ecfdf5 100%);
+              border:1.5px solid #86efac;border-radius:12px;transition:all .2s;">
+      <div style="display:flex;justify-content:space-between;align-items:flex-start;gap:8px;">
+        <div>
+          <div style="font-size:14px;font-weight:700;color:#1a1a1a;margin-bottom:3px;">${esc(b.name)}</div>
+          <div style="font-size:12px;color:#4b5563;">${esc(b.problem)} · ${b.product_count} ürün</div>
+        </div>
+        <div style="text-align:right;flex-shrink:0;">
+          <div style="background:#16a34a;color:#fff;font-size:12px;font-weight:700;
+               padding:3px 10px;border-radius:20px;white-space:nowrap;">%${b.discount} İndirim</div>
+          <div style="font-size:11px;color:#4b7c59;margin-top:4px;">Hazır rutin &#8594;</div>
+        </div>
+      </div>
+    </a>`;
+  }
+  html+='</div>';
+  el.innerHTML=html;
+  el.style.display='block';
+  trackEvent('bundle_upsell_shown',{count:matched.length,needs:needs});
+}
+
+/* Quiz ready */
+</script>
+</body>
+</html>
