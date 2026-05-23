@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kişisel Sağlık Planınız | e-Eczacı</title>
-<meta name="description" content="Birkaç kısa soruya cevap verin, 2.000+ ürün arasından size özel sağlık planınızı oluşturalım.">
-<meta property="og:title" content="Size Özel Sağlık Planı | e-Eczacı">
+<title>Kişisel Ürün Analizi | e-Eczacı</title>
+<meta name="description" content="Birkaç kısa soruya cevap verin, 2.000+ ürün arasından size özel ürün planınızı oluşturalım.">
+<meta property="og:title" content="Size Özel Ürün Planı | e-Eczacı">
 <meta property="og:description" content="Birkaç kısa soruya cevap verin, ihtiyacınıza en uygun ürünleri sizin için belirleyelim.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://e-eczaci.com/pages/analiz">
@@ -144,18 +144,23 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 .rec-old-price{font-size:.82rem;color:var(--text-muted);text-decoration:line-through}
 .rec-discount{font-size:.68rem;font-weight:700;color:#fff;background:#D94F3F;
   padding:2px 6px;border-radius:4px}
-.rec-action{padding:0 16px 14px}
-.rec-action a{display:block;text-align:center;padding:11px;background:var(--primary);color:#fff;
-  border-radius:var(--radius-xs);text-decoration:none;font-size:.88rem;font-weight:600;
-  transition:var(--transition)}
-.rec-action a:hover{background:var(--primary-dark)}
+.rec-action{padding:0 16px 14px;display:flex;flex-direction:column;gap:6px}
+.rec-action .btn-cart{display:block;text-align:center;padding:12px;
+  background:#1B7A4A;color:#fff;border-radius:var(--radius-xs);
+  text-decoration:none;font-size:.9rem;font-weight:700;transition:var(--transition);letter-spacing:.2px}
+.rec-action .btn-cart:hover{background:#14613B;transform:translateY(-1px)}
+.rec-action-row{display:flex;align-items:center;gap:6px}
+.rec-action .btn-inspect{flex:1;display:block;text-align:center;padding:9px;
+  background:#4aaa78;color:#fff;border-radius:var(--radius-xs);
+  text-decoration:none;font-size:.82rem;font-weight:600;transition:var(--transition)}
+.rec-action .btn-inspect:hover{background:#3a9067}
 
 /* Summary total */
 .plan-summary{background:var(--card);border-radius:var(--radius);border:1px solid var(--border);
   padding:20px;margin-top:8px;text-align:center}
 .plan-summary .total-label{font-size:.82rem;color:var(--text-secondary)}
 .plan-summary .total-price{font-size:1.5rem;font-weight:700;color:var(--primary-dark);margin:4px 0}
-.plan-summary .total-savings{font-size:.82rem;color:#D94F3F;font-weight:600}
+.plan-summary .total-savings{font-size:.88rem;color:var(--primary-dark);font-weight:600;font-style:italic}
 
 /* Footer CTA */
 .results-footer{margin-top:24px;padding:24px;background:var(--accent);border-radius:var(--radius);text-align:center}
@@ -224,7 +229,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 @media(min-width:601px){
   .quiz-container{margin-top:20px;margin-bottom:20px;background:var(--card);
     border-radius:20px;box-shadow:var(--shadow-lg);min-height:auto;border:1px solid var(--border-light)}
-  body{background:#F0F4F2}
+  body{background:#FFFFFF}
 }
 
 /* ===== POPULAR BADGE ===== */
@@ -308,13 +313,6 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     </div>
   </div>
 
-  <!-- UZMAN GÜVEN BANDI -->
-  <div style="background:linear-gradient(135deg,#f0f7ff,#e8f4f8);border:1px solid #bee3f8;border-radius:10px;padding:12px 20px;margin:0 24px 16px;display:flex;align-items:center;gap:12px;font-size:13px;">
-    <span style="color:#1B7A4A;font-weight:700;font-size:15px;flex-shrink:0;">&#10003;</span>
-    <span style="color:#2b6cb0;line-height:1.5;">
-      <strong>Uzman Onaylı Quiz</strong> &middot; Klinik Sağlık Psikolojisi ve Wellbeing Uzmanı &middot; Harvard Lifestyle Medicine &middot; 40+ Yıllık Lisanslı Eczacı Danışmanlığı
-    </span>
-  </div>
 
   <!-- PROGRESS -->
   <div class="progress" id="progressWrap" style="display:none">
@@ -330,8 +328,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- INTRO -->
     <div class="step active" id="stepIntro">
       <div class="intro">
-        <div class="intro-badge">&#9733; Ücretsiz Sağlık Analizi</div>
-        <h1>Size özel <span>sağlık planınızı</span> oluşturalım</h1>
+        <div class="intro-badge">&#9733; Ücretsiz Kişisel Analiz</div>
+        <h1>Size özel <span>ürün planınızı</span> oluşturalım</h1>
         <p class="intro-desc">Birkaç kısa soruya cevap verin, ihtiyacınıza en uygun ürünleri sizin için belirleyelim.</p>
         <div class="intro-features">
           <div class="intro-feat">
@@ -352,7 +350,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         </div>
         <div class="intro-social-proof" id="socialProof">
           <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
-          <span><strong id="proofCount">1.756</strong> kişi planını oluşturdu</span>
+          <span><strong id="proofCount">1.756</strong> kişi analizini tamamladı</span>
         </div>
       </div>
     </div>
@@ -497,11 +495,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- RESULTS -->
     <div class="step" id="stepResults">
       <div class="results-intro">
-        <h2 id="resultsTitle">Kişisel Sağlık Planınız</h2>
+        <h2 id="resultsTitle">Kişisel Ürün Planınız</h2>
         <p id="resultsSubtext">İhtiyaçlarınıza göre sizin için seçtik</p>
-        <p style="font-size:12px;color:#718096;text-align:center;margin:8px 0 20px;">
-          Bu öneriler uzman danışmanlığıyla hazırlanmış, 40 yılı aşkın deneyime sahip lisanslı eczacı tarafından incelenmiştir.
-        </p>
       </div>
       <div class="results-plan" id="productGrid"></div>
       <div class="plan-summary" id="planSummary"></div>
@@ -522,7 +517,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           <p>Sorularınız mı var?</p>
           <a class="wa-btn" href="https://wa.me/908503091545" target="_blank">
             <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
-            Eczacıya Danış
+            Uzmana Danış
           </a>
           <a class="share-btn" id="shareBtn" href="#" target="_blank">
             <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
@@ -540,7 +535,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR');
 }).catch(()=>{});
@@ -861,7 +856,7 @@ function submitFinal(){
   state.email=validateEmail(emailVal)?emailVal:null;
   state.note=(document.getElementById('noteInput').value||'').trim();
   trackEvent('quiz_submit',{name:true,email_provided:!!state.email,note_provided:!!state.note});
-  fetch('/api/analiz/submit',{method:'POST',headers:{'Content-Type':'application/json'},
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/submit',{method:'POST',headers:{'Content-Type':'application/json'},
     body:JSON.stringify({
       email:state.email,name:state.name,segment:state.who,
       needs:state.needs,details:state.details,lifestyle:state.lifestyle,
@@ -1074,7 +1069,7 @@ function restart(){
 /* ===== HELPERS ===== */
 function getDynamicPlanTitle(){
   const labels=state.needs.filter(n=>n!=='diger').map(n=>needLabels[n]).filter(Boolean);
-  if(!labels.length) return 'Sağlık Planı';
+  if(!labels.length) return 'Kişisel Plan';
   if(labels.length<=2) return labels.join(' & ')+' Planı';
   return labels.slice(0,2).join(' & ')+' + Planı';
 }
@@ -1122,12 +1117,12 @@ function renderProducts(){
     document.getElementById('resultsTitle').textContent=state.name+', planın hazır!';
     document.getElementById('resultsSubtext').textContent=subText;
   }else{
-    document.getElementById('resultsTitle').textContent='Kişisel Sağlık Planınız';
+    document.getElementById('resultsTitle').textContent='Kişisel Ürün Planınız';
     document.getElementById('resultsSubtext').textContent=subText;
   }
 
   // WhatsApp share link
-  const shareText=encodeURIComponent('e-Eczacı\'da kişisel sağlık planımı oluşturdum! Sen de dene: https://e-eczaci.com/pages/analiz');
+  const shareText=encodeURIComponent('e-Eczacı\'da kişisel ürün planımı oluşturdum! Sen de dene: https://e-eczaci.com/pages/analiz');
   document.getElementById('shareBtn').href='https://wa.me/?text='+shareText;
 
   // Bütçe limiti (TOPLAM plan değeri olarak kullanılacak)
@@ -1302,8 +1297,11 @@ function renderProducts(){
         </div>
       </div>
       <div class="rec-action">
-        <a href="https://e-eczaci.com/${p.slug}" target="_blank" onclick="trackEvent('product_click',{slug:'${p.slug}',position:${idx}})">Ürünü İncele &#8594;</a>
-        <button class="swap-btn" onclick="swapProduct(${idx})" title="Alternatif ürün göster">&#8635; Başka Öner</button>
+        <a class="btn-cart" href="https://e-eczaci.com/${p.slug}" target="_blank" onclick="trackEvent('add_to_cart_click',{slug:'${p.slug}',position:${idx}})">&#128722; Sepete Ekle</a>
+        <div class="rec-action-row">
+          <a class="btn-inspect" href="https://e-eczaci.com/${p.slug}" target="_blank" onclick="trackEvent('product_click',{slug:'${p.slug}',position:${idx}})">Ürünü İncele &#8594;</a>
+          <button class="swap-btn" onclick="swapProduct(${idx})" title="Alternatif ürün göster">&#8635; Başka Öner</button>
+        </div>
       </div>`;
     grid.appendChild(card);
   });
@@ -1314,7 +1312,7 @@ function renderProducts(){
   let summaryHTML=`<div class="total-label">${esc(summaryName)} | ${products.length} ürün</div>`;
   if(savings>0){
     summaryHTML+=`<div class="total-price">${fmt(totalDiscount)}</div>`;
-    summaryHTML+=`<div class="total-savings">&#127881; ${fmt(savings)} tasarruf</div>`;
+    summaryHTML+=`<div class="total-savings">&#127881; Sağlığınızdan ve iyi yaşamdan tasarruf etmeyin</div>`;
   }else{
     summaryHTML+=`<div class="total-price">${fmt(totalPrice)}</div>`;
   }
@@ -1396,8 +1394,11 @@ function swapProduct(idx){
       </div>
     </div>
     <div class="rec-action">
-      <a href="https://e-eczaci.com/${pick.slug}" target="_blank" onclick="trackEvent('product_click',{slug:'${pick.slug}',position:${idx}})">Ürünü İncele &#8594;</a>
-      <button class="swap-btn" onclick="swapProduct(${idx})" title="Alternatif ürün göster">&#8635; Başka Öner</button>
+      <a class="btn-cart" href="https://e-eczaci.com/${pick.slug}" target="_blank" onclick="trackEvent('add_to_cart_click',{slug:'${pick.slug}',position:${idx}})">&#128722; Sepete Ekle</a>
+      <div class="rec-action-row">
+        <a class="btn-inspect" href="https://e-eczaci.com/${pick.slug}" target="_blank" onclick="trackEvent('product_click',{slug:'${pick.slug}',position:${idx}})">Ürünü İncele &#8594;</a>
+        <button class="swap-btn" onclick="swapProduct(${idx})" title="Alternatif ürün göster">&#8635; Başka Öner</button>
+      </div>
     </div>`;
 
   // Update summary
