@@ -1166,6 +1166,7 @@ function renderProducts(){
       p._sup=supKw.some(kw=>nl.includes(kw))?1:0;
       p._black=(blackKw.some(kw=>nl.includes(kw))||ageBlackKw.some(kw=>nl.includes(kw)))?1:0;
       p._price=p.discount_price||p.price;
+      p._stock=p.stock||0;
       p._brand=(state.brands.length&&!state.brands.includes('any'))
         ? (state.brands.some(b=>bl.includes(b.toLowerCase()))?1:0) : 0;
     });
@@ -1179,6 +1180,7 @@ function renderProducts(){
       if(budgetMax<99999) return Math.abs(a._price-perSlotTarget)-Math.abs(b._price-perSlotTarget);
       const ad=a.discount_price?1:0,bd=b.discount_price?1:0;
       if(bd!==ad)return bd-ad;
+      if(b._stock!==a._stock)return b._stock-a._stock; // aynı kategoride yüksek stok önce
       return a._price-b._price;
     });
     return cands;
