@@ -534,7 +534,16 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 <script>
 /* ===== DATA ===== */
 let quizData = null;
-fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
+let _quizDataPromise = null;
+
+function _fetchQuizData(){
+  // Her submit'te taze veri — cache bypass
+  _quizDataPromise = fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/analiz/quiz_products.json', {cache:'no-store'})
+    .then(r=>r.json())
+    .then(d=>{quizData=d; return d;})
+    .catch(()=>null);
+  return _quizDataPromise;
+}
 
 /* ===== STATE ===== */
 const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, note:'' };
@@ -1036,9 +1045,11 @@ function showLoading(){
     if(i<phases.length){
       setTimeout(showPhase,1200);
     }else{
-      setTimeout(showResults,800);
+      // Animasyon bitti — veri geldiyse hemen göster, gelmedi ise bekle
+      (_quizDataPromise||Promise.resolve()).finally(()=>setTimeout(showResults,400));
     }
   }
+  _fetchQuizData(); // Anlık stok verisi — animasyonla paralel çekilir
   showPhase();
 }
 
