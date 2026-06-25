@@ -28,13 +28,10 @@
 }
 html{scroll-behavior:smooth}
 body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:1.6;
-  min-height:100vh;-webkit-font-smoothing:antialiased;overflow-x:hidden;max-width:100vw}
+  min-height:100vh;-webkit-font-smoothing:antialiased}
 
 /* ===== LAYOUT ===== */
-.quiz-container{max-width:600px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column;overflow-x:hidden}
-/* mobil yatay taşma koruması — flex içindeki uzun metinler sarsın */
-#productGrid{overflow-x:hidden}
-#productGrid div,#productGrid span{min-width:0;overflow-wrap:anywhere}
+.quiz-container{max-width:600px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
 
 /* ===== HEADER ===== */
 .quiz-header{padding:20px 24px 16px;display:flex;align-items:center;justify-content:space-between}
@@ -544,7 +541,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -559,7 +556,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -1094,10 +1091,6 @@ function showResults(){
   document.getElementById('progressStep').textContent='Tamamlandı';
   document.getElementById('progressCount').textContent='';
   renderProducts();
-  // iframe/embed senaryosunda sonucun başına dön (iKAS /pages/analiz)
-  try{window.scrollTo({top:0,behavior:'auto'});}catch(e){}
-  try{if(window.parent&&window.parent!==window){window.parent.postMessage({type:'eeczaci:scrollTop'},'*');}}catch(e){}
-  try{document.getElementById('stepResults').scrollIntoView({block:'start'});}catch(e){}
   window.scrollTo({top:0,behavior:'smooth'});
 }
 
@@ -1597,9 +1590,7 @@ function recomputePlan(){
       '</div>'+
       '<div style="margin-top:10px;">'+f+'</div>'+
       thumbsHTML(set)+
-      (active
-        ? '<div onclick="event.stopPropagation();buyNow();" style="margin-top:14px;text-align:center;padding:14px;border-radius:10px;font-weight:800;font-size:15px;background:#0a4c32;color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>Sat&#305;n Al &#8594;</div>'
-        : '<div style="margin-top:14px;text-align:center;padding:11px;border-radius:10px;font-weight:700;font-size:14px;background:#eef2f1;color:#0a4c32;">Bu plan&#305; se&ccedil;</div>')+
+      '<div style="margin-top:14px;text-align:center;padding:11px;border-radius:10px;font-weight:700;font-size:14px;background:'+(active?'#0a4c32':'#eef2f1')+';color:'+(active?'#fff':'#0a4c32')+';">'+(active?'Se&ccedil;ildi &#10003;':'Bu plan&#305; se&ccedil;')+'</div>'+
     '</div>';
   }
   let tierSeg=null;
@@ -1702,10 +1693,6 @@ function recomputePlan(){
   trackEvent('quiz_complete',{product_count:products.length,total:totalDiscount,segment:state.who,needs:state.needs,tier:plan.tier,recommended_slugs:window._quizRecommendedSlugs,kur:plan.kur});
 }
 
-function buyNow(){
-  var b=document.getElementById('bundleBtn');
-  if(b&&b.href&&b.href.indexOf('wa.me')>-1){ window.open(b.href,'_blank'); trackEvent('buy_now',{tier:(window._plan||{}).tier}); }
-}
 function selectTier(t){
   const plan=window._plan;
   if(!plan) return;
