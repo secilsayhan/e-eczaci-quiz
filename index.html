@@ -468,8 +468,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           <input type="text" id="nameInput" placeholder="İsmin" aria-label="İsmin" required oninput="onNameEmailInput()" style="margin-bottom:10px">
           <input type="email" id="emailInput" placeholder="E-posta adresin" required oninput="onNameEmailInput()" aria-label="E-posta adresin">
         </div>
-        <!-- KAN TESTİ: backend (Railway /api/analiz/bloodtest) canlı olunca display:none kaldır -->
-        <div style="display:none;margin-top:16px;padding:14px;border:1.5px dashed #cdeede;border-radius:12px;background:#f8fcfa;text-align:left;">
+        <!-- KAN TESTİ: backend canlı (Railway /api/analiz/bloodtest) -->
+        <div style="margin-top:16px;padding:14px;border:1.5px dashed #cdeede;border-radius:12px;background:#f8fcfa;text-align:left;">
           <div style="font-size:13px;font-weight:800;color:#0a4c32;margin-bottom:3px;">Kan tahlilin var mı? <span style="font-weight:600;color:#6b7280;">(opsiyonel)</span></div>
           <div style="font-size:12px;color:#4b5563;margin-bottom:9px;line-height:1.45;">Güncel tahlilini yükle, sonuçlarına göre planını daha da kişiselleştirelim. Bu bir tanı değildir; lütfen hekimine danış. Görselin saklanmaz, yalnızca anlık analiz edilir.</div>
           <input type="file" id="bloodInput" accept="image/*" onchange="onBloodFile(this)" style="display:none">
@@ -548,7 +548,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -598,7 +598,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
