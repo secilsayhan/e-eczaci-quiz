@@ -468,8 +468,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           <input type="text" id="nameInput" placeholder="İsmin" aria-label="İsmin" required oninput="onNameEmailInput()" style="margin-bottom:10px">
           <input type="email" id="emailInput" placeholder="E-posta adresin" required oninput="onNameEmailInput()" aria-label="E-posta adresin">
         </div>
-        <!-- KAN TESTİ: backend (Railway /api/analiz/bloodtest) canlı olunca display:none kaldır -->
-        <div style="display:none;margin-top:16px;padding:14px;border:1.5px dashed #cdeede;border-radius:12px;background:#f8fcfa;text-align:left;">
+        <!-- KAN TESTİ: backend canlı (Railway /api/analiz/bloodtest) -->
+        <div style="margin-top:16px;padding:14px;border:1.5px dashed #cdeede;border-radius:12px;background:#f8fcfa;text-align:left;">
           <div style="font-size:13px;font-weight:800;color:#0a4c32;margin-bottom:3px;">Kan tahlilin var mı? <span style="font-weight:600;color:#6b7280;">(opsiyonel)</span></div>
           <div style="font-size:12px;color:#4b5563;margin-bottom:9px;line-height:1.45;">Güncel tahlilini yükle, sonuçlarına göre planını daha da kişiselleştirelim. Bu bir tanı değildir; lütfen hekimine danış. Görselin saklanmaz, yalnızca anlık analiz edilir.</div>
           <input type="file" id="bloodInput" accept="image/*" onchange="onBloodFile(this)" style="display:none">
@@ -1644,7 +1644,7 @@ function recomputePlan(){
       '<div style="margin-top:10px;">'+f+'</div>'+
       thumbsHTML(set)+
       (active
-        ? '<div onclick="event.stopPropagation();buyNow();" style="margin-top:14px;text-align:center;padding:14px;border-radius:10px;font-weight:800;font-size:15px;background:#0a4c32;color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>Sat&#305;n Al &#8594;</div>'
+        ? '<div onclick="event.stopPropagation();buyNow(event);" style="margin-top:14px;text-align:center;padding:14px;border-radius:10px;font-weight:800;font-size:15px;background:#0a4c32;color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>Sat&#305;n Al &#8594;</div>'
         : '<div style="margin-top:14px;text-align:center;padding:11px;border-radius:10px;font-weight:700;font-size:14px;background:#eef2f1;color:#0a4c32;">Bu plan&#305; se&ccedil;</div>')+
     '</div>';
   }
@@ -1748,9 +1748,25 @@ function recomputePlan(){
   trackEvent('quiz_complete',{product_count:products.length,total:totalDiscount,segment:state.who,needs:state.needs,tier:plan.tier,recommended_slugs:window._quizRecommendedSlugs,kur:plan.kur});
 }
 
-function buyNow(){
-  var b=document.getElementById('bundleBtn');
-  if(b&&b.href&&b.href.indexOf('wa.me')>-1){ window.open(b.href,'_blank'); trackEvent('buy_now',{tier:(window._plan||{}).tier}); }
+var _buying=false;
+function _waFallback(){ var b=document.getElementById('bundleBtn'); if(b&&b.href&&b.href.indexOf('wa.me')>-1) window.open(b.href,'_blank'); }
+function buyNow(ev){
+  if(_buying) return;
+  var btn = ev && ev.currentTarget ? ev.currentTarget : null;
+  var prods = (typeof selectedProductsFromPlan==='function') ? selectedProductsFromPlan() : [];
+  var items = (prods||[]).filter(function(p){return p&&p.slug;}).map(function(p){return {slug:p.slug, qty:(p._qty||1), name:p.name};});
+  if(!items.length){ _waFallback(); return; }
+  _buying=true;
+  var orig = btn ? btn.innerHTML : '';
+  if(btn) btn.innerHTML='Sepete ekleniyor...';
+  trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
+  fetch('/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+    .then(function(r){return r.json();})
+    .then(function(j){
+      if(j&&j.success&&j.url){ window.location.href=j.url; }
+      else { _buying=false; if(btn) btn.innerHTML=orig; _waFallback(); }
+    })
+    .catch(function(){ _buying=false; if(btn) btn.innerHTML=orig; _waFallback(); });
 }
 function selectTier(t){
   const plan=window._plan;
