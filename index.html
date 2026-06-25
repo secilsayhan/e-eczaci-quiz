@@ -410,7 +410,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         <input type="text" class="other-input" id="otherInput" placeholder="Örn: kolajen, göz bakımı, propolis..." oninput="onOtherInput()">
       </div>
       <div class="btn-row">
-        <button class="btn-primary" id="btn2" disabled onclick="goTo(3)">Devam Et</button>
+        <button class="btn-primary" id="btn2" disabled onclick="nextFromNeeds()">Devam Et</button>
         <button class="btn-back" onclick="goTo(1)">&#8592; Geri dön</button>
       </div>
     </div>
@@ -423,21 +423,25 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       </div>
       <div id="detailContainer"></div>
       <div class="btn-row">
-        <button class="btn-primary" id="btn3" disabled onclick="goTo(5)">Devam Et</button>
+        <button class="btn-primary" id="btn3" disabled onclick="goTo(4)">Devam Et</button>
         <button class="btn-back" onclick="goTo(2)">&#8592; Geri dön</button>
       </div>
     </div>
 
-    <!-- STEP 4: Yaşam Tarzı -->
+    <!-- STEP 4: Şu an kullanılan ürünler + serbest not -->
     <div class="step" id="step4">
       <div class="step-header">
-        <div class="step-title">Günlük yaşam tarzın</div>
-        <div class="step-subtitle">Beslenme ve aktivite düzeyin önerilerimizi etkiler</div>
+        <div class="step-title">Şu an düzenli kullandığın ürün var mı?</div>
+        <div class="step-subtitle">Devam edeceklerini işaretle — planında aynısını tekrar önermeyelim</div>
+        <div class="step-multi-hint">&#10003; Birden fazla seçebilirsin (opsiyonel)</div>
       </div>
-      <div class="options" id="lifestyleOptions"></div>
+      <div class="options multi" id="currentProductOptions"></div>
+      <div class="other-input-wrap" style="display:block;margin-top:14px;">
+        <textarea class="other-input" id="noteInput" rows="2" placeholder="Başka belirtmek istediğin bir şey, problemin ya da hedefin? (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
+      </div>
       <div class="btn-row">
-        <button class="btn-primary" id="btn4" disabled onclick="goTo(5)">Devam Et</button>
-        <button class="btn-back" onclick="goTo(3)">&#8592; Geri dön</button>
+        <button class="btn-primary" id="btn4" onclick="goTo(5)">Devam Et</button>
+        <button class="btn-back" onclick="hasCriticalDetail()?goTo(3):goTo(2)">&#8592; Geri dön</button>
       </div>
     </div>
 
@@ -450,7 +454,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       <div class="options" id="formOptions"></div>
       <div class="btn-row">
         <button class="btn-primary" id="btn5" disabled onclick="goTo(6)">Son Adım</button>
-        <button class="btn-back" onclick="goTo(3)">&#8592; Geri dön</button>
+        <button class="btn-back" onclick="goTo(4)">&#8592; Geri dön</button>
       </div>
     </div>
 
@@ -550,7 +554,42 @@ fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats'
 }).catch(()=>{});
 
 /* ===== STATE ===== */
-const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, bloodCats:[] };
+const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, bloodCats:[], currentProducts:[], note:'' };
+
+// Detay sadece KRİTİK ihtiyaçlarda (ürünü gerçekten değiştirenler) sorulur
+const CRITICAL_DETAIL = ['cilt','sac','kadin'];
+function hasCriticalDetail(){ return (state.needs||[]).some(n=>n!=='diger' && typeof detailMap!=='undefined' && detailMap[n] && CRITICAL_DETAIL.includes(n)); }
+function nextFromNeeds(){ hasCriticalDetail() ? goTo(3) : goTo(4); }
+
+// Şu an kullanılan yaygın ürünler (değer = iKAS kategori adı → çakışma kontrolü)
+const CURRENT_PRODUCT_OPTS = [
+  {v:'D Vitamini', l:'D Vitamini'},
+  {v:'Omega 3', l:'Omega-3 / Balık Yağı'},
+  {v:'Magnezyum', l:'Magnezyum'},
+  {v:'Multivitamin', l:'Multivitamin'},
+  {v:'Demir', l:'Demir'},
+  {v:'B12 Vitamini', l:'B12 Vitamini'},
+  {v:'Çinko', l:'Çinko'},
+  {v:'Probiyotik ve Prebiyotik', l:'Probiyotik'},
+  {v:'Kolajen', l:'Kolajen'},
+  {v:'C Vitamini', l:'C Vitamini'}
+];
+function buildCurrentProducts(){
+  const c = document.getElementById('currentProductOptions');
+  if(!c) return;
+  c.innerHTML='';
+  CURRENT_PRODUCT_OPTS.forEach(o=>{
+    const div=document.createElement('div');
+    div.className='option'+(state.currentProducts.indexOf(o.v)>=0?' selected':'');
+    div.innerHTML='<div class="check"></div><div class="opt-content"><div class="opt-label">'+o.l+'</div></div>';
+    div.onclick=function(){
+      const i=state.currentProducts.indexOf(o.v);
+      if(i>=0){ state.currentProducts.splice(i,1); div.classList.remove('selected'); }
+      else { state.currentProducts.push(o.v); div.classList.add('selected'); }
+    };
+    c.appendChild(div);
+  });
+}
 
 /* ===== KAN TESTİ (opsiyonel, ücretsiz, görsel saklanmaz) ===== */
 function onBloodFile(input){
@@ -914,7 +953,7 @@ function goTo(n){
   document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
   if(n===2) buildNeedOptions();
   if(n===3) buildDetailStep();
-  if(n===4) buildLifestyleOptions();
+  if(n===4) buildCurrentProducts();
   if(n===5) buildFormOptions();
   const id = n===0?'stepIntro': n<=6?'step'+n:'stepResults';
   document.getElementById(id).classList.add('active');
@@ -926,10 +965,10 @@ function buildDetailStep(){
   const c=document.getElementById('detailContainer');
   c.innerHTML='';
   state.details={};
-  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
+  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]&&CRITICAL_DETAIL.includes(n));
   if(!activeNeeds.length){
-    // Detay sorusu yok — forma atla (yaşam tarzı adımı kaldırıldı)
-    setTimeout(()=>goTo(5),100);
+    // Kritik detay yok — mevcut ürünler adımına geç
+    setTimeout(()=>goTo(4),100);
     return;
   }
   activeNeeds.forEach(needKey=>{
@@ -1024,8 +1063,9 @@ function buildFormOptions(){
 }
 
 function updateProgress(step){
-  const ORDER=[1,2,3,5];            // yaşam tarzı (4) akıştan çıkarıldı
-  const names={1:'Profil',2:'Hedefler',3:'Detay',5:'Tercih',6:'Son Adım'};
+  const hasD=hasCriticalDetail();
+  const ORDER=hasD?[1,2,3,4,5]:[1,2,4,5];   // detay sadece kritik ihtiyaçta
+  const names={1:'Profil',2:'Hedefler',3:'Detay',4:'Ürünlerin',5:'Tercih',6:'Son Adım'};
   const idx=ORDER.indexOf(step), total=ORDER.length;
   const pos=idx>=0?idx+1:(step===6?total:0);
   const pct=step<=0?0:Math.min(pos/total*100,100);
@@ -1105,7 +1145,8 @@ function showResults(){
 }
 
 function restart(){
-  state.name='';state.who=null;state.needs=[];state.details={};state.lifestyle=null;state.form=null;state.brands=['any'];state.budget='any';state.email=null;state.bloodCats=[];
+  state.name='';state.who=null;state.needs=[];state.details={};state.lifestyle=null;state.form=null;state.brands=['any'];state.budget='any';state.email=null;state.bloodCats=[];state.currentProducts=[];state.note='';
+  {const _ni=document.getElementById('noteInput');if(_ni)_ni.value='';}
   {const _bs=document.getElementById('bloodStatus');if(_bs)_bs.innerHTML='';const _bi=document.getElementById('bloodInput');if(_bi)_bi.value='';}
   document.querySelectorAll('.option').forEach(o=>o.classList.remove('selected'));
   document.getElementById('progressWrap').style.display='none';
@@ -1302,6 +1343,8 @@ function renderProducts(){
   // Madde-bazlı dedup: aynı içerik (ör. iki C vitamini / iki magnezyum, farklı marka) iki kez girmesin
   const usedIng=new Set();
   const ING_SIGNS=['c vitamini','d vitamini','d3','b12','b kompleks','b vitamin','magnezyum','çinko','omega','balık yağı','biotin','kolajen','demir','koenzim q10','q10','probiyotik','multivitamin','kalsiyum','k2','folik','ginkgo','glukozamin','melatonin','propolis','beta glukan','kara mürver','resveratrol','selenyum','l-karnitin','lutein'];
+  // Şu an kullanılan + devam edilecek ürünleri dedup'a seed et → planda aynı içeriği tekrar önerme (çakışma önleme)
+  (state.currentProducts||[]).forEach(cat=>{const cl=(cat||'').toLowerCase();usedIng.add('cat:'+cl);ING_SIGNS.forEach(s=>{if(cl.indexOf(s)>=0)usedIng.add(s);});});
   function ingsOf(p){const n=(p.name||'').toLowerCase();const f=ING_SIGNS.filter(s=>n.includes(s));const c=(p._fromCat||'').toLowerCase();if(c)f.push('cat:'+c);return f.length?f:['?'+n.slice(0,14)];}
   function hasDupIng(p){return ingsOf(p).some(s=>usedIng.has(s));}
   function markIng(p){ingsOf(p).forEach(s=>usedIng.add(s));}
@@ -1739,6 +1782,8 @@ function buildBundleLink(products){
   const kur=(window._plan&&window._plan.kur);
   if(kur){ total=Math.round(total*0.9); msg+='\n(2 aylık kür · %10 indirim uygulandı)'; }
   msg+='\nToplam: '+fmt(total);
+  if(state.currentProducts&&state.currentProducts.length) msg+='\n\nZaten kullanıyorum (tekrar gerekmez): '+state.currentProducts.join(', ');
+  if(state.note&&state.note.trim()) msg+='\nNotum: '+state.note.trim();
   const bundleBtn=document.getElementById('bundleBtn');
   if(bundleBtn) bundleBtn.href='https://wa.me/908503091545?text='+encodeURIComponent(msg);
 }
