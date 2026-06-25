@@ -3986,7 +3986,7 @@
           "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Sebamed Anti-Hairloss Saç Dökülmesine Karşı Şampuan",
@@ -13684,7 +13684,7 @@
           "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Profolmix Men Saşe L-Karnitin Vitamin C L-Arjinin Ginseng Koenzim Q10 Vitamin Takviyesi 30 Saşe",
@@ -20430,7 +20430,7 @@
           "Hacim Veren",
           "Dökülme Karşıtı"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Kuru ve Hassas Saçlar İçin": [
@@ -38339,7 +38339,7 @@
           "Hacim Veren",
           "Dökülme Karşıtı"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Anti-Aging Serum": [
@@ -39094,7 +39094,7 @@
   "stats": {
     "total_products": 2731,
     "total_categories": 509,
-    "generated": "2026-06-25 17:30",
+    "generated": "2026-06-25 18:01",
     "source": "ikas_api_live"
   }
 }

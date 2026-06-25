@@ -540,7 +540,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -555,7 +555,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahliliniz analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -634,7 +634,7 @@ const categoryMapping = {
   'yetiskin_beyin':['Beyin ve Hafıza','Omega 3','Ginkgo Biloba'],
   'yetiskin_goz':['Göz Sağlığı','Göz Damlası'],
   'yetiskin_kilo':['Metabolizma ve Kilo Yönetimi','L-Karnitin'],
-  'yetiskin_kadin':['Kadın Sağlığı','Demir','Folik Asit (B9 Vitamini)'],
+  'yetiskin_kadin':['Kadın Sağlığı','Turna Yemişi (Cranberry)','Probiyotik ve Prebiyotik','Demir','Folik Asit (B9 Vitamini)'],
   'yetiskin_multivitamin':['Multivitamin','Mineraller'],
   'yetiskin_sporcu':['Sporcu Takviyeleri','L-Karnitin','L-Arjinin'],
   'yetiskin_longevity':['Koenzim Q10','Resveratrol','Astaksantin','Glutatyon','Omega 3'],
@@ -793,10 +793,10 @@ const detailMap = {
     {value:'metabolizma',label:'Metabolizma Desteği',desc:'Yavaş metabolizma'}
   ]},
   kadin:{icon:'&#9792;&#65039;',question:'Kadın sağlığı ihtiyacınız?',options:[
+    {value:'vajinal',label:'Vajinal Sağlık',desc:'pH dengesi, mantar ve kaşıntı'},
+    {value:'idrar',label:'İdrar Yolu Sağlığı',desc:'Sık enfeksiyon, cranberry desteği'},
     {value:'pms',label:'PMS & Regl Düzeni',desc:'Ağrı, şişkinlik, ruh hali'},
-    {value:'hormonal',label:'Hormonal Denge',desc:'Düzensiz döngü, PCOS'},
-    {value:'menopoz',label:'Menopoz Dönemi',desc:'Menopoz semptomları'},
-    {value:'genel',label:'Genel Destek',desc:'Kadına özel vitamin/mineral'}
+    {value:'hormonal',label:'Hormonal Denge',desc:'Düzensiz döngü, PCOS'}
   ]},
   sporcu:{icon:'&#127947;&#65039;',question:'Spor hedefiniz?',options:[
     {value:'kas',label:'Kas Gelişimi',desc:'Güç ve kas kütlesi'},
@@ -1165,7 +1165,11 @@ const detailBias = {
   enerji_surekli:['Koenzim Q10','Demir','B12 Vitamini'],
   bagisiklik_mevsim:['C Vitamini','Kara Mürver (Sambucus)','Çinko'],
   bagisiklik_sik:['Beta Glukan','Propolis','Çinko'],
-  bagisiklik_onlem:['D Vitamini','C Vitamini']
+  bagisiklik_onlem:['D Vitamini','C Vitamini'],
+  kadin_vajinal:['Kadın Sağlığı','Probiyotik ve Prebiyotik'],
+  kadin_idrar:['Turna Yemişi (Cranberry)','Kadın Sağlığı'],
+  kadin_pms:['Kadın Sağlığı','Magnezyum'],
+  kadin_hormonal:['Kadın Sağlığı','Folik Asit (B9 Vitamini)']
 };
 
 function applyDetailBias(need, cats){
@@ -1259,10 +1263,12 @@ function renderProducts(){
     cands=cands.filter(p=>!p._black && p._price>=MIN_PRICE);
     const supOnly=cands.filter(p=>p._sup);
     if(supOnly.length) cands=supOnly;
+    const _sbk=x=>{const s=x.stock||0;return s>=10?2:(s>=4?1:0);};
     cands.sort((a,b)=>{
       if(b._nm!==a._nm)return b._nm-a._nm;
       if(b._brand!==a._brand)return b._brand-a._brand;
       if(b._sup!==a._sup)return b._sup-a._sup;
+      if(_sbk(b)!==_sbk(a))return _sbk(b)-_sbk(a); // aynı alakada: stoğu bol olan önce (OOS riski az)
       if(budgetMax<99999){return Math.abs(a._price-perSlotTarget)-Math.abs(b._price-perSlotTarget);}
       const ad=a.discount_price?1:0,bd=b.discount_price?1:0;
       if(bd!==ad)return bd-ad;
@@ -1293,11 +1299,13 @@ function renderProducts(){
   function pickValue(group){
     const pool=poolFor(group.cats);
     if(!pool.length) return null;
-    const byPrice=(a,b)=>(a.discount_price||a.price)-(b.discount_price||b.price);
+    // aynı içerikte: önce stok bucket (bol olan), sonra uygun fiyat — etkinlik korunur, OOS riski düşer
+    const _sb=x=>{const s=x.stock||0;return s>=10?2:(s>=4?1:0);};
+    const cmp=(a,b)=>{if(_sb(b)!==_sb(a))return _sb(b)-_sb(a);return (a.discount_price||a.price)-(b.discount_price||b.price);};
     const primaryCat=pool[0]._fromCat;
-    const primary=pool.filter(p=>p._fromCat===primaryCat).sort(byPrice);
+    const primary=pool.filter(p=>p._fromCat===primaryCat).sort(cmp);
     let value=primary.find(p=>!hasDupIng(p));
-    if(!value) value=pool.slice().sort(byPrice).find(p=>!hasDupIng(p)); // havuz genelinde içerik tekrarı olmayan
+    if(!value) value=pool.slice().sort(cmp).find(p=>!hasDupIng(p)); // havuz genelinde içerik tekrarı olmayan
     if(!value) value=primary[0];
     pickedSlugs.add(value.slug); markIng(value);
     const reason=getCategoryReason(value._fromCat, group.need);
@@ -1425,7 +1433,7 @@ const GOAL_SHORT={bagisiklik:'Bağışıklık',enerji:'Enerji',uyku:'Uyku',cilt:
 
 // Sonuç odaklı satış: hayal edilen sonuç (dream) + mevcut sorun (pain)
 const OUTCOME={
-  bagisiklik:{dream:'Herkes hastayken ayakta kalın — güçlü, dirençli bir bağışıklık'},
+  bagisiklik:{dream:'Güçlü, dirençli ve sağlam bir bağışıklık'},
   enerji:{dream:'Sabahtan akşama yüksek enerji — öğleden sonra çöküşe son'},
   uyku:{dream:'Gece deliksiz uyuyun, sabah dinlenmiş ve zinde uyanın'},
   cilt:{dream:'Aynaya baktığınızda ışıldayan, pürüzsüz ve sağlıklı bir cilt'},
@@ -1558,7 +1566,12 @@ function recomputePlan(){
   // Plana özel kullanım rehberi sözü (satın alım sonrası gönderilir)
   const guide=document.createElement('div');
   guide.style.cssText='margin:16px 0 4px;padding:14px 16px;background:#fff;border:1.5px dashed #86efac;border-radius:12px;font-size:12.5px;color:#1a1a1a;line-height:1.55;';
-  guide.innerHTML='<div style="font-weight:800;color:#0a4c32;margin-bottom:4px;">Plana özel kullanım rehberi — hediye</div>Satın alımdan sonra bu plana özel ücretsiz kullanım rehberini iletiyoruz: hangi ürünü <strong>ne zaman</strong> (sabah / öğle / akşam) ve <strong>nasıl</strong> kullanacağınızı adım adım gösterir.';
+  guide.innerHTML='<div style="font-weight:800;color:#0a4c32;margin-bottom:8px;">Planınızla birlikte — ücretsiz</div>'+
+    ['Kişiye özel kullanım takvimi — hangi ürün ne zaman (sabah / öğle / akşam) ve nasıl',
+     'Plana özel beslenme ve yaşam tarzı önerileri',
+     'Kür boyunca takip ve hatırlatmalar',
+     '2 ay sonra ücretsiz yeniden değerlendirme']
+    .map(function(x){return '<div style="display:flex;gap:8px;align-items:flex-start;margin-top:6px;"><span style="color:#16a34a;font-weight:800;flex-shrink:0;">&#10003;</span><span>'+x+'</span></div>';}).join('');
   grid.appendChild(guide);
 
   // Fiyat kademeleri + kür upsell — value/fayda gösterildikten SONRA (most conversion)
