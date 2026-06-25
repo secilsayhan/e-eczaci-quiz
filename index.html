@@ -3,9 +3,9 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Kişisel Sağlık Planınız | e-Eczacı</title>
-<meta name="description" content="Birkaç kısa soruya cevap verin, 2.000+ ürün arasından size özel sağlık planınızı oluşturalım.">
-<meta property="og:title" content="Size Özel Sağlık Planı | e-Eczacı">
+<title>Kişisel Ürün Analizi | e-Eczacı</title>
+<meta name="description" content="Birkaç kısa soruya cevap verin, 2.000+ ürün arasından size özel ürün planınızı oluşturalım.">
+<meta property="og:title" content="Size Özel Ürün Planı | e-Eczacı">
 <meta property="og:description" content="Birkaç kısa soruya cevap verin, ihtiyacınıza en uygun ürünleri sizin için belirleyelim.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://e-eczaci.com/pages/analiz">
@@ -144,18 +144,23 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 .rec-old-price{font-size:.82rem;color:var(--text-muted);text-decoration:line-through}
 .rec-discount{font-size:.68rem;font-weight:700;color:#fff;background:#D94F3F;
   padding:2px 6px;border-radius:4px}
-.rec-action{padding:0 16px 14px}
-.rec-action a{display:block;text-align:center;padding:11px;background:#0a4c32;color:#fff;
-  border-radius:var(--radius-xs);text-decoration:none;font-size:.88rem;font-weight:600;
-  transition:var(--transition)}
-.rec-action a:hover{background:#0d6b45}
+.rec-action{padding:0 16px 14px;display:flex;flex-direction:column;gap:6px}
+.rec-action .btn-cart{display:block;text-align:center;padding:12px;
+  background:#1B7A4A;color:#fff;border-radius:var(--radius-xs);
+  text-decoration:none;font-size:.9rem;font-weight:700;transition:var(--transition);letter-spacing:.2px}
+.rec-action .btn-cart:hover{background:#14613B;transform:translateY(-1px)}
+.rec-action-row{display:flex;align-items:center;gap:6px}
+.rec-action .btn-inspect{flex:1;display:block;text-align:center;padding:9px;
+  background:#4aaa78;color:#fff;border-radius:var(--radius-xs);
+  text-decoration:none;font-size:.82rem;font-weight:600;transition:var(--transition)}
+.rec-action .btn-inspect:hover{background:#3a9067}
 
 /* Summary total */
 .plan-summary{background:var(--card);border-radius:var(--radius);border:1px solid var(--border);
   padding:20px;margin-top:8px;text-align:center}
 .plan-summary .total-label{font-size:.82rem;color:var(--text-secondary)}
 .plan-summary .total-price{font-size:1.5rem;font-weight:700;color:var(--primary-dark);margin:4px 0}
-.plan-summary .total-savings{font-size:.82rem;color:#D94F3F;font-weight:600}
+.plan-summary .total-savings{font-size:.88rem;color:var(--primary-dark);font-weight:600;font-style:italic}
 
 /* Footer CTA */
 .results-footer{margin-top:24px;padding:24px;background:var(--accent);border-radius:var(--radius);text-align:center}
@@ -224,7 +229,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 @media(min-width:601px){
   .quiz-container{margin-top:20px;margin-bottom:20px;background:var(--card);
     border-radius:20px;box-shadow:var(--shadow-lg);min-height:auto;border:1px solid var(--border-light)}
-  body{background:#F0F4F2}
+  body{background:#FFFFFF}
 }
 
 /* ===== POPULAR BADGE ===== */
@@ -304,9 +309,10 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     </div>
     <div class="trust-badge">
       <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
-      Uzman Onaylı
+      Uzman Danışmanlığında
     </div>
   </div>
+
 
   <!-- PROGRESS -->
   <div class="progress" id="progressWrap" style="display:none">
@@ -322,8 +328,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- INTRO -->
     <div class="step active" id="stepIntro">
       <div class="intro">
-        <div class="intro-badge">&#9733; Ücretsiz Analiz</div>
-        <h1>Size özel <span>sağlık planınızı</span> oluşturalım</h1>
+        <div class="intro-badge">&#9733; Ücretsiz Kişisel Analiz</div>
+        <h1>Size özel <span>ürün planınızı</span> oluşturalım</h1>
         <p class="intro-desc">Birkaç kısa soruya cevap verin, ihtiyacınıza en uygun ürünleri sizin için belirleyelim.</p>
         <div class="intro-features">
           <div class="intro-feat">
@@ -344,7 +350,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         </div>
         <div class="intro-social-proof" id="socialProof">
           <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
-          <span><strong id="proofCount">5.000+</strong> kişi analizini tamamladı</span>
+          <span><strong>5.000+</strong> kişi analizini tamamladı</span>
         </div>
       </div>
     </div>
@@ -460,6 +466,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         <div class="email-field">
           <input type="text" id="nameInput" placeholder="İsminiz" aria-label="İsminiz" required oninput="onNameEmailInput()" style="margin-bottom:10px">
           <input type="email" id="emailInput" placeholder="E-posta adresiniz (opsiyonel)" oninput="onNameEmailInput()" aria-label="E-posta adresiniz">
+          <textarea id="noteInput" placeholder="Eklemek istediğiniz bir şey var mı? (sorun, istek, ilaç kullanımı vb.) — opsiyonel" rows="3" aria-label="Ek not" style="margin-top:10px;width:100%;padding:12px 14px;border:1.5px solid #e2e8f0;border-radius:10px;font-size:15px;font-family:inherit;resize:vertical;color:#2d3748;background:#fff;box-sizing:border-box;"></textarea>
         </div>
         <div class="email-privacy">
           <svg viewBox="0 0 24 24"><path d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2zm3.1-9H8.9V6c0-1.71 1.39-3.1 3.1-3.1 1.71 0 3.1 1.39 3.1 3.1v2z"/></svg>
@@ -488,23 +495,18 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- RESULTS -->
     <div class="step" id="stepResults">
       <div class="results-intro">
-        <h2 id="resultsTitle">Kişisel Sağlık Planınız</h2>
+        <h2 id="resultsTitle">Kişisel Ürün Planınız</h2>
         <p id="resultsSubtext">İhtiyaçlarınıza göre sizin için seçtik</p>
       </div>
       <div class="results-plan" id="productGrid"></div>
       <div class="plan-summary" id="planSummary"></div>
       <div id="bundleUpsell" style="display:none;margin:20px 0;"></div>
-      <div id="crossSellSection" style="display:none;margin:20px 0;"></div>
       <div class="bundle-cta" id="bundleCta">
-        <p>Planını beğendin mi? Tek tıkla tüm planı sipariş ver</p>
+        <p>Tüm planı tek mesajla sipariş verin</p>
         <a class="bundle-btn" id="bundleBtn" href="#" target="_blank">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="var(--primary-dark)"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
-          Tüm Planı Satın Al
+          WhatsApp ile Sipariş Ver
         </a>
-        <div style="margin-top:10px;display:flex;align-items:center;justify-content:center;gap:6px;font-size:12px;color:#4b5563;">
-          <svg width="14" height="14" viewBox="0 0 24 24" fill="#0a4c32"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
-          Eczane güvencesiyle, ürünler eczaneden temin edilir
-        </div>
       </div>
       <div class="medical-disclaimer">
         <div class="disc-icon">&#9888;&#65039;</div>
@@ -519,7 +521,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           </a>
           <a class="share-btn" id="shareBtn" href="#" target="_blank">
             <svg viewBox="0 0 24 24"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
-            Sevdiklerin de analizini yapsın
+            Planını arkadaşınla paylaş
           </a>
         </div>
       </div>
@@ -532,14 +534,19 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 <script>
 /* ===== DATA ===== */
 let quizData = null;
-fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
-  const el=document.getElementById('proofCount');
-  if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
-}).catch(()=>{});
+let _quizDataPromise = null;
+
+function _fetchQuizData(){
+  // Her submit'te taze veri — cache bypass
+  _quizDataPromise = fetch('/analiz/quiz_products.json', {cache:'no-store'})
+    .then(r=>r.json())
+    .then(d=>{quizData=d; return d;})
+    .catch(()=>null);
+  return _quizDataPromise;
+}
 
 /* ===== STATE ===== */
-const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null };
+const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, note:'' };
 
 /* ===== CONFIG ===== */
 const needMap = {
@@ -852,12 +859,14 @@ function submitFinal(){
   state.name=name;
   const emailVal=document.getElementById('emailInput').value.trim();
   state.email=validateEmail(emailVal)?emailVal:null;
-  trackEvent('quiz_submit',{name:true,email_provided:!!state.email});
+  state.note=(document.getElementById('noteInput').value||'').trim();
+  trackEvent('quiz_submit',{name:true,email_provided:!!state.email,note_provided:!!state.note});
   fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/submit',{method:'POST',headers:{'Content-Type':'application/json'},
     body:JSON.stringify({
       email:state.email,name:state.name,segment:state.who,
       needs:state.needs,details:state.details,lifestyle:state.lifestyle,
       form:state.form,brands:state.brands,budget:state.budget,
+      note:state.note,
       product_count:(window._quizProducts||[]).length,
       recommended_slugs:window._quizRecommendedSlugs||[],
     })
@@ -1036,9 +1045,11 @@ function showLoading(){
     if(i<phases.length){
       setTimeout(showPhase,1200);
     }else{
-      setTimeout(showResults,800);
+      // Animasyon bitti — veri geldiyse hemen göster, gelmedi ise bekle
+      (_quizDataPromise||Promise.resolve()).finally(()=>setTimeout(showResults,400));
     }
   }
+  _fetchQuizData(); // Anlık stok verisi — animasyonla paralel çekilir
   showPhase();
 }
 
@@ -1065,7 +1076,7 @@ function restart(){
 /* ===== HELPERS ===== */
 function getDynamicPlanTitle(){
   const labels=state.needs.filter(n=>n!=='diger').map(n=>needLabels[n]).filter(Boolean);
-  if(!labels.length) return 'Sağlık Planı';
+  if(!labels.length) return 'Kişisel Plan';
   if(labels.length<=2) return labels.join(' & ')+' Planı';
   return labels.slice(0,2).join(' & ')+' + Planı';
 }
@@ -1100,103 +1111,65 @@ function getCategoryReason(cat, needKey){
   return base || cat;
 }
 
-/* ===== DETAY BIAS (Step-3 cevaplarına göre kategori önceliği) ===== */
-const detailBias = {
-  sac_dokulme:['Saç Dökülmesi','Dökülme Karşıtı','Biotin (B7 Vitamini)','Saç, Cilt ve Tırnak'],
-  sac_kepek:['Kepek Karşıtı','Şampuanlar'],
-  sac_parlaklik:['Saç, Cilt ve Tırnak','Biotin (B7 Vitamini)'],
-  sac_genel:['Saç, Cilt ve Tırnak','Biotin (B7 Vitamini)'],
-  cilt_kuru:['Nemlendirici','Nemlendirici Kremler','Onarıcı Bakım'],
-  cilt_yagli:['Akne ve Sivilce Bakımı','Temizleyiciler'],
-  cilt_karma:['Nemlendirici','Temizleyiciler'],
-  cilt_hassas:['Hassas ve Kızarık Cilt','Onarıcı Bakım'],
-  sindirim_siskinlik:['Sindirim Enzimleri','Sindirim Sağlığı'],
-  sindirim_kabizlik:['Probiyotik','Probiyotik ve Prebiyotik'],
-  sindirim_reflu:['Sindirim Sağlığı'],
-  sindirim_flora:['Probiyotik','Probiyotik ve Prebiyotik'],
-  uyku_dalamama:['Stres ve Uyku Düzeni','Magnezyum'],
-  uyku_bolunme:['Magnezyum','Magnezyum Bisglisinat'],
-  uyku_yorgun:['Magnezyum','Stres ve Uyku Düzeni'],
-  uyku_stres:['Stres ve Uyku Düzeni'],
-  enerji_sabah:['B12 Vitamini','B Kompleks'],
-  enerji_ogleden:['Demir','Koenzim Q10'],
-  enerji_surekli:['Koenzim Q10','Demir','B12 Vitamini'],
-  bagisiklik_mevsim:['C Vitamini','Kara Mürver (Sambucus)','Çinko'],
-  bagisiklik_sik:['Beta Glukan','Propolis','Çinko'],
-  bagisiklik_onlem:['D Vitamini','C Vitamini']
-};
-
-function applyDetailBias(need, cats){
-  const d=(state.details||{})[need];
-  if(!d) return cats;
-  const pref=detailBias[need+'_'+d];
-  if(!pref) return cats;
-  const head=pref.filter(c=>cats.includes(c));
-  const rest=cats.filter(c=>!head.includes(c));
-  return head.concat(rest);
-}
-
-/* ===== PRODUCT MATCHING (her ihtiyaca 2 seçenek) ===== */
+/* ===== PRODUCT MATCHING ===== */
 function renderProducts(){
   const grid=document.getElementById('productGrid');
   grid.innerHTML='';
   if(!quizData){grid.innerHTML='<div style="text-align:center;padding:40px;color:var(--text-muted)">Veriler yüklenemedi</div>';return;}
 
-  const planTitle=getDynamicPlanTitle();
+  // Personalized header
+  const planTitle = getDynamicPlanTitle();
+  const subText='En yüksek etkili ürünler — fazlası değil, doğrusu';
   if(state.name){
-    document.getElementById('resultsTitle').textContent=state.name+', senin için hazırladık!';
-    document.getElementById('resultsSubtext').textContent=state.name+', '+planTitle+' senin için hazırlandı';
+    document.getElementById('resultsTitle').textContent=state.name+', planın hazır!';
+    document.getElementById('resultsSubtext').textContent=subText;
   }else{
-    document.getElementById('resultsTitle').textContent='Kişisel Sağlık Planınız';
-    document.getElementById('resultsSubtext').textContent='İhtiyaçlarınıza göre sizin için seçtik';
+    document.getElementById('resultsTitle').textContent='Kişisel Ürün Planınız';
+    document.getElementById('resultsSubtext').textContent=subText;
   }
 
-  const shareText=encodeURIComponent('Sağlık ihtiyaçlarına özel ücretsiz analiz! Sen de 1 dakikada keşfet: https://e-eczaci.com/pages/analiz');
+  // WhatsApp share link
+  const shareText=encodeURIComponent('e-Eczacı\'da kişisel ürün planımı oluşturdum! Sen de dene: https://e-eczaci.com/pages/analiz');
   document.getElementById('shareBtn').href='https://wa.me/?text='+shareText;
 
-  let budgetMax=99999;
-  if(state.budget&&state.budget!=='any'){budgetMax=parseInt(state.budget.split('-')[1]);}
-  const activeNeedCount=Math.max(1,state.needs.filter(n=>n!=='diger').length);
-  const perSlotTarget=budgetMax<99999?budgetMax/activeNeedCount:99999;
+  // Bütçe limiti (TOPLAM plan değeri olarak kullanılacak)
+  let budgetMax = 99999;
+  if(state.budget&&state.budget!=='any'){
+    budgetMax = parseInt(state.budget.split('-')[1]);
+  }
 
-  // İhtiyaç grupları — detay cevaplarına göre kategori önceliği
-  const needGroups=[];
+  // Her ihtiyaç için ayrı kategori listesi — ihtiyaç sırası = öncelik sırası
+  const needGroups = []; // [{need, cats}]
   for(const need of state.needs){
     if(need==='diger') continue;
-    const key=state.who+'_'+need;
-    const cats=categoryMapping[key]||[];
-    if(cats.length) needGroups.push({need, cats:applyDetailBias(need,[...cats])});
-  }
-  // "Diğer" serbest metin → ek grup
-  if(state.needs.includes('diger')){
-    const otherEl=document.getElementById('otherInput');
-    const q=((otherEl&&otherEl.value)||'').trim().toLowerCase();
-    if(q){
-      const words=q.split(/\s+/);
-      const matched=Object.keys(quizData.categories)
-        .filter(c=>words.some(w=>w.length>2&&c.toLowerCase().includes(w)))
-        .sort((a,b)=>(quizData.categories[a]||[]).length-(quizData.categories[b]||[]).length)
-        .slice(0,2);
-      if(matched.length) needGroups.push({need:'diger', cats:matched});
-    }
+    const key = state.who+'_'+need;
+    const cats = categoryMapping[key]||[];
+    if(cats.length) needGroups.push({need, cats:[...cats]});
   }
 
-  const pickedSlugs=new Set();
+  // Kategori sırası mapping'deki sıraya güvenilir (manuel olarak optimize edildi)
 
-  function scoreCandidates(items, catName){
-    let cands=items.filter(p=>!pickedSlugs.has(p.slug));
-    // Form filtresi
-    if(state.form&&state.form!=='any'){
+  const pickedSlugs = new Set();
+  const usedCats = new Set(); // Her kategoriden max 1 ürün
+  let products = [];
+  let runningTotal = 0;
+
+  const MAX_PRODUCTS = 4;
+  const perSlotTarget = MAX_PRODUCTS > 0 ? budgetMax / MAX_PRODUCTS : budgetMax;
+
+  const supKw=['tablet','kapsül','kapsul','softgel','damla','şurup','saşe','toz','sprey','efervesan','takviye','krem','serum','losyon'];
+  const blackKw=['çayı','çay ','pastil','sakız','sakiz','mendil','oje','pamuk','ruj','bandaj','bandı',
+    'kinesiyoloji','duratape','eldiven','maske ','bone','flaster','pamukçuk','tirnak','tırnak',
+    'termometre','ped ','gazlı bez','sargı','yara ','alçı','atel'];
+  const ageBlackKw = state.who==='yetiskin'||state.who==='yasli' ? ['junior','çocuk','bebek','kids','baby'] : [];
+
+  function scoreCandidates(items, catName, lenient){
+    let cands = items.filter(p=>!pickedSlugs.has(p.slug));
+    if(!lenient && state.form&&state.form!=='any'){
       const kws=formKeywords[state.form]||[];
       if(kws.length){const f=cands.filter(p=>kws.some(kw=>p.name.toLowerCase().includes(kw)));if(f.length)cands=f;}
     }
     const catWords=catName.toLowerCase().replace(/[()]/g,'').split(/\s+/).filter(w=>w.length>2);
-    const supKw=['tablet','kapsül','kapsul','softgel','damla','şurup','saşe','toz','sprey','efervesan','takviye','krem','serum','losyon'];
-    const MIN_PRICE=100;
-    const blackKw=['çayı','çay ','pastil','sakız','sakiz','mendil','oje','pamuk','ruj','bandaj','bandı',
-      'kinesiyoloji','duratape','eldiven','maske ','bone','flaster','pamukçuk','tirnak','tırnak',
-      'termometre','ped ','gazlı bez','sargı','yara ','alçı','atel'];
-    const ageBlackKw=state.who==='yetiskin'||state.who==='yasli'?['junior','çocuk','bebek','kids','baby']:[];
     cands.forEach(p=>{
       const nl=p.name.toLowerCase();
       const bl=(p.brand||'').toLowerCase();
@@ -1204,337 +1177,261 @@ function renderProducts(){
       p._sup=supKw.some(kw=>nl.includes(kw))?1:0;
       p._black=(blackKw.some(kw=>nl.includes(kw))||ageBlackKw.some(kw=>nl.includes(kw)))?1:0;
       p._price=p.discount_price||p.price;
-      if(state.brands.length && !state.brands.includes('any')){
-        p._brand=state.brands.some(b=>bl.includes(b.toLowerCase()))?1:0;
-      }else{p._brand=0;}
+      p._stock=p.stock||0;
+      p._brand=(state.brands.length&&!state.brands.includes('any'))
+        ? (state.brands.some(b=>bl.includes(b.toLowerCase()))?1:0) : 0;
     });
-    cands=cands.filter(p=>!p._black && p._price>=MIN_PRICE);
+    cands=cands.filter(p=>!p._black && (lenient || p._price>=100));
     const supOnly=cands.filter(p=>p._sup);
     if(supOnly.length) cands=supOnly;
     cands.sort((a,b)=>{
       if(b._nm!==a._nm)return b._nm-a._nm;
       if(b._brand!==a._brand)return b._brand-a._brand;
       if(b._sup!==a._sup)return b._sup-a._sup;
-      if(budgetMax<99999){return Math.abs(a._price-perSlotTarget)-Math.abs(b._price-perSlotTarget);}
+      if(budgetMax<99999) return Math.abs(a._price-perSlotTarget)-Math.abs(b._price-perSlotTarget);
       const ad=a.discount_price?1:0,bd=b.discount_price?1:0;
       if(bd!==ad)return bd-ad;
+      if(b._stock!==a._stock)return b._stock-a._stock; // aynı kategoride yüksek stok önce
       return a._price-b._price;
     });
     return cands;
   }
 
-  function poolFor(cats){
-    let pool=[];
-    for(const cat of cats){
-      const cs=scoreCandidates(quizData.categories[cat]||[], cat).map(p=>({...p,_fromCat:cat}));
-      pool=pool.concat(cs);
-      if(pool.length>=24) break;
+  function tryPick(cat, maxPrice, lenient){
+    if(usedCats.has(cat)) return false;
+    const cands=scoreCandidates(quizData.categories[cat]||[], cat, lenient);
+    for(const p of cands){
+      const price=p.discount_price||p.price;
+      if(maxPrice && price>maxPrice) continue;
+      if(runningTotal+price<=budgetMax || products.length===0){
+        pickedSlugs.add(p.slug); usedCats.add(cat);
+        products.push({...p, _fromCat:cat}); runningTotal+=price;
+        return true;
+      }
     }
-    const seen=new Set();
-    return pool.filter(p=>{if(seen.has(p.slug)||pickedSlugs.has(p.slug))return false;seen.add(p.slug);return true;});
+    return false;
   }
 
-  // Her ihtiyaç için en alakalı (detay-biaslı) uygun ürün
-  function pickValue(group){
-    const pool=poolFor(group.cats);
-    if(!pool.length) return null;
-    const primaryCat=pool[0]._fromCat;
-    const primary=pool.filter(p=>p._fromCat===primaryCat).slice(0,6);
-    const value=[...primary].sort((a,b)=>(a.discount_price||a.price)-(b.discount_price||b.price))[0];
-    pickedSlugs.add(value.slug);
-    const reason=getCategoryReason(value._fromCat, group.need);
-    return {need:group.need, reason, value};
-  }
-
-  // Sinerjik kofaktör eşleşmeleri (Tam Plan'a eklenir — bilimsel olarak tamamlayıcı)
-  const COFACTORS={
-    'C Vitamini':['Çinko'],'D Vitamini':['K2 Vitamini','Magnezyum'],'Çinko':['C Vitamini'],
-    'Magnezyum':['B12 Vitamini'],'Magnezyum Bisglisinat':['B12 Vitamini'],
-    'Omega 3':['Koenzim Q10'],'Kalp ve Damar Sağlığı':['Koenzim Q10'],
-    'Kolajen Takviyeleri':['C Vitamini'],'Hidrolize Kolajen':['C Vitamini'],
-    'Saç, Cilt ve Tırnak':['Çinko'],'Biotin (B7 Vitamini)':['Çinko'],
-    'Demir':['C Vitamini'],'Beyin ve Hafıza':['Omega 3'],'Ginkgo Biloba':['Omega 3'],
-    'Kemik ve Eklem Sağlığı':['D Vitamini'],'Glukozamin':['Magnezyum'],
-    'Probiyotik':['Sindirim Enzimleri'],'B12 Vitamini':['B Kompleks'],
-    'Nemlendirici':['Güneş Koruma'],'Nemlendirici Kremler':['Güneş Koruma'],
-    'Akne ve Sivilce Bakımı':['Temizleyiciler'],'Hassas ve Kızarık Cilt':['Onarıcı Bakım'],
-    'Saç Dökülmesi':['Biotin (B7 Vitamini)'],'Dökülme Karşıtı':['Biotin (B7 Vitamini)'],
-    'Kepek Karşıtı':['Saç, Cilt ve Tırnak']
-  };
-  function pickFromCat(cat){
-    const cs=scoreCandidates(quizData.categories[cat]||[], cat);
-    for(const p of cs){
-      if(!pickedSlugs.has(p.slug)){ pickedSlugs.add(p.slug); return {...p, _fromCat:cat}; }
+  // Pass 1: Her need için garantili 1 ürün
+  // Sıkı filtrelerle dene, bulamazsa lenient fallback
+  for(const group of needGroups){
+    if(products.length>=MAX_PRODUCTS) break;
+    let picked=false;
+    for(const cat of group.cats){
+      if(tryPick(cat)) { picked=true; break; }
     }
-    return null;
+    if(!picked){
+      // Lenient fallback: form filtresi yok, minimum fiyat yok
+      for(const cat of group.cats){
+        if(!usedCats.has(cat) && tryPick(cat, undefined, true)) { break; }
+      }
+    }
   }
 
-  const pairs=[];
-  for(const g of needGroups){
-    const pr=pickValue(g);
-    if(pr) pairs.push(pr);
-    if(pairs.length>=6) break;
+  // Pass 2: Tamamlayıcı ürünler — primary need'den başlayarak boş slotları doldur
+  // (Her need grubunun ikinci kategorisi — gerçekten tamamlayıcı)
+  if(products.length < MAX_PRODUCTS){
+    for(const group of needGroups){
+      if(products.length>=MAX_PRODUCTS) break;
+      for(const cat of group.cats){
+        if(usedCats.has(cat)) continue;
+        if(tryPick(cat)) break;
+      }
+    }
   }
 
-  if(!pairs.length){
+  // "Diğer" serbest metin
+  if(state.needs.includes('diger')){
+    const q=(document.getElementById('otherInput').value||'').trim().toLowerCase();
+    if(q){
+      const words=q.split(/\s+/);
+      const matched=Object.keys(quizData.categories)
+        .filter(c=>!usedCats.has(c)&&words.some(w=>c.toLowerCase().includes(w)))
+        .sort((a,b)=>(quizData.categories[a]||[]).length-(quizData.categories[b]||[]).length);
+      for(const cat of matched){
+        if(products.length>=maxProducts) break;
+        tryPick(cat);
+      }
+    }
+  }
+
+  if(!products.length){
     grid.innerHTML='<div style="text-align:center;padding:40px;color:var(--text-muted)"><h3>Sonuç bulunamadı</h3><p>Filtreleri değiştirerek tekrar deneyin.</p></div>';
     document.getElementById('planSummary').innerHTML='';
     return;
   }
 
-  // Temel Plan: her ihtiyaçtan 1 uygun ürün
-  const valueSet=pairs.map(p=>({...p.value, _need:p.need, _reason:p.reason}));
-
-  // Temel taban: en az 3 ürün (ince plan olmasın). Önce ihtiyaçların 2. ürünü, sonra temel takviyeler
-  const MIN_VALUE=4;
-  if(valueSet.length<MIN_VALUE){
-    for(const g of needGroups){
-      if(valueSet.length>=MIN_VALUE) break;
-      const ex=pickValue(g);
-      if(ex) valueSet.push({...ex.value, _need:ex.need, _reason:ex.reason});
-    }
-  }
-  if(valueSet.length<MIN_VALUE){
-    const STAPLES={
-      cocuk:['Çocuk Multivitamin','D Vitamini','Omega 3','C Vitamini'],
-      hamile:['Hamile Vitamini','Omega 3','Demir','Magnezyum'],
-      yasli:['D Vitamini','Omega 3','Magnezyum','Multivitamin'],
-      yetiskin:['D Vitamini','Omega 3','Magnezyum','Multivitamin']
-    };
-    const have=new Set(valueSet.map(p=>p.slug));
-    for(const cat of (STAPLES[state.who]||STAPLES.yetiskin)){
-      if(valueSet.length>=MIN_VALUE) break;
-      const add=pickFromCat(cat);
-      if(add && !have.has(add.slug)){
-        have.add(add.slug);
-        valueSet.push({...add, _need:'temel', _reason:getCategoryReason(cat,'')||'Temel sağlık desteği'});
-      }
-    }
+  // Build need lookup for reason generation
+  const catToNeed={};
+  for(const group of needGroups){
+    for(const cat of group.cats) catToNeed[cat]=group.need;
   }
 
-  // Tam Plan: Temel'in tümü + kofaktör sinerji ürünleri (alakalı, orantılı)
-  const premiumSet=valueSet.map(p=>({...p, _new:false}));
-  const inSet=new Set(premiumSet.map(p=>p.slug));
-  const maxPrem=Math.min(10, valueSet.length*2+1);
-  for(const p of valueSet){
-    if(premiumSet.length>=maxPrem) break;
-    const cofs=COFACTORS[p._fromCat]||[];
-    for(const cf of cofs){
-      if(premiumSet.length>=maxPrem) break;
-      const add=pickFromCat(cf);
-      if(add && !inSet.has(add.slug)){
-        premiumSet.push({...add, _need:p._need, _reason:getCategoryReason(cf, p._need), _new:true});
-        inSet.add(add.slug);
-      }
-    }
-  }
+  // Store products globally for swap functionality
+  window._quizProducts = products;
+  window._quizCatToNeed = catToNeed;
+  window._quizData = quizData;
+  window._quizPickedSlugs = pickedSlugs;
+  window._quizUsedCats = usedCats;
 
-  window._plan={value:valueSet, premium:premiumSet, tier:(premiumSet.length>valueSet.length?'premium':'value'), kur:true, planTitle};
-  recomputePlan();
+  // Render cards with stagger animation
+  let totalPrice=0, totalDiscount=0;
+  products.forEach((p, idx) => {
+    const needKey=catToNeed[p._fromCat]||'';
+    const reason=getCategoryReason(p._fromCat, needKey);
+    const effectivePrice=p.discount_price||p.price;
+    totalPrice+=p.price;
+    totalDiscount+=effectivePrice;
+
+    let priceHTML='';
+    if(p.discount_price){
+      const pct=Math.round((1-p.discount_price/p.price)*100);
+      priceHTML=`<span class="rec-old-price">${fmt(p.price)}</span><span class="rec-price">${fmt(p.discount_price)}</span><span class="rec-discount">%${pct}</span>`;
+    }else{
+      priceHTML=`<span class="rec-price">${fmt(p.price)}</span>`;
+    }
+
+    const card=document.createElement('div');
+    card.className='rec-card stagger';
+    card.style.animationDelay=(idx*0.12)+'s';
+    card.dataset.idx=idx;
+    card.innerHTML=`
+      <div class="rec-reason">${esc(reason)}</div>
+      <div class="rec-body">
+        <div class="rec-img"><img src="${p.image}" alt="${esc(p.name)}" loading="lazy" onerror="this.parentElement.innerHTML='&#128138;'"></div>
+        <div class="rec-info">
+          <div class="rec-brand">${esc(p.brand)}</div>
+          <div class="rec-name">${esc(p.name)}</div>
+          <div class="rec-price-row">${priceHTML}</div>
+        </div>
+      </div>
+      <div class="rec-action">
+        <a class="btn-cart" href="https://e-eczaci.com/${p.slug}" target="_blank" onclick="trackEvent('add_to_cart_click',{slug:'${p.slug}',position:${idx}})">&#128722; Sepete Ekle</a>
+        <div class="rec-action-row">
+          <a class="btn-inspect" href="https://e-eczaci.com/${p.slug}" target="_blank" onclick="trackEvent('product_click',{slug:'${p.slug}',position:${idx}})">Ürünü İncele &#8594;</a>
+          <button class="swap-btn" onclick="swapProduct(${idx})" title="Alternatif ürün göster">&#8635; Başka Öner</button>
+        </div>
+      </div>`;
+    grid.appendChild(card);
+  });
+
+  // Summary
+  const savings=totalPrice-totalDiscount;
+  const summaryName = state.name ? state.name+'\'in '+planTitle+'nı' : products.length+' ürünlük planınız';
+  let summaryHTML=`<div class="total-label">${esc(summaryName)} | ${products.length} ürün</div>`;
+  if(savings>0){
+    summaryHTML+=`<div class="total-price">${fmt(totalDiscount)}</div>`;
+    summaryHTML+=`<div class="total-savings">&#127881; Sağlığınızdan ve iyi yaşamdan tasarruf etmeyin</div>`;
+  }else{
+    summaryHTML+=`<div class="total-price">${fmt(totalPrice)}</div>`;
+  }
+  document.getElementById('planSummary').innerHTML=summaryHTML;
+
+  // Bundle WhatsApp CTA
+  buildBundleLink(products);
+
+  // Bundle upsell — ihtiyaca göre hazır paket öner
+  renderBundleUpsell(state.needs||[]);
+
+  // Önerilen ürünleri global'e kaydet (submit'te DB'ye gider)
+  window._quizRecommendedSlugs = products.map(p=>p.slug);
+
+  // Analytics
+  trackEvent('quiz_complete',{
+    product_count:products.length,
+    total:totalDiscount,
+    segment:state.who,
+    needs:state.needs,
+    recommended_slugs:window._quizRecommendedSlugs,
+  });
+
+  // Subtle celebration (no confetti — clean, professional)
 }
 
 function fmt(n){return n.toLocaleString('tr-TR',{minimumFractionDigits:0,maximumFractionDigits:0})+' \u20BA'}
 function esc(s){const d=document.createElement('div');d.textContent=s;return d.innerHTML}
 
-/* ===== PLAN HESAPLAMA + RENDER ===== */
-// Kür adedi ürün tipine göre: takviye 2 (60 gün), dermokozmetik/dış kullanım 1
-function kurQtyFor(p, kurOn){
-  if(!kurOn) return 1;
-  const n=(p.name||'').toLowerCase();
-  if(/şampuan|sampuan|krem|losyon|serum|jel|tonik|maske|güneş|gunes|spf|temizle|yıkama|yikama|sprey|kremi/.test(n)) return 1;
-  return 2;
-}
-function selectedProductsFromPlan(){
-  const plan=window._plan;
-  if(!plan) return [];
-  const set=plan.tier==='premium'?plan.premium:plan.value;
-  // Aynı ihtiyaca ait ürünler altalta (ihtiyaç sırasına göre, içinde orijinal sıra korunur)
-  const order=(state.needs||[]).filter(n=>n!=='diger').concat(['diger','temel']);
-  const idx=n=>{const i=order.indexOf(n);return i<0?order.length:i;};
-  const sorted=set.map((p,i)=>({p,i})).sort((a,b)=>{const d=idx(a.p._need)-idx(b.p._need);return d!==0?d:a.i-b.i;}).map(x=>x.p);
-  return sorted.map(p=>({...p, _qty:kurQtyFor(p, plan.kur)}));
-}
+/* ===== SWAP PRODUCT ===== */
+function swapProduct(idx){
+  const products=window._quizProducts;
+  const quizData=window._quizData;
+  const pickedSlugs=window._quizPickedSlugs;
+  if(!products||!quizData||idx>=products.length) return;
 
-const NEED_HEADER={
-  bagisiklik:'Bağışıklık için',enerji:'Enerji için',cilt:'Cilt sağlığı için',sac:'Saç sağlığı için',
-  sindirim:'Sindirim için',uyku:'Uyku ve rahatlama için',eklem:'Eklem ve kemik için',
-  kalp:'Kalp ve damar için',beyin:'Beyin ve hafıza için',hafiza:'Hafıza ve odak için',
-  goz:'Göz sağlığı için',kilo:'Kilo yönetimi için',kadin:'Kadın sağlığı için',
-  multivitamin:'Günlük multivitamin',sporcu:'Sporcu desteği için',multi:'Çocuk multivitamini',
-  kemik:'Kemik sağlığı için',dis:'Diş sağlığı için',gunes:'Güneş koruması için',
-  vitamin:'Hamilelik için',demir:'Demir desteği için',omega:'Omega-3 desteği',
-  bulanti:'Bulantı desteği için',temel:'Günlük temel destek',diger:'Sana özel'
-};
-function needHeader(n){return NEED_HEADER[n]||'Sana özel öneri';}
-
-// Sonuç odaklı satış: hayal edilen sonuç (dream) + mevcut sorun (pain)
-const OUTCOME={
-  bagisiklik:{dream:'Hastalanmadan, dinç ve korunaklı bir bedene',pain:'Sık sık hasta olmaya ve halsizliğe son'},
-  enerji:{dream:'Gün boyu yüksek, dengeli enerjiye',pain:'Öğleden sonraki çöküş ve yorgunluk bitsin'},
-  uyku:{dream:'Derin, dinlendirici bir uykuya',pain:'Yorgun uyanmaya ve huzursuz gecelere son'},
-  cilt:{dream:'Pürüzsüz, ışıldayan ve sağlıklı bir cilde',pain:'Donukluk, kuruluk ve sorunlu cilde son'},
-  sac:{dream:'Gür, güçlü ve canlı saçlara',pain:'Dökülme ve incelmeyi durdur'},
-  sindirim:{dream:'Hafif, rahat ve düzenli bir sindirime',pain:'Şişkinlik ve düzensizliğe son'},
-  uyku2:{dream:'',pain:''},
-  eklem:{dream:'Ağrısız, esnek ve rahat harekete',pain:'Eklem ağrıları ve tutulmaya son'},
-  kalp:{dream:'Güçlü bir kalp ve sağlıklı damarlara',pain:'Tansiyon ve kolesterol kaygısını azalt'},
-  beyin:{dream:'Berrak bir zihne ve güçlü hafızaya',pain:'Unutkanlık ve odak kaybına son'},
-  hafiza:{dream:'Berrak bir zihne ve güçlü hafızaya',pain:'Unutkanlık ve odak kaybına son'},
-  goz:{dream:'Net görüş ve dinç gözlere',pain:'Ekran yorgunluğu ve bulanıklığa son'},
-  kilo:{dream:'İdeal kilona ve canlı bir metabolizmaya',pain:'Kontrolsüz kilo ve yavaş metabolizmaya son'},
-  kadin:{dream:'Dengeli, güçlü bir kadın sağlığına',pain:''},
-  multivitamin:{dream:'Eksiksiz, günlük tam desteğe',pain:''},
-  sporcu:{dream:'Daha güçlü performans ve hızlı toparlanmaya',pain:''},
-  multi:{dream:'Çocuğunun sağlıklı, güçlü gelişimine',pain:'Eksik vitaminlere son'},
-  kemik:{dream:'Güçlü, dayanıklı kemiklere',pain:''},
-  dis:{dream:'Sağlıklı diş ve diş etlerine',pain:''},
-  gunes:{dream:'Güneşe karşı tam korunmuş bir cilde',pain:''},
-  vitamin:{dream:'Sağlıklı bir hamilelik ve gelişen bebeğe',pain:''},
-  demir:{dream:'Demir deposu dolu, enerjik bir bedene',pain:'Halsizlik ve solgunluğa son'},
-  omega:{dream:'Kalp, beyin ve göze tam desteğe',pain:''},
-  bulanti:{dream:'Daha rahat bir hamilelik dönemine',pain:''},
-  temel:{dream:'Sağlığının sağlam günlük temeline',pain:'Temel vitamin ve mineral eksiklerini kapat'},
-  diger:{dream:'Sana özel seçilmiş desteğe',pain:''}
-};
-function outcomeOf(n){return OUTCOME[n]||{dream:'Sağlığını bir üst seviyeye taşı',pain:''};}
-
-function recomputePlan(){
-  const plan=window._plan;
-  if(!plan) return;
-  const grid=document.getElementById('productGrid');
-  grid.innerHTML='';
-
-  function tierTotal(set){let t=0;set.forEach(p=>{t+=(p.discount_price||p.price)*kurQtyFor(p,plan.kur);});return t;}
-  const vT=tierTotal(plan.value), pT=tierTotal(plan.premium);
-
-  // Kademe seçimi: Temel Plan / Tam Plan
-  function tierBtn(key,label,count,total,recommended){
-    const active=plan.tier===key;
-    return '<button onclick="selectTier(\''+key+'\')" style="flex:1;cursor:pointer;text-align:left;border:2px solid '+(active?'#0a4c32':'#e5e7eb')+';background:'+(active?'#f0fdf4':'#fff')+';border-radius:14px;padding:12px 14px;transition:all .15s;position:relative;">'+
-      (recommended?'<div style="position:absolute;top:-9px;right:10px;background:#0a4c32;color:#fff;font-size:9px;font-weight:700;letter-spacing:.4px;padding:2px 8px;border-radius:10px;">ÖNERİLEN</div>':'')+
-      '<div style="font-size:13px;font-weight:700;color:'+(active?'#0a4c32':'#374151')+';">'+label+(active?' &#10003;':'')+'</div>'+
-      '<div style="font-size:11px;color:#6b7280;margin-top:2px;">'+count+' ürün</div>'+
-      '<div style="font-size:15px;font-weight:700;color:#0a4c32;margin-top:4px;">'+fmt(total)+'</div>'+
-    '</button>';
-  }
-  if(plan.premium.length>plan.value.length){
-    const seg=document.createElement('div');
-    seg.style.cssText='display:flex;gap:8px;margin-bottom:14px;';
-    seg.innerHTML=tierBtn('value','Temel Plan',plan.value.length,vT,false)+tierBtn('premium','Tam Plan',plan.premium.length,pT,true);
-    grid.appendChild(seg);
+  const cur=products[idx];
+  const cat=cur._fromCat;
+  const cands=(quizData.categories[cat]||[]).filter(p=>
+    p.slug!==cur.slug && !pickedSlugs.has(p.slug) && (p.discount_price||p.price)>=100
+  );
+  if(!cands.length){
+    const btn=document.querySelector(`.rec-card[data-idx="${idx}"] .swap-btn`);
+    if(btn){btn.textContent='Alternatif yok';btn.disabled=true;}
+    return;
   }
 
-  // 60 günlük kür toggle
-  const kurBar=document.createElement('div');
-  kurBar.style.cssText='display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 16px;margin-bottom:14px;background:linear-gradient(135deg,#f0fdf4,#ecfdf5);border:1.5px solid #86efac;border-radius:12px;';
-  kurBar.innerHTML=
-    '<div style="flex:1">'+
-      '<div style="font-size:14px;font-weight:700;color:#0a4c32;">2 Ayl&#305;k K&uuml;r Plan&#305;</div>'+
-      '<div style="font-size:12px;color:#4b5563;margin-top:2px;">Takviyeler etkisini genellikle 8-12 haftada g&ouml;sterir. K&uuml;r&uuml; tamamlamak i&ccedil;in 2 ayl&#305;k plan &ouml;nerilir.</div>'+
-    '</div>'+
-    '<button id="kurToggle" onclick="toggleKur()" aria-pressed="'+plan.kur+'" style="position:relative;width:52px;height:30px;border:none;border-radius:20px;cursor:pointer;flex-shrink:0;transition:background .2s;background:'+(plan.kur?'#16a34a':'#cbd5e1')+';">'+
-      '<span style="position:absolute;top:3px;left:'+(plan.kur?'25px':'3px')+';width:24px;height:24px;background:#fff;border-radius:50%;transition:left .2s;box-shadow:0 1px 3px rgba(0,0,0,.3);"></span>'+
-    '</button>';
-  grid.appendChild(kurBar);
+  // Random pick from top 5 candidates
+  const pick=cands[Math.floor(Math.random()*Math.min(cands.length,5))];
 
-  // SONUÇ ODAKLI SATIŞ — ürün adı YOK, sadece görsel. Pain/dream + paket olarak satılır.
-  const products=selectedProductsFromPlan();
-  let totalPrice=0,totalDiscount=0;
-  const groups=[];
-  products.forEach(p=>{
-    totalPrice+=p.price*(p._qty||1);
-    totalDiscount+=(p.discount_price||p.price)*(p._qty||1);
-    let g=groups.find(x=>x.need===p._need);
-    if(!g){g={need:p._need,items:[]};groups.push(g);}
-    g.items.push(p);
-  });
+  // Update state
+  pickedSlugs.delete(cur.slug);
+  pickedSlugs.add(pick.slug);
+  products[idx]={...pick, _fromCat:cat};
 
-  // Her hedef için: hayal edilen sonuç (dream) + mevcut sorun (pain)
-  groups.forEach((g,gi)=>{
-    const o=outcomeOf(g.need);
-    const sec=document.createElement('div');
-    sec.className='rec-card stagger';
-    sec.style.animationDelay=(gi*0.08)+'s';
-    sec.style.cssText+=';margin:0 0 12px;padding:16px 18px;background:linear-gradient(135deg,#f0fdf4,#ecfdf5);border:1.5px solid #cdeede;border-radius:14px;';
-    sec.innerHTML=
-      '<div style="font-size:16px;font-weight:800;color:#0a4c32;line-height:1.35;">'+esc(o.dream)+'</div>'+
-      (o.pain?'<div style="font-size:13px;color:#4b5563;margin-top:5px;">'+esc(o.pain)+'</div>':'')+
-      '<div style="font-size:11px;color:#16a34a;font-weight:700;margin-top:9px;">Bu hedef için '+g.items.length+' tamamlayıcı ürün seçildi</div>';
-    grid.appendChild(sec);
-  });
-
-  // Paket içeriği — SADECE görseller (isim yok; başka yerden aratıp almasın)
-  const strip=document.createElement('div');
-  let thumbs='';
-  products.forEach(p=>{
-    thumbs+='<div style="width:62px;height:62px;border-radius:10px;overflow:hidden;background:#fff;border:1px solid #e5e7eb;flex-shrink:0;display:flex;align-items:center;justify-content:center;position:relative;">'+
-      '<img src="'+p.image+'" alt="" loading="lazy" style="width:100%;height:100%;object-fit:contain;" onerror="this.parentElement.style.opacity=.3">'+
-      ((p._qty||1)>1?'<span style="position:absolute;bottom:2px;right:2px;background:#0a4c32;color:#fff;font-size:9px;font-weight:700;padding:0 4px;border-radius:6px;">x'+p._qty+'</span>':'')+
-    '</div>';
-  });
-  strip.innerHTML='<div style="font-size:12px;font-weight:800;color:#0a4c32;text-transform:uppercase;letter-spacing:.4px;margin:16px 2px 8px;">Paket İçeriği · '+products.length+' ürün</div>'+
-    '<div style="display:flex;gap:8px;flex-wrap:wrap;">'+thumbs+'</div>';
-  grid.appendChild(strip);
-
-  // Plana özel kullanım rehberi sözü (satın alım sonrası gönderilir)
-  const guide=document.createElement('div');
-  guide.style.cssText='margin:16px 0 4px;padding:14px 16px;background:#fff;border:1.5px dashed #86efac;border-radius:12px;font-size:12.5px;color:#1a1a1a;line-height:1.55;';
-  guide.innerHTML='<div style="font-weight:800;color:#0a4c32;margin-bottom:4px;">Plana özel kullanım rehberi — hediye</div>Satın alımdan sonra bu plana özel ücretsiz kullanım rehberini iletiyoruz: hangi ürünü <strong>ne zaman</strong> (sabah / öğle / akşam), <strong>nasıl</strong> ve <strong>ne kadar süre</strong> kullanacağını adım adım gösterir.';
-  grid.appendChild(guide);
-
-  // Özet
-  const savings=totalPrice-totalDiscount;
-  const tierName=plan.tier==='premium'?'Tam Plan':'Temel Plan';
-  const summaryName=state.name?(state.name+' için '+tierName):tierName;
-  const kurNote=plan.kur?' · 2 aylık kür':' · tek kutu';
-  let summaryHTML='<div class="total-label">'+esc(summaryName)+' | '+products.length+' ürün'+kurNote+'</div>';
-  if(savings>0){
-    summaryHTML+='<div class="total-price">'+fmt(totalDiscount)+'</div>';
-    summaryHTML+='<div class="total-savings">&#127881; '+fmt(savings)+' tasarruf</div>';
+  // Re-render card
+  const card=document.querySelector(`.rec-card[data-idx="${idx}"]`);
+  if(!card) return;
+  const needKey=(window._quizCatToNeed||{})[cat]||'';
+  const reason=getCategoryReason(cat, needKey);
+  let priceHTML='';
+  if(pick.discount_price){
+    const pct=Math.round((1-pick.discount_price/pick.price)*100);
+    priceHTML=`<span class="rec-old-price">${fmt(pick.price)}</span><span class="rec-price">${fmt(pick.discount_price)}</span><span class="rec-discount">%${pct}</span>`;
   }else{
-    summaryHTML+='<div class="total-price">'+fmt(totalPrice)+'</div>';
+    priceHTML=`<span class="rec-price">${fmt(pick.price)}</span>`;
   }
-  document.getElementById('planSummary').innerHTML=summaryHTML;
+  card.style.animation='none';
+  card.offsetHeight; // reflow
+  card.style.animation='cardSlideIn .4s ease forwards';
+  card.innerHTML=`
+    <div class="rec-reason">${esc(reason)}</div>
+    <div class="rec-body">
+      <div class="rec-img"><img src="${pick.image}" alt="${esc(pick.name)}" loading="lazy" onerror="this.parentElement.innerHTML='&#128138;'"></div>
+      <div class="rec-info">
+        <div class="rec-brand">${esc(pick.brand)}</div>
+        <div class="rec-name">${esc(pick.name)}</div>
+        <div class="rec-price-row">${priceHTML}</div>
+      </div>
+    </div>
+    <div class="rec-action">
+      <a class="btn-cart" href="https://e-eczaci.com/${pick.slug}" target="_blank" onclick="trackEvent('add_to_cart_click',{slug:'${pick.slug}',position:${idx}})">&#128722; Sepete Ekle</a>
+      <div class="rec-action-row">
+        <a class="btn-inspect" href="https://e-eczaci.com/${pick.slug}" target="_blank" onclick="trackEvent('product_click',{slug:'${pick.slug}',position:${idx}})">Ürünü İncele &#8594;</a>
+        <button class="swap-btn" onclick="swapProduct(${idx})" title="Alternatif ürün göster">&#8635; Başka Öner</button>
+      </div>
+    </div>`;
 
-  window._quizProducts=products;
-  window._quizData=quizData;
+  // Update summary
+  let total=0;
+  products.forEach(p=>{total+=(p.discount_price||p.price)});
+  const summaryEl=document.getElementById('planSummary');
+  if(summaryEl){
+    const planTitle=getDynamicPlanTitle();
+    const summaryName=state.name?state.name+'\'in '+planTitle+'nı':products.length+' ürünlük planınız';
+    summaryEl.innerHTML=`<div class="total-label">${esc(summaryName)} | ${products.length} ürün</div><div class="total-price">${fmt(total)}</div>`;
+  }
   buildBundleLink(products);
-  // Upsell ve cross-sell kaldırıldı — planın kendisi pain/dream ile tek paket olarak satılıyor
-  const buEl=document.getElementById('bundleUpsell'); if(buEl) buEl.style.display='none';
-  const csEl=document.getElementById('crossSellSection'); if(csEl) csEl.style.display='none';
-  window._quizRecommendedSlugs=products.map(p=>p.slug);
-  trackEvent('quiz_complete',{product_count:products.length,total:totalDiscount,segment:state.who,needs:state.needs,tier:plan.tier,recommended_slugs:window._quizRecommendedSlugs,kur:plan.kur});
-}
-
-function selectTier(t){
-  const plan=window._plan;
-  if(!plan) return;
-  if(t==='premium'&&plan.premium.length<=plan.value.length) return;
-  plan.tier=t;
-  recomputePlan();
-  trackEvent('tier_select',{tier:t});
-}
-
-function toggleKur(){
-  const plan=window._plan;
-  if(!plan) return;
-  plan.kur=!plan.kur;
-  recomputePlan();
-  trackEvent('kur_toggle',{on:plan.kur});
+  trackEvent('product_swap',{from:cur.slug,to:pick.slug,position:idx});
 }
 
 /* ===== BUNDLE WHATSAPP LINK ===== */
 function buildBundleLink(products){
   let msg='Merhaba! Quiz sonucuma göre bu ürünleri sipariş vermek istiyorum:\n\n';
-  let total=0;
   products.forEach((p,i)=>{
-    const q=p._qty||1;
-    const pr=p.discount_price||p.price;
-    msg+=(i+1)+'. '+p.name+(q>1?(' x'+q):'')+' - '+fmt(pr*q)+'\n';
-    total+=pr*q;
+    msg+=`${i+1}. ${p.name} - ${fmt(p.discount_price||p.price)}\n`;
   });
-  const kur=(window._plan&&window._plan.kur);
-  msg+='\nToplam: '+fmt(total)+(kur?' (2 aylık kür)':'');
+  let total=0;
+  products.forEach(p=>{total+=(p.discount_price||p.price)});
+  msg+=`\nToplam: ${fmt(total)}`;
   const bundleBtn=document.getElementById('bundleBtn');
   if(bundleBtn) bundleBtn.href='https://wa.me/908503091545?text='+encodeURIComponent(msg);
 }
@@ -1600,9 +1497,7 @@ function renderBundleUpsell(needs){
         <div style="text-align:right;flex-shrink:0;">
           <div style="background:#16a34a;color:#fff;font-size:12px;font-weight:700;
                padding:3px 10px;border-radius:20px;white-space:nowrap;">%${b.discount} İndirim</div>
-          <div style="display:block;background:linear-gradient(135deg,#38a169,#276749);color:#fff;text-align:center;padding:6px 12px;border-radius:8px;text-decoration:none;font-weight:700;font-size:11px;margin-top:6px;white-space:nowrap;">
-            Paketi İncele &rarr;
-          </div>
+          <div style="font-size:11px;color:#4b7c59;margin-top:4px;">Hazır rutin &#8594;</div>
         </div>
       </div>
     </a>`;
@@ -1611,104 +1506,6 @@ function renderBundleUpsell(needs){
   el.innerHTML=html;
   el.style.display='block';
   trackEvent('bundle_upsell_shown',{count:matched.length,needs:needs});
-}
-
-/* ===== CROSS-SELL: BU ÜRÜNLERİ ALANLAR BUNLARI DA ALDI ===== */
-function renderCrossSell(pickedProducts){
-  const el=document.getElementById('crossSellSection');
-  if(!el||!pickedProducts||!pickedProducts.length) return;
-
-  const allProducts=window._quizData;
-  if(!allProducts||!allProducts.categories) return;
-
-  const pickedSlugs=new Set(pickedProducts.map(p=>p.slug));
-  const pickedCats=new Set(pickedProducts.map(p=>p._fromCat).filter(Boolean));
-
-  // Seçilen kategorilerin komplementer kategorilerini belirle
-  const COMP_MAP={
-    'Vitamin ve Takviye>D Vitamini':['Vitamin ve Takviye>Magnezyum','Vitamin ve Takviye>K2 Vitamini'],
-    'Vitamin ve Takviye>Magnezyum':['Vitamin ve Takviye>B Vitaminleri','Vitamin ve Takviye>D Vitamini'],
-    'Dermokozmetik>Nemlendirici':['Dermokozmetik>Güneş Koruma','Dermokozmetik>Serum'],
-    'Dermokozmetik>Serum':['Dermokozmetik>Nemlendirici','Vitamin ve Takviye>Kolajen'],
-    'Vitamin ve Takviye>Omega 3':['Vitamin ve Takviye>D Vitamini','Vitamin ve Takviye>Koenzim Q10'],
-    'Kişisel Bakım>Saç Bakımı':['Vitamin ve Takviye>Biotin','Vitamin ve Takviye>Çinko'],
-  };
-
-  // Seçilmeyen, ama tamamlayıcı ürünleri topla
-  const crossCandidates=[];
-  for(const cat of pickedCats){
-    const compCats=COMP_MAP[cat]||[];
-    for(const compCat of compCats){
-      const prods=(allProducts.categories[compCat]||[]).filter(p=>
-        !pickedSlugs.has(p.slug)&&(p.discount_price||p.price)>=50
-      );
-      if(prods.length){
-        // En iyi adayı al (indirimli varsa önce)
-        const best=prods.sort((a,b)=>{
-          const ad=a.discount_price?1:0,bd=b.discount_price?1:0;
-          return bd-ad;
-        })[0];
-        if(!crossCandidates.find(c=>c.slug===best.slug)){
-          crossCandidates.push({...best,_fromComp:compCat});
-        }
-      }
-    }
-  }
-
-  // Seçilen ürünlerle aynı kategoriden ama seçilmemiş popüler ürünler
-  if(crossCandidates.length<3){
-    for(const cat of pickedCats){
-      const prods=(allProducts.categories[cat]||[]).filter(p=>
-        !pickedSlugs.has(p.slug)&&(p.discount_price||p.price)>=50
-      ).slice(0,2);
-      for(const p of prods){
-        if(!crossCandidates.find(c=>c.slug===p.slug)){
-          crossCandidates.push({...p,_fromComp:cat});
-          if(crossCandidates.length>=4) break;
-        }
-      }
-      if(crossCandidates.length>=4) break;
-    }
-  }
-
-  // Max 3 cross-sell ürün göster
-  const picks=crossCandidates.slice(0,3);
-  if(!picks.length){el.style.display='none';return;}
-
-  let html=`<div style="margin:4px 0;">
-    <div style="font-size:13px;font-weight:700;color:#2b2b2b;text-transform:uppercase;letter-spacing:.5px;margin-bottom:12px;border-top:1px solid #eeeeee;padding-top:16px;">
-      Bu planla birlikte sıkça alınanlar
-    </div>
-    <div style="display:flex;flex-direction:column;gap:8px;">`;
-
-  for(const p of picks){
-    const price=p.discount_price||p.price;
-    const hasDiscount=!!p.discount_price;
-    const pct=hasDiscount?Math.round((1-p.discount_price/p.price)*100):0;
-    const priceHTML=hasDiscount
-      ?`<span style="text-decoration:line-through;color:#999;font-size:11px;margin-right:4px;">${fmt(p.price)}</span><span style="color:#D94F3F;font-weight:700;font-size:13px;">${fmt(p.discount_price)}</span><span style="background:#D94F3F;color:#fff;font-size:10px;font-weight:700;padding:1px 6px;border-radius:10px;margin-left:4px;">%${pct}</span>`
-      :`<span style="font-weight:700;font-size:13px;">${fmt(price)}</span>`;
-
-    html+=`<div style="display:flex;align-items:center;gap:12px;padding:12px;background:#fafafa;border:1px solid #eeeeee;border-radius:10px;">
-      <div style="width:52px;height:52px;flex-shrink:0;border-radius:8px;overflow:hidden;background:#f4f4f4;">
-        <img src="${p.image}" alt="${esc(p.name)}" style="width:100%;height:100%;object-fit:cover;" loading="lazy" onerror="this.parentElement.innerHTML='&#128138;'">
-      </div>
-      <div style="flex:1;min-width:0;">
-        <div style="font-size:10px;color:#999;font-weight:600;text-transform:uppercase;letter-spacing:.3px;">${esc(p.brand||'')}</div>
-        <div style="font-size:13px;font-weight:600;color:#2b2b2b;line-height:1.3;margin:2px 0;">${esc(p.name)}</div>
-        <div style="margin-top:4px;">${priceHTML}</div>
-      </div>
-      <a href="https://e-eczaci.com/${p.slug}" target="_blank" onclick="trackEvent('cross_sell_click',{slug:'${p.slug}'})"
-         style="display:block;background:linear-gradient(135deg,#38a169,#276749);color:#fff;text-align:center;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:700;font-size:12px;white-space:nowrap;flex-shrink:0;">
-        Incele &rarr;
-      </a>
-    </div>`;
-  }
-
-  html+='</div></div>';
-  el.innerHTML=html;
-  el.style.display='block';
-  trackEvent('cross_sell_shown',{count:picks.length});
 }
 
 /* Quiz ready */
