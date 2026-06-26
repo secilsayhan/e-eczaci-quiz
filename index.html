@@ -548,7 +548,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -598,7 +598,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -1243,10 +1243,10 @@ function renderProducts(){
 
   const planTitle=getDynamicPlanTitle();
   if(state.name){
-    document.getElementById('resultsTitle').textContent=state.name+', size özel planınız hazır';
+    document.getElementById('resultsTitle').textContent='Tebrikler '+state.name+', size özel planınız hazır';
     document.getElementById('resultsSubtext').textContent='İhtiyaçlarınıza göre özenle seçildi';
   }else{
-    document.getElementById('resultsTitle').textContent='Size özel planınız hazır';
+    document.getElementById('resultsTitle').textContent='Tebrikler! Size özel planınız hazır';
     document.getElementById('resultsSubtext').textContent='İhtiyaçlarınıza göre özenle seçtik';
   }
 
@@ -1452,14 +1452,15 @@ function renderProducts(){
   }
 
   // Tam Plan MUTLAKA herkesin ihtiyacı olan temel yaşam ürünlerini içersin (uzman çekirdeği)
+  // Uzman çekirdeği — yaygın eksikliği düzelten, geniş etkili, güvenli temeller
   const ESS_BY_WHO={
-    yetiskin:['D Vitamini','Omega 3','Magnezyum','Kreatin','Multivitamin'],
-    yasli:['D Vitamini','Omega 3','Magnezyum','Kalsiyum','Multivitamin'],
+    yetiskin:['D Vitamini','Omega 3','Magnezyum','Multivitamin'],
+    yasli:['D Vitamini','Omega 3','Magnezyum','B12 Vitamini','Kalsiyum'],
     cocuk:['D Vitamini','Omega 3','Multivitamin'],
     hamile:['Folik Asit (B9 Vitamini)','D Vitamini','Omega 3','Demir']
   };
   const ESSENTIAL_STAPLES=ESS_BY_WHO[state.who]||ESS_BY_WHO.yetiskin;
-  const STAPLE_KW={'D Vitamini':['d vitamin','d3'],'Omega 3':['omega','balık yağı'],'Magnezyum':['magnezyum'],'Multivitamin':['multivitamin'],'Kreatin':['kreatin','creatine'],'Kalsiyum':['kalsiyum'],'Folik Asit (B9 Vitamini)':['folik','folat'],'Demir':['demir']};
+  const STAPLE_KW={'D Vitamini':['d vitamin','d3'],'Omega 3':['omega','balık yağı'],'Magnezyum':['magnezyum'],'Multivitamin':['multivitamin'],'B12 Vitamini':['b12'],'Kalsiyum':['kalsiyum'],'Folik Asit (B9 Vitamini)':['folik','folat'],'Demir':['demir']};
   for(const cat of ESSENTIAL_STAPLES){
     if(premiumSet.length>=12) break;
     const kws=STAPLE_KW[cat]||[cat.toLowerCase()];
@@ -1787,7 +1788,7 @@ function buyNow(ev){
   var orig = btn ? btn.innerHTML : '';
   if(btn) btn.innerHTML='Sepete ekleniyor...';
   trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
-  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+  fetch('/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
