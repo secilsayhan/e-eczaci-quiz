@@ -548,7 +548,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -598,7 +598,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -1489,7 +1489,11 @@ function renderProducts(){
     // bundle zaten D3+K2 içerir → ayrı K2 varsa onu da çıkar (tekrar olmasın)
     for(var k=0;k<set.length;k++){var nk=(set[k].name||'').toLowerCase();if((nk.indexOf(' k2')>=0||nk.indexOf('k2 ')>=0||nk.indexOf('menakuinon')>=0)&&rm.indexOf(set[k].slug)<0)rm.push(set[k].slug);}
     var out=set.filter(function(p){return rm.indexOf(p.slug)<0;});
-    out.push(Object.assign({},DMULTI_BUNDLE,{_fromCat:'Multivitamin',_need:'temel',_reason:'Multivitamin + D3 & K2 birlikte (indirimli)',_new:true}));
+    out.push(Object.assign({},DMULTI_BUNDLE,{_fromCat:'Multivitamin',_need:'temel',_reason:'Multivitamin + D3 & K2 birlikte (indirimli)',_new:true,
+      _thumbs:[
+        {image:'https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb4ff06b-863c-4008-91af-96b2082e17ab/image_1950.webp',label:'Multivitamin'},
+        {image:'https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bede280e-6b37-490b-a99b-87463008eb4e/image_1950.webp',label:'D3 & K2'}
+      ]}));
     return out;
   }
   var _pm=consolidateDMulti(premiumSet);premiumSet.length=0;Array.prototype.push.apply(premiumSet,_pm);
@@ -1673,13 +1677,20 @@ function recomputePlan(){
   const kurTxt=plan.kur?'2 aylık kür':'';
   // Tier kartının İÇİNDE ürün görselleri (isim yok, tip etiketli)
   function thumbsHTML(set){
-    let t='';
+    let t='', cnt=0;
+    function thumb(img,lbl,q){
+      return '<div style="width:58px;flex-shrink:0;text-align:center;"><div style="width:46px;height:46px;margin:0 auto;border-radius:8px;overflow:hidden;background:#fff;border:1px solid #e5e7eb;display:flex;align-items:center;justify-content:center;position:relative;"><img src="'+img+'" alt="" loading="lazy" style="width:100%;height:100%;object-fit:contain;" onerror="this.parentElement.style.opacity=.3">'+(q>1?'<span style="position:absolute;bottom:0;right:0;background:#0a4c32;color:#fff;font-size:8px;font-weight:700;padding:0 3px;border-radius:5px;">x'+q+'</span>':'')+'</div><div style="font-size:9px;color:#6b7280;margin-top:3px;line-height:1.15;">'+lbl+'</div></div>';
+    }
     set.forEach(p=>{
       const q=kurQtyFor(p,plan.kur);
-      const lbl=esc((p._fromCat||'').replace(/\s*\([^)]*\)/,'').trim());
-      t+='<div style="width:58px;flex-shrink:0;text-align:center;"><div style="width:46px;height:46px;margin:0 auto;border-radius:8px;overflow:hidden;background:#fff;border:1px solid #e5e7eb;display:flex;align-items:center;justify-content:center;position:relative;"><img src="'+p.image+'" alt="" loading="lazy" style="width:100%;height:100%;object-fit:contain;" onerror="this.parentElement.style.opacity=.3">'+(q>1?'<span style="position:absolute;bottom:0;right:0;background:#0a4c32;color:#fff;font-size:8px;font-weight:700;padding:0 3px;border-radius:5px;">x'+q+'</span>':'')+'</div><div style="font-size:9px;color:#6b7280;margin-top:3px;line-height:1.15;">'+lbl+'</div></div>';
+      if(p._thumbs && p._thumbs.length){
+        p._thumbs.forEach(th=>{ t+=thumb(th.image, esc(th.label||''), q); cnt++; });
+      } else {
+        const lbl=esc((p._fromCat||'').replace(/\s*\([^)]*\)/,'').trim());
+        t+=thumb(p.image, lbl, q); cnt++;
+      }
     });
-    return '<div style="margin-top:12px;padding-top:12px;border-top:1px solid #e3ece7;"><div style="font-size:10px;font-weight:700;color:#6b7280;text-transform:uppercase;letter-spacing:.3px;margin-bottom:8px;">İçindeki ürünler · '+set.length+'</div><div style="display:flex;gap:6px;flex-wrap:wrap;">'+t+'</div></div>';
+    return '<div style="margin-top:12px;padding-top:12px;border-top:1px solid #e3ece7;"><div style="font-size:10px;font-weight:700;color:#6b7280;text-transform:uppercase;letter-spacing:.3px;margin-bottom:8px;">İçindeki ürünler · '+cnt+'</div><div style="display:flex;gap:6px;flex-wrap:wrap;">'+t+'</div></div>';
   }
   function tierCard(key,label,subtitle,total,features,recommended,set){
     const active=plan.tier===key;
@@ -1816,7 +1827,7 @@ function buyNow(ev){
   var orig = btn ? btn.innerHTML : '';
   if(btn) btn.innerHTML='Sepete ekleniyor...';
   trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
-  fetch('/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
