@@ -13925,6 +13925,18 @@
         "stock": 2
       },
       {
+        "name": "Bioderma Sebium Izokit",
+        "slug": "bioderma-sebium-izokit",
+        "brand": "Bioderma",
+        "price": 2829.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/315411c5-94a2-4a94-b13f-5da97d21e4c7/image_1950.webp",
+        "cats": [
+          "Yüz Bakımı"
+        ],
+        "stock": 8
+      },
+      {
         "name": "Bioderma Sebium Serum",
         "slug": "bioderma-sebium-serum",
         "brand": "Bioderma",
@@ -30343,7 +30355,7 @@
         "brand": "Orzax",
         "price": 1025.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/50c69c97-43ec-4687-a7e2-03de6f962c6c/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
         "cats": [
           "Metabolizma ve Kilo Yönetimi",
           "Regl Dönemi",
@@ -31448,7 +31460,7 @@
         "brand": "Orzax",
         "price": 1025.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/50c69c97-43ec-4687-a7e2-03de6f962c6c/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
         "cats": [
           "Metabolizma ve Kilo Yönetimi",
           "Regl Dönemi",
@@ -35915,7 +35927,7 @@
         "brand": "Orzax",
         "price": 1025.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/50c69c97-43ec-4687-a7e2-03de6f962c6c/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
         "cats": [
           "Metabolizma ve Kilo Yönetimi",
           "Regl Dönemi",
@@ -39080,9 +39092,9 @@
     ]
   },
   "stats": {
-    "total_products": 2730,
+    "total_products": 2731,
     "total_categories": 509,
-    "generated": "2026-06-26 11:00",
+    "generated": "2026-06-26 15:00",
     "source": "ikas_api_live"
   }
 }
