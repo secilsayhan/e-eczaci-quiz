@@ -548,7 +548,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -598,7 +598,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -1532,6 +1532,33 @@ function renderProducts(){
     }
   })();
 
+  // Tam Plan tavanı: çok-ihtiyaçlı senaryoda bile makul kalsın (~4.500). Sadece premium-only ekstraları indir/trimle.
+  (function enforceTamBand(){
+    var HI=4500;
+    function ptotal(){return premiumSet.reduce(function(t,p){return t+(p.discount_price||p.price);},0);}
+    var guard=0;
+    while(ptotal()>HI && guard<18){
+      guard++;
+      var idx=-1, hi=-1;
+      for(var i=0;i<premiumSet.length;i++){
+        if(!premiumSet[i]._new) continue; // Temel çekirdeğine dokunma
+        if(premiumSet[i].slug==='yilbasi-ozel-orzax-energy-d3k2-25-indirimli') continue; // bundle'a dokunma
+        var pp=premiumSet[i].discount_price||premiumSet[i].price;
+        if(pp>hi){hi=pp;idx=i;}
+      }
+      if(idx<0) break;
+      var cur=premiumSet[idx], cat=cur._fromCat, curp=cur.discount_price||cur.price;
+      var used={}; premiumSet.forEach(function(p){used[p.slug]=1;}); valueSet.forEach(function(p){used[p.slug]=1;});
+      var pool=(quizData.categories[cat]||[]).filter(function(p){if((p.stock||0)<=0||used[p.slug])return false;var pp=p.discount_price||p.price;return pp<curp&&pp>=300;});
+      if(pool.length){
+        pool.sort(function(a,b){return (b.discount_price||b.price)-(a.discount_price||a.price);}); // bir kademe alt
+        premiumSet[idx]=Object.assign({},pool[0],{_fromCat:cat,_need:cur._need,_reason:cur._reason,_new:true});
+      } else {
+        premiumSet.splice(idx,1); // daha uygunu yok → en az kritik ekstrayı çıkar
+      }
+    }
+  })();
+
   window._plan={value:valueSet, premium:premiumSet, tier:(premiumSet.length>valueSet.length?'premium':'value'), kur:false, planTitle};
   recomputePlan();
 }
@@ -1860,7 +1887,7 @@ function buyNow(ev){
   var orig = btn ? btn.innerHTML : '';
   if(btn) btn.innerHTML='Sepete ekleniyor...';
   trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
-  fetch('/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
