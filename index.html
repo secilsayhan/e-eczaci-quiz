@@ -1454,13 +1454,13 @@ function renderProducts(){
   // Tam Plan MUTLAKA herkesin ihtiyacı olan temel yaşam ürünlerini içersin (uzman çekirdeği)
   // Uzman çekirdeği — yaygın eksikliği düzelten, geniş etkili, güvenli temeller
   const ESS_BY_WHO={
-    yetiskin:['D Vitamini','Omega 3','Magnezyum','Multivitamin'],
-    yasli:['D Vitamini','Omega 3','Magnezyum','B12 Vitamini','Kalsiyum'],
+    yetiskin:['D Vitamini','Omega 3','Magnezyum','Kreatin','Multivitamin'],
+    yasli:['D Vitamini','Omega 3','Magnezyum','Kreatin','B12 Vitamini'],
     cocuk:['D Vitamini','Omega 3','Multivitamin'],
     hamile:['Folik Asit (B9 Vitamini)','D Vitamini','Omega 3','Demir']
   };
   const ESSENTIAL_STAPLES=ESS_BY_WHO[state.who]||ESS_BY_WHO.yetiskin;
-  const STAPLE_KW={'D Vitamini':['d vitamin','d3'],'Omega 3':['omega','balık yağı'],'Magnezyum':['magnezyum'],'Multivitamin':['multivitamin'],'B12 Vitamini':['b12'],'Kalsiyum':['kalsiyum'],'Folik Asit (B9 Vitamini)':['folik','folat'],'Demir':['demir']};
+  const STAPLE_KW={'D Vitamini':['d vitamin','d3'],'Omega 3':['omega','balık yağı'],'Magnezyum':['magnezyum'],'Multivitamin':['multivitamin'],'Kreatin':['kreatin','creatine'],'B12 Vitamini':['b12'],'Kalsiyum':['kalsiyum'],'Folik Asit (B9 Vitamini)':['folik','folat'],'Demir':['demir']};
   for(const cat of ESSENTIAL_STAPLES){
     if(premiumSet.length>=12) break;
     const kws=STAPLE_KW[cat]||[cat.toLowerCase()];
