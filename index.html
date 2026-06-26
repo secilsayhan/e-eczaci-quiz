@@ -1738,12 +1738,18 @@ function recomputePlan(){
   ben.innerHTML='<div style="font-size:12px;font-weight:800;color:#0a4c32;text-transform:uppercase;letter-spacing:.4px;margin-bottom:2px;">Bu plan size ne kazandırır</div>'+rows;
   grid.appendChild(ben);
 
+  // Eğitici uyarı + teşvik: çoğu kişi doğal yolla yeterince alamıyor
+  const eduBox=document.createElement('div');
+  eduBox.style.cssText='margin:14px 0 4px;padding:14px 16px;background:linear-gradient(135deg,#fff8ec,#fffdf7);border:1px solid #f0e2c0;border-radius:12px;font-size:13px;color:#4a3f2a;line-height:1.55;';
+  eduBox.innerHTML='<span style="font-weight:800;color:#8a6d1f;">Çoğu kişinin farkında olmadığı bir gerçek:</span> D vitamini, omega-3, magnezyum gibi temel besinleri bugünün beslenmesi ve yaşam tarzıyla vücudunuzun ihtiyacı olan düzeyde almak çoğu zaman mümkün değil. Bu yüzden hedefli ve kaliteli takviye gerçek fark yaratır.';
+  grid.appendChild(eduBox);
+
   // (paket görselleri artık tier kartlarının İÇİNDE gösteriliyor)
 
   // Plana özel kullanım rehberi sözü (satın alım sonrası gönderilir)
   const guide=document.createElement('div');
   guide.style.cssText='margin:16px 0 4px;padding:14px 16px;background:#fff;border:1.5px dashed #86efac;border-radius:12px;font-size:12.5px;color:#1a1a1a;line-height:1.55;';
-  guide.innerHTML='<div style="font-weight:800;color:#0a4c32;margin-bottom:8px;">Planınla birlikte — ücretsiz</div>'+
+  guide.innerHTML='<div style="font-weight:800;color:#0a4c32;margin-bottom:8px;">Planınızla birlikte — ücretsiz</div>'+
     ['Kişiye özel kullanım takvimi — hangi ürün ne zaman (sabah / öğle / akşam) ve nasıl',
      'Plana özel beslenme ve yaşam tarzı önerileri',
      'Kür boyunca takip ve hatırlatmalar',
