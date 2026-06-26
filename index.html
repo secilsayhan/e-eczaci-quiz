@@ -548,7 +548,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -598,7 +598,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -1406,7 +1406,7 @@ function renderProducts(){
   }
 
   if(!pairs.length){
-    grid.innerHTML='<div style="text-align:center;padding:40px;color:var(--text-muted)"><h3>Sonuç bulunamadı</h3><p>Filtreleri değiştirerek tekrar deneyinyin.</p></div>';
+    grid.innerHTML='<div style="text-align:center;padding:40px;color:var(--text-muted)"><h3>Sonuç bulunamadı</h3><p>Filtreleri değiştirerek tekrar deneyin.</p></div>';
     document.getElementById('planSummary').innerHTML='';
     return;
   }
@@ -1478,13 +1478,13 @@ function renderProducts(){
   var DMULTI_BUNDLE=null;
   for(var _c in quizData.categories){var _arr=quizData.categories[_c];for(var _i=0;_i<_arr.length;_i++){if(_arr[_i].slug==='yilbasi-ozel-orzax-energy-d3k2-25-indirimli'){DMULTI_BUNDLE=_arr[_i];break;}}if(DMULTI_BUNDLE)break;}
   function consolidateDMulti(set){
-    if(!DMULTI_BUNDLE||(DMULTI_BUNDLE.stock||0)<=0) return set;
-    if(set.some(function(p){return p.slug===DMULTI_BUNDLE.slug;})) return set;
+    if(!DMULTI_BUNDLE||(DMULTI_BUNDLE.stock||0)<=0) return set.slice();
+    if(set.some(function(p){return p.slug===DMULTI_BUNDLE.slug;})) return set.slice();
     function isD(p){var n=(p.name||'').toLowerCase();return (n.indexOf('d vitamin')>=0||/\bd3\b/.test(n))&&n.indexOf('multivit')<0;}
     function isM(p){var n=(p.name||'').toLowerCase();return n.indexOf('multivitamin')>=0&&p.slug!==DMULTI_BUNDLE.slug;}
     var di=-1,mi=-1;
     for(var i=0;i<set.length;i++){if(di<0&&isD(set[i]))di=i;if(mi<0&&isM(set[i]))mi=i;}
-    if(di<0||mi<0) return set;
+    if(di<0||mi<0) return set.slice();
     var rm=[set[di].slug,set[mi].slug];
     // bundle zaten D3+K2 içerir → ayrı K2 varsa onu da çıkar (tekrar olmasın)
     for(var k=0;k<set.length;k++){var nk=(set[k].name||'').toLowerCase();if((nk.indexOf(' k2')>=0||nk.indexOf('k2 ')>=0||nk.indexOf('menakuinon')>=0)&&rm.indexOf(set[k].slug)<0)rm.push(set[k].slug);}
@@ -1498,6 +1498,39 @@ function renderProducts(){
   }
   var _pm=consolidateDMulti(premiumSet);premiumSet.length=0;Array.prototype.push.apply(premiumSet,_pm);
   var _vm=consolidateDMulti(valueSet);valueSet.length=0;Array.prototype.push.apply(valueSet,_vm);
+
+  // World-class Temel bandı: erişilebilir ama ucuz değil. Tek-ay sepet 1.600-2.500₺ aralığında tut.
+  // Ucuzsa kaliteliyle yükselt, pahalıysa aynı içerikte uygunla indir (bundle'a dokunma, kalite tabanı 300₺).
+  (function enforceTemelBand(){
+    var LO=1600, HI=2500, QFLOOR=300;
+    function vtotal(){return valueSet.reduce(function(t,p){return t+(p.discount_price||p.price);},0);}
+    var guard=0;
+    while(guard<16){
+      guard++;
+      var tot=vtotal();
+      if(tot>=LO && tot<=HI) break;
+      var raise=tot<LO;
+      var idx=-1, pick=raise?1e18:-1;
+      for(var i=0;i<valueSet.length;i++){
+        if(valueSet[i].slug==='yilbasi-ozel-orzax-energy-d3k2-25-indirimli') continue;
+        var pp=valueSet[i].discount_price||valueSet[i].price;
+        if(raise ? pp<pick : pp>pick){pick=pp;idx=i;}
+      }
+      if(idx<0) break;
+      var cur=valueSet[idx], cat=cur._fromCat, curp=cur.discount_price||cur.price;
+      var used={}; valueSet.forEach(function(p){used[p.slug]=1;}); premiumSet.forEach(function(p){used[p.slug]=1;});
+      var pool=(quizData.categories[cat]||[]).filter(function(p){
+        if((p.stock||0)<=0||used[p.slug]) return false;
+        var pp=p.discount_price||p.price;
+        return raise ? (pp>curp) : (pp<curp && pp>=QFLOOR);
+      });
+      if(!pool.length) break;
+      pool.sort(function(a,b){var pa=a.discount_price||a.price,pb=b.discount_price||b.price;return raise?(pa-pb):(pb-pa);}); // raise: bir üst, indir: bir alt
+      var nx=pool[0];
+      for(var j=0;j<premiumSet.length;j++){ if(premiumSet[j].slug===cur.slug){ premiumSet[j]=Object.assign({},nx,{_fromCat:cat,_need:premiumSet[j]._need,_reason:premiumSet[j]._reason,_new:premiumSet[j]._new}); break; } }
+      valueSet[idx]=Object.assign({},nx,{_fromCat:cat,_need:cur._need,_reason:cur._reason});
+    }
+  })();
 
   window._plan={value:valueSet, premium:premiumSet, tier:(premiumSet.length>valueSet.length?'premium':'value'), kur:false, planTitle};
   recomputePlan();
@@ -1827,7 +1860,7 @@ function buyNow(ev){
   var orig = btn ? btn.innerHTML : '';
   if(btn) btn.innerHTML='Sepete ekleniyor...';
   trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
-  fetch('/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
