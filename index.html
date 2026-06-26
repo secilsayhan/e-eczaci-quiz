@@ -1763,7 +1763,7 @@ function buyNow(ev){
   fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
     .then(function(r){return r.json();})
     .then(function(j){
-      if(j&&j.success&&j.url){ window.location.href=j.url; }
+      if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
       else { _buying=false; if(btn) btn.innerHTML=orig; _waFallback(); }
     })
     .catch(function(){ _buying=false; if(btn) btn.innerHTML=orig; _waFallback(); });
