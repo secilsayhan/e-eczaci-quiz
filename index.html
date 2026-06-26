@@ -548,7 +548,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -598,7 +598,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -1473,6 +1473,28 @@ function renderProducts(){
     }
   }
 
+  // D Vitamini + Multivitamin birlikteyse → tek birleşik ürün (Orzax Energy Multivit + D3K2, indirimli)
+  // Daha doğru (proper D3 dozu + K2 sinerjisi), daha az tekrar, indirimli.
+  var DMULTI_BUNDLE=null;
+  for(var _c in quizData.categories){var _arr=quizData.categories[_c];for(var _i=0;_i<_arr.length;_i++){if(_arr[_i].slug==='yilbasi-ozel-orzax-energy-d3k2-25-indirimli'){DMULTI_BUNDLE=_arr[_i];break;}}if(DMULTI_BUNDLE)break;}
+  function consolidateDMulti(set){
+    if(!DMULTI_BUNDLE||(DMULTI_BUNDLE.stock||0)<=0) return set;
+    if(set.some(function(p){return p.slug===DMULTI_BUNDLE.slug;})) return set;
+    function isD(p){var n=(p.name||'').toLowerCase();return (n.indexOf('d vitamin')>=0||/\bd3\b/.test(n))&&n.indexOf('multivit')<0;}
+    function isM(p){var n=(p.name||'').toLowerCase();return n.indexOf('multivitamin')>=0&&p.slug!==DMULTI_BUNDLE.slug;}
+    var di=-1,mi=-1;
+    for(var i=0;i<set.length;i++){if(di<0&&isD(set[i]))di=i;if(mi<0&&isM(set[i]))mi=i;}
+    if(di<0||mi<0) return set;
+    var rm=[set[di].slug,set[mi].slug];
+    // bundle zaten D3+K2 içerir → ayrı K2 varsa onu da çıkar (tekrar olmasın)
+    for(var k=0;k<set.length;k++){var nk=(set[k].name||'').toLowerCase();if((nk.indexOf(' k2')>=0||nk.indexOf('k2 ')>=0||nk.indexOf('menakuinon')>=0)&&rm.indexOf(set[k].slug)<0)rm.push(set[k].slug);}
+    var out=set.filter(function(p){return rm.indexOf(p.slug)<0;});
+    out.push(Object.assign({},DMULTI_BUNDLE,{_fromCat:'Multivitamin',_need:'temel',_reason:'Multivitamin + D3 & K2 birlikte (indirimli)',_new:true}));
+    return out;
+  }
+  var _pm=consolidateDMulti(premiumSet);premiumSet.length=0;Array.prototype.push.apply(premiumSet,_pm);
+  var _vm=consolidateDMulti(valueSet);valueSet.length=0;Array.prototype.push.apply(valueSet,_vm);
+
   window._plan={value:valueSet, premium:premiumSet, tier:(premiumSet.length>valueSet.length?'premium':'value'), kur:false, planTitle};
   recomputePlan();
 }
@@ -1794,7 +1816,7 @@ function buyNow(ev){
   var orig = btn ? btn.innerHTML : '';
   if(btn) btn.innerHTML='Sepete ekleniyor...';
   trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
-  fetch('/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
