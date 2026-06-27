@@ -2430,18 +2430,6 @@
         "stock": 1
       },
       {
-        "name": "Yeşilmarka Whey Protein Tozu 100 g Sade",
-        "slug": "yesilmarka-whey-protein-tozu-100-g-sade",
-        "brand": "Yeşilmarka",
-        "price": 621.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0202e91b-e2f8-4962-b40e-529fc625c9d1/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Yeşilmarka Whey Protein Tozu 748 g Ereğli Çileği",
         "slug": "yesilmarka-whey-protein-tozu-748-g-eregli-cilegi",
         "brand": "Yeşilmarka",
@@ -5412,7 +5400,7 @@
           "Sindirim Sağlığı",
           "Hatmi Çiçeği"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "GoodDay Exclusive Dispepta Sıvı Kapsül Tıbbi Nane ve Frenk Kimyonu Yağı 30 Kapsül",
@@ -5830,21 +5818,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 11
-      },
-      {
-        "name": "Ulcon Sarı Kantaron ve Kudret Narı Yağı İçeren Sıvı Takviye Edici Gıda 100 ml",
-        "slug": "ulcon-sari-kantaron-kudret-nari-yagi-sivi-100-ml",
-        "brand": "Valentis",
-        "price": 957.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e1eed845-7ba4-4515-8630-4beec0ae9e1d/image_1950.webp",
-        "cats": [
-          "Sarı Kantaron",
-          "Kudret Narı",
-          "Sindirim Sağlığı",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
       },
       {
         "name": "Velavit V-Probiotics Enzim İnülin Zencefil İçeren Probiyotik 30 Kapsül",
@@ -21019,21 +20992,6 @@
         "cats": [
           "Doğal ve Aromaterapi Yağları",
           "Lavanta Yağı",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Ulcon Sarı Kantaron ve Kudret Narı Yağı İçeren Sıvı Takviye Edici Gıda 100 ml",
-        "slug": "ulcon-sari-kantaron-kudret-nari-yagi-sivi-100-ml",
-        "brand": "Valentis",
-        "price": 957.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e1eed845-7ba4-4515-8630-4beec0ae9e1d/image_1950.webp",
-        "cats": [
-          "Sarı Kantaron",
-          "Kudret Narı",
-          "Sindirim Sağlığı",
           "Stres ve Uyku Düzeni"
         ],
         "stock": 1
@@ -38106,7 +38064,7 @@
           "Sindirim Sağlığı",
           "Hatmi Çiçeği"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Hatmi Çiçeği": [
@@ -38122,7 +38080,7 @@
           "Sindirim Sağlığı",
           "Hatmi Çiçeği"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "DIM (Diindolilmetan)": [
@@ -40154,21 +40112,6 @@
           "Sarı Kantaron Yağı"
         ],
         "stock": 5
-      },
-      {
-        "name": "Ulcon Sarı Kantaron ve Kudret Narı Yağı İçeren Sıvı Takviye Edici Gıda 100 ml",
-        "slug": "ulcon-sari-kantaron-kudret-nari-yagi-sivi-100-ml",
-        "brand": "Valentis",
-        "price": 957.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e1eed845-7ba4-4515-8630-4beec0ae9e1d/image_1950.webp",
-        "cats": [
-          "Sarı Kantaron",
-          "Kudret Narı",
-          "Sindirim Sağlığı",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
       }
     ],
     "Sarı Kantaron Yağı": [
@@ -46251,21 +46194,6 @@
         "stock": 3
       },
       {
-        "name": "Ulcon Sarı Kantaron ve Kudret Narı Yağı İçeren Sıvı Takviye Edici Gıda 100 ml",
-        "slug": "ulcon-sari-kantaron-kudret-nari-yagi-sivi-100-ml",
-        "brand": "Valentis",
-        "price": 957.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e1eed845-7ba4-4515-8630-4beec0ae9e1d/image_1950.webp",
-        "cats": [
-          "Sarı Kantaron",
-          "Kudret Narı",
-          "Sindirim Sağlığı",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Zade Vital Zeytinyağlı Kudret Narı Cam Kavanoz 8x20 ml",
         "slug": "zade-vital-zeytinyagli-kudret-nari-cam-kavanoz-8x20-ml",
         "brand": "Zade Vital",
@@ -47486,9 +47414,9 @@
     ]
   },
   "stats": {
-    "total_products": 3223,
+    "total_products": 3218,
     "total_categories": 589,
-    "generated": "2026-06-26 22:03",
+    "generated": "2026-06-27 12:45",
     "source": "ikas_api_live"
   }
 }
