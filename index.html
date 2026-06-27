@@ -326,7 +326,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <div class="step active" id="stepIntro">
       <div class="intro">
         <div class="intro-badge">&#9733; Ücretsiz Uzman Analizi</div>
-        <h1>Size özel <span>uzman önerileriniz</span></h1>
+        <h1>Size Özel <span>Öneriler</span></h1>
         <p class="intro-desc">Birkaç kısa soruya yanıt verin; eczane güvencesiyle, uzman gözüyle size en uygun ürünleri seçelim — tıpkı güvendiğiniz uzmana danışır gibi.</p>
         <div class="intro-features">
           <div class="intro-feat">
@@ -343,7 +343,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           </div>
         </div>
         <div class="btn-row">
-          <button class="btn-primary" onclick="startQuiz()" aria-label="Uzman önerilerimi al">Uzman Önerilerimi Al</button>
+          <button class="btn-primary" onclick="startQuiz()" aria-label="Analize başla">Hemen Başla</button>
         </div>
         <div class="intro-social-proof" id="socialProof">
           <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
@@ -2109,10 +2109,19 @@ function renderCrossSell(pickedProducts){
    Sabit iframe yüksekliği kaynaklı mobil boşluk + içerik kesilmesini bitirir. */
 (function(){
   if(!(window.parent&&window.parent!==window))return;
+  /* embed edildiğinde min-height:100vh boşluğunu kaldır (içerik yüksekliği kazanır) */
+  try{
+    document.body.classList.add('eeczaci-embedded');
+    var st=document.createElement('style');
+    st.textContent='body.eeczaci-embedded{min-height:0!important}body.eeczaci-embedded .quiz-container{min-height:0!important}';
+    document.head.appendChild(st);
+  }catch(e){}
   var last=0;
   function H(){
-    var b=document.body,e=document.documentElement;
-    return Math.max(b.scrollHeight,b.offsetHeight,e.scrollHeight,e.offsetHeight);
+    /* SADECE body içeriği — documentElement.scrollHeight viewport(iframe) yüksekliğine
+       eşittir ve feedback döngüsü yaratır, o yüzden dahil edilmez. */
+    var b=document.body;
+    return Math.max(b.scrollHeight,b.offsetHeight);
   }
   function report(){
     var h=H();
