@@ -14237,7 +14237,7 @@
           "Çok Satanlar",
           "Gebelik Testi"
         ],
-        "stock": 104
+        "stock": 101
       },
       {
         "name": "Breathe Right Burun Bantları Büyük Boy 10 Adet",
@@ -14351,7 +14351,7 @@
           "Çok Satanlar",
           "Gebelik Testi"
         ],
-        "stock": 104
+        "stock": 101
       },
       {
         "name": "Predictor Early Erken Gebelik Testi 1 Test",
@@ -14364,7 +14364,7 @@
           "Bugüne Özel",
           "Gebelik Testi"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Kulak Tıkacı": [
@@ -36020,7 +36020,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -37558,7 +37558,7 @@
           "Bugüne Özel",
           "Gebelik Testi"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Sebamed Anti-Dandruff Kepek Karşıtı Şampuan 200 ml",
@@ -47416,7 +47416,7 @@
   "stats": {
     "total_products": 3218,
     "total_categories": 589,
-    "generated": "2026-06-27 12:45",
+    "generated": "2026-06-27 15:00",
     "source": "ikas_api_live"
   }
 }
