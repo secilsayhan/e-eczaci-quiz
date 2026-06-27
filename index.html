@@ -437,7 +437,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       </div>
       <div class="options multi" id="currentProductOptions"></div>
       <div class="other-input-wrap" style="display:block;margin-top:14px;">
-        <textarea class="other-input" id="noteInput" rows="2" placeholder="Başka belirtmek istediğiniz bir şey, sorununuz ya da hedefiniz? (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
+        <textarea class="other-input" id="noteInput" rows="2" placeholder="Kullandığınız başka ürünler ya da belirtmek istediğiniz bir şey (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
       </div>
       <div class="btn-row">
         <button class="btn-primary" id="btn4" onclick="goTo(6)">Devam Et</button>
@@ -573,7 +573,8 @@ const CURRENT_PRODUCT_OPTS = [
   {v:'Çinko', l:'Çinko'},
   {v:'Probiyotik ve Prebiyotik', l:'Probiyotik'},
   {v:'Kolajen', l:'Kolajen'},
-  {v:'C Vitamini', l:'C Vitamini'}
+  {v:'C Vitamini', l:'C Vitamini'},
+  {v:'Diğer', l:'Diğer'}
 ];
 function buildCurrentProducts(){
   const c = document.getElementById('currentProductOptions');
@@ -782,41 +783,41 @@ const detailMap = {
     {value:'sik',label:'Sık Hastalanıyorum',desc:'Direnci artırmak istiyorum'},
     {value:'onlem',label:'Önlem Amaçlı',desc:'Genel bağışıklık güçlendirme'}
   ]},
-  enerji:{icon:'&#9889;',question:'Yorgunluğunu nasıl tanımlarsın?',options:[
+  enerji:{icon:'&#9889;',question:'Yorgunluğunuzu nasıl tanımlarsınız?',options:[
     {value:'sabah',label:'Sabahları Zor Kalkıyorum',desc:'Güne başlamakta zorlanma'},
     {value:'ogleden',label:'Öğleden Sonra Düşüyor',desc:'Öğle sonrası enerji kaybı'},
     {value:'surekli',label:'Sürekli Yorgunluk',desc:'Gün boyu enerji eksikliği'}
   ]},
-  cilt:{icon:'&#129507;',question:'Cilt tipin nedir?',options:[
+  cilt:{icon:'&#129507;',question:'Cilt tipiniz nedir?',options:[
     {value:'kuru',label:'Kuru & Dehidre',desc:'Sıkılık hissi, kuruluk'},
     {value:'yagli',label:'Yağlı & Akneli',desc:'Parlaklık, sivilce eğilimi'},
     {value:'karma',label:'Karma',desc:'T-bölgesi yağlı, yanaklar kuru'},
     {value:'hassas',label:'Hassas & Kızarık',desc:'Tahriş ve kızarıklık eğilimi'}
   ]},
-  sac:{icon:'&#128135;',question:'Saç konusundaki temel sorunun?',options:[
+  sac:{icon:'&#128135;',question:'Saç konusundaki temel sorununuz?',options:[
     {value:'dokulme',label:'Dökülme & İncelme',desc:'Saç kaybı ve zayıflama'},
     {value:'kepek',label:'Kepek & Kaşıntı',desc:'Saç derisi sorunları'},
     {value:'parlaklik',label:'Canlılık & Parlaklık',desc:'Cansız, mat saçlar'},
     {value:'genel',label:'Genel Güçlendirme',desc:'Saç, cilt, tırnak desteği'}
   ]},
-  sindirim:{icon:'&#129440;',question:'Sindirim şikayetin?',options:[
+  sindirim:{icon:'&#129440;',question:'Sindirim şikayetiniz?',options:[
     {value:'siskinlik',label:'Şişkinlik & Gaz',desc:'Yemek sonrası rahatsızlık'},
     {value:'kabizlik',label:'Düzensiz Sindirim',desc:'Kabızlık veya düzensizlik'},
     {value:'reflu',label:'Mide Hassasiyeti',desc:'Reflü, yanma, ekşime'},
     {value:'flora',label:'Flora Desteği',desc:'Probiyotik ve bağırsak sağlığı'}
   ]},
-  uyku:{icon:'&#127769;',question:'Uyku ile ilgili temel sorunun?',options:[
+  uyku:{icon:'&#127769;',question:'Uyku ile ilgili temel sorununuz?',options:[
     {value:'dalamama',label:'Uykuya Dalamıyorum',desc:'Yatakta uzun süre uyanık kalma'},
     {value:'bolunme',label:'Sık Uyanıyorum',desc:'Gece boyunca bölünen uyku'},
     {value:'yorgun',label:'Dinlenmeden Uyanıyorum',desc:'Uyusam da yorgun kalkıyorum'},
     {value:'stres',label:'Stres & Kaygı',desc:'Zihinsel huzursuzluk'}
   ]},
-  eklem:{icon:'&#129460;',question:'Eklem/kemik durumun?',options:[
+  eklem:{icon:'&#129460;',question:'Eklem/kemik durumunuz?',options:[
     {value:'agri',label:'Ağrı & Sertlik',desc:'Hareketle artan ağrı'},
     {value:'esneklik',label:'Esneklik Kaybı',desc:'Hareket kısıtlılığı'},
     {value:'onlem',label:'Koruyucu Bakım',desc:'Henüz şikayet yok, önlem'}
   ]},
-  kalp:{icon:'&#10084;&#65039;',question:'Kalp sağlığı önceliğin?',options:[
+  kalp:{icon:'&#10084;&#65039;',question:'Kalp sağlığı önceliğiniz?',options:[
     {value:'kolesterol',label:'Kolesterol Kontrolü',desc:'Kolesterol ve trigliserit dengesi'},
     {value:'tansiyon',label:'Tansiyon Desteği',desc:'Sağlıklı kan basıncı'},
     {value:'genel',label:'Genel Kalp Sağlığı',desc:'Kardiyovasküler koruma'}
@@ -847,7 +848,7 @@ const detailMap = {
     {value:'dayaniklilik',label:'Dayanıklılık',desc:'Uzun süreli performans'},
     {value:'toparlanma',label:'Toparlanma',desc:'Antrenman sonrası recovery'}
   ]},
-  multivitamin:{icon:'&#128138;',question:'Multivitamin kullanım amacın?',options:[
+  multivitamin:{icon:'&#128138;',question:'Multivitamin kullanım amacınız?',options:[
     {value:'eksiklik',label:'Vitamin Eksikliğim Var',desc:'Kan tahlilinde düşük değerler'},
     {value:'genel',label:'Genel Sağlık Desteği',desc:'Günlük temel ihtiyaçlar'},
     {value:'yas',label:'Yaşa Özel Formül',desc:'Yaş grubuma uygun'}
