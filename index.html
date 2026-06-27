@@ -403,7 +403,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       <div class="step-header">
         <div class="step-title">Hangi konularda destek arıyorsunuz?</div>
         <div class="step-subtitle">Size özel planını bu seçimlere göre oluşturacağız</div>
-        <div class="step-multi-hint">&#10003; Birden fazla seçebilirsin</div>
+        <div class="step-multi-hint">&#10003; Birden fazla seçebilirsiniz</div>
       </div>
       <div class="options multi" id="needOptions"></div>
       <div class="other-input-wrap" id="otherWrap">
@@ -419,7 +419,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <div class="step" id="step3">
       <div class="step-header">
         <div class="step-title">Biraz daha detaylandıralım</div>
-        <div class="step-subtitle">Sana en doğru ürünleri önerebilmemiz için birkaç detay</div>
+        <div class="step-subtitle">Size en doğru ürünleri önerebilmemiz için birkaç detay</div>
       </div>
       <div id="detailContainer"></div>
       <div class="btn-row">
@@ -437,7 +437,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       </div>
       <div class="options multi" id="currentProductOptions"></div>
       <div class="other-input-wrap" style="display:block;margin-top:14px;">
-        <textarea class="other-input" id="noteInput" rows="2" placeholder="Başka belirtmek istediğin bir şey, problemin ya da hedefiniz? (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
+        <textarea class="other-input" id="noteInput" rows="2" placeholder="Başka belirtmek istediğiniz bir şey, sorununuz ya da hedefiniz? (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
       </div>
       <div class="btn-row">
         <button class="btn-primary" id="btn4" onclick="goTo(6)">Devam Et</button>
@@ -503,7 +503,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- RESULTS -->
     <div class="step" id="stepResults">
       <div class="results-intro">
-        <h2 id="resultsTitle">Sana Özel Planın</h2>
+        <h2 id="resultsTitle">Size Özel Planınız</h2>
         <p id="resultsSubtext">İhtiyaçlarınıza göre sizin için seçtik</p>
       </div>
       <div class="results-plan" id="productGrid"></div>
@@ -961,6 +961,7 @@ function goTo(n){
   document.getElementById(id).classList.add('active');
   updateProgress(n);
   window.scrollTo({top:0,behavior:'smooth'});
+  try{if(window.parent&&window.parent!==window){window.parent.postMessage({type:'eeczaci:scrollTop'},'*');}}catch(e){}
 }
 
 function buildDetailStep(){
@@ -1005,7 +1006,7 @@ function selectDetail(el){
 }
 
 function updateDetailBtn(){
-  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
+  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]&&CRITICAL_DETAIL.includes(n));
   const allAnswered=activeNeeds.every(n=>state.details[n]);
   document.getElementById('btn3').disabled=!allAnswered;
 }
@@ -1027,7 +1028,7 @@ function buildLifestyleOptions(){
 function buildNeedOptions(){
   const c = document.getElementById('needOptions');
   c.innerHTML='';
-  const opts = needMap[state.who]||needMap.yetiskin;
+  const opts = (needMap[state.who]||needMap.yetiskin).slice().sort((a,b)=>(b.popular?1:0)-(a.popular?1:0));
   opts.forEach(o=>{
     const div = document.createElement('div');
     div.className='option'+(state.needs.includes(o.value)?' selected':'');
@@ -1042,7 +1043,7 @@ function buildNeedOptions(){
   dg.className='option'+(state.needs.includes('diger')?' selected':'');
   dg.dataset.value='diger';
   dg.onclick=function(){selectMulti(this)};
-  dg.innerHTML='<div class="check"></div><div class="opt-icon">&#9998;&#65039;</div><div class="opt-content"><div class="opt-label">Diğer</div><div class="opt-desc">Aradığınızı yazın</div></div>';
+  dg.innerHTML='<div class="check"></div><div class="opt-icon">&#128172;</div><div class="opt-content"><div class="opt-label">Diğer</div><div class="opt-desc">Aradığınızı yazın</div></div>';
   c.appendChild(dg);
   if(!state.needs.includes('diger')) document.getElementById('otherWrap').classList.remove('visible');
   updateBtn2();
