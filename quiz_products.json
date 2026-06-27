@@ -4667,7 +4667,7 @@
           "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Sebamed Anti-Hairloss Saç Dökülmesine Karşı Şampuan",
@@ -15131,7 +15131,7 @@
           "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Profolmix Men Saşe L-Karnitin Vitamin C L-Arjinin Ginseng Koenzim Q10 Vitamin Takviyesi 30 Saşe",
@@ -44043,19 +44043,6 @@
         "stock": 1
       },
       {
-        "name": "VeNatura Lipozomal L-Glutatyon 250 mg Antioksidan 30 Kapsül",
-        "slug": "venatura-lipozomal-l-glutatyon-250-mg-antioksidan-30-kapsul",
-        "brand": "VeNatura",
-        "price": 1073.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f9adbf9-4021-4eed-aa20-c127708a744a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Glutatyon"
-        ],
-        "stock": 1
-      },
-      {
         "name": "VeNatura Lipozomal Resveratrol 125 mg Antioksidan 60 Kapsül",
         "slug": "venatura-lipozomal-resveratrol-125-mg-antioksidan-60-kapsul",
         "brand": "VeNatura",
@@ -44745,19 +44732,6 @@
           "Glutatyon"
         ],
         "stock": 10
-      },
-      {
-        "name": "VeNatura Lipozomal L-Glutatyon 250 mg Antioksidan 30 Kapsül",
-        "slug": "venatura-lipozomal-l-glutatyon-250-mg-antioksidan-30-kapsul",
-        "brand": "VeNatura",
-        "price": 1073.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f9adbf9-4021-4eed-aa20-c127708a744a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Glutatyon"
-        ],
-        "stock": 1
       }
     ],
     "L-Karnitin": [
@@ -47414,9 +47388,9 @@
     ]
   },
   "stats": {
-    "total_products": 3218,
+    "total_products": 3216,
     "total_categories": 589,
-    "generated": "2026-06-27 15:00",
+    "generated": "2026-06-27 19:00",
     "source": "ikas_api_live"
   }
 }

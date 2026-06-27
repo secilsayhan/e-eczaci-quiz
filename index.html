@@ -325,9 +325,9 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- INTRO -->
     <div class="step active" id="stepIntro">
       <div class="intro">
-        <div class="intro-badge">&#9733; Ücretsiz Analiz</div>
-        <h1>Size Özel <span>Öneriler</span></h1>
-        <p class="intro-desc">Birkaç kısa soruya yanıt verin, size en uygun ürünleri seçelim.</p>
+        <div class="intro-badge">&#9733; Ücretsiz Uzman Analizi</div>
+        <h1>Size özel <span>uzman önerileriniz</span></h1>
+        <p class="intro-desc">Birkaç kısa soruya yanıt verin; eczane güvencesiyle, uzman gözüyle size en uygun ürünleri seçelim — tıpkı güvendiğiniz uzmana danışır gibi.</p>
         <div class="intro-features">
           <div class="intro-feat">
             <div class="feat-icon">&#127919;</div>
@@ -343,11 +343,11 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           </div>
         </div>
         <div class="btn-row">
-          <button class="btn-primary" onclick="startQuiz()" aria-label="Analize başla">Hemen Başla</button>
+          <button class="btn-primary" onclick="startQuiz()" aria-label="Uzman önerilerimi al">Uzman Önerilerimi Al</button>
         </div>
         <div class="intro-social-proof" id="socialProof">
           <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
-          <span>Binlerce <strong>mutlu</strong> danışan · Eczane güvencesi</span>
+          <span><strong>Binlerce</strong> danışan · eczane güvencesiyle · uzman onaylı</span>
         </div>
       </div>
     </div>
@@ -549,7 +549,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -599,7 +599,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -1888,7 +1888,7 @@ function buyNow(ev){
   var orig = btn ? btn.innerHTML : '';
   if(btn) btn.innerHTML='Sepete ekleniyor...';
   trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
-  fetch('/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
@@ -2104,38 +2104,6 @@ function renderCrossSell(pickedProducts){
 }
 
 /* Quiz ready */
-
-/* iframe otomatik yükseklik — parent'a (iKAS /pages/analiz) yükseklik bildir.
-   Sabit iframe yüksekliği kaynaklı mobil boşluk + içerik kesilmesini bitirir. */
-(function(){
-  if(!(window.parent&&window.parent!==window))return;
-  /* embed edildiğinde min-height:100vh boşluğunu kaldır (içerik yüksekliği kazanır) */
-  try{
-    document.body.classList.add('eeczaci-embedded');
-    var st=document.createElement('style');
-    st.textContent='body.eeczaci-embedded{min-height:0!important}body.eeczaci-embedded .quiz-container{min-height:0!important;margin-top:0!important;margin-bottom:0!important}body.eeczaci-embedded .quiz-header{display:none!important}body.eeczaci-embedded .intro{padding-top:12px!important}';
-    document.head.appendChild(st);
-  }catch(e){}
-  var last=0;
-  function H(){
-    /* SADECE body içeriği — documentElement.scrollHeight viewport(iframe) yüksekliğine
-       eşittir ve feedback döngüsü yaratır, o yüzden dahil edilmez. */
-    var b=document.body;
-    return Math.max(b.scrollHeight,b.offsetHeight);
-  }
-  function report(){
-    var h=H();
-    if(Math.abs(h-last)>4){
-      last=h;
-      try{window.parent.postMessage({type:'eeczaci:height',height:h},'*');}catch(e){}
-    }
-  }
-  try{new ResizeObserver(report).observe(document.body);}catch(e){}
-  window.addEventListener('load',report);
-  window.addEventListener('resize',report);
-  setInterval(report,800);
-  report();
-})();
 </script>
 </body>
 </html>
