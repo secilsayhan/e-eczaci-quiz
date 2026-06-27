@@ -2104,6 +2104,29 @@ function renderCrossSell(pickedProducts){
 }
 
 /* Quiz ready */
+
+/* iframe otomatik yükseklik — parent'a (iKAS /pages/analiz) yükseklik bildir.
+   Sabit iframe yüksekliği kaynaklı mobil boşluk + içerik kesilmesini bitirir. */
+(function(){
+  if(!(window.parent&&window.parent!==window))return;
+  var last=0;
+  function H(){
+    var b=document.body,e=document.documentElement;
+    return Math.max(b.scrollHeight,b.offsetHeight,e.scrollHeight,e.offsetHeight);
+  }
+  function report(){
+    var h=H();
+    if(Math.abs(h-last)>4){
+      last=h;
+      try{window.parent.postMessage({type:'eeczaci:height',height:h},'*');}catch(e){}
+    }
+  }
+  try{new ResizeObserver(report).observe(document.body);}catch(e){}
+  window.addEventListener('load',report);
+  window.addEventListener('resize',report);
+  setInterval(report,800);
+  report();
+})();
 </script>
 </body>
 </html>
