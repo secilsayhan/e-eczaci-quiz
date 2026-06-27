@@ -325,8 +325,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- INTRO -->
     <div class="step active" id="stepIntro">
       <div class="intro">
-        <div class="intro-badge">&#9733; Ücretsiz Uzman Analizi</div>
-        <h1>Size Özel <span>Öneriler</span></h1>
+        <div class="intro-badge">&#9733; Ücretsiz Analiz</div>
+        <h1>Uzmana <span>Danış</span></h1>
         <p class="intro-desc">Birkaç kısa soruya yanıt verin; eczane güvencesiyle, uzman gözüyle size en uygun ürünleri seçelim — tıpkı güvendiğiniz uzmana danışır gibi.</p>
         <div class="intro-features">
           <div class="intro-feat">
@@ -2113,7 +2113,7 @@ function renderCrossSell(pickedProducts){
   try{
     document.body.classList.add('eeczaci-embedded');
     var st=document.createElement('style');
-    st.textContent='body.eeczaci-embedded{min-height:0!important}body.eeczaci-embedded .quiz-container{min-height:0!important}';
+    st.textContent='body.eeczaci-embedded{min-height:0!important}body.eeczaci-embedded .quiz-container{min-height:0!important;margin-top:0!important;margin-bottom:0!important}body.eeczaci-embedded .quiz-header{display:none!important}body.eeczaci-embedded .intro{padding-top:12px!important}';
     document.head.appendChild(st);
   }catch(e){}
   var last=0;
