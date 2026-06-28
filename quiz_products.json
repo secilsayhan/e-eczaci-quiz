@@ -5647,7 +5647,7 @@
           "Bromelain",
           "Sindirim Sağlığı"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "Orzax Ocean Enzymes Sindirim Enzimleri 60 Kapsül",
@@ -15741,7 +15741,7 @@
         "cats": [
           "Yüz Bakımı"
         ],
-        "stock": 52
+        "stock": 51
       },
       {
         "name": "Bioderma Sensibio Micellar Cleansing Oil 150 ml",
@@ -37744,7 +37744,7 @@
           "Bromelain",
           "Sindirim Sağlığı"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
@@ -40507,7 +40507,7 @@
         "cats": [
           "Antioksidan Serum"
         ],
-        "stock": 49
+        "stock": 47
       }
     ],
     "Cilt Bakımı": [
@@ -43337,7 +43337,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Güç ve Performans": [
@@ -43352,7 +43352,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Proteinocean Taurine Takviyesi 400 g",
@@ -47394,7 +47394,7 @@
   "stats": {
     "total_products": 3216,
     "total_categories": 589,
-    "generated": "2026-06-28 15:00",
+    "generated": "2026-06-28 19:00",
     "source": "ikas_api_live"
   }
 }
