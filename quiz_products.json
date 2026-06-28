@@ -34768,7 +34768,7 @@
           "Pudra",
           "Vücut Pudrası"
         ],
-        "stock": 14
+        "stock": 12
       },
       {
         "name": "Pudra Talk Dermoes 100 GR",
@@ -34782,7 +34782,7 @@
           "Pudra",
           "Vücut Pudrası"
         ],
-        "stock": 14
+        "stock": 12
       },
       {
         "name": "Utalk Pudra Pro",
@@ -42559,7 +42559,7 @@
         "cats": [
           "Ovulasyon Testi"
         ],
-        "stock": 13
+        "stock": 11
       }
     ],
     "Safran": [
@@ -44951,7 +44951,7 @@
           "Pudra",
           "Vücut Pudrası"
         ],
-        "stock": 14
+        "stock": 12
       }
     ],
     "Uçan Haşere Spreyi": [
@@ -47432,7 +47432,7 @@
   "stats": {
     "total_products": 3219,
     "total_categories": 589,
-    "generated": "2026-06-28 08:30",
+    "generated": "2026-06-28 12:43",
     "source": "ikas_api_live"
   }
 }
