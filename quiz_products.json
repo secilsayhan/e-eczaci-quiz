@@ -1464,19 +1464,6 @@
         "stock": 1
       },
       {
-        "name": "BMT S1 Magnezyum Yağı Sprey 100 ml",
-        "slug": "bmt-s1-magnezyum-yagi-sprey-100-ml",
-        "brand": "Biomet",
-        "price": 374.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/427ec028-face-4b71-8842-c3bcc4ffd112/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bee&You Phenolix-30 Oral Damla 30 ml",
         "slug": "bee-you-phenolix-30-oral-damla-30-ml",
         "brand": "Bee & You",
@@ -6115,18 +6102,6 @@
           "Biotin (B7 Vitamini)"
         ],
         "stock": 29
-      },
-      {
-        "name": "Nutraxin Vitals B12 Sublingual 60 Tablet",
-        "slug": "nutraxin-vitals-b12-sublingual-60-tablet",
-        "brand": "Nutraxin",
-        "price": 638.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c7cefbe-ca32-4c1e-afb9-ad6eae9bc983/image_1950.webp",
-        "cats": [
-          "B12 Vitamini"
-        ],
-        "stock": 1
       },
       {
         "name": "OCEAN METHYL B12 500 MCG DİLALTI SPREY, B12 VİTAMİNİ (METİLKOBALAMİN) İÇEREN TAKVİYE EDİCİ GIDA 5ml şişe",
@@ -12008,7 +11983,7 @@
           "MSM",
           "MSM"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals C Vitamini 1000 mg Takviyesi 30 Tablet",
@@ -18998,595 +18973,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/348f6e4d-e770-40c1-afcf-f608d4f98c89/image_1950.webp",
         "cats": [],
         "stock": 1000
-      }
-    ],
-    "Magnezyum": [
-      {
-        "name": "BMT S1 Magnezyum Yağı Sprey 100 ml",
-        "slug": "bmt-s1-magnezyum-yagi-sprey-100-ml",
-        "brand": "Biomet",
-        "price": 374.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/427ec028-face-4b71-8842-c3bcc4ffd112/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Cenesys Alfa Tablet Alfa Lipoik Asit ve Magnezyum Takviyesi 60 Adet",
-        "slug": "cenesys-alfa-tablet-alfa-lipoik-asit-ve-magnezyum-takviyesi-60-adet",
-        "brand": "Cenesys",
-        "price": 1850.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f719802-b44d-4838-adc4-548b464ed0f2/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Beyin ve Hafıza",
-          "Alfa Lipoik Asit"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Com Rinex 60 Kapsül",
-        "slug": "com-rinex-60-kapsul",
-        "brand": "Com İlaç",
-        "price": 1625.08,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dcdc7743-bb85-4e34-91e2-049a3e617b05/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Beyin ve Hafıza",
-          "Ginkgo Biloba",
-          "B Kompleks",
-          "Çinko",
-          "Enerji ve Zindelik",
-          "Ginseng",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Day2day The Collagen Mag Plus Magnezyumlu Kolajen 30 Poşet",
-        "slug": "day2day-the-collagen-mag-plus-magnezyumlu-kolajen-30-poset",
-        "brand": "Day2Day",
-        "price": 2723.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30f49810-4513-4c84-8f5c-7ae6e1a18620/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Toz Kolajen",
-          "Hidrolize Kolajen",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "GoodDay Magnesium Plus Duo Tablet Magnezyum Malat ve P5P 30+30 Tablet",
-        "slug": "goodday-magnesium-plus-duo-tablet-magnezyum-bisglinat-ve-p5p-30-plus",
-        "brand": "Goodday",
-        "price": 799.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Bisglisinat",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Magnezyum Malat",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "GoodDay Magnesium Plus Mag GT Tablet (Magnezyum L-Treonat ve Bisglisinat) 30 Tablet",
-        "slug": "goodday-magnesium-plus-mag-gt-magnezyum-l-treonat-bisglisinat-30",
-        "brand": "Goodday",
-        "price": 579.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30ec5ba7-74f8-49fb-be4d-42271d15b909/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Bisglisinat",
-          "Beyin ve Hafıza",
-          "Magnezyum L-Treonat",
-          "Enerji ve Zindelik",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
-        "slug": "goodday-magnesium-plus-magnezyum-bisglinat-tablet-p5p-30-tablet",
-        "brand": "Goodday",
-        "price": 449.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4a1102da-dfe9-4225-81ca-7072c1ba1f04/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Bisglisinat",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "GoodDay Magnesium Plus Magnezyum Malat Saşe 30 Saşe",
-        "slug": "goodday-magnesium-plus-magnezyum-malat-sase-30-sase",
-        "brand": "Goodday",
-        "price": 777.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4292849-2d3a-46a4-877f-564405c7553c/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Magnezyum Malat",
-          "Stres ve Uyku Düzeni",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "GoodDay Magnesium Plus Magnezyum Malat Tablet 30 Tablet",
-        "slug": "goodday-magnesium-plus-magnezyum-malat-tablet-30-tablet",
-        "brand": "Goodday",
-        "price": 429.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f0d3712d-fbc7-44c8-8776-9a81041a254c/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Magnezyum Malat",
-          "Stres ve Uyku Düzeni",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 13
-      },
-      {
-        "name": "GoodDay Magnesium Plus Magnezyum Sitrat Tablet (P5P) 30 Tablet",
-        "slug": "goodday-magnesium-plus-magnezyum-sitrat-tablet-p5p-30-tablet",
-        "brand": "Goodday",
-        "price": 429.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a81bf759-9d91-46ad-8edc-a22f42b2ad2d/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Sitrat",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "GoodDay Magnesium Plus S/G Kapsül Magnezyum ve P5P 30 Kapsül",
-        "slug": "goodday-magnesium-plus-s-g-kapsul-magnezyum-ve-p5p-30-kapsul",
-        "brand": "Goodday",
-        "price": 479.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b0e6d822-9dad-4ad4-969d-086ccbdd3161/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Bisglisinat",
-          "Magnezyum Sitrat",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Magnesium Diasporal Granül Saşe, Magnezyum İçeren Takviye Edici Gida 20 Saşe",
-        "slug": "magnesium-diasporal-granul-sase-magnezyum-iceren-takviye-edici-gida",
-        "brand": "Magnesium Diasporal",
-        "price": 863.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/28478cd1-61ac-44e0-b464-89f47cf2826b/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Stres ve Uyku",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Magnezyum Uzman Rehberi — e-Eczacı",
-        "slug": "magnezyum-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/31a3271d-87ed-493e-8ca6-4f71270ceaf4/image_1950.webp",
-        "cats": [
-          "Magnezyum"
-        ],
-        "stock": 1000
-      },
-      {
-        "name": "Magnimore Plus Ata Tablet Magnezyum Takviyesi 60 Adet",
-        "slug": "magnimore-plus-ata-tablet-magnezyum-takviyesi-60-adet",
-        "brand": "Magnimore",
-        "price": 899.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cef80669-bd7e-4682-bec6-caaa55f2634b/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Enerji ve Zindelik",
-          "Stres ve Uyku Düzeni",
-          "Kalp ve Damar Sağlığı",
-          "Magnezyum Taurat"
-        ],
-        "stock": 22
-      },
-      {
-        "name": "Microbon K Tablet Kalsiyum Magnezyum K Vitamini Takviyesi 30 Tablet",
-        "slug": "microbon-k-tablet-kalsiyum-magnezyum-k-vitamini-takviyesi-30-tablet",
-        "brand": "Microbon",
-        "price": 550.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82edc952-700a-4511-b1a8-9382b4c46fed/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kalsiyum",
-          "Kemik ve Eklem Sağlığı",
-          "K Vitamini"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Moodify Safran Kapsül Safran Magnezyum Valerian B6 Vitamini Takviye Edici Gıda 30 Kapsül",
-        "slug": "moodify-safran-kapsul-safran-magnezyum-valerian-b6-vitamini-30-kapsul",
-        "brand": "Moodify",
-        "price": 1059.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1bbdcce4-c0d0-47db-b2cd-743f466e4c17/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Safran",
-          "Kediotu (Valerian)",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "NBT Life Magnezyum P5P B6 Vitamini İçeren Takviye 60 Kapsül",
-        "slug": "nbtlife-magnezyum-p5p-b6-vitamini-iceren-takviye-60-kapsul",
-        "brand": "NBT Life",
-        "price": 747.0,
-        "discount_price": 673.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d7dc7d40-0f41-4376-95ae-55686dac152f/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 18
-      },
-      {
-        "name": "NBT Life Time Magnezyum Kapsül 30+30 Kapsül",
-        "slug": "nbt-life-time-magnezyum-kapsul-30-30-kapsul",
-        "brand": "NBT Life",
-        "price": 897.0,
-        "discount_price": 808.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc40e89f-9cf4-4bb0-9525-d55a5f449ce8/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 25
-      },
-      {
-        "name": "NaturalNest Magnezyum Plus 30 Tablet",
-        "slug": "naturalnest-magnezyum-plus-30-tablet",
-        "brand": "NaturalNest",
-        "price": 759.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d2ae971-1d3e-4062-a975-b9cee0072413/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "NaturalNest Magnezyum Plus 60 Tablet",
-        "slug": "naturalnest-magnezyum-plus-60-tablet",
-        "brand": "NaturalNest",
-        "price": 816.75,
-        "discount_price": 736.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/531ea1d0-dc69-4a4e-af31-a09b838b6f3a/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "NeuJoys Magnesium Citrate + P5P Saşe Magnezyum B6 Vitamini Takviyesi 30 Saşe",
-        "slug": "neujoys-magnesium-citrate-plus-p5p-sase-magnezyum-b6-vitamini-30-sase",
-        "brand": "Neujooys",
-        "price": 390.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a1251178-03b6-441a-97d7-389451f0cfe9/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Sitrat",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "New Life Mag 4 Day Night Magnezyum B6 Gündüz Gece 60 Tablet",
-        "slug": "new-life-mag-4-day-night-magnezyum-b6-gunduz-gece-60-tablet",
-        "brand": "New Life",
-        "price": 999.0,
-        "discount_price": 900.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/050bc65d-fcdf-4584-ab13-763899c836e5/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
-        "slug": "newday-magnezyum-complex-kapsul-takviye-edici-gida-60-kapsul",
-        "brand": "Newday",
-        "price": 850.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c481ec90-5e28-4383-948c-05011b0c9985/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Bisglisinat",
-          "Magnezyum Sitrat",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Magnezyum Malat",
-          "Stres ve Uyku Düzeni",
-          "Magnezyum Taurat"
-        ],
-        "stock": 11
-      },
-      {
-        "name": "Nutraxin Magnezyum Kompleks Farklı Magnezyum Formları 60 Tablet",
-        "slug": "nutraxin-magnezyum-kompleks-farkli-magnezyum-formlari-60-tablet",
-        "brand": "Nutraxin",
-        "price": 699.99,
-        "discount_price": 630.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f13e6d06-9b49-4084-90cb-c56ea7f819bb/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
-        "slug": "nutraxin-vitals-daily-magnesium-d3-k2-vitamini-magnezyum-b6-60-tablet",
-        "brand": "Nutraxin",
-        "price": 765.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c6d395d-02b5-4f3d-9c28-04ad244f5188/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Magnezyum",
-          "K2 Vitamini",
-          "D Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Ocean Extramag 90 Tablet Aynı Fiyata %50 Daha Fazla",
-        "slug": "ocean-extramag-90-tablet-30-avantajli-magnezyum-takviyesi",
-        "brand": "Orzax",
-        "price": 734.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/280e3efd-bb59-4e7b-9546-0f0336e427de/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Enerji ve Zindelik",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
-        "slug": "ocean-extramag-tablet-magnezyum-iceren-takviye-edici-gida-60-tablet",
-        "brand": "Orzax",
-        "price": 735.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9dbdb3fd-5405-435d-ad07-6283fd21bcc8/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Enerji ve Zindelik",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Orzax Ocean Extramag P5P B6 Magnezyum Saşe 30 Poşet",
-        "slug": "orzax-ocean-extramag-p5p-b6-magnezyum-sase-30-poset",
-        "brand": "Orzax",
-        "price": 792.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ed7abfff-af33-4b1f-bf42-cd4cbd43b938/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Sitrat",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Orzax Ocean Extramag Threog Magnezyum L-Treonat 60 Tablet",
-        "slug": "orzax-ocean-extramag-threog-magnezyum-l-treonat-60-tablet",
-        "brand": "Orzax",
-        "price": 964.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51dd3a74-c71b-460c-9f08-de4c978684b2/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Magnezyum L-Treonat",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 13
-      },
-      {
-        "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
-        "slug": "primroya-tablet-primroz-yagi-magnezyum-serbetciotu-pasiflora-30-tablet",
-        "brand": "Neu Pharma",
-        "price": 560.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e3c433-83f8-461d-b327-a94752f50dd1/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kadın Sağlığı",
-          "Primroz (Çuha Çiçeği) Yağı",
-          "Pasiflora",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 17
-      },
-      {
-        "name": "Solgar Kalsiyum Magnezyum Çinko Kemik Sağlığı 100 Tablet",
-        "slug": "solgar-kalsiyum-magnezyum-cinko-kemik-sagligi-100-tablet",
-        "brand": "Solgar",
-        "price": 597.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/07b00066-05e0-40ff-a14e-7c4f0ad16006/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kalsiyum",
-          "Kemik ve Eklem Sağlığı",
-          "Çinko",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Magnezyum B6 Vitamini Sinir Kas Sağlığı 100 Tablet",
-        "slug": "solgar-magnezyum-b6-vitamini-sinir-kas-sagligi-100-tablet",
-        "brand": "Solgar",
-        "price": 522.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2f4f28e3-d2d2-449f-9397-e190da899411/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Beyin ve Hafıza",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "VeNatura Magnezyum Malat 200 mg Tablet Enerji ve Kas Desteği 60 Adet",
-        "slug": "venatura-magnezyum-malat-200-mg-tablet-enerji-ve-kas-destegi-60-adet",
-        "brand": "VeNatura",
-        "price": 552.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Magnezyum Malat",
-          "Stres ve Uyku Düzeni",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
-        "slug": "venatura-magnezyum-sitrat-b6-90-kapsul-yuksek-emilim",
-        "brand": "VeNatura",
-        "price": 470.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb14d458-6af7-4c96-bf85-a31ba40fb37a/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Sitrat",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Velavit V-Triple Magnesium Complex Tablet 60 Tablet",
-        "slug": "velavit-v-triple-magnesium-complex-tablet-60-tablet",
-        "brand": "Velavit",
-        "price": 1073.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/02dff004-cb06-4445-82a4-6de6dd6c5ff6/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Vitabiotics Osteocare Original Tablet 30 Tablet",
-        "slug": "vitabiotics-osteocare-original-tablet-30-tablet",
-        "brand": "Vitabiotics",
-        "price": 746.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b9e40cc-877a-4620-aed2-a6d8e64babab/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Magnezyum",
-          "D Vitamini",
-          "Kalsiyum",
-          "Kemik ve Eklem Sağlığı",
-          "Çinko",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vitabiotics Osteocare Original Tablet 90 Tablet",
-        "slug": "vitabiotics-osteocare-original-tablet-90-tablet",
-        "brand": "Vitabiotics",
-        "price": 1239.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b9e40cc-877a-4620-aed2-a6d8e64babab/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Magnezyum",
-          "D Vitamini",
-          "Kalsiyum",
-          "Kemik ve Eklem Sağlığı",
-          "Çinko",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 3
       }
     ],
     "Burun Aspiratörü": [
@@ -28384,6 +27770,582 @@
         "stock": 1
       }
     ],
+    "Magnezyum": [
+      {
+        "name": "Cenesys Alfa Tablet Alfa Lipoik Asit ve Magnezyum Takviyesi 60 Adet",
+        "slug": "cenesys-alfa-tablet-alfa-lipoik-asit-ve-magnezyum-takviyesi-60-adet",
+        "brand": "Cenesys",
+        "price": 1850.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f719802-b44d-4838-adc4-548b464ed0f2/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Beyin ve Hafıza",
+          "Alfa Lipoik Asit"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Com Rinex 60 Kapsül",
+        "slug": "com-rinex-60-kapsul",
+        "brand": "Com İlaç",
+        "price": 1625.08,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dcdc7743-bb85-4e34-91e2-049a3e617b05/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Beyin ve Hafıza",
+          "Ginkgo Biloba",
+          "B Kompleks",
+          "Çinko",
+          "Enerji ve Zindelik",
+          "Ginseng",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Day2day The Collagen Mag Plus Magnezyumlu Kolajen 30 Poşet",
+        "slug": "day2day-the-collagen-mag-plus-magnezyumlu-kolajen-30-poset",
+        "brand": "Day2Day",
+        "price": 2723.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30f49810-4513-4c84-8f5c-7ae6e1a18620/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Tip 1 ve 3 Kolajen",
+          "Saç, Cilt ve Tırnak",
+          "Toz Kolajen",
+          "Hidrolize Kolajen",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "GoodDay Magnesium Plus Duo Tablet Magnezyum Malat ve P5P 30+30 Tablet",
+        "slug": "goodday-magnesium-plus-duo-tablet-magnezyum-bisglinat-ve-p5p-30-plus",
+        "brand": "Goodday",
+        "price": 799.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Bisglisinat",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Magnezyum Malat",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 9
+      },
+      {
+        "name": "GoodDay Magnesium Plus Mag GT Tablet (Magnezyum L-Treonat ve Bisglisinat) 30 Tablet",
+        "slug": "goodday-magnesium-plus-mag-gt-magnezyum-l-treonat-bisglisinat-30",
+        "brand": "Goodday",
+        "price": 579.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30ec5ba7-74f8-49fb-be4d-42271d15b909/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Bisglisinat",
+          "Beyin ve Hafıza",
+          "Magnezyum L-Treonat",
+          "Enerji ve Zindelik",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 9
+      },
+      {
+        "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
+        "slug": "goodday-magnesium-plus-magnezyum-bisglinat-tablet-p5p-30-tablet",
+        "brand": "Goodday",
+        "price": 449.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4a1102da-dfe9-4225-81ca-7072c1ba1f04/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Bisglisinat",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "GoodDay Magnesium Plus Magnezyum Malat Saşe 30 Saşe",
+        "slug": "goodday-magnesium-plus-magnezyum-malat-sase-30-sase",
+        "brand": "Goodday",
+        "price": 777.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4292849-2d3a-46a4-877f-564405c7553c/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "Magnezyum Malat",
+          "Stres ve Uyku Düzeni",
+          "Kalp ve Damar Sağlığı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "GoodDay Magnesium Plus Magnezyum Malat Tablet 30 Tablet",
+        "slug": "goodday-magnesium-plus-magnezyum-malat-tablet-30-tablet",
+        "brand": "Goodday",
+        "price": 429.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f0d3712d-fbc7-44c8-8776-9a81041a254c/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "Magnezyum Malat",
+          "Stres ve Uyku Düzeni",
+          "Kalp ve Damar Sağlığı"
+        ],
+        "stock": 13
+      },
+      {
+        "name": "GoodDay Magnesium Plus Magnezyum Sitrat Tablet (P5P) 30 Tablet",
+        "slug": "goodday-magnesium-plus-magnezyum-sitrat-tablet-p5p-30-tablet",
+        "brand": "Goodday",
+        "price": 429.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a81bf759-9d91-46ad-8edc-a22f42b2ad2d/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Sitrat",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "GoodDay Magnesium Plus S/G Kapsül Magnezyum ve P5P 30 Kapsül",
+        "slug": "goodday-magnesium-plus-s-g-kapsul-magnezyum-ve-p5p-30-kapsul",
+        "brand": "Goodday",
+        "price": 479.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b0e6d822-9dad-4ad4-969d-086ccbdd3161/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Bisglisinat",
+          "Magnezyum Sitrat",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Magnesium Diasporal Granül Saşe, Magnezyum İçeren Takviye Edici Gida 20 Saşe",
+        "slug": "magnesium-diasporal-granul-sase-magnezyum-iceren-takviye-edici-gida",
+        "brand": "Magnesium Diasporal",
+        "price": 863.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/28478cd1-61ac-44e0-b464-89f47cf2826b/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Stres ve Uyku",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Magnezyum Uzman Rehberi — e-Eczacı",
+        "slug": "magnezyum-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/31a3271d-87ed-493e-8ca6-4f71270ceaf4/image_1950.webp",
+        "cats": [
+          "Magnezyum"
+        ],
+        "stock": 1000
+      },
+      {
+        "name": "Magnimore Plus Ata Tablet Magnezyum Takviyesi 60 Adet",
+        "slug": "magnimore-plus-ata-tablet-magnezyum-takviyesi-60-adet",
+        "brand": "Magnimore",
+        "price": 899.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cef80669-bd7e-4682-bec6-caaa55f2634b/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Enerji ve Zindelik",
+          "Stres ve Uyku Düzeni",
+          "Kalp ve Damar Sağlığı",
+          "Magnezyum Taurat"
+        ],
+        "stock": 22
+      },
+      {
+        "name": "Microbon K Tablet Kalsiyum Magnezyum K Vitamini Takviyesi 30 Tablet",
+        "slug": "microbon-k-tablet-kalsiyum-magnezyum-k-vitamini-takviyesi-30-tablet",
+        "brand": "Microbon",
+        "price": 550.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82edc952-700a-4511-b1a8-9382b4c46fed/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kalsiyum",
+          "Kemik ve Eklem Sağlığı",
+          "K Vitamini"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Moodify Safran Kapsül Safran Magnezyum Valerian B6 Vitamini Takviye Edici Gıda 30 Kapsül",
+        "slug": "moodify-safran-kapsul-safran-magnezyum-valerian-b6-vitamini-30-kapsul",
+        "brand": "Moodify",
+        "price": 1059.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1bbdcce4-c0d0-47db-b2cd-743f466e4c17/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Safran",
+          "Kediotu (Valerian)",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "NBT Life Magnezyum P5P B6 Vitamini İçeren Takviye 60 Kapsül",
+        "slug": "nbtlife-magnezyum-p5p-b6-vitamini-iceren-takviye-60-kapsul",
+        "brand": "NBT Life",
+        "price": 747.0,
+        "discount_price": 673.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d7dc7d40-0f41-4376-95ae-55686dac152f/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 18
+      },
+      {
+        "name": "NBT Life Time Magnezyum Kapsül 30+30 Kapsül",
+        "slug": "nbt-life-time-magnezyum-kapsul-30-30-kapsul",
+        "brand": "NBT Life",
+        "price": 897.0,
+        "discount_price": 808.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc40e89f-9cf4-4bb0-9525-d55a5f449ce8/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 25
+      },
+      {
+        "name": "NaturalNest Magnezyum Plus 30 Tablet",
+        "slug": "naturalnest-magnezyum-plus-30-tablet",
+        "brand": "NaturalNest",
+        "price": 759.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d2ae971-1d3e-4062-a975-b9cee0072413/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "NaturalNest Magnezyum Plus 60 Tablet",
+        "slug": "naturalnest-magnezyum-plus-60-tablet",
+        "brand": "NaturalNest",
+        "price": 816.75,
+        "discount_price": 736.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/531ea1d0-dc69-4a4e-af31-a09b838b6f3a/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "NeuJoys Magnesium Citrate + P5P Saşe Magnezyum B6 Vitamini Takviyesi 30 Saşe",
+        "slug": "neujoys-magnesium-citrate-plus-p5p-sase-magnezyum-b6-vitamini-30-sase",
+        "brand": "Neujooys",
+        "price": 390.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a1251178-03b6-441a-97d7-389451f0cfe9/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Sitrat",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "New Life Mag 4 Day Night Magnezyum B6 Gündüz Gece 60 Tablet",
+        "slug": "new-life-mag-4-day-night-magnezyum-b6-gunduz-gece-60-tablet",
+        "brand": "New Life",
+        "price": 999.0,
+        "discount_price": 900.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/050bc65d-fcdf-4584-ab13-763899c836e5/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 12
+      },
+      {
+        "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
+        "slug": "newday-magnezyum-complex-kapsul-takviye-edici-gida-60-kapsul",
+        "brand": "Newday",
+        "price": 850.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c481ec90-5e28-4383-948c-05011b0c9985/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Bisglisinat",
+          "Magnezyum Sitrat",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Magnezyum Malat",
+          "Stres ve Uyku Düzeni",
+          "Magnezyum Taurat"
+        ],
+        "stock": 11
+      },
+      {
+        "name": "Nutraxin Magnezyum Kompleks Farklı Magnezyum Formları 60 Tablet",
+        "slug": "nutraxin-magnezyum-kompleks-farkli-magnezyum-formlari-60-tablet",
+        "brand": "Nutraxin",
+        "price": 699.99,
+        "discount_price": 630.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f13e6d06-9b49-4084-90cb-c56ea7f819bb/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 9
+      },
+      {
+        "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
+        "slug": "nutraxin-vitals-daily-magnesium-d3-k2-vitamini-magnezyum-b6-60-tablet",
+        "brand": "Nutraxin",
+        "price": 765.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c6d395d-02b5-4f3d-9c28-04ad244f5188/image_1950.webp",
+        "cats": [
+          "Bağışıklık Sistemi",
+          "Magnezyum",
+          "K2 Vitamini",
+          "D Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Ocean Extramag 90 Tablet Aynı Fiyata %50 Daha Fazla",
+        "slug": "ocean-extramag-90-tablet-30-avantajli-magnezyum-takviyesi",
+        "brand": "Orzax",
+        "price": 734.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/280e3efd-bb59-4e7b-9546-0f0336e427de/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Enerji ve Zindelik",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
+        "slug": "ocean-extramag-tablet-magnezyum-iceren-takviye-edici-gida-60-tablet",
+        "brand": "Orzax",
+        "price": 735.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9dbdb3fd-5405-435d-ad07-6283fd21bcc8/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Enerji ve Zindelik",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Orzax Ocean Extramag P5P B6 Magnezyum Saşe 30 Poşet",
+        "slug": "orzax-ocean-extramag-p5p-b6-magnezyum-sase-30-poset",
+        "brand": "Orzax",
+        "price": 792.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ed7abfff-af33-4b1f-bf42-cd4cbd43b938/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Sitrat",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Orzax Ocean Extramag Threog Magnezyum L-Treonat 60 Tablet",
+        "slug": "orzax-ocean-extramag-threog-magnezyum-l-treonat-60-tablet",
+        "brand": "Orzax",
+        "price": 964.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51dd3a74-c71b-460c-9f08-de4c978684b2/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Beyin ve Hafıza",
+          "D Vitamini",
+          "Magnezyum L-Treonat",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 13
+      },
+      {
+        "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
+        "slug": "primroya-tablet-primroz-yagi-magnezyum-serbetciotu-pasiflora-30-tablet",
+        "brand": "Neu Pharma",
+        "price": 560.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e3c433-83f8-461d-b327-a94752f50dd1/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kadın Sağlığı",
+          "Primroz (Çuha Çiçeği) Yağı",
+          "Pasiflora",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 17
+      },
+      {
+        "name": "Solgar Kalsiyum Magnezyum Çinko Kemik Sağlığı 100 Tablet",
+        "slug": "solgar-kalsiyum-magnezyum-cinko-kemik-sagligi-100-tablet",
+        "brand": "Solgar",
+        "price": 597.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/07b00066-05e0-40ff-a14e-7c4f0ad16006/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kalsiyum",
+          "Kemik ve Eklem Sağlığı",
+          "Çinko",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Magnezyum B6 Vitamini Sinir Kas Sağlığı 100 Tablet",
+        "slug": "solgar-magnezyum-b6-vitamini-sinir-kas-sagligi-100-tablet",
+        "brand": "Solgar",
+        "price": 522.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2f4f28e3-d2d2-449f-9397-e190da899411/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Beyin ve Hafıza",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "VeNatura Magnezyum Malat 200 mg Tablet Enerji ve Kas Desteği 60 Adet",
+        "slug": "venatura-magnezyum-malat-200-mg-tablet-enerji-ve-kas-destegi-60-adet",
+        "brand": "VeNatura",
+        "price": 552.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "Magnezyum Malat",
+          "Stres ve Uyku Düzeni",
+          "Kalp ve Damar Sağlığı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
+        "slug": "venatura-magnezyum-sitrat-b6-90-kapsul-yuksek-emilim",
+        "brand": "VeNatura",
+        "price": 470.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb14d458-6af7-4c96-bf85-a31ba40fb37a/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Magnezyum Sitrat",
+          "Kemik ve Eklem Sağlığı",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Velavit V-Triple Magnesium Complex Tablet 60 Tablet",
+        "slug": "velavit-v-triple-magnesium-complex-tablet-60-tablet",
+        "brand": "Velavit",
+        "price": 1073.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/02dff004-cb06-4445-82a4-6de6dd6c5ff6/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Vitabiotics Osteocare Original Tablet 30 Tablet",
+        "slug": "vitabiotics-osteocare-original-tablet-30-tablet",
+        "brand": "Vitabiotics",
+        "price": 746.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b9e40cc-877a-4620-aed2-a6d8e64babab/image_1950.webp",
+        "cats": [
+          "Bağışıklık Sistemi",
+          "Magnezyum",
+          "D Vitamini",
+          "Kalsiyum",
+          "Kemik ve Eklem Sağlığı",
+          "Çinko",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Vitabiotics Osteocare Original Tablet 90 Tablet",
+        "slug": "vitabiotics-osteocare-original-tablet-90-tablet",
+        "brand": "Vitabiotics",
+        "price": 1239.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b9e40cc-877a-4620-aed2-a6d8e64babab/image_1950.webp",
+        "cats": [
+          "Bağışıklık Sistemi",
+          "Magnezyum",
+          "D Vitamini",
+          "Kalsiyum",
+          "Kemik ve Eklem Sağlığı",
+          "Çinko",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 3
+      }
+    ],
     "Üridin Monofosfat (UMP)": [
       {
         "name": "Cenesys Tablet Kolin ve Üridin Monofosfat Takviyesi 30 Adet",
@@ -30965,7 +30927,7 @@
           "MSM",
           "MSM"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
@@ -30984,7 +30946,7 @@
           "MSM",
           "MSM"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Kondroitin": [
@@ -31038,7 +31000,7 @@
           "MSM",
           "MSM"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
@@ -31057,7 +31019,7 @@
           "MSM",
           "MSM"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Kemik ve Eklem Sağlığı": [
@@ -33064,7 +33026,7 @@
           "MSM",
           "MSM"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gida 60 Kapsül",
@@ -43341,7 +43303,7 @@
           "MSM",
           "MSM"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
@@ -43360,7 +43322,7 @@
           "MSM",
           "MSM"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Erkek Sağlığı Takviyeleri": [
@@ -43375,7 +43337,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 10
+        "stock": 7
       }
     ],
     "Güç ve Performans": [
@@ -43390,7 +43352,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 10
+        "stock": 7
       },
       {
         "name": "Proteinocean Taurine Takviyesi 400 g",
@@ -47430,9 +47392,9 @@
     ]
   },
   "stats": {
-    "total_products": 3219,
+    "total_products": 3216,
     "total_categories": 589,
-    "generated": "2026-06-28 12:43",
+    "generated": "2026-06-28 15:00",
     "source": "ikas_api_live"
   }
 }
