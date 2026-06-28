@@ -4205,6 +4205,20 @@
         "stock": 1
       },
       {
+        "name": "Bioxcin Forte Dökülme Karşıtı Saç Bakım Seti - Şampuan Serum Tablet",
+        "slug": "bioxcin-forte-yagli-saclar-bakim-seti-sampuan-serum-tablet",
+        "brand": "Bioxcin",
+        "price": 799.99,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b7e36099-cb65-42b1-b14d-9585a937c25d/image_1950.webp",
+        "cats": [
+          "Saç Serumları ve Losyonları",
+          "Saç, Cilt ve Tırnak",
+          "Dökülme Karşıtı"
+        ],
+        "stock": 11
+      },
+      {
         "name": "Bioxcin Forte Yoğun Saç Dökülmesine Karşı Şampuan (3 Al 2 Öde)",
         "slug": "bioxcin-forte-yogun-sac-dokulmesine-karsi-sampuan-3-al-2-ode",
         "brand": "Bioxcin",
@@ -25963,7 +25977,49 @@
         "stock": 8
       }
     ],
+    "Saç Serumları ve Losyonları": [
+      {
+        "name": "Bioxcin Forte Dökülme Karşıtı Saç Bakım Seti - Şampuan Serum Tablet",
+        "slug": "bioxcin-forte-yagli-saclar-bakim-seti-sampuan-serum-tablet",
+        "brand": "Bioxcin",
+        "price": 799.99,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b7e36099-cb65-42b1-b14d-9585a937c25d/image_1950.webp",
+        "cats": [
+          "Saç Serumları ve Losyonları",
+          "Saç, Cilt ve Tırnak",
+          "Dökülme Karşıtı"
+        ],
+        "stock": 11
+      },
+      {
+        "name": "Capicade Saç Bakım Serumu 50 ml",
+        "slug": "capicade-sac-bakim-serumu-50-ml",
+        "brand": "Capicade",
+        "price": 1050.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0805b478-c02d-4506-9a6f-845d9ba579cf/image_1950.webp",
+        "cats": [
+          "Saç Serumları ve Losyonları"
+        ],
+        "stock": 8
+      }
+    ],
     "Dökülme Karşıtı": [
+      {
+        "name": "Bioxcin Forte Dökülme Karşıtı Saç Bakım Seti - Şampuan Serum Tablet",
+        "slug": "bioxcin-forte-yagli-saclar-bakim-seti-sampuan-serum-tablet",
+        "brand": "Bioxcin",
+        "price": 799.99,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b7e36099-cb65-42b1-b14d-9585a937c25d/image_1950.webp",
+        "cats": [
+          "Saç Serumları ve Losyonları",
+          "Saç, Cilt ve Tırnak",
+          "Dökülme Karşıtı"
+        ],
+        "stock": 11
+      },
       {
         "name": "Bioxcin Forte Yoğun Saç Dökülmesine Karşı Şampuan (3 Al 2 Öde)",
         "slug": "bioxcin-forte-yogun-sac-dokulmesine-karsi-sampuan-3-al-2-ode",
@@ -28140,20 +28196,6 @@
           "Onarıcı Krem"
         ],
         "stock": 20
-      }
-    ],
-    "Saç Serumları ve Losyonları": [
-      {
-        "name": "Capicade Saç Bakım Serumu 50 ml",
-        "slug": "capicade-sac-bakim-serumu-50-ml",
-        "brand": "Capicade",
-        "price": 1050.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0805b478-c02d-4506-9a6f-845d9ba579cf/image_1950.webp",
-        "cats": [
-          "Saç Serumları ve Losyonları"
-        ],
-        "stock": 8
       }
     ],
     "Topuk Çatlak Kremi": [
@@ -47388,9 +47430,9 @@
     ]
   },
   "stats": {
-    "total_products": 3216,
+    "total_products": 3219,
     "total_categories": 589,
-    "generated": "2026-06-27 19:00",
+    "generated": "2026-06-28 08:30",
     "source": "ikas_api_live"
   }
 }
