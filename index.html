@@ -4,9 +4,9 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Size Özel Uzman Önerileri | e-Eczacı Analiz</title>
-<meta name="description" content="Birkaç kısa soruya yanıt verin; eczane güvencesiyle, uzman gözüyle size özel önerilerinizi oluşturalım. Tıpkı güvendiğiniz uzmana danışır gibi.">
+<meta name="description" content="Birkaç kısa soruya yanıt verin, hedef ve ihtiyaçlarınıza özel ürün planınızı oluşturalım. Ücretsiz ve kişiye özel.">
 <meta property="og:title" content="Size Özel Uzman Önerileri | e-Eczacı">
-<meta property="og:description" content="Eczane güvencesiyle, uzman gözüyle size en uygun ürünleri belirleyelim. Ücretsiz, kişiye özel.">
+<meta property="og:description" content="Hedef ve ihtiyaçlarınıza özel ürün planınızı belirleyelim. Ücretsiz ve kişiye özel.">
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://e-eczaci.com/pages/analiz">
 <meta property="og:image" content="https://cdn.myikas.com/images/theme-images/731a8afd-47a0-4440-9360-8a473c9a4f9e/image_1920.webp">
@@ -325,13 +325,13 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- INTRO -->
     <div class="step active" id="stepIntro">
       <div class="intro">
-        <div class="intro-badge">&#9733; Ücretsiz Uzman Analizi</div>
-        <h1>Size özel <span>uzman önerileriniz</span></h1>
-        <p class="intro-desc">Birkaç kısa soruya yanıt verin; eczane güvencesiyle, uzman gözüyle size en uygun ürünleri seçelim — tıpkı güvendiğiniz uzmana danışır gibi.</p>
+        <div class="intro-badge">&#9733; Ücretsiz Analiz</div>
+        <h1>Kişiye <span>Özel</span> Plan</h1>
+        <p class="intro-desc">Birkaç kısa soruya yanıt verin, size en uygun ürünleri seçelim.</p>
         <div class="intro-features">
           <div class="intro-feat">
             <div class="feat-icon">&#127919;</div>
-            <div class="feat-text"><strong>Eczane güvenceli</strong>, uzman onaylı öneri</div>
+            <div class="feat-text"><strong>Hedef ve ihtiyaçlarınıza özel</strong></div>
           </div>
           <div class="intro-feat">
             <div class="feat-icon">&#128171;</div>
@@ -343,11 +343,11 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           </div>
         </div>
         <div class="btn-row">
-          <button class="btn-primary" onclick="startQuiz()" aria-label="Uzman önerilerimi al">Uzman Önerilerimi Al</button>
+          <button class="btn-primary" onclick="startQuiz()" aria-label="Analize başla">Hemen Başla</button>
         </div>
         <div class="intro-social-proof" id="socialProof">
           <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
-          <span><strong>Binlerce</strong> danışan · eczane güvencesiyle · uzman onaylı</span>
+          <span>Binlerce <strong>mutlu</strong> danışan · Eczane güvencesi</span>
         </div>
       </div>
     </div>
@@ -403,7 +403,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       <div class="step-header">
         <div class="step-title">Hangi konularda destek arıyorsunuz?</div>
         <div class="step-subtitle">Size özel planını bu seçimlere göre oluşturacağız</div>
-        <div class="step-multi-hint">&#10003; Birden fazla seçebilirsin</div>
+        <div class="step-multi-hint">&#10003; Birden fazla seçebilirsiniz</div>
       </div>
       <div class="options multi" id="needOptions"></div>
       <div class="other-input-wrap" id="otherWrap">
@@ -419,7 +419,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <div class="step" id="step3">
       <div class="step-header">
         <div class="step-title">Biraz daha detaylandıralım</div>
-        <div class="step-subtitle">Sana en doğru ürünleri önerebilmemiz için birkaç detay</div>
+        <div class="step-subtitle">Size en doğru ürünleri önerebilmemiz için birkaç detay</div>
       </div>
       <div id="detailContainer"></div>
       <div class="btn-row">
@@ -437,7 +437,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       </div>
       <div class="options multi" id="currentProductOptions"></div>
       <div class="other-input-wrap" style="display:block;margin-top:14px;">
-        <textarea class="other-input" id="noteInput" rows="2" placeholder="Başka belirtmek istediğin bir şey, problemin ya da hedefiniz? (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
+        <textarea class="other-input" id="noteInput" rows="2" placeholder="Kullandığınız başka ürünler ya da belirtmek istediğiniz bir şey (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
       </div>
       <div class="btn-row">
         <button class="btn-primary" id="btn4" onclick="goTo(6)">Devam Et</button>
@@ -503,15 +503,15 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- RESULTS -->
     <div class="step" id="stepResults">
       <div class="results-intro">
-        <h2 id="resultsTitle">Sana Özel Planın</h2>
-        <p id="resultsSubtext">İhtiyaçlarınıza göre sizin için seçtik</p>
+        <h2 id="resultsTitle">Kişiye Özel Planınız</h2>
+        <p id="resultsSubtext">Hedef ve ihtiyaçlarınıza göre özenle seçtik</p>
       </div>
       <div class="results-plan" id="productGrid"></div>
       <div class="plan-summary" id="planSummary"></div>
       <div id="bundleUpsell" style="display:none;margin:20px 0;"></div>
       <div id="crossSellSection" style="display:none;margin:20px 0;"></div>
       <div class="bundle-cta" id="bundleCta">
-        <p>Bu öneriler tam size göre, uzman gözüyle hazırlandı. Sağlıklı ve enerjik halinize bugün başlayın.</p>
+        <p>Bu öneriler tam size göre, hedef ve ihtiyaçlarınıza göre hazırlandı. Sağlıklı ve enerjik halinize bugün başlayın.</p>
         <a class="bundle-btn" id="bundleBtn" href="#" target="_blank">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
           WhatsApp'tan Sipariş Ver
@@ -549,7 +549,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 /* ===== DATA ===== */
 let quizData = null;
 fetch('./quiz_products.json').then(r=>r.json()).then(d=>{quizData=d}).catch(()=>{});
-fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats').then(r=>r.json()).then(d=>{
+fetch('/api/analiz/stats').then(r=>r.json()).then(d=>{
   const el=document.getElementById('proofCount');
   if(el&&d.count) el.textContent=d.count.toLocaleString('tr-TR')+'+';
 }).catch(()=>{});
@@ -573,7 +573,8 @@ const CURRENT_PRODUCT_OPTS = [
   {v:'Çinko', l:'Çinko'},
   {v:'Probiyotik ve Prebiyotik', l:'Probiyotik'},
   {v:'Kolajen', l:'Kolajen'},
-  {v:'C Vitamini', l:'C Vitamini'}
+  {v:'C Vitamini', l:'C Vitamini'},
+  {v:'Diğer', l:'Diğer'}
 ];
 function buildCurrentProducts(){
   const c = document.getElementById('currentProductOptions');
@@ -599,7 +600,7 @@ function onBloodFile(input){
   st.style.color='#4b5563'; st.textContent='Tahlilin analiz ediliyor...';
   const r=new FileReader();
   r.onload=function(){
-    fetch('/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
+    fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/bloodtest',{method:'POST',headers:{'Content-Type':'application/json'},
       body:JSON.stringify({image:r.result,mime:f.type||'image/jpeg'})})
     .then(x=>x.json()).then(d=>{
       if(d&&d.success&&(((d.categories||[]).length)||d.refer_doctor)){
@@ -782,41 +783,41 @@ const detailMap = {
     {value:'sik',label:'Sık Hastalanıyorum',desc:'Direnci artırmak istiyorum'},
     {value:'onlem',label:'Önlem Amaçlı',desc:'Genel bağışıklık güçlendirme'}
   ]},
-  enerji:{icon:'&#9889;',question:'Yorgunluğunu nasıl tanımlarsın?',options:[
+  enerji:{icon:'&#9889;',question:'Yorgunluğunuzu nasıl tanımlarsınız?',options:[
     {value:'sabah',label:'Sabahları Zor Kalkıyorum',desc:'Güne başlamakta zorlanma'},
     {value:'ogleden',label:'Öğleden Sonra Düşüyor',desc:'Öğle sonrası enerji kaybı'},
     {value:'surekli',label:'Sürekli Yorgunluk',desc:'Gün boyu enerji eksikliği'}
   ]},
-  cilt:{icon:'&#129507;',question:'Cilt tipin nedir?',options:[
+  cilt:{icon:'&#129507;',question:'Cilt tipiniz nedir?',options:[
     {value:'kuru',label:'Kuru & Dehidre',desc:'Sıkılık hissi, kuruluk'},
     {value:'yagli',label:'Yağlı & Akneli',desc:'Parlaklık, sivilce eğilimi'},
     {value:'karma',label:'Karma',desc:'T-bölgesi yağlı, yanaklar kuru'},
     {value:'hassas',label:'Hassas & Kızarık',desc:'Tahriş ve kızarıklık eğilimi'}
   ]},
-  sac:{icon:'&#128135;',question:'Saç konusundaki temel sorunun?',options:[
+  sac:{icon:'&#128135;',question:'Saç konusundaki temel sorununuz?',options:[
     {value:'dokulme',label:'Dökülme & İncelme',desc:'Saç kaybı ve zayıflama'},
     {value:'kepek',label:'Kepek & Kaşıntı',desc:'Saç derisi sorunları'},
     {value:'parlaklik',label:'Canlılık & Parlaklık',desc:'Cansız, mat saçlar'},
     {value:'genel',label:'Genel Güçlendirme',desc:'Saç, cilt, tırnak desteği'}
   ]},
-  sindirim:{icon:'&#129440;',question:'Sindirim şikayetin?',options:[
+  sindirim:{icon:'&#129440;',question:'Sindirim şikayetiniz?',options:[
     {value:'siskinlik',label:'Şişkinlik & Gaz',desc:'Yemek sonrası rahatsızlık'},
     {value:'kabizlik',label:'Düzensiz Sindirim',desc:'Kabızlık veya düzensizlik'},
     {value:'reflu',label:'Mide Hassasiyeti',desc:'Reflü, yanma, ekşime'},
     {value:'flora',label:'Flora Desteği',desc:'Probiyotik ve bağırsak sağlığı'}
   ]},
-  uyku:{icon:'&#127769;',question:'Uyku ile ilgili temel sorunun?',options:[
+  uyku:{icon:'&#127769;',question:'Uyku ile ilgili temel sorununuz?',options:[
     {value:'dalamama',label:'Uykuya Dalamıyorum',desc:'Yatakta uzun süre uyanık kalma'},
     {value:'bolunme',label:'Sık Uyanıyorum',desc:'Gece boyunca bölünen uyku'},
     {value:'yorgun',label:'Dinlenmeden Uyanıyorum',desc:'Uyusam da yorgun kalkıyorum'},
     {value:'stres',label:'Stres & Kaygı',desc:'Zihinsel huzursuzluk'}
   ]},
-  eklem:{icon:'&#129460;',question:'Eklem/kemik durumun?',options:[
+  eklem:{icon:'&#129460;',question:'Eklem/kemik durumunuz?',options:[
     {value:'agri',label:'Ağrı & Sertlik',desc:'Hareketle artan ağrı'},
     {value:'esneklik',label:'Esneklik Kaybı',desc:'Hareket kısıtlılığı'},
     {value:'onlem',label:'Koruyucu Bakım',desc:'Henüz şikayet yok, önlem'}
   ]},
-  kalp:{icon:'&#10084;&#65039;',question:'Kalp sağlığı önceliğin?',options:[
+  kalp:{icon:'&#10084;&#65039;',question:'Kalp sağlığı önceliğiniz?',options:[
     {value:'kolesterol',label:'Kolesterol Kontrolü',desc:'Kolesterol ve trigliserit dengesi'},
     {value:'tansiyon',label:'Tansiyon Desteği',desc:'Sağlıklı kan basıncı'},
     {value:'genel',label:'Genel Kalp Sağlığı',desc:'Kardiyovasküler koruma'}
@@ -847,7 +848,7 @@ const detailMap = {
     {value:'dayaniklilik',label:'Dayanıklılık',desc:'Uzun süreli performans'},
     {value:'toparlanma',label:'Toparlanma',desc:'Antrenman sonrası recovery'}
   ]},
-  multivitamin:{icon:'&#128138;',question:'Multivitamin kullanım amacın?',options:[
+  multivitamin:{icon:'&#128138;',question:'Multivitamin kullanım amacınız?',options:[
     {value:'eksiklik',label:'Vitamin Eksikliğim Var',desc:'Kan tahlilinde düşük değerler'},
     {value:'genel',label:'Genel Sağlık Desteği',desc:'Günlük temel ihtiyaçlar'},
     {value:'yas',label:'Yaşa Özel Formül',desc:'Yaş grubuma uygun'}
@@ -961,6 +962,7 @@ function goTo(n){
   document.getElementById(id).classList.add('active');
   updateProgress(n);
   window.scrollTo({top:0,behavior:'smooth'});
+  try{if(window.parent&&window.parent!==window){window.parent.postMessage({type:'eeczaci:scrollTop'},'*');}}catch(e){}
 }
 
 function buildDetailStep(){
@@ -1005,7 +1007,7 @@ function selectDetail(el){
 }
 
 function updateDetailBtn(){
-  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
+  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]&&CRITICAL_DETAIL.includes(n));
   const allAnswered=activeNeeds.every(n=>state.details[n]);
   document.getElementById('btn3').disabled=!allAnswered;
 }
@@ -1027,7 +1029,7 @@ function buildLifestyleOptions(){
 function buildNeedOptions(){
   const c = document.getElementById('needOptions');
   c.innerHTML='';
-  const opts = needMap[state.who]||needMap.yetiskin;
+  const opts = (needMap[state.who]||needMap.yetiskin).slice().sort((a,b)=>(b.popular?1:0)-(a.popular?1:0));
   opts.forEach(o=>{
     const div = document.createElement('div');
     div.className='option'+(state.needs.includes(o.value)?' selected':'');
@@ -1042,7 +1044,7 @@ function buildNeedOptions(){
   dg.className='option'+(state.needs.includes('diger')?' selected':'');
   dg.dataset.value='diger';
   dg.onclick=function(){selectMulti(this)};
-  dg.innerHTML='<div class="check"></div><div class="opt-icon">&#9998;&#65039;</div><div class="opt-content"><div class="opt-label">Diğer</div><div class="opt-desc">Aradığınızı yazın</div></div>';
+  dg.innerHTML='<div class="check"></div><div class="opt-icon">&#128172;</div><div class="opt-content"><div class="opt-label">Diğer</div><div class="opt-desc">Aradığınızı yazın</div></div>';
   c.appendChild(dg);
   if(!state.needs.includes('diger')) document.getElementById('otherWrap').classList.remove('visible');
   updateBtn2();
@@ -1244,11 +1246,11 @@ function renderProducts(){
 
   const planTitle=getDynamicPlanTitle();
   if(state.name){
-    document.getElementById('resultsTitle').textContent='Tebrikler '+state.name+', size özel uzman önerileriniz hazır';
-    document.getElementById('resultsSubtext').textContent='Uzman gözüyle, ihtiyaçlarınıza göre özenle seçildi';
+    document.getElementById('resultsTitle').textContent='Tebrikler '+state.name+', kişiye özel planınız hazır';
+    document.getElementById('resultsSubtext').textContent='Hedef ve ihtiyaçlarınıza göre özenle seçildi';
   }else{
-    document.getElementById('resultsTitle').textContent='Tebrikler! Size özel uzman önerileriniz hazır';
-    document.getElementById('resultsSubtext').textContent='Uzman gözüyle, ihtiyaçlarınıza göre özenle seçtik';
+    document.getElementById('resultsTitle').textContent='Tebrikler! Kişiye özel planınız hazır';
+    document.getElementById('resultsSubtext').textContent='Hedef ve ihtiyaçlarınıza göre özenle seçtik';
   }
 
   const shareText=encodeURIComponent('Sağlık ihtiyaçlarına özel ücretsiz analiz! Sen de 1 dakikada keşfet: https://e-eczaci.com/pages/analiz');
@@ -1888,7 +1890,7 @@ function buyNow(ev){
   var orig = btn ? btn.innerHTML : '';
   if(btn) btn.innerHTML='Sepete ekleniyor...';
   trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
-  fetch('/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
@@ -2104,6 +2106,38 @@ function renderCrossSell(pickedProducts){
 }
 
 /* Quiz ready */
+
+/* iframe otomatik yükseklik — parent'a (iKAS /pages/analiz) yükseklik bildir.
+   Sabit iframe yüksekliği kaynaklı mobil boşluk + içerik kesilmesini bitirir. */
+(function(){
+  if(!(window.parent&&window.parent!==window))return;
+  /* embed edildiğinde min-height:100vh boşluğunu kaldır (içerik yüksekliği kazanır) */
+  try{
+    document.body.classList.add('eeczaci-embedded');
+    var st=document.createElement('style');
+    st.textContent='body.eeczaci-embedded{min-height:0!important}body.eeczaci-embedded .quiz-container{min-height:0!important;margin-top:0!important;margin-bottom:0!important}body.eeczaci-embedded .quiz-header{display:none!important}body.eeczaci-embedded .intro{padding-top:12px!important}';
+    document.head.appendChild(st);
+  }catch(e){}
+  var last=0;
+  function H(){
+    /* SADECE body içeriği — documentElement.scrollHeight viewport(iframe) yüksekliğine
+       eşittir ve feedback döngüsü yaratır, o yüzden dahil edilmez. */
+    var b=document.body;
+    return Math.max(b.scrollHeight,b.offsetHeight);
+  }
+  function report(){
+    var h=H();
+    if(Math.abs(h-last)>4){
+      last=h;
+      try{window.parent.postMessage({type:'eeczaci:height',height:h},'*');}catch(e){}
+    }
+  }
+  try{new ResizeObserver(report).observe(document.body);}catch(e){}
+  window.addEventListener('load',report);
+  window.addEventListener('resize',report);
+  setInterval(report,800);
+  report();
+})();
 </script>
 </body>
 </html>
