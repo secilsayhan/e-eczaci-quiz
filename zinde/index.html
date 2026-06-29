@@ -262,13 +262,17 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
 <script>
 const ADOMS=[
  {k:'uyku',ic:'😴',label:'Uyku',hint:'Yeterli ve dinlendirici mi?'},
- {k:'hareket',ic:'🏃',label:'Hareket',hint:'Haftalık aktiflik / egzersiz'},
+ {k:'hareket',ic:'🏃',label:'Hareket',hint:'Haftalık aktiflik ve egzersiz'},
  {k:'beslenme',ic:'🥗',label:'Beslenme',hint:'Sebze, protein, az işlenmiş'},
- {k:'stres',ic:'🧘',label:'Stres & Zihin',hint:'Sakinlik ve başa çıkma'},
- {k:'enerji',ic:'⚡',label:'Enerji',hint:'Gün içi enerji seviyen'},
- {k:'farkindalik',ic:'🧬',label:'Farkındalık',hint:'Ölçüm ve takip alışkanlığı'},
+ {k:'stres',ic:'🧘',label:'Stres & Sakinlik',hint:'Gerginlikle başa çıkma'},
+ {k:'ruhhali',ic:'🙂',label:'Ruh Hali',hint:'Genel mutluluk, duygu dengesi'},
+ {k:'enerji',ic:'⚡',label:'Enerji',hint:'Gün içi canlılık'},
+ {k:'zihin',ic:'🧠',label:'Zihinsel Berraklık',hint:'Odak ve hafıza'},
+ {k:'sosyal',ic:'🤝',label:'Sosyal Bağlar',hint:'İlişkiler ve destek'},
+ {k:'anlam',ic:'🧭',label:'Anlam & Amaç',hint:'Hayatta yön ve tatmin'},
+ {k:'onleyici',ic:'🧬',label:'Önleyici Sağlık',hint:'Ölçüm, kontrol, takip'},
 ];
-const DOMS={uyku:'Uyku',hareket:'Hareket',beslenme:'Beslenme',stres:'Stres & Zihin',enerji:'Enerji',farkindalik:'Farkındalık'};
+const DOMS={uyku:'Uyku',hareket:'Hareket',beslenme:'Beslenme',stres:'Stres & Sakinlik',ruhhali:'Ruh Hali',enerji:'Enerji',zihin:'Zihinsel Berraklık',sosyal:'Sosyal Bağlar',anlam:'Anlam & Amaç',onleyici:'Önleyici Sağlık'};
 const LEVELS=[
  {n:'Temel',ic:'🌱',d:'Pazarlıksız temeller',free:true},{n:'Alışkanlık',ic:'🔄',d:'Tutarlılık & rutin',free:true},
  {n:'Optimizasyon',ic:'⚙️',d:'İnce ayar & polifenoller',free:true},{n:'İleri',ic:'📈',d:'Ölçüm, sauna, soğuk maruziyet',free:false},
@@ -280,15 +284,23 @@ function actFor(dom,lv){
   uyku:{cat:'Uyku',why:'Uyku; hücre onarımı, hormon dengesi ve longevity’nin temelidir.',p:['Magnezyum','magnezyum'],
     t:lv<=2?'Yatmadan 1 saat önce ekranı bırak, odanı serin ve karanlık tut':'Uyku saatini sabitle + magnezyumu akşam al, kafeini öğleden sonra kes'},
   hareket:{cat:'Hareket',why:'Kas kütlesi yaşla en güçlü longevity sigortasıdır.',p:['Kreatin','kreatin'],
-    t:lv<=1?'Bugün 10 dakika tempolu yürüyüş yap':lv<=2?'15-20 dk yürüyüş + 5 dk esneme':lv<=3?'Zone-2: 20 dk nabzını konuşabileceğin tempoda tut':'Haftada 2 kuvvet antrenmanı planla + Zone-2 koru'},
+    t:lv<=1?'Bugün 10 dakika tempolu yürüyüş yap':lv<=2?'15-20 dk yürüyüş + 5 dk esneme':lv<=3?'Zone-2: 20 dk nabzını konuşabileceğin tempoda tut':'Haftada 2 kuvvet antrenmanı + Zone-2 koru'},
   beslenme:{cat:'Beslenme',why:'Yeterli protein + lif; kas korur, kan şekerini dengeler.',p:['Omega-3','omega-3'],
     t:lv<=2?'Her ana öğüne bir avuç protein + bir porsiyon sebze ekle':'Öğün penceresini daralt + polifenol ekle (böğürtlen, yeşil çay)'},
-  stres:{cat:'Zihin',why:'Kronik stres kortizolü yükseltir; uykuyu ve metabolizmayı bozar.',p:['Magnezyum','magnezyum'],
+  stres:{cat:'Sakinlik',why:'Kronik stres kortizolü yükseltir; uykuyu ve metabolizmayı bozar.',p:['Magnezyum','magnezyum'],
     t:lv<=2?'5 dakika kutu nefesi yap (4 al - 4 tut - 4 ver - 4 bekle)':'Günde 10 dk meditasyon + ekran detoksu penceresi'},
+  ruhhali:{cat:'Ruh Hali',why:'Işık, hareket ve sosyal bağ ruh halinin en güçlü doğal düzenleyicileridir.',p:['Omega-3','omega-3'],
+    t:'Bugün 20 dk açık havada yürü ve sevdiğin biriyle konuş'},
   enerji:{cat:'Enerji',why:'Sabah ışığı + stabil kan şekeri gün içi enerjiyi belirler.',p:['B12 Vitamini','b12-vitamini'],
-    t:lv<=2?'Sabah 10 dk gün ışığı al, kahveyi uyanınca değil 60-90 dk sonra iç':'Öğleden sonra düşüşüne karşı protein ağırlıklı ara öğün + kısa yürüyüş'},
-  farkindalik:{cat:'Ölçüm',why:'Ölçmeden yönetemezsin; eksikler sessiz ilerler.',p:['D Vitamini','vitamin-d'],
-    t:lv<=2?'D vitamini ve B12 değerlerini bir sonraki kontrolde ölçtür':'Demir, ferritin, HbA1c, omega-3 indeksini panelе ekle'},
+    t:lv<=2?'Sabah 10 dk gün ışığı al, kahveyi 60-90 dk ertele':'Öğleden sonra düşüşüne karşı protein ara öğün + kısa yürüyüş'},
+  zihin:{cat:'Zihinsel Berraklık',why:'Derin odak, yeterli uyku ve omega-3 zihinsel performansın temelidir.',p:['Omega-3','omega-3'],
+    t:'Telefonu uzağa koy, 25 dk kesintisiz tek işe odaklan'},
+  sosyal:{cat:'Sosyal Bağlar',why:'Güçlü sosyal bağlar uzun ve sağlıklı yaşamın en güçlü öngörücülerindendir.',p:null,
+    t:'Bugün değer verdiğin birine ulaş — kısa bir mesaj ya da arama'},
+  anlam:{cat:'Anlam & Amaç',why:'Amaç ve şükran duygusu yaşam doyumunu ve dayanıklılığı artırır.',p:null,
+    t:'Senin için anlamlı tek bir şey yap; akşam 3 şükran not et'},
+  onleyici:{cat:'Önleyici Sağlık',why:'Ölçmeden yönetemezsin; eksikler sessiz ilerler.',p:['D Vitamini','vitamin-d'],
+    t:lv<=2?'D vitamini ve B12 değerlerini bir sonraki kontrolde ölçtür':'Demir, ferritin, HbA1c ve omega-3 indeksini panele ekle'},
  };
  return A[dom];
 }
@@ -296,8 +308,12 @@ const MISSIONS={uyku:['Bu hafta: Uyku ritmini sabitle','7 gün aynı saatte yat-
  hareket:['Bu hafta: Her gün hareket','7 günün 6’sında en az 20 dk hareket et.'],
  beslenme:['Bu hafta: Her öğüne protein','Kas ve tokluk için her öğüne protein ekle.'],
  stres:['Bu hafta: Günde 5 dk nefes','Kortizolü düşür, zihnini sakinleştir.'],
+ ruhhali:['Bu hafta: Işık + hareket + bağ','Her gün açık hava + bir sosyal temas ile ruh halini yükselt.'],
  enerji:['Bu hafta: Sabah ışığı','Her sabah 10 dk gün ışığı ile sirkadiyen ritmi kur.'],
- farkindalik:['Bu hafta: Temel panelini çıkar','D vit, B12, demir, HbA1c ölçtür.']};
+ zihin:['Bu hafta: Derin odak blokları','Günde 1 kez 25 dk kesintisiz odak çalışması.'],
+ sosyal:['Bu hafta: 3 anlamlı bağ','Haftada en az 3 kez sevdiklerinle gerçek temas kur.'],
+ anlam:['Bu hafta: Şükran ve amaç','Her akşam 3 şükran yaz, 1 anlamlı eylemde bulun.'],
+ onleyici:['Bu hafta: Temel panelini çıkar','D vit, B12, demir, HbA1c ölçtür.']};
 
 let qi=0, ans={}, state={level:2,score:6,doms:{},weak:[]}, plan=[];
 
@@ -337,9 +353,9 @@ function buildDash(){const L=LEVELS[state.level-1];
   plan=picks.map(d=>actFor(d,state.level));
   document.getElementById('plan-sub').textContent='En çok '+state.weak.map(k=>DOMS[k]).join(' ve ')+' alanına odaklandık';
   const tw=document.getElementById('tasks');tw.innerHTML='';
-  plan.forEach((a,i)=>{tw.innerHTML+='<div class="task" id="tk'+i+'"><div class="check" onclick="toggle('+i+')"></div>'+
-    '<div class="tx"><div class="cat">'+a.cat+'</div><div class="t">'+a.t+'</div><div class="why">'+a.why+'</div>'+
-    '<a class="plink" target="_blank" href="https://e-eczaci.com/arama?q='+a.p[1]+'">'+a.p[0]+' → e-eczaci.com</a></div></div>';});
+  plan.forEach((a,i)=>{var pl=a.p?'<a class="plink" target="_blank" href="https://e-eczaci.com/arama?q='+a.p[1]+'">'+a.p[0]+' → e-eczaci.com</a>':'';
+    tw.innerHTML+='<div class="task" id="tk'+i+'"><div class="check" onclick="toggle('+i+')"></div>'+
+    '<div class="tx"><div class="cat">'+a.cat+'</div><div class="t">'+a.t+'</div><div class="why">'+a.why+'</div>'+pl+'</div></div>';});
   document.getElementById('d-done').textContent='0/'+plan.length;
   // yol haritası
   const lw=document.getElementById('levels');lw.innerHTML='';
@@ -383,6 +399,10 @@ function route(x){
  if(x.indexOf('stres')>-1||x.indexOf('kaygı')>-1||x.indexOf('gergin')>-1){return{free:true,text:'Stres için bugün: 5 dk <b>kutu nefesi</b> (4 al - 4 tut - 4 ver - 4 bekle). Düzenli yapınca kalp atışını ve kortizolü düşürür. Magnezyum ve düzenli uyku da destekler.',prod:['Magnezyum','magnezyum'],chips:['Uyku önerisi','Meditasyon','Ürün öner']};}
  if(x.indexOf('beslen')>-1||x.indexOf('diyet')>-1||x.indexOf('yemek')>-1||x.indexOf('kilo')>-1){return{free:true,text:'Temel kural: her ana öğüne <b>protein + sebze + lif</b>. İşlenmiş şekeri azalt. Omega-3 kalp ve beyin için iyi bir tabandır. Kreatin (Seviye 3+) kas ve performansa destek olur.',prod:['Omega-3','omega-3'],chips:['Protein ne kadar?','Hareket önerisi','Ürün öner']};}
  if(x.indexOf('hareket')>-1||x.indexOf('spor')>-1||x.indexOf('egzersiz')>-1||x.indexOf('yürü')>-1){const a=actFor('hareket',state.level);return{free:true,text:'Seviyene göre bugün: <b>'+a.t+'</b>. '+a.why,prod:['Kreatin','kreatin'],chips:['Zone-2 nedir?','Beslenme önerisi','Ürün öner']};}
+ if(x.indexOf('ruh')>-1||x.indexOf('moral')>-1||x.indexOf('mutsuz')>-1||x.indexOf('keyif')>-1||x.indexOf('mutlu')>-1||x.indexOf('depres')>-1){return{free:true,text:'Ruh halini en hızlı yükselten üçlü: <b>gün ışığı + hareket + sosyal temas</b>. Bugün 20 dk açık havada yürü ve sevdiğin biriyle konuş. Omega-3 ve D vitamini de ruh haline destek olabilir.',prod:['Omega-3','omega-3','🐟'],chips:['Sosyal öneri','Uyku önerisi','Ürün öner']};}
+ if(x.indexOf('odak')>-1||x.indexOf('dikkat')>-1||x.indexOf('hafıza')>-1||x.indexOf('konsantr')>-1||x.indexOf('zihin')>-1||x.indexOf('beyin')>-1){return{free:true,text:'Zihinsel berraklık için: yeterli <b>uyku</b>, telefonu uzaklaştırıp <b>25 dk kesintisiz odak</b> blokları ve düzenli hareket. Omega-3 (DHA) beyin için iyi bir tabandır.',prod:['Omega-3','omega-3','🐟'],chips:['Uyku önerisi','Hareket önerisi','Ürün öner']};}
+ if(x.indexOf('sosyal')>-1||x.indexOf('yalnız')>-1||x.indexOf('arkadaş')>-1||x.indexOf('ilişki')>-1){return{free:true,text:'Sosyal bağ, uzun yaşamın en güçlü öngörücülerinden. Bugün değer verdiğin birine ulaş — kısa bir mesaj bile sayar. Haftada 3 gerçek temas hedefle.',chips:['Anlam & amaç','Ruh hali','Bugün ne yapmalıyım?']};}
+ if(x.indexOf('anlam')>-1||x.indexOf('amaç')>-1||x.indexOf('motivas')>-1||x.indexOf('tatmin')>-1||x.indexOf('tükenmiş')>-1){return{free:true,text:'Amaç duygusu dayanıklılığı ve yaşam doyumunu artırır. Bugün senin için <b>anlamlı tek bir şey</b> yap ve akşam <b>3 şükran</b> yaz. Küçük ama düzenli.',chips:['Sosyal öneri','Stres önerisi','Bugün ne yapmalıyım?']};}
  if(x.indexOf('test')>-1||x.indexOf('kan')>-1||x.indexOf('ölç')>-1){return{free:true,text:'Temel panel: <b>D vitamini, B12, ferritin (demir), HbA1c, TSH ve lipid</b>. İleri longevity için omega-3 indeksi ve hsCRP eklenir. Sonuçlarını paylaşırsan plana göre yorumlarım.',prod:['D Vitamini','vitamin-d'],chips:['D vitamini kaç olmalı?','Ürün öner'],free:false};}
  if(x.indexOf('ürün')>-1||x.indexOf('takviye')>-1||x.indexOf('öner')>-1){const ps=state.level>=3?[['Kreatin','kreatin','💪'],['Omega-3','omega-3','🐟']]:[['D Vitamini','vitamin-d','💊'],['Omega-3','omega-3','🐟']];return{free:true,text:'Seviyene göre temel tabanın: <b>'+ps[0][0]+'</b> ve <b>'+ps[1][0]+'</b>. Hepsi eczane güvencesiyle e-eczaci.com’da. Hangisini açayım?',prod:[ps[0][0],ps[0][1],ps[0][2]],chips:[ps[1][0],'Neden bunlar?','Bugün ne yapmalıyım?']};}
  if(x.indexOf('nasıl')>-1||x.indexOf('ilerli')>-1||x.indexOf('seviye')>-1){return{free:false,text:'Şu an Seviye '+state.level+'’desin, skorun '+state.score.toFixed(1)+'/10. Bir üst seviyeye geçmek için bu haftaki misyonun: <b>'+(MISSIONS[state.weak[0]]||MISSIONS.uyku)[0].replace('Bu hafta: ','')+'</b>. Düzenli takiple birlikte ilerleyelim.',chips:['Bu haftanın misyonu','Bugün ne yapmalıyım?']};}
