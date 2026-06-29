@@ -5,6 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#ffffff">
 <title>Sağlıklı Yaşam Koçu</title>
+<link rel="manifest" href="manifest.json">
+<link rel="apple-touch-icon" href="icon-180.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Sağlık Koçu">
+<meta name="description" content="Sağlık koçun 7/24 yanında — bilime dayalı. Yaşamını 10 boyutta değerlendir, sana özel plan al.">
 <style>
 :root{
   --bg:#ffffff; --soft:#f6f8f7; --ink:#16221d; --muted:#697670; --line:#e9ece9;
@@ -236,7 +242,13 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
         <div class="lv">Senin seviyen</div><h2 id="r-level"></h2><div class="score" id="r-score"></div>
       </div>
       <div class="card"><h3>📊 Yaşam denetimi</h3><div class="bars" id="r-bars" style="margin-top:14px"></div></div>
-      <button class="btn" onclick="go('dash');setNav('dash')">Planımı gör →</button>
+      <div class="card" style="background:var(--accent-soft);border-color:var(--accent-soft)">
+        <h3 style="font-size:15.5px;display:flex;align-items:center;gap:7px">📩 Planını kaydet, hatırlatma al</h3>
+        <div class="small" style="margin:5px 0 13px">E-postanı bırak; planını ve günlük adımlarını sana gönderelim.</div>
+        <input id="email" type="email" inputmode="email" placeholder="e-posta adresin" style="width:100%;border:1px solid var(--line);border-radius:11px;padding:13px 14px;font-size:14.5px;font-family:var(--font);outline:none;margin-bottom:10px;background:#fff">
+        <button class="btn" onclick="saveEmail()">Planımı kaydet ve devam et →</button>
+      </div>
+      <button class="btn ghost" onclick="go('dash');setNav('dash')">E-postasız devam et</button>
       <div class="small" style="text-align:center;margin-top:12px">Sonuçlar kişiseldir, tıbbi tavsiye değildir. Hekiminize danışınız.</div>
     </div>
   </section>
@@ -264,8 +276,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
         <div class="small" style="text-align:center;margin-top:10px">Eczane güvencesiyle · 14 gün iade hakkı</div>
       </div>
       <div class="sec-title">Premium</div>
-      <div class="premium"><span class="tag">PLUS</span><h3>Her gün yanında bir koç</h3>
-        <ul><li>Sınırsız günlük koçluk sohbeti</li><li>İleri seviyeler (ölçüm, sauna, biohacking)</li><li>Kan testi yorumu + dinamik plan</li><li>4-8 haftada bir derin yaşam denetimi</li></ul>
+      <div class="premium"><span class="tag">PLUS ÜYELİK</span><h3>Koç + alışveriş ayrıcalıkları</h3>
+        <ul><li>Sınırsız günlük koçluk + hafıza</li><li><b>e-eczaci.com'da %10 indirim + ücretsiz kargo</b></li><li><b>2x Sağlık Puanı</b> (tier hızlı yükselir)</li><li>Kan testi yorumu + ileri seviye plan</li><li>Her ay sürpriz ürün hediyesi</li></ul>
         <div style="background:rgba(184,134,47,.2);border:1px solid var(--gold);border-radius:11px;padding:10px 13px;font-size:13px;margin-bottom:14px">🎁 e-eczaci.com'dan alışverişe <b>1 ay hediye!</b></div>
         <div class="price"><b>₺99</b><span>/ay</span> <s>₺149</s></div>
         <button class="btn gold" onclick="openPay()">Plus'ı dene</button>
@@ -411,7 +423,7 @@ function finish(){const ks=ADOMS.map(d=>d.k);let tot=0;ks.forEach(k=>tot+=(state
   state.score=Math.round(tot/ks.length*10)/10;
   state.level = state.score>=8.5?5 : state.score>=6.8?4 : state.score>=5?3 : state.score>=3?2 : 1;
   state.weak=ks.slice().sort((a,b)=>(state.doms[a]||0)-(state.doms[b]||0)).slice(0,2);
-  renderResult();go('result');}
+  save();renderResult();go('result');}
 function renderResult(){const L=LEVELS[state.level-1];
   document.getElementById('r-ring').textContent=state.score.toFixed(1);
   document.getElementById('r-level').textContent='Seviye '+state.level+' — '+L.n;
@@ -485,6 +497,7 @@ function route(x){
  if(x.indexOf('ürün')>-1||x.indexOf('takviye')>-1||x.indexOf('öner')>-1){const ps=state.level>=3?[['Kreatin','kreatin','💪'],['Omega-3','omega-3','🐟']]:[['D Vitamini','vitamin-d','💊'],['Omega-3','omega-3','🐟']];return{free:true,text:'Seviyene göre temel tabanın: <b>'+ps[0][0]+'</b> ve <b>'+ps[1][0]+'</b>.',prod:[ps[0][0],ps[0][1],ps[0][2]],chips:[ps[1][0],'Neden bunlar?','Bugün ne yapmalıyım?']};}
  if(x.indexOf('nasıl')>-1||x.indexOf('ilerli')>-1||x.indexOf('seviye')>-1){return{free:false,text:'Şu an Seviye '+state.level+'’desin, skorun '+state.score.toFixed(1)+'/10. Bir üst seviyeye geçmek için bu haftaki misyonun: <b>'+(MISSIONS[state.weak[0]]||MISSIONS.uyku)[0].replace('Bu hafta: ','')+'</b>. Düzenli takiple birlikte ilerleyelim.',chips:['Bu haftanın misyonu','Bugün ne yapmalıyım?']};}
  if(x.indexOf('merhaba')>-1||x.indexOf('selam')>-1){return{free:true,text:'Merhaba! Hangi konuda yardımcı olayım — uyku, enerji, beslenme, hareket ya da ürün önerisi?',chips:['Bugün ne yapmalıyım?','Neden yorgunum?','Ürün öner']};}
+ if(x.indexOf('sepet')>-1||x.indexOf('ihtiyac')>-1||x.indexOf('ihtiyaç')>-1||x.indexOf('listele')>-1){return{free:true,text:'Sana özel <b>İhtiyaç Sepetini</b> "Bugün" sekmesinde hazırladım — en çok <b>'+DOMS[state.weak[0]]+'</b> ve <b>'+DOMS[state.weak[1]]+'</b> alanına göre eşleşen ürünler orada, tek dokunuşla incele.',chips:['Bugün ne yapmalıyım?','Neden bunlar?','Ürün öner']};}
  return{free:true,text:'Anladım. Bunu en iyi şekilde değerlendirebilmem için biraz daha bağlam faydalı olur. Şunlardan biriyle başlayabiliriz:',chips:['Bugün ne yapmalıyım?','Neden yorgunum?','Uyku önerisi','Ürün öner']};
 }
 
@@ -501,10 +514,10 @@ const QUESTS=[
 const BADGES=[['🌱','İlk Adım',true],['🛒','İlk Alışveriş',false],['🔥','7 Gün Seri',false],['⭐','Yorumcu',false],['👥','Davetçi',false],['💎','Plus Üye',false]];
 const REWARDS=[['🚚','Ücretsiz kargo','500 puan = ₺5',500],['💬','1 ay Sağlıklı Yaşam Koçu Plus','1.000 puan = ₺10',1000],['🎟️','₺25 indirim kuponu','2.500 puan',2500],['🎁','₺50 + sürpriz ürün','5.000 puan',5000]];
 const TIERS=[
- {n:'Tohum',ic:'🌱',min:0,perk:'1x puan · üye fiyatları · doğum günü hediyesi'},
- {n:'Fidan',ic:'🌿',min:200,perk:'1.5x puan · indirimli kargo · aylık örnek ürün'},
- {n:'Zinde',ic:'🌳',min:600,perk:'2x puan · ücretsiz kargo · %5 üye indirimi · 1 ay Koç Plus'},
- {n:'Usta',ic:'👑',min:1500,perk:'3x puan · sınırsız ücretsiz kargo · %10 indirim · ücretsiz Plus · erken erişim'},
+ {n:'Gümüş',ic:'🥈',min:0,perk:'1x puan · üye fiyatları · doğum günü hediyesi'},
+ {n:'Altın',ic:'🥇',min:200,perk:'1.5x puan · indirimli kargo · aylık örnek ürün'},
+ {n:'Platin',ic:'💠',min:600,perk:'2x puan · ücretsiz kargo · %5 üye indirimi · 1 ay Koç Plus'},
+ {n:'Elmas',ic:'💎',min:1500,perk:'3x puan · sınırsız ücretsiz kargo · %10 indirim · ücretsiz Plus · erken erişim'},
 ];
 function buildGami(){const pts=state.points||50;document.getElementById('g-pts').textContent=pts;
   let ti=0;TIERS.forEach((t,i)=>{if(pts>=t.min)ti=i;});
@@ -529,6 +542,10 @@ function setNav(t){document.querySelectorAll('.nav button').forEach(b=>b.classLi
 function openPay(){document.getElementById('pay').classList.add('show');}
 function closePay(){document.getElementById('pay').classList.remove('show');}
 function restart(){go('hero');document.getElementById('nav').classList.add('hidden');document.getElementById('composer').classList.add('hidden');}
+function save(){try{localStorage.setItem('syk_v1',JSON.stringify({doms:state.doms,score:state.score,level:state.level,weak:state.weak,points:state.points,email:state.email}));}catch(e){}}
+function saveEmail(){var e=document.getElementById('email').value.trim();if(e&&e.indexOf('@')>1){state.email=e;save();}go('dash');setNav('dash');}
+if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js').catch(function(){});});}
+(function(){try{var s=JSON.parse(localStorage.getItem('syk_v1'));if(s&&s.doms&&Object.keys(s.doms).length>=6){Object.assign(state,s);state.points=state.points||50;renderResult();go('dash');setNav('dash');}}catch(e){}})();
 </script>
 </body>
 </html>
