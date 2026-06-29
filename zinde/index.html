@@ -174,7 +174,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
   <section class="screen" id="s-result">
     <div class="pad">
       <div class="levelcard">
-        <div class="ring"><b id="r-ring">0</b><span>/100</span></div>
+        <div class="ring"><b id="r-ring">0</b><span>/10</span></div>
         <div class="lv">Senin seviyen</div>
         <h2 id="r-level"></h2>
         <div class="score" id="r-score"></div>
@@ -302,26 +302,26 @@ function nextQ(){if(qi<Q.length-1){qi++;renderQ();}else finish();}
 function prevQ(){if(qi>0){qi--;renderQ();}else go('hero');}
 function finish(){
   let tot=0,max=Q.length*3;Q.forEach(q=>tot+=(ans[q.k]||0));
-  state.score=Math.round(tot/max*100);
-  state.level = state.score>=85?5 : state.score>=68?4 : state.score>=50?3 : state.score>=30?2 : 1;
+  state.score=Math.round(tot/max*100)/10;
+  state.level = state.score>=8.5?5 : state.score>=6.8?4 : state.score>=5?3 : state.score>=3?2 : 1;
   renderResult();go('result');
 }
 function renderResult(){
   const L=LEVELS[state.level-1];
-  document.getElementById('r-ring').textContent=state.score;
+  document.getElementById('r-ring').textContent=state.score.toFixed(1);
   document.getElementById('r-level').textContent='Seviye '+state.level+' — '+L.n;
   document.getElementById('r-score').textContent='Odak: '+L.d;
   const bw=document.getElementById('r-bars');bw.innerHTML='';
   Object.keys(DOMS).forEach(k=>{
     const v=(state.doms[k]||0)/3*100;
-    bw.innerHTML+='<div class="bar"><div class="lab"><span>'+DOMS[k]+'</span><span>'+Math.round(v)+'%</span></div><div class="track"><div class="fill" style="width:'+v+'%"></div></div></div>';
+    bw.innerHTML+='<div class="bar"><div class="lab"><span>'+DOMS[k]+'</span><span>'+(v/10).toFixed(1)+'/10</span></div><div class="track"><div class="fill" style="width:'+v+'%"></div></div></div>';
   });
   buildDash();
 }
 function buildDash(){
   const L=LEVELS[state.level-1];
   document.getElementById('d-lvtag').textContent='● Seviye '+state.level+' — '+L.n;
-  document.getElementById('d-score').textContent=state.score;
+  document.getElementById('d-score').textContent=state.score.toFixed(1);
   const tw=document.getElementById('tasks');tw.innerHTML='';
   (TASKS[state.level]||TASKS[2]).forEach((t,i)=>{
     const d=document.createElement('div');d.className='task';d.id='tk'+i;
