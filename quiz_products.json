@@ -21856,7 +21856,7 @@
           "Bakım Kremi",
           "Seboreik Dermatit"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ducray Keracnyl Jel 400 ml",
@@ -35071,7 +35071,7 @@
           "Bakım Kremi",
           "Seboreik Dermatit"
         ],
-        "stock": 8
+        "stock": 7
       }
     ],
     "İntim Bakım": [
@@ -35998,7 +35998,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -43214,7 +43214,7 @@
           "Gaz Giderici ve Kolik",
           "Gaz Giderici"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Diş Jeli": [
@@ -43244,7 +43244,7 @@
           "Gaz Giderici ve Kolik",
           "Gaz Giderici"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "MSM": [
@@ -47356,7 +47356,7 @@
   "stats": {
     "total_products": 3213,
     "total_categories": 589,
-    "generated": "2026-06-29 11:02",
+    "generated": "2026-06-29 15:01",
     "source": "ikas_api_live"
   }
 }
