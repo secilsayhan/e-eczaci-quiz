@@ -149,6 +149,12 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
 .rwd .rb{font-size:12px;font-weight:800;padding:8px 13px;border-radius:18px;background:var(--accent);color:#fff;border:0;cursor:pointer}
 .rwd .rb.dis{background:var(--soft);color:var(--muted)}
 .refcard{background:linear-gradient(135deg,var(--accent-soft),#fff);border:1px solid var(--accent-soft);border-radius:16px;padding:20px;text-align:center}
+.lrow{display:flex;gap:11px;padding:12px 0;border-bottom:1px solid var(--line);align-items:flex-start}
+.lrow:last-child{border-bottom:0}
+.lrow .li{font-size:21px;flex-shrink:0;width:30px;text-align:center}
+.lrow .lm{flex:1} .lrow .lm b{font-size:14px} .lrow .lm span{font-size:11.5px;color:var(--muted);display:block;margin-top:2px;line-height:1.4}
+.lrow.cur{background:var(--accent-soft);margin:2px -8px;padding:12px 8px;border-radius:11px;border-bottom:0}
+.lrow.cur .lm b{color:var(--accent2)}
 
 /* COACH CHAT */
 .chead{display:flex;align-items:center;gap:11px;padding:16px 18px;border-bottom:1px solid var(--line);position:sticky;top:0;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);z-index:5}
@@ -245,8 +251,6 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
       <div class="card mission"><div class="mt">🎯 Bu haftanın misyonu</div><h4 id="mission-t"></h4><div class="small" id="mission-d"></div></div>
       <div class="card coach"><h3>📋 Bugünün planı</h3><div class="small" id="plan-sub" style="margin-bottom:8px"></div><div id="tasks"></div></div>
       <button class="btn ghost" onclick="setNav('coach');go('coach')" style="margin-bottom:8px">💬 Koçunla konuş</button>
-      <div class="sec-title">Longevity yol haritan</div>
-      <div class="card"><div class="lvlist" id="levels"></div></div>
       <div class="sec-title">Sana uygun ürünler</div>
       <div class="prods" id="prods"></div>
       <div class="small" style="text-align:center;margin:10px 0 4px">Eczane güvencesiyle e-eczaci.com'da</div>
@@ -278,8 +282,11 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
       <div class="tier" id="g-tier">🌱 Tohum</div>
       <div class="tierbar"><i id="g-tierbar"></i></div>
       <div class="next" id="g-next"></div>
+      <div class="next" id="g-perk" style="margin-top:7px;font-weight:600"></div>
     </div>
     <div class="pad">
+      <div class="sec-title">🪜 Kademeler & avantajların</div>
+      <div class="card"><div id="ladder"></div></div>
       <div class="sec-title">🎯 Yolculuğun</div>
       <div class="card"><div id="quests"></div></div>
       <div class="sec-title">🏅 Rozetlerin</div>
@@ -408,11 +415,6 @@ function buildDash(){const L=LEVELS[state.level-1];
     tw.innerHTML+='<div class="task" id="tk'+i+'"><div class="check" onclick="toggle('+i+')"></div>'+
     '<div class="tx"><div class="cat">'+a.cat+'</div><div class="t">'+a.t+'</div><div class="why">'+a.why+'</div>'+pl+'</div></div>';});
   document.getElementById('d-done').textContent='0/'+plan.length;
-  // yol haritası
-  const lw=document.getElementById('levels');lw.innerHTML='';
-  LEVELS.forEach((l,i)=>{const lv=i+1,locked=!l.free&&lv>state.level,cur=lv===state.level;
-    lw.innerHTML+='<div class="row'+(locked?' lock':'')+'"><div class="ic">'+l.ic+'</div><div class="meta"><b>Seviye '+lv+' — '+l.n+(cur?' · şu an buradasın':'')+'</b><span>'+l.d+'</span></div>'+
-    (locked?'<span class="lockpill">🔒 Plus</span>':(lv<state.level?'<span style="color:var(--accent);font-weight:800">✓</span>':''))+'</div>';});
   // ürünler
   const ps=state.level>=3?[['💪','Kreatin','kreatin'],['🦠','Probiyotik','probiyotik'],['🍇','Resveratrol','resveratrol'],['⚡','CoQ10','koenzim-q10']]:[['💊','D Vitamini','vitamin-d'],['🐟','Omega-3','omega-3'],['🧲','Magnezyum','magnezyum'],['🌿','Multivitamin','multivitamin']];
   const pw=document.getElementById('prods');pw.innerHTML='';
@@ -472,15 +474,23 @@ const QUESTS=[
  {ic:'💎',t:'Plus aboneliğini başlat',r:'Usta seviye + özel ödüller',st:'lock'},
 ];
 const BADGES=[['🌱','İlk Adım',true],['🛒','İlk Alışveriş',false],['🔥','7 Gün Seri',false],['⭐','Yorumcu',false],['👥','Davetçi',false],['💎','Plus Üye',false]];
-const REWARDS=[['🎟️','₺50 indirim kuponu','200 puan',200],['🚚','Ücretsiz kargo (1 ay)','400 puan',400],['💬','1 ay Plus hediye','600 puan',600],['🎁','Sürpriz ürün hediyesi','1000 puan',1000]];
-const TIERS=[['🌱 Tohum',0],['🌿 Filiz',200],['🌳 Ağaç',600],['🏆 Usta',1500]];
+const REWARDS=[['🚚','Ücretsiz kargo','500 puan = ₺5',500],['💬','1 ay Sağlıklı Yaşam Koçu Plus','1.000 puan = ₺10',1000],['🎟️','₺25 indirim kuponu','2.500 puan',2500],['🎁','₺50 + sürpriz ürün','5.000 puan',5000]];
+const TIERS=[
+ {n:'Tohum',ic:'🌱',min:0,perk:'1x puan · üye fiyatları · doğum günü hediyesi'},
+ {n:'Fidan',ic:'🌿',min:200,perk:'1.5x puan · indirimli kargo · aylık örnek ürün'},
+ {n:'Zinde',ic:'🌳',min:600,perk:'2x puan · ücretsiz kargo · %5 üye indirimi · 1 ay Koç Plus'},
+ {n:'Usta',ic:'👑',min:1500,perk:'3x puan · sınırsız ücretsiz kargo · %10 indirim · ücretsiz Plus · erken erişim'},
+];
 function buildGami(){const pts=state.points||50;document.getElementById('g-pts').textContent=pts;
-  let ti=0;TIERS.forEach((t,i)=>{if(pts>=t[1])ti=i;});
-  document.getElementById('g-tier').textContent=TIERS[ti][0];
+  let ti=0;TIERS.forEach((t,i)=>{if(pts>=t.min)ti=i;});
+  document.getElementById('g-tier').textContent=TIERS[ti].ic+' '+TIERS[ti].n;
+  document.getElementById('g-perk').textContent=TIERS[ti].perk;
   const next=TIERS[ti+1];
-  if(next){const prev=TIERS[ti][1];document.getElementById('g-tierbar').style.width=Math.min(100,(pts-prev)/(next[1]-prev)*100)+'%';
-    document.getElementById('g-next').textContent=(next[1]-pts)+' puan sonra '+next[0].split(' ')[1]+' seviyesi';}
+  if(next){const prev=TIERS[ti].min;document.getElementById('g-tierbar').style.width=Math.min(100,(pts-prev)/(next.min-prev)*100)+'%';
+    document.getElementById('g-next').textContent=(next.min-pts)+' puan sonra '+next.n+' seviyesi';}
   else{document.getElementById('g-tierbar').style.width='100%';document.getElementById('g-next').textContent='En üst seviyedesin 🎉';}
+  const lad=document.getElementById('ladder');lad.innerHTML='';
+  TIERS.forEach((t,i)=>{lad.innerHTML+='<div class="lrow'+(i===ti?' cur':'')+'"><span class="li">'+t.ic+'</span><div class="lm"><b>'+t.n+(i===ti?' · şu an buradasın':'')+'</b><span>'+t.perk+'</span></div></div>';});
   const qw=document.getElementById('quests');qw.innerHTML='';
   QUESTS.forEach(q=>{const cls=q.st==='done'?'done':q.st==='lock'?'lock':q.st==='active'?'active':'';
     const btn=q.st==='done'?'<span class="qs">✓</span>':q.st==='active'?'<span class="qs" onclick="questCta(\''+(q.cta||'')+'\')">'+(q.cta||'Başla')+'</span>':q.st==='lock'?'<span class="qs" style="background:var(--soft);color:var(--muted)">🔒</span>':'<span class="qs" style="background:var(--accent-soft);color:var(--accent)">Açık</span>';
