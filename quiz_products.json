@@ -1526,7 +1526,7 @@
           "Vitamin ve Takviye",
           "Kreatin"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Day2day The Collagen Multi Toz",
@@ -2533,7 +2533,7 @@
           "Soğuk Algınlığı ve Grip",
           "Çinko"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Mx Pecia Tablet Saw Palmetto Biotin Çinko Keratin Saç Takviyesi 60 Tablet",
@@ -4147,19 +4147,6 @@
         "cats": [
           "Nemlendirici",
           "Pomad"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Pruzon 40 gr Pomad Cilt Bakım",
-        "slug": "pruzon-40-gr-pomad-cilt-bakim",
-        "brand": "Hair Pharma",
-        "price": 393.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ebbd9f8-2d4e-4072-963f-99b9d227a064/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Kaşıntı ve Tahriş Bakımı"
         ],
         "stock": 1
       }
@@ -10668,7 +10655,7 @@
           "Soğuk Algınlığı ve Grip",
           "Çinko"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -11945,7 +11932,7 @@
           "Soğuk Algınlığı ve Grip",
           "Çinko"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Naturalnest Immy Kara Mürver Beta Glukan C Vitamini Çinko Şurup 150 ml",
@@ -12994,7 +12981,7 @@
           "Vücut Bakımı",
           "Soğuk Sıcak Kompres"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Samila Gliserin Cilt Nemlendirici ve Bakım 20 ml",
@@ -14756,7 +14743,7 @@
           "Soğuk Algınlığı ve Grip",
           "Çinko"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Nasorinse Sprey Deniz Suyu Burun Spreyi 50 ml Şişe",
@@ -15705,7 +15692,7 @@
         "cats": [
           "Yüz Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Bioderma Sensibio Defensive Cream",
@@ -20907,7 +20894,7 @@
           "Soğuk Algınlığı ve Grip",
           "Çinko"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Newvit Vitamin D3K2 Damla D3 ve K2 Vitamini Takviyesi 30 ml Şişe",
@@ -23070,19 +23057,6 @@
           "Kaşıntı ve Tahriş Bakımı"
         ],
         "stock": 3
-      },
-      {
-        "name": "Pruzon 40 gr Pomad Cilt Bakım",
-        "slug": "pruzon-40-gr-pomad-cilt-bakim",
-        "brand": "Hair Pharma",
-        "price": 393.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ebbd9f8-2d4e-4072-963f-99b9d227a064/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 1
       }
     ],
     "Dövme Bakımı": [
@@ -32143,7 +32117,7 @@
           "Vitamin ve Takviye",
           "Kreatin"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Ultra Yumuşak": [
@@ -36024,7 +35998,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 6
+        "stock": 3
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -42311,18 +42285,6 @@
         "stock": 1
       },
       {
-        "name": "Minion Stres Topu Kırmızı Stresi Azaltıcı Oyuncak",
-        "slug": "minion-stres-topu-kirmizi-stresi-azaltici-oyuncak",
-        "brand": "Minion",
-        "price": 119.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc738cff-4808-453c-8740-e538be64ba26/image_1950.webp",
-        "cats": [
-          "El Egzersiz Topu"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Minion Yeşil Stres Topu",
         "slug": "minion-yesil-stres-topu",
         "brand": "Minion",
@@ -45081,7 +45043,7 @@
           "Vücut Bakımı",
           "Soğuk Sıcak Kompres"
         ],
-        "stock": 13
+        "stock": 12
       }
     ],
     "Gaz Kompres": [
@@ -47392,9 +47354,9 @@
     ]
   },
   "stats": {
-    "total_products": 3216,
+    "total_products": 3213,
     "total_categories": 589,
-    "generated": "2026-06-28 19:00",
+    "generated": "2026-06-29 10:44",
     "source": "ikas_api_live"
   }
 }
