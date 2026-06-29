@@ -122,6 +122,34 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
 .price{display:flex;align-items:baseline;gap:8px;margin:8px 0 16px}
 .price b{font-size:29px;font-weight:800} .price s{opacity:.5;font-size:15px}
 
+/* GAMIFICATION */
+.ghead{background:linear-gradient(160deg,#16221d,#0a5c47);color:#fff;padding:28px 20px 24px;border-radius:0 0 24px 24px;text-align:center}
+.ghead .pts{font-size:44px;font-weight:800;line-height:1}
+.ghead .ptl{font-size:13px;opacity:.85;margin-top:3px;letter-spacing:.3px}
+.ghead .tier{display:inline-flex;gap:7px;align-items:center;background:rgba(255,255,255,.15);padding:7px 15px;border-radius:20px;font-size:13.5px;font-weight:700;margin-top:13px}
+.tierbar{height:8px;background:rgba(255,255,255,.2);border-radius:8px;margin:14px 30px 7px;overflow:hidden}
+.tierbar i{display:block;height:100%;background:var(--gold);border-radius:8px;transition:width .5s}
+.ghead .next{font-size:11.5px;opacity:.82}
+.quest{display:flex;gap:13px;padding:15px 0;border-bottom:1px solid var(--line);align-items:center}
+.quest:last-child{border-bottom:0}
+.quest .qic{width:42px;height:42px;border-radius:12px;background:var(--accent-soft);display:flex;align-items:center;justify-content:center;font-size:20px;flex-shrink:0}
+.quest.done .qic{background:var(--accent);color:#fff} .quest.lock{opacity:.5}
+.quest .qx{flex:1} .quest .qx b{font-size:14.5px;line-height:1.3} .quest .qx .qr{font-size:12px;color:var(--gold);font-weight:700;margin-top:3px}
+.quest .qs{font-size:12px;font-weight:800;padding:7px 12px;border-radius:18px;flex-shrink:0}
+.quest.done .qs{background:var(--accent-soft);color:var(--accent)}
+.quest.active .qs{background:var(--gold);color:#fff;cursor:pointer}
+.badges{display:flex;gap:12px;overflow-x:auto;padding:2px 0 4px}
+.badge{flex-shrink:0;width:72px;text-align:center}
+.badge .bic{width:56px;height:56px;border-radius:50%;background:var(--soft);border:1px solid var(--line);display:flex;align-items:center;justify-content:center;font-size:25px;margin:0 auto 6px}
+.badge.on .bic{background:var(--accent-soft);border-color:var(--accent)} .badge:not(.on){opacity:.4}
+.badge span{font-size:10px;color:var(--muted);line-height:1.2;display:block}
+.rwd{display:flex;align-items:center;gap:12px;padding:13px 0;border-bottom:1px solid var(--line)}
+.rwd:last-child{border-bottom:0} .rwd .re{font-size:23px}
+.rwd .rm{flex:1} .rwd .rm b{font-size:14px} .rwd .rm span{font-size:11.5px;color:var(--muted);display:block}
+.rwd .rb{font-size:12px;font-weight:800;padding:8px 13px;border-radius:18px;background:var(--accent);color:#fff;border:0;cursor:pointer}
+.rwd .rb.dis{background:var(--soft);color:var(--muted)}
+.refcard{background:linear-gradient(135deg,var(--accent-soft),#fff);border:1px solid var(--accent-soft);border-radius:16px;padding:20px;text-align:center}
+
 /* COACH CHAT */
 .chead{display:flex;align-items:center;gap:11px;padding:16px 18px;border-bottom:1px solid var(--line);position:sticky;top:0;background:rgba(255,255,255,.96);backdrop-filter:blur(8px);z-index:5}
 .chead .av{width:42px;height:42px;border-radius:50%;background:var(--accent-soft);display:flex;align-items:center;justify-content:center;font-size:21px}
@@ -169,8 +197,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
       <div class="brand"><span class="dot">🌿</span> Sağlıklı Yaşam Koçu</div>
       <div>
         <h1>Daha uzun,<br>daha dinç bir<br><em>yaşam.</em> Adım adım.</h1>
-        <p>Sağlıklı yaşamda kişisel rehberin. Bulunduğun yerden başla, seviye seviye ilerle.</p>
-        <div class="pills"><span class="pill">🧬 Longevity</span><span class="pill">✅ Seviyeli plan</span><span class="pill">🎯 Günlük koçluk</span></div>
+        <p>Yaşamını 10 boyutta değerlendir, sana özel planını al. <b style="color:var(--ink)">Bilime dayalı longevity rehberin.</b></p>
+        <div class="pills"><span class="pill">🧬 10 boyutlu analiz</span><span class="pill">🎯 Sana özel plan</span><span class="pill">💬 Günlük koçluk</span></div>
       </div>
       <div class="cta">
         <button class="btn" onclick="startAudit()">Ücretsiz analizine başla</button>
@@ -225,6 +253,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
       <div class="sec-title">Premium</div>
       <div class="premium"><span class="tag">PLUS</span><h3>Her gün yanında bir koç</h3>
         <ul><li>Sınırsız günlük koçluk sohbeti</li><li>İleri seviyeler (ölçüm, sauna, biohacking)</li><li>Kan testi yorumu + dinamik plan</li><li>4-8 haftada bir derin yaşam denetimi</li></ul>
+        <div style="background:rgba(184,134,47,.2);border:1px solid var(--gold);border-radius:11px;padding:10px 13px;font-size:13px;margin-bottom:14px">🎁 e-eczaci.com'dan alışverişe <b>1 ay hediye!</b></div>
         <div class="price"><b>₺99</b><span>/ay</span> <s>₺149</s></div>
         <button class="btn gold" onclick="openPay()">Plus'ı dene</button>
       </div>
@@ -242,10 +271,32 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
     <button class="send" onclick="sendMsg()">↑</button>
   </div>
 
+  <!-- YOLCULUK (gamification) -->
+  <section class="screen" id="s-yolculuk">
+    <div class="ghead">
+      <div class="pts" id="g-pts">50</div><div class="ptl">Sağlık Puanı</div>
+      <div class="tier" id="g-tier">🌱 Tohum</div>
+      <div class="tierbar"><i id="g-tierbar"></i></div>
+      <div class="next" id="g-next"></div>
+    </div>
+    <div class="pad">
+      <div class="sec-title">🎯 Yolculuğun</div>
+      <div class="card"><div id="quests"></div></div>
+      <div class="sec-title">🏅 Rozetlerin</div>
+      <div class="card"><div class="badges" id="badges"></div></div>
+      <div class="sec-title">🎁 Puanını harca</div>
+      <div class="card"><div id="rewards"></div></div>
+      <div class="sec-title">👥 Arkadaşını davet et</div>
+      <div class="refcard"><div style="font-size:32px">🎁</div><b style="display:block;margin:8px 0 2px;font-size:16px">Sen de kazan, arkadaşın da</b>
+        <div class="small" style="margin-bottom:14px">Davet ettiğin her arkadaş ilk alışverişini yapınca <b>ikinize de +150 puan</b>.</div>
+        <button class="btn" onclick="alert('Davet linkin kopyalandı (demo)')">Davet linkini paylaş</button></div>
+    </div>
+  </section>
+
   <div class="nav hidden" id="nav">
     <button data-t="dash" class="on" onclick="setNav('dash');go('dash')"><span class="ic">🏠</span>Bugün</button>
     <button data-t="coach" onclick="setNav('coach');go('coach')"><span class="ic">💬</span>Koç</button>
-    <button data-t="plan" onclick="setNav('plan');go('dash');document.querySelector('.sec-title').scrollIntoView({behavior:'smooth'})"><span class="ic">🗺️</span>Plan</button>
+    <button data-t="yol" onclick="setNav('yol');go('yolculuk');buildGami()"><span class="ic">🏆</span>Yolculuk</button>
     <button data-t="prof" onclick="restart()"><span class="ic">👤</span>Profil</button>
   </div>
 
@@ -315,7 +366,7 @@ const MISSIONS={uyku:['Bu hafta: Uyku ritmini sabitle','7 gün aynı saatte yat-
  anlam:['Bu hafta: Şükran ve amaç','Her akşam 3 şükran yaz, 1 anlamlı eylemde bulun.'],
  onleyici:['Bu hafta: Temel panelini çıkar','D vit, B12, demir, HbA1c ölçtür.']};
 
-let qi=0, ans={}, state={level:2,score:6,doms:{},weak:[]}, plan=[];
+let qi=0, ans={}, state={level:2,score:6,doms:{},weak:[],points:50}, plan=[];
 
 function go(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById('s-'+id).classList.add('active');
   document.getElementById('composer').classList.toggle('hidden', id!=='coach');window.scrollTo(0,0);}
@@ -410,6 +461,35 @@ function route(x){
  return{free:true,text:'Anladım. Bunu en iyi şekilde değerlendirebilmem için biraz daha bağlam faydalı olur. Şunlardan biriyle başlayabiliriz:',chips:['Bugün ne yapmalıyım?','Neden yorgunum?','Uyku önerisi','Ürün öner']};
 }
 
+/* ---------- GAMIFICATION ---------- */
+const QUESTS=[
+ {ic:'📊',t:'Sağlık analizini tamamla',r:'+50 puan',st:'done'},
+ {ic:'🛒',t:'İlk siparişini ver',r:'+100 puan · 1 ay Plus hediye',st:'active',cta:'Alışveriş'},
+ {ic:'🔥',t:'7 gün görev serisi yakala',r:'+200 puan · Seri rozeti',st:'open'},
+ {ic:'⭐',t:'İlk ürün yorumunu yaz',r:'+50 puan',st:'open'},
+ {ic:'📱',t:'Bizi sosyal medyada takip et',r:'+30 puan',st:'active',cta:'Takip et'},
+ {ic:'👥',t:'Bir arkadaşını davet et',r:'+150 puan (ikinize de)',st:'open'},
+ {ic:'💎',t:'Plus aboneliğini başlat',r:'Usta seviye + özel ödüller',st:'lock'},
+];
+const BADGES=[['🌱','İlk Adım',true],['🛒','İlk Alışveriş',false],['🔥','7 Gün Seri',false],['⭐','Yorumcu',false],['👥','Davetçi',false],['💎','Plus Üye',false]];
+const REWARDS=[['🎟️','₺50 indirim kuponu','200 puan',200],['🚚','Ücretsiz kargo (1 ay)','400 puan',400],['💬','1 ay Plus hediye','600 puan',600],['🎁','Sürpriz ürün hediyesi','1000 puan',1000]];
+const TIERS=[['🌱 Tohum',0],['🌿 Filiz',200],['🌳 Ağaç',600],['🏆 Usta',1500]];
+function buildGami(){const pts=state.points||50;document.getElementById('g-pts').textContent=pts;
+  let ti=0;TIERS.forEach((t,i)=>{if(pts>=t[1])ti=i;});
+  document.getElementById('g-tier').textContent=TIERS[ti][0];
+  const next=TIERS[ti+1];
+  if(next){const prev=TIERS[ti][1];document.getElementById('g-tierbar').style.width=Math.min(100,(pts-prev)/(next[1]-prev)*100)+'%';
+    document.getElementById('g-next').textContent=(next[1]-pts)+' puan sonra '+next[0].split(' ')[1]+' seviyesi';}
+  else{document.getElementById('g-tierbar').style.width='100%';document.getElementById('g-next').textContent='En üst seviyedesin 🎉';}
+  const qw=document.getElementById('quests');qw.innerHTML='';
+  QUESTS.forEach(q=>{const cls=q.st==='done'?'done':q.st==='lock'?'lock':q.st==='active'?'active':'';
+    const btn=q.st==='done'?'<span class="qs">✓</span>':q.st==='active'?'<span class="qs" onclick="questCta(\''+(q.cta||'')+'\')">'+(q.cta||'Başla')+'</span>':q.st==='lock'?'<span class="qs" style="background:var(--soft);color:var(--muted)">🔒</span>':'<span class="qs" style="background:var(--accent-soft);color:var(--accent)">Açık</span>';
+    qw.innerHTML+='<div class="quest '+cls+'"><div class="qic">'+q.ic+'</div><div class="qx"><b>'+q.t+'</b><div class="qr">'+q.r+'</div></div>'+btn+'</div>';});
+  const bw=document.getElementById('badges');bw.innerHTML='';
+  BADGES.forEach(b=>bw.innerHTML+='<div class="badge '+(b[2]?'on':'')+'"><div class="bic">'+b[0]+'</div><span>'+b[1]+'</span></div>');
+  const rw=document.getElementById('rewards');rw.innerHTML='';
+  REWARDS.forEach(r=>{const dis=pts<r[3];rw.innerHTML+='<div class="rwd"><span class="re">'+r[0]+'</span><div class="rm"><b>'+r[1]+'</b><span>'+r[2]+'</span></div><button class="rb '+(dis?'dis':'')+'"'+(dis?' disabled':'')+'>'+(dis?'Kilitli':'Al')+'</button></div>';});}
+function questCta(c){if(c==='Takip et')window.open('https://www.instagram.com/eczaci.saglik','_blank');else window.open('https://e-eczaci.com','_blank');}
 function setNav(t){document.querySelectorAll('.nav button').forEach(b=>b.classList.toggle('on',b.dataset.t===t));}
 function openPay(){document.getElementById('pay').classList.add('show');}
 function closePay(){document.getElementById('pay').classList.remove('show');}
