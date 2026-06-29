@@ -3,125 +3,135 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#15493b">
+<meta name="theme-color" content="#ffffff">
 <title>Sağlıklı Yaşam Koçu</title>
 <style>
 :root{
-  --green:#15493b; --green2:#1f6b52; --sage:#6b9080; --mint:#e7f0ec;
-  --cream:#f7f5f0; --ink:#23302b; --muted:#7a857f; --gold:#c9a24b;
-  --line:#e6e3da; --card:#ffffff; --shadow:0 10px 30px rgba(21,73,59,.10);
-  --radius:20px; --font:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  --bg:#ffffff; --soft:#f6f8f7; --ink:#16221d; --muted:#697670; --line:#e9ece9;
+  --accent:#0e7a5f; --accent2:#0a5c47; --accent-soft:#e9f4ef; --gold:#b8862f;
+  --shadow:0 4px 22px rgba(20,40,30,.07); --shadow-sm:0 2px 10px rgba(20,40,30,.05);
+  --radius:18px; --font:'Inter',-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
+  /* JS inline-style uyumu */
+  --green:#0e7a5f; --green2:#0a5c47; --sage:#9bb3a9; --mint:#eef2f0; --card:#ffffff;
 }
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
 html,body{height:100%}
-body{font-family:var(--font);background:var(--cream);color:var(--ink);line-height:1.5;overflow-x:hidden}
-.app{max-width:480px;margin:0 auto;min-height:100vh;background:var(--cream);position:relative;padding-bottom:84px}
-.screen{display:none;animation:fade .45s ease}
+body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1.5;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+.app{max-width:480px;margin:0 auto;min-height:100vh;background:var(--bg);position:relative;padding-bottom:84px}
+.screen{display:none;animation:fade .4s ease}
 .screen.active{display:block}
-@keyframes fade{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0;transform:translateY(6px)}to{opacity:1;transform:none}}
 .pad{padding:22px 20px}
 .btn{display:flex;align-items:center;justify-content:center;gap:8px;width:100%;border:0;cursor:pointer;
-  background:var(--green);color:#fff;font-weight:700;font-size:16px;padding:16px;border-radius:14px;
-  font-family:var(--font);transition:transform .15s,filter .15s;box-shadow:0 6px 18px rgba(21,73,59,.25)}
-.btn:active{transform:scale(.98)}
-.btn.ghost{background:#fff;color:var(--green);box-shadow:none;border:1.5px solid var(--line)}
-.btn.gold{background:linear-gradient(135deg,#d8b25a,#b8862f);box-shadow:0 6px 18px rgba(184,134,47,.3)}
+  background:var(--accent);color:#fff;font-weight:700;font-size:16px;padding:16px;border-radius:13px;
+  font-family:var(--font);transition:transform .15s,filter .15s}
+.btn:active{transform:scale(.985)}
+.btn:hover{filter:brightness(1.04)}
+.btn.ghost{background:#fff;color:var(--accent);border:1.5px solid var(--line)}
+.btn.gold{background:var(--gold)}
 .small{font-size:13px;color:var(--muted)}
 
-/* HERO */
-.hero{min-height:100vh;background:linear-gradient(160deg,#15493b 0%,#1f6b52 60%,#2a8366 100%);
-  color:#fff;display:flex;flex-direction:column;justify-content:space-between;padding:48px 26px 34px}
-.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:22px;letter-spacing:.5px}
-.brand .dot{width:34px;height:34px;border-radius:11px;background:rgba(255,255,255,.16);display:flex;align-items:center;justify-content:center;font-size:19px}
-.hero h1{font-size:38px;line-height:1.12;font-weight:800;margin:0 0 14px;letter-spacing:-.5px}
-.hero p{font-size:16px;opacity:.9;margin-bottom:8px}
-.hero .pills{display:flex;flex-wrap:wrap;gap:8px;margin:18px 0 26px}
-.pill{background:rgba(255,255,255,.13);padding:7px 13px;border-radius:30px;font-size:13px;font-weight:600}
-.hero .cta .small{color:rgba(255,255,255,.75);text-align:center;margin-top:12px}
+/* HERO — white */
+.hero{min-height:100vh;background:var(--bg);color:var(--ink);display:flex;flex-direction:column;justify-content:space-between;padding:54px 26px 36px}
+.brand{display:flex;align-items:center;gap:10px;font-weight:800;font-size:18px;letter-spacing:-.2px;color:var(--ink)}
+.brand .dot{width:34px;height:34px;border-radius:10px;background:var(--accent-soft);display:flex;align-items:center;justify-content:center;font-size:18px}
+.hero h1{font-size:40px;line-height:1.1;font-weight:800;margin:0 0 16px;letter-spacing:-1px;color:var(--ink)}
+.hero h1 em{color:var(--accent);font-style:normal}
+.hero p{font-size:16.5px;color:var(--muted);margin-bottom:8px;max-width:330px}
+.hero .pills{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 28px}
+.pill{background:var(--soft);border:1px solid var(--line);padding:8px 14px;border-radius:30px;font-size:13px;font-weight:600;color:var(--ink)}
+.cta .small{text-align:center;margin-top:12px}
 
 /* AUDIT */
-.topbar{display:flex;align-items:center;gap:12px;padding:18px 20px 6px}
-.prog{flex:1;height:7px;background:var(--mint);border-radius:10px;overflow:hidden}
-.prog i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--green),var(--sage));transition:width .4s}
-.qwrap{padding:14px 20px 20px}
-.qnum{color:var(--gold);font-weight:700;font-size:13px;letter-spacing:.5px;text-transform:uppercase}
-.qtitle{font-size:24px;font-weight:800;margin:6px 0 20px;letter-spacing:-.3px}
-.opt{display:flex;align-items:center;gap:14px;background:#fff;border:1.5px solid var(--line);border-radius:15px;
-  padding:16px 16px;margin-bottom:11px;cursor:pointer;transition:.18s;font-size:15.5px;font-weight:600}
-.opt .em{font-size:23px}
+.topbar{display:flex;align-items:center;gap:12px;padding:20px 20px 6px}
+.iconbtn{width:34px;height:34px;border:1px solid var(--line);background:#fff;border-radius:10px;color:var(--ink);font-size:18px;cursor:pointer;display:flex;align-items:center;justify-content:center}
+.prog{flex:1;height:6px;background:var(--soft);border-radius:10px;overflow:hidden}
+.prog i{display:block;height:100%;width:0;background:var(--accent);transition:width .4s}
+.qwrap{padding:16px 20px 20px}
+.qnum{color:var(--accent);font-weight:700;font-size:12.5px;letter-spacing:.6px;text-transform:uppercase}
+.qtitle{font-size:25px;font-weight:800;margin:7px 0 22px;letter-spacing:-.4px}
+.opt{display:flex;align-items:center;gap:14px;background:#fff;border:1.5px solid var(--line);border-radius:14px;
+  padding:16px;margin-bottom:11px;cursor:pointer;transition:.16s;font-size:15.5px;font-weight:600}
+.opt .em{font-size:22px}
 .opt:active{transform:scale(.99)}
-.opt.sel{border-color:var(--green);background:var(--mint);box-shadow:0 4px 14px rgba(21,73,59,.12)}
+.opt.sel{border-color:var(--accent);background:var(--accent-soft)}
 
 /* RESULT */
-.levelcard{background:linear-gradient(160deg,#15493b,#23906c);color:#fff;border-radius:24px;padding:26px;margin-bottom:18px;position:relative;overflow:hidden}
-.levelcard::after{content:"";position:absolute;right:-40px;top:-40px;width:160px;height:160px;background:rgba(255,255,255,.08);border-radius:50%}
-.levelcard .lv{font-size:13px;opacity:.85;font-weight:700;letter-spacing:1px;text-transform:uppercase}
-.levelcard h2{font-size:30px;font-weight:800;margin:4px 0 10px}
-.levelcard .score{font-size:15px;opacity:.92}
-.bars{margin:18px 0 4px}
-.bar{margin-bottom:12px}
-.bar .lab{display:flex;justify-content:space-between;font-size:13.5px;font-weight:600;margin-bottom:5px}
-.bar .track{height:9px;background:var(--mint);border-radius:8px;overflow:hidden}
-.bar .fill{height:100%;border-radius:8px;background:linear-gradient(90deg,var(--sage),var(--green2))}
-.sec-title{font-size:13px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;color:var(--muted);margin:24px 0 12px}
+.levelcard{background:#fff;border:1px solid var(--line);border-radius:20px;padding:24px;margin-bottom:16px;box-shadow:var(--shadow);position:relative}
+.levelcard .lv{font-size:12px;color:var(--accent);font-weight:800;letter-spacing:.8px;text-transform:uppercase}
+.levelcard h2{font-size:27px;font-weight:800;margin:6px 0 12px;letter-spacing:-.5px}
+.levelcard .score{font-size:14.5px;color:var(--muted)}
+.ring{position:absolute;right:22px;top:22px;width:60px;height:60px;border-radius:50%;background:var(--accent-soft);display:flex;align-items:center;justify-content:center;flex-direction:column}
+.ring b{font-size:19px;color:var(--accent);line-height:1}
+.ring span{font-size:9px;color:var(--muted);font-weight:700}
+.bars{margin:6px 0 0}
+.bar{margin-bottom:13px}
+.bar:last-child{margin-bottom:0}
+.bar .lab{display:flex;justify-content:space-between;font-size:13.5px;font-weight:600;margin-bottom:6px}
+.bar .lab span:last-child{color:var(--accent)}
+.bar .track{height:8px;background:var(--soft);border-radius:8px;overflow:hidden}
+.bar .fill{height:100%;border-radius:8px;background:var(--accent)}
+.sec-title{font-size:12.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;color:var(--muted);margin:24px 0 12px}
 
-/* DASHBOARD */
-.dhead{background:linear-gradient(160deg,#15493b,#1f6b52);color:#fff;padding:26px 20px 30px;border-radius:0 0 26px 26px}
-.dhead .hi{font-size:14px;opacity:.85}
-.dhead .lvtag{display:inline-flex;align-items:center;gap:6px;background:rgba(255,255,255,.15);padding:6px 12px;border-radius:20px;font-size:12.5px;font-weight:700;margin-top:8px}
-.streak{display:flex;gap:10px;margin-top:16px}
-.streak .s{flex:1;background:rgba(255,255,255,.12);border-radius:14px;padding:12px;text-align:center}
-.streak .s b{font-size:20px;display:block}
-.streak .s span{font-size:11px;opacity:.82}
-.card{background:var(--card);border-radius:var(--radius);box-shadow:var(--shadow);padding:18px;margin-bottom:16px}
-.card h3{font-size:17px;font-weight:800;display:flex;align-items:center;gap:8px;margin-bottom:4px}
-.coach{border-left:4px solid var(--gold)}
+/* DASHBOARD — white */
+.dhead{background:var(--bg);padding:24px 20px 8px;border-bottom:1px solid var(--line)}
+.dhead .hi{font-size:14px;color:var(--muted)}
+.dhead .title{font-size:22px;font-weight:800;letter-spacing:-.4px;margin-top:2px}
+.dhead .lvtag{display:inline-flex;align-items:center;gap:6px;background:var(--accent-soft);color:var(--accent2);padding:6px 12px;border-radius:20px;font-size:12.5px;font-weight:700;margin-top:10px}
+.streak{display:flex;gap:10px;margin:16px 0 6px}
+.streak .s{flex:1;background:#fff;border:1px solid var(--line);border-radius:14px;padding:13px 10px;text-align:center;box-shadow:var(--shadow-sm)}
+.streak .s b{font-size:21px;display:block;color:var(--ink)}
+.streak .s span{font-size:11px;color:var(--muted)}
+.card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm);padding:18px;margin-bottom:16px}
+.card h3{font-size:16.5px;font-weight:800;display:flex;align-items:center;gap:8px;margin-bottom:4px}
+.coach{border-left:3px solid var(--accent)}
 .task{display:flex;align-items:center;gap:13px;padding:13px 0;border-bottom:1px solid var(--line)}
 .task:last-child{border-bottom:0}
-.check{width:26px;height:26px;border-radius:9px;border:2px solid var(--sage);flex-shrink:0;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:.15s;font-size:15px;color:#fff}
-.check.on{background:var(--green);border-color:var(--green)}
+.check{width:25px;height:25px;border-radius:8px;border:2px solid var(--sage);flex-shrink:0;display:flex;align-items:center;justify-content:center;cursor:pointer;transition:.15s;font-size:14px;color:#fff}
+.check.on{background:var(--accent);border-color:var(--accent)}
 .task .t{font-size:14.5px;font-weight:600;flex:1}
 .task.done .t{text-decoration:line-through;color:var(--muted)}
 .lvlist .row{display:flex;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
 .lvlist .row:last-child{border-bottom:0}
-.lvlist .ic{width:36px;height:36px;border-radius:11px;background:var(--mint);display:flex;align-items:center;justify-content:center;font-size:18px;flex-shrink:0}
-.lvlist .row.lock{opacity:.6}
+.lvlist .ic{width:36px;height:36px;border-radius:10px;background:var(--accent-soft);display:flex;align-items:center;justify-content:center;font-size:17px;flex-shrink:0}
+.lvlist .row.lock{opacity:.55}
 .lvlist .row .meta{flex:1}
-.lvlist .row .meta b{font-size:14.5px}
+.lvlist .row .meta b{font-size:14px}
 .lvlist .row .meta span{font-size:12px;color:var(--muted);display:block}
-.lockpill{font-size:11px;font-weight:700;color:var(--gold);background:#fbf4e4;padding:4px 9px;border-radius:20px}
+.lockpill{font-size:11px;font-weight:700;color:var(--gold);background:#faf3e3;padding:4px 9px;border-radius:20px}
 .prods{display:grid;grid-template-columns:1fr 1fr;gap:12px}
-.prod{background:#fff;border:1px solid var(--line);border-radius:15px;overflow:hidden;text-decoration:none;color:inherit}
-.prod .ph{height:92px;background:linear-gradient(135deg,#eef3f0,#dde9e3);display:flex;align-items:center;justify-content:center;font-size:34px}
+.prod{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;text-decoration:none;color:inherit;box-shadow:var(--shadow-sm)}
+.prod .ph{height:88px;background:var(--soft);display:flex;align-items:center;justify-content:center;font-size:32px;border-bottom:1px solid var(--line)}
 .prod .pi{padding:11px}
 .prod .pi b{font-size:13px;display:block;line-height:1.3}
-.prod .pi span{font-size:11px;color:var(--green2);font-weight:700}
+.prod .pi span{font-size:11px;color:var(--accent);font-weight:700}
 
-/* PREMIUM */
-.premium{background:linear-gradient(160deg,#1c2b25,#15493b);color:#fff;border-radius:24px;padding:24px;margin-bottom:16px}
-.premium .tag{display:inline-block;background:linear-gradient(135deg,#d8b25a,#b8862f);font-size:11px;font-weight:800;padding:5px 11px;border-radius:20px;letter-spacing:.5px}
-.premium h3{font-size:21px;margin:12px 0 6px;color:#fff}
+/* PREMIUM — dark card for contrast */
+.premium{background:linear-gradient(165deg,#16221d,#0a5c47);color:#fff;border-radius:20px;padding:24px;margin-bottom:16px}
+.premium .tag{display:inline-block;background:var(--gold);font-size:11px;font-weight:800;padding:5px 11px;border-radius:20px;letter-spacing:.5px}
+.premium h3{font-size:20px;margin:12px 0 6px;color:#fff}
 .premium ul{list-style:none;margin:14px 0}
 .premium li{display:flex;gap:10px;font-size:14px;padding:6px 0;opacity:.95}
 .premium li::before{content:"✓";color:var(--gold);font-weight:800}
 .price{display:flex;align-items:baseline;gap:8px;margin:8px 0 16px}
-.price b{font-size:30px;font-weight:800}
-.price s{opacity:.55;font-size:15px}
+.price b{font-size:29px;font-weight:800}
+.price s{opacity:.5;font-size:15px}
 
 /* NAV */
-.nav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:480px;background:#fff;
-  border-top:1px solid var(--line);display:flex;justify-content:space-around;padding:9px 8px 20px;z-index:50}
+.nav{position:fixed;bottom:0;left:50%;transform:translateX(-50%);width:100%;max-width:480px;background:rgba(255,255,255,.96);
+  backdrop-filter:saturate(180%) blur(10px);border-top:1px solid var(--line);display:flex;justify-content:space-around;padding:9px 8px 20px;z-index:50}
 .nav button{background:0;border:0;display:flex;flex-direction:column;align-items:center;gap:3px;color:var(--muted);font-size:10.5px;font-weight:600;cursor:pointer;font-family:var(--font)}
-.nav button .ic{font-size:21px}
-.nav button.on{color:var(--green)}
+.nav button .ic{font-size:20px}
+.nav button.on{color:var(--accent)}
 .hidden{display:none!important}
 
 /* MODAL */
-.modal{position:fixed;inset:0;background:rgba(20,30,26,.55);display:none;align-items:flex-end;justify-content:center;z-index:100}
+.modal{position:fixed;inset:0;background:rgba(20,30,26,.5);display:none;align-items:flex-end;justify-content:center;z-index:100}
 .modal.show{display:flex}
-.sheet{background:#fff;width:100%;max-width:480px;border-radius:24px 24px 0 0;padding:26px 22px 30px;animation:up .35s ease}
+.sheet{background:#fff;width:100%;max-width:480px;border-radius:22px 22px 0 0;padding:26px 22px 30px;animation:up .35s ease}
 @keyframes up{from{transform:translateY(100%)}to{transform:none}}
-.sheet h3{font-size:22px;font-weight:800;margin-bottom:6px}
+.sheet h3{font-size:21px;font-weight:800;margin-bottom:6px}
+.tag-g{display:inline-block;background:var(--gold);color:#fff;font-size:11px;font-weight:800;padding:5px 11px;border-radius:20px}
 </style>
 </head>
 <body>
@@ -132,16 +142,16 @@ body{font-family:var(--font);background:var(--cream);color:var(--ink);line-heigh
     <div class="hero">
       <div class="brand"><span class="dot">🌿</span> Sağlıklı Yaşam Koçu</div>
       <div>
-        <h1>Daha uzun,<br>daha dinç bir<br>yaşam. Adım adım.</h1>
+        <h1>Daha uzun,<br>daha dinç bir<br><em>yaşam.</em> Adım adım.</h1>
         <p>Sağlıklı yaşamda kişisel rehberin. Bulunduğun yerden başla, seviye seviye ilerle.</p>
         <div class="pills">
           <span class="pill">🧬 Longevity</span>
           <span class="pill">✅ Seviyeli plan</span>
-          <span class="pill">🎯 Günlük koçluk</span>
+          <span class="pill">🎯 Günlük adımlar</span>
         </div>
       </div>
       <div class="cta">
-        <button class="btn" style="background:#fff;color:#15493b" onclick="startAudit()">Ücretsiz analizine başla</button>
+        <button class="btn" onclick="startAudit()">Ücretsiz analizine başla</button>
         <div class="small">2 dakika · kayıt yok · sana özel plan</div>
       </div>
     </div>
@@ -150,7 +160,7 @@ body{font-family:var(--font);background:var(--cream);color:var(--ink);line-heigh
   <!-- AUDIT -->
   <section class="screen" id="s-audit">
     <div class="topbar">
-      <button class="check" style="border:0;background:var(--mint);color:var(--green)" onclick="prevQ()">‹</button>
+      <button class="iconbtn" onclick="prevQ()">‹</button>
       <div class="prog"><i id="prog"></i></div>
     </div>
     <div class="qwrap">
@@ -164,23 +174,25 @@ body{font-family:var(--font);background:var(--cream);color:var(--ink);line-heigh
   <section class="screen" id="s-result">
     <div class="pad">
       <div class="levelcard">
+        <div class="ring"><b id="r-ring">0</b><span>/100</span></div>
         <div class="lv">Senin seviyen</div>
         <h2 id="r-level"></h2>
         <div class="score" id="r-score"></div>
       </div>
       <div class="card">
         <h3>📊 Yaşam denetimi</h3>
-        <div class="bars" id="r-bars"></div>
+        <div class="bars" id="r-bars" style="margin-top:14px"></div>
       </div>
       <button class="btn" onclick="go('dash');setNav('dash')">Planımı gör →</button>
-      <div class="small" style="text-align:center;margin-top:10px">Sonuçlar kişiseldir, tıbbi tavsiye değildir. Hekiminize danışınız.</div>
+      <div class="small" style="text-align:center;margin-top:12px">Sonuçlar kişiseldir, tıbbi tavsiye değildir. Hekiminize danışınız.</div>
     </div>
   </section>
 
   <!-- DASHBOARD -->
   <section class="screen" id="s-dash">
     <div class="dhead">
-      <div class="hi">Günaydın 👋 Sağlıklı bir gün seni bekliyor</div>
+      <div class="hi">Günaydın 👋</div>
+      <div class="title">Bugünkü planın hazır</div>
       <div class="lvtag" id="d-lvtag">● Seviye 2 — Alışkanlık</div>
       <div class="streak">
         <div class="s"><b id="d-streak">1</b><span>günlük seri</span></div>
@@ -207,7 +219,7 @@ body{font-family:var(--font);background:var(--cream);color:var(--ink);line-heigh
       <div class="sec-title">Premium</div>
       <div class="premium">
         <span class="tag">PLUS</span>
-        <h3>Her gün yanında bir koç</h3>
+        <h3>Her gün yanında bir plan</h3>
         <ul>
           <li>Günlük kişisel koçluk & hatırlatma</li>
           <li>İleri seviyeler (ölçüm, sauna, biohacking)</li>
@@ -224,17 +236,17 @@ body{font-family:var(--font);background:var(--cream);color:var(--ink);line-heigh
   <div class="nav hidden" id="nav">
     <button data-t="dash" class="on" onclick="setNav('dash');go('dash')"><span class="ic">🏠</span>Bugün</button>
     <button data-t="plan" onclick="setNav('plan');go('dash');document.querySelector('.sec-title').scrollIntoView({behavior:'smooth'})"><span class="ic">🗺️</span>Plan</button>
-    <button data-t="coach" onclick="openPay()"><span class="ic">💬</span>Koç</button>
+    <button data-t="coach" onclick="openPay()"><span class="ic">💬</span>Danışma</button>
     <button data-t="prof" onclick="restart()"><span class="ic">👤</span>Profil</button>
   </div>
 
   <!-- PAYWALL -->
   <div class="modal" id="pay">
     <div class="sheet">
-      <span class="tag" style="display:inline-block;background:linear-gradient(135deg,#d8b25a,#b8862f);color:#fff;font-size:11px;font-weight:800;padding:5px 11px;border-radius:20px">PLUS</span>
+      <span class="tag-g">PLUS</span>
       <h3 style="margin-top:12px">Günlük koçluğun kilidini aç</h3>
       <p class="small" style="margin-bottom:8px">Her sabah sana özel plan, hatırlatmalar, ileri seviyeler ve kan testi yorumu.</p>
-      <div class="price"><b>₺99</b><span>/ay</span> <s>₺149</s></div>
+      <div class="price" style="color:var(--ink)"><b style="font-size:29px;font-weight:800">₺99</b><span class="small">/ay</span></div>
       <button class="btn gold" onclick="closePay()">7 gün ücretsiz dene</button>
       <button class="btn ghost" style="margin-top:10px" onclick="closePay()">Şimdi değil</button>
     </div>
@@ -243,18 +255,15 @@ body{font-family:var(--font);background:var(--cream);color:var(--ink);line-heigh
 </div>
 
 <script>
-/* ---------- AUDIT QUESTIONS ---------- */
 const Q=[
  {k:'uyku',q:'Geceleri nasıl uyuyorsun?',o:[['😴','7-8 saat, dinlenmiş kalkıyorum',3],['🌙','Yetersiz ama idare ediyor',2],['😪','Sık bölünüyor / yorgun kalkıyorum',1],['🚫','Uyku düzenim yok',0]]},
  {k:'hareket',q:'Haftada ne kadar hareket ediyorsun?',o:[['🏋️','Düzenli kuvvet + kardiyo',3],['🚶','Düzenli yürüyüş',2],['🧎','Ara sıra',1],['🛋️','Neredeyse hiç',0]]},
  {k:'beslenme',q:'Beslenmeni nasıl tanımlarsın?',o:[['🥗','Bol sebze, protein, az işlenmiş',3],['🍲','Genelde dengeli',2],['🍔','Düzensiz / işlenmiş ağırlıklı',1],['🍩','Şeker & atıştırmalık çok',0]]},
  {k:'stres',q:'Stres ve zihin durumun?',o:[['🧘','Sakin, başa çıkıyorum',3],['🙂','İdare eder',2],['😣','Sık gergin',1],['🥵','Tükenmiş hissediyorum',0]]},
- {k:'enerji',q:'Gün içi enerjin nasıl?',o:[['⚡','Gün boyu zinde',3],['🔋','Öğleden sonra düşüyor',2],['🥱','Sık yorgun',1],['😩','Sürekli bitkin',0]]},
+ {k:'enerji',q:'Gün içi enerjin nasıl?',o:[['⚡','Gün boyu dinç',3],['🔋','Öğleden sonra düşüyor',2],['🥱','Sık yorgun',1],['😩','Sürekli bitkin',0]]},
  {k:'farkindalik',q:'Sağlığını ne kadar takip ediyorsun?',o:[['🧬','Kan testi + ölçüm yaparım',3],['📊','Bazı takviyeler + ara kontrol',2],['🤔','Pek takip etmem',1],['❓','Hiç',0]]},
 ];
 const DOMS={uyku:'Uyku',hareket:'Hareket',beslenme:'Beslenme',stres:'Stres & Zihin',enerji:'Enerji',farkindalik:'Farkındalık'};
-
-/* ---------- LEVELS ---------- */
 const LEVELS=[
  {n:'Temel',ic:'🌱',d:'Pazarlıksız temeller',free:true},
  {n:'Alışkanlık',ic:'🔄',d:'Tutarlılık & rutin',free:true},
@@ -273,9 +282,7 @@ const PRODS={
  low:[['💊','D Vitamini','vitamin-d'],['🐟','Omega-3','omega-3'],['🧲','Magnezyum','magnezyum'],['🌿','Multivitamin','multivitamin']],
  high:[['💪','Kreatin','kreatin'],['🦠','Probiyotik','probiyotik'],['🍇','Resveratrol','resveratrol'],['⚡','CoQ10','koenzim-q10']],
 };
-
 let qi=0, ans={}, state={level:2,score:60,doms:{}};
-
 function go(id){document.querySelectorAll('.screen').forEach(s=>s.classList.remove('active'));document.getElementById('s-'+id).classList.add('active');window.scrollTo(0,0);}
 function startAudit(){qi=0;ans={};renderQ();go('audit');}
 function renderQ(){
@@ -284,10 +291,10 @@ function renderQ(){
   document.getElementById('qnum').textContent='Soru '+(qi+1)+' / '+Q.length;
   document.getElementById('qtitle').textContent=q.q;
   const ow=document.getElementById('opts');ow.innerHTML='';
-  q.o.forEach((o,i)=>{
+  q.o.forEach((o)=>{
     const d=document.createElement('div');d.className='opt'+(ans[q.k]===o[2]?' sel':'');
     d.innerHTML='<span class="em">'+o[0]+'</span> '+o[1];
-    d.onclick=()=>{ans[q.k]=o[2];state.doms[q.k]=o[2];setTimeout(nextQ,180);};
+    d.onclick=()=>{ans[q.k]=o[2];state.doms[q.k]=o[2];setTimeout(nextQ,170);};
     ow.appendChild(d);
   });
 }
@@ -301,8 +308,9 @@ function finish(){
 }
 function renderResult(){
   const L=LEVELS[state.level-1];
+  document.getElementById('r-ring').textContent=state.score;
   document.getElementById('r-level').textContent='Seviye '+state.level+' — '+L.n;
-  document.getElementById('r-score').textContent='Sağlık skorun: '+state.score+'/100 · odak: '+L.d;
+  document.getElementById('r-score').textContent='Odak: '+L.d;
   const bw=document.getElementById('r-bars');bw.innerHTML='';
   Object.keys(DOMS).forEach(k=>{
     const v=(state.doms[k]||0)/3*100;
@@ -314,23 +322,19 @@ function buildDash(){
   const L=LEVELS[state.level-1];
   document.getElementById('d-lvtag').textContent='● Seviye '+state.level+' — '+L.n;
   document.getElementById('d-score').textContent=state.score;
-  // tasks
   const tw=document.getElementById('tasks');tw.innerHTML='';
   (TASKS[state.level]||TASKS[2]).forEach((t,i)=>{
     const d=document.createElement('div');d.className='task';d.id='tk'+i;
     d.innerHTML='<div class="check" onclick="toggle('+i+')"></div><div class="t">'+t+'</div>';
     tw.appendChild(d);
   });
-  // levels roadmap
   const lw=document.getElementById('levels');lw.innerHTML='';
   LEVELS.forEach((l,i)=>{
-    const lv=i+1, locked=!l.free && lv>state.level;
-    const cur=lv===state.level;
+    const lv=i+1, locked=!l.free && lv>state.level, cur=lv===state.level;
     lw.innerHTML+='<div class="row'+(locked?' lock':'')+'"><div class="ic">'+l.ic+'</div>'+
       '<div class="meta"><b>Seviye '+lv+' — '+l.n+(cur?' · şu an buradasın':'')+'</b><span>'+l.d+'</span></div>'+
-      (locked?'<span class="lockpill">🔒 Plus</span>':(lv<state.level?'<span style="color:var(--green);font-weight:800">✓</span>':''))+'</div>';
+      (locked?'<span class="lockpill">🔒 Plus</span>':(lv<state.level?'<span style="color:var(--accent);font-weight:800">✓</span>':''))+'</div>';
   });
-  // products
   const pset = state.level>=3?PRODS.high:PRODS.low;
   const pw=document.getElementById('prods');pw.innerHTML='';
   pset.forEach(p=>{
@@ -340,7 +344,7 @@ function buildDash(){
 }
 function toggle(i){
   const el=document.getElementById('tk'+i);const c=el.querySelector('.check');
-  c.classList.toggle('on');el.classList.toggle('done');if(c.classList.contains('on'))c.textContent='✓';else c.textContent='';
+  c.classList.toggle('on');el.classList.toggle('done');c.textContent=c.classList.contains('on')?'✓':'';
   const done=document.querySelectorAll('.task.done').length, tot=document.querySelectorAll('.task').length;
   document.getElementById('d-done').textContent=done+'/'+tot;
 }
