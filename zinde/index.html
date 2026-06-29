@@ -411,14 +411,14 @@ function buildDash(){const L=LEVELS[state.level-1];
   plan=picks.map(d=>actFor(d,state.level));
   document.getElementById('plan-sub').textContent='En çok '+state.weak.map(k=>DOMS[k]).join(' ve ')+' alanına odaklandık';
   const tw=document.getElementById('tasks');tw.innerHTML='';
-  plan.forEach((a,i)=>{var pl=a.p?'<a class="plink" target="_blank" href="https://e-eczaci.com/arama?q='+a.p[1]+'">'+a.p[0]+' → e-eczaci.com</a>':'';
+  plan.forEach((a,i)=>{var pl=a.p?'<a class="plink" target="_blank" href="https://e-eczaci.com/search?s='+a.p[1]+'">'+a.p[0]+' → e-eczaci.com</a>':'';
     tw.innerHTML+='<div class="task" id="tk'+i+'"><div class="check" onclick="toggle('+i+')"></div>'+
     '<div class="tx"><div class="cat">'+a.cat+'</div><div class="t">'+a.t+'</div><div class="why">'+a.why+'</div>'+pl+'</div></div>';});
   document.getElementById('d-done').textContent='0/'+plan.length;
   // ürünler
   const ps=state.level>=3?[['💪','Kreatin','kreatin'],['🦠','Probiyotik','probiyotik'],['🍇','Resveratrol','resveratrol'],['⚡','CoQ10','koenzim-q10']]:[['💊','D Vitamini','vitamin-d'],['🐟','Omega-3','omega-3'],['🧲','Magnezyum','magnezyum'],['🌿','Multivitamin','multivitamin']];
   const pw=document.getElementById('prods');pw.innerHTML='';
-  ps.forEach(p=>pw.innerHTML+='<a class="prod" target="_blank" href="https://e-eczaci.com/arama?q='+p[2]+'"><div class="ph">'+p[0]+'</div><div class="pi"><b>'+p[1]+'</b><span>Ürünü incele →</span></div></a>');
+  ps.forEach(p=>pw.innerHTML+='<a class="prod" target="_blank" href="https://e-eczaci.com/search?s='+p[2]+'"><div class="ph">'+p[0]+'</div><div class="pi"><b>'+p[1]+'</b><span>Ürünü incele →</span></div></a>');
   document.getElementById('nav').classList.remove('hidden');}
 function toggle(i){const el=document.getElementById('tk'+i);const c=el.querySelector('.check');c.classList.toggle('on');el.classList.toggle('done');c.textContent=c.classList.contains('on')?'✓':'';
   const done=document.querySelectorAll('.task.done').length;document.getElementById('d-done').textContent=done+'/'+plan.length;}
@@ -431,7 +431,7 @@ function initCoach(){if(coachStarted)return;coachStarted=true;
   setChips(['Bugün ne yapmalıyım?','Neden sürekli yorgunum?',w1+' için öneri','Ürün öner']);}
 function pushCoach(html,prod){const c=document.getElementById('chat');
   const tp=document.createElement('div');tp.className='crow';tp.innerHTML='<div class="ca">🌿</div><div class="bub coach"><div class="typing"><i></i><i></i><i></i></div></div>';c.appendChild(tp);scrollChat();
-  setTimeout(()=>{let p='';if(prod)p='<a class="pc" target="_blank" href="https://e-eczaci.com/arama?q='+prod[1]+'"><span class="e">'+(prod[2]||'💊')+'</span><span><b>'+prod[0]+'</b><span>Eczane güvencesiyle incele →</span></span></a>';
+  setTimeout(()=>{let p='';if(prod)p='<a class="pc" target="_blank" href="https://e-eczaci.com/search?s='+prod[1]+'"><span class="e">'+(prod[2]||'💊')+'</span><span><b>'+prod[0]+'</b><span>İncele →</span></span></a>';
     tp.innerHTML='<div class="ca">🌿</div><div class="bub coach">'+html+p+'</div>';scrollChat();},650);}
 function pushMe(t){const c=document.getElementById('chat');const d=document.createElement('div');d.className='crow merow';d.innerHTML='<div class="bub me">'+t+'</div>';c.appendChild(d);scrollChat();}
 function scrollChat(){const c=document.getElementById('chat');setTimeout(()=>window.scrollTo(0,document.body.scrollHeight),60);}
@@ -457,7 +457,7 @@ function route(x){
  if(x.indexOf('sosyal')>-1||x.indexOf('yalnız')>-1||x.indexOf('arkadaş')>-1||x.indexOf('ilişki')>-1){return{free:true,text:'Sosyal bağ, uzun yaşamın en güçlü öngörücülerinden. Bugün değer verdiğin birine ulaş — kısa bir mesaj bile sayar. Haftada 3 gerçek temas hedefle.',chips:['Anlam & amaç','Ruh hali','Bugün ne yapmalıyım?']};}
  if(x.indexOf('anlam')>-1||x.indexOf('amaç')>-1||x.indexOf('motivas')>-1||x.indexOf('tatmin')>-1||x.indexOf('tükenmiş')>-1){return{free:true,text:'Amaç duygusu dayanıklılığı ve yaşam doyumunu artırır. Bugün senin için <b>anlamlı tek bir şey</b> yap ve akşam <b>3 şükran</b> yaz. Küçük ama düzenli.',chips:['Sosyal öneri','Stres önerisi','Bugün ne yapmalıyım?']};}
  if(x.indexOf('test')>-1||x.indexOf('kan')>-1||x.indexOf('ölç')>-1){return{free:true,text:'Temel panel: <b>D vitamini, B12, ferritin (demir), HbA1c, TSH ve lipid</b>. İleri longevity için omega-3 indeksi ve hsCRP eklenir. Sonuçlarını paylaşırsan plana göre yorumlarım.',prod:['D Vitamini','vitamin-d'],chips:['D vitamini kaç olmalı?','Ürün öner'],free:false};}
- if(x.indexOf('ürün')>-1||x.indexOf('takviye')>-1||x.indexOf('öner')>-1){const ps=state.level>=3?[['Kreatin','kreatin','💪'],['Omega-3','omega-3','🐟']]:[['D Vitamini','vitamin-d','💊'],['Omega-3','omega-3','🐟']];return{free:true,text:'Seviyene göre temel tabanın: <b>'+ps[0][0]+'</b> ve <b>'+ps[1][0]+'</b>. Hepsi eczane güvencesiyle e-eczaci.com’da. Hangisini açayım?',prod:[ps[0][0],ps[0][1],ps[0][2]],chips:[ps[1][0],'Neden bunlar?','Bugün ne yapmalıyım?']};}
+ if(x.indexOf('ürün')>-1||x.indexOf('takviye')>-1||x.indexOf('öner')>-1){const ps=state.level>=3?[['Kreatin','kreatin','💪'],['Omega-3','omega-3','🐟']]:[['D Vitamini','vitamin-d','💊'],['Omega-3','omega-3','🐟']];return{free:true,text:'Seviyene göre temel tabanın: <b>'+ps[0][0]+'</b> ve <b>'+ps[1][0]+'</b>.',prod:[ps[0][0],ps[0][1],ps[0][2]],chips:[ps[1][0],'Neden bunlar?','Bugün ne yapmalıyım?']};}
  if(x.indexOf('nasıl')>-1||x.indexOf('ilerli')>-1||x.indexOf('seviye')>-1){return{free:false,text:'Şu an Seviye '+state.level+'’desin, skorun '+state.score.toFixed(1)+'/10. Bir üst seviyeye geçmek için bu haftaki misyonun: <b>'+(MISSIONS[state.weak[0]]||MISSIONS.uyku)[0].replace('Bu hafta: ','')+'</b>. Düzenli takiple birlikte ilerleyelim.',chips:['Bu haftanın misyonu','Bugün ne yapmalıyım?']};}
  if(x.indexOf('merhaba')>-1||x.indexOf('selam')>-1){return{free:true,text:'Merhaba! Hangi konuda yardımcı olayım — uyku, enerji, beslenme, hareket ya da ürün önerisi?',chips:['Bugün ne yapmalıyım?','Neden yorgunum?','Ürün öner']};}
  return{free:true,text:'Anladım. Bunu en iyi şekilde değerlendirebilmem için biraz daha bağlam faydalı olur. Şunlardan biriyle başlayabiliriz:',chips:['Bugün ne yapmalıyım?','Neden yorgunum?','Uyku önerisi','Ürün öner']};
