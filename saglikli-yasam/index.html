@@ -113,6 +113,11 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
 .prod{background:#fff;border:1px solid var(--line);border-radius:14px;overflow:hidden;text-decoration:none;color:inherit;box-shadow:var(--shadow-sm)}
 .prod .ph{height:84px;background:var(--soft);display:flex;align-items:center;justify-content:center;font-size:30px;border-bottom:1px solid var(--line)}
 .prod .pi{padding:10px} .prod .pi b{font-size:12.5px;display:block;line-height:1.3} .prod .pi span{font-size:11px;color:var(--accent);font-weight:700}
+.bitem{display:flex;align-items:center;gap:12px;padding:12px 0;border-bottom:1px solid var(--line)}
+.bitem:last-of-type{border-bottom:0}
+.bitem .be{width:42px;height:42px;border-radius:11px;background:var(--soft);display:flex;align-items:center;justify-content:center;font-size:21px;flex-shrink:0}
+.bitem .bm{flex:1} .bitem .bm b{font-size:14px} .bitem .bm span{font-size:12px;color:var(--muted);display:block;margin-top:1px}
+.badd{font-size:12px;font-weight:800;padding:9px 14px;border-radius:18px;background:var(--accent-soft);color:var(--accent);text-decoration:none;flex-shrink:0}
 
 .premium{background:linear-gradient(165deg,#16221d,#0a5c47);color:#fff;border-radius:20px;padding:24px;margin-bottom:16px}
 .premium .tag{display:inline-block;background:var(--gold);font-size:11px;font-weight:800;padding:5px 11px;border-radius:20px;letter-spacing:.5px}
@@ -203,7 +208,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
       <div class="brand"><span class="dot">🌿</span> Sağlıklı Yaşam Koçu</div>
       <div>
         <h1>Daha uzun,<br>daha dinç bir<br><em>yaşam.</em> Adım adım.</h1>
-        <p>Yaşamını 10 boyutta değerlendir, sana özel planını al. <b style="color:var(--ink)">Bilime dayalı longevity rehberin.</b></p>
+        <p>Yaşamını 10 boyutta değerlendir, sana özel planını al. <b style="color:var(--ink)">Sağlık koçun 7/24 yanında — bilime dayalı.</b></p>
         <div class="pills"><span class="pill">🧬 10 boyutlu analiz</span><span class="pill">🎯 Sana özel plan</span><span class="pill">💬 Günlük koçluk</span></div>
       </div>
       <div class="cta">
@@ -251,9 +256,13 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
       <div class="card mission"><div class="mt">🎯 Bu haftanın misyonu</div><h4 id="mission-t"></h4><div class="small" id="mission-d"></div></div>
       <div class="card coach"><h3>📋 Bugünün planı</h3><div class="small" id="plan-sub" style="margin-bottom:8px"></div><div id="tasks"></div></div>
       <button class="btn ghost" onclick="setNav('coach');go('coach')" style="margin-bottom:8px">💬 Koçunla konuş</button>
-      <div class="sec-title">Sana uygun ürünler</div>
-      <div class="prods" id="prods"></div>
-      <div class="small" style="text-align:center;margin:10px 0 4px">Eczane güvencesiyle e-eczaci.com'da</div>
+      <div class="sec-title">🛒 İhtiyaç sepetin</div>
+      <div class="card">
+        <div class="small" id="basket-sub" style="margin-bottom:12px"></div>
+        <div id="basket"></div>
+        <a class="btn" id="basket-all" target="_blank" href="https://e-eczaci.com" style="margin-top:14px">Tümünü e-eczaci.com'da incele →</a>
+        <div class="small" style="text-align:center;margin-top:10px">Eczane güvencesiyle · 14 gün iade hakkı</div>
+      </div>
       <div class="sec-title">Premium</div>
       <div class="premium"><span class="tag">PLUS</span><h3>Her gün yanında bir koç</h3>
         <ul><li>Sınırsız günlük koçluk sohbeti</li><li>İleri seviyeler (ölçüm, sauna, biohacking)</li><li>Kan testi yorumu + dinamik plan</li><li>4-8 haftada bir derin yaşam denetimi</li></ul>
@@ -342,7 +351,7 @@ function actFor(dom,lv){
   uyku:{cat:'Uyku',why:'Uyku; hücre onarımı, hormon dengesi ve longevity’nin temelidir.',p:['Magnezyum','magnezyum'],
     t:lv<=2?'Yatmadan 1 saat önce ekranı bırak, odanı serin ve karanlık tut':'Uyku saatini sabitle + magnezyumu akşam al, kafeini öğleden sonra kes'},
   hareket:{cat:'Hareket',why:'Kas kütlesi yaşla en güçlü longevity sigortasıdır.',p:['Kreatin','kreatin'],
-    t:lv<=1?'Bugün 10 dakika tempolu yürüyüş yap':lv<=2?'15-20 dk yürüyüş + 5 dk esneme':lv<=3?'Zone-2: 20 dk nabzını konuşabileceğin tempoda tut':'Haftada 2 kuvvet antrenmanı + Zone-2 koru'},
+    t:lv<=1?'Bugün 10 dakika tempolu yürüyüş yap':lv<=2?'15-20 dk yürüyüş + 5 dk esneme':lv<=3?'20 dk orta tempoda yürü/koş — konuşabildiğin ama zorlandığın hızda':'Haftada 2 kuvvet antrenmanı + 20 dk orta tempo kardiyo'},
   beslenme:{cat:'Beslenme',why:'Yeterli protein + lif; kas korur, kan şekerini dengeler.',p:['Omega-3','omega-3'],
     t:lv<=2?'Her ana öğüne bir avuç protein + bir porsiyon sebze ekle':'Öğün penceresini daralt + polifenol ekle (böğürtlen, yeşil çay)'},
   stres:{cat:'Sakinlik',why:'Kronik stres kortizolü yükseltir; uykuyu ve metabolizmayı bozar.',p:['Magnezyum','magnezyum'],
@@ -372,6 +381,19 @@ const MISSIONS={uyku:['Bu hafta: Uyku ritmini sabitle','7 gün aynı saatte yat-
  sosyal:['Bu hafta: 3 anlamlı bağ','Haftada en az 3 kez sevdiklerinle gerçek temas kur.'],
  anlam:['Bu hafta: Şükran ve amaç','Her akşam 3 şükran yaz, 1 anlamlı eylemde bulun.'],
  onleyici:['Bu hafta: Temel panelini çıkar','D vit, B12, demir, HbA1c ölçtür.']};
+const DOMPROD={
+ uyku:[['Magnezyum','magnezyum','🧲'],['Melatonin','melatonin','🌙']],
+ hareket:[['Kreatin','kreatin','💪'],['Protein','protein','🥛']],
+ beslenme:[['Omega-3','omega-3','🐟'],['Multivitamin','multivitamin','🌿']],
+ stres:[['Magnezyum','magnezyum','🧲'],['Ashwagandha','ashwagandha','🌱']],
+ ruhhali:[['Omega-3','omega-3','🐟'],['D Vitamini','d-vitamini','☀️']],
+ enerji:[['B12 Vitamini','b12','⚡'],['Demir','demir','🩸']],
+ zihin:[['Omega-3','omega-3','🐟'],['Ginkgo Biloba','ginkgo','🧠']],
+ sosyal:[],anlam:[],
+ onleyici:[['D Vitamini','d-vitamini','☀️'],['B12 Vitamini','b12','💊']],
+};
+const UTM='&utm_source=saglik-kocu&utm_medium=app&utm_campaign=';
+function ecz(slug,camp){return 'https://e-eczaci.com/search?s='+slug+UTM+(camp||'oneri');}
 
 let qi=0, ans={}, state={level:2,score:6,doms:{},weak:[],points:50}, plan=[];
 
@@ -411,14 +433,17 @@ function buildDash(){const L=LEVELS[state.level-1];
   plan=picks.map(d=>actFor(d,state.level));
   document.getElementById('plan-sub').textContent='En çok '+state.weak.map(k=>DOMS[k]).join(' ve ')+' alanına odaklandık';
   const tw=document.getElementById('tasks');tw.innerHTML='';
-  plan.forEach((a,i)=>{var pl=a.p?'<a class="plink" target="_blank" href="https://e-eczaci.com/search?s='+a.p[1]+'">'+a.p[0]+' → e-eczaci.com</a>':'';
+  plan.forEach((a,i)=>{var pl=a.p?'<a class="plink" target="_blank" href="'+ecz(a.p[1],'gunluk-plan')+'">'+a.p[0]+' → e-eczaci.com</a>':'';
     tw.innerHTML+='<div class="task" id="tk'+i+'"><div class="check" onclick="toggle('+i+')"></div>'+
     '<div class="tx"><div class="cat">'+a.cat+'</div><div class="t">'+a.t+'</div><div class="why">'+a.why+'</div>'+pl+'</div></div>';});
   document.getElementById('d-done').textContent='0/'+plan.length;
-  // ürünler
-  const ps=state.level>=3?[['💪','Kreatin','kreatin'],['🦠','Probiyotik','probiyotik'],['🍇','Resveratrol','resveratrol'],['⚡','CoQ10','koenzim-q10']]:[['💊','D Vitamini','vitamin-d'],['🐟','Omega-3','omega-3'],['🧲','Magnezyum','magnezyum'],['🌿','Multivitamin','multivitamin']];
-  const pw=document.getElementById('prods');pw.innerHTML='';
-  ps.forEach(p=>pw.innerHTML+='<a class="prod" target="_blank" href="https://e-eczaci.com/search?s='+p[2]+'"><div class="ph">'+p[0]+'</div><div class="pi"><b>'+p[1]+'</b><span>Ürünü incele →</span></div></a>');
+  // İhtiyaç sepeti — zayıf alanlar + temeller, ürün eşleşmesi
+  const need=[...state.weak,'beslenme','onleyici'];const seen={};const items=[];
+  need.forEach(d=>(DOMPROD[d]||[]).forEach(p=>{if(!seen[p[1]]){seen[p[1]]=1;items.push(p.concat([DOMS[d]]));}}));
+  document.getElementById('basket-sub').innerHTML='En çok <b>'+state.weak.map(k=>DOMS[k]).join('</b> ve <b>')+'</b> alanına göre, sana özel seçildi';
+  const bw=document.getElementById('basket');bw.innerHTML='';
+  items.slice(0,6).forEach(p=>bw.innerHTML+='<div class="bitem"><span class="be">'+p[2]+'</span><div class="bm"><b>'+p[0]+'</b><span>'+p[3]+' için</span></div><a class="badd" target="_blank" href="'+ecz(p[1],'ihtiyac-sepeti')+'">Sepete ekle</a></div>');
+  document.getElementById('basket-all').href=ecz(items[0]?items[0][1]:'vitamin','ihtiyac-sepeti');
   document.getElementById('nav').classList.remove('hidden');}
 function toggle(i){const el=document.getElementById('tk'+i);const c=el.querySelector('.check');c.classList.toggle('on');el.classList.toggle('done');c.textContent=c.classList.contains('on')?'✓':'';
   const done=document.querySelectorAll('.task.done').length;document.getElementById('d-done').textContent=done+'/'+plan.length;}
@@ -431,7 +456,7 @@ function initCoach(){if(coachStarted)return;coachStarted=true;
   setChips(['Bugün ne yapmalıyım?','Neden sürekli yorgunum?',w1+' için öneri','Ürün öner']);}
 function pushCoach(html,prod){const c=document.getElementById('chat');
   const tp=document.createElement('div');tp.className='crow';tp.innerHTML='<div class="ca">🌿</div><div class="bub coach"><div class="typing"><i></i><i></i><i></i></div></div>';c.appendChild(tp);scrollChat();
-  setTimeout(()=>{let p='';if(prod)p='<a class="pc" target="_blank" href="https://e-eczaci.com/search?s='+prod[1]+'"><span class="e">'+(prod[2]||'💊')+'</span><span><b>'+prod[0]+'</b><span>İncele →</span></span></a>';
+  setTimeout(()=>{let p='';if(prod)p='<a class="pc" target="_blank" href="'+ecz(prod[1],'koc-sohbet')+'"><span class="e">'+(prod[2]||'💊')+'</span><span><b>'+prod[0]+'</b><span>İncele →</span></span></a>';
     tp.innerHTML='<div class="ca">🌿</div><div class="bub coach">'+html+p+'</div>';scrollChat();},650);}
 function pushMe(t){const c=document.getElementById('chat');const d=document.createElement('div');d.className='crow merow';d.innerHTML='<div class="bub me">'+t+'</div>';c.appendChild(d);scrollChat();}
 function scrollChat(){const c=document.getElementById('chat');setTimeout(()=>window.scrollTo(0,document.body.scrollHeight),60);}
