@@ -2289,7 +2289,7 @@
           "Vitamin ve Takviye",
           "Lugol Solüsyonu"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "VICHY LIFTACTIV COLLAGEN SPECIALIST 50 ML",
@@ -2818,7 +2818,7 @@
           "Çinko",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Youplus Vitamin C + Çinko + Propolis Efervesan Tablet 20 Tablet",
@@ -4190,7 +4190,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Bioxcin Forte Yoğun Saç Dökülmesine Karşı Şampuan (3 Al 2 Öde)",
@@ -4203,7 +4203,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Bioxcin Siyah Sarımsaklı Saç Dökülmesine Karşı Şampuan (3 Al 2 Öde)",
@@ -4795,7 +4795,7 @@
           "Çinko",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Avokado Yağı": [
@@ -4896,7 +4896,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -11295,22 +11295,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Cranberry C Vitamini İdrar Yolu Sağlığı 60 Kapsül",
-        "slug": "solgar-cranberry-c-vitamini-idrar-yolu-sagligi-60-kapsul",
-        "brand": "Solgar",
-        "price": 753.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81e99dab-5e82-4349-a30b-8e4d7fc46d5a/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "C Vitamini",
-          "İdrar Yolu Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Ester C Vitamini 1000 mg Yüksek Emilim 30 Tablet",
         "slug": "solgar-ester-c-vitamini-1000-mg-yuksek-emilim-30-tablet",
         "brand": "Solgar",
@@ -12216,22 +12200,6 @@
           "C Vitamini"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Cranberry C Vitamini İdrar Yolu Sağlığı 60 Kapsül",
-        "slug": "solgar-cranberry-c-vitamini-idrar-yolu-sagligi-60-kapsul",
-        "brand": "Solgar",
-        "price": 753.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81e99dab-5e82-4349-a30b-8e4d7fc46d5a/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "C Vitamini",
-          "İdrar Yolu Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Ester C Vitamini 1000 mg Yüksek Emilim 30 Tablet",
@@ -14027,7 +13995,7 @@
           "Sprey",
           "Sinek Kovucu"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Sinek Kovucu Sprey Nurse Harvey’s 50 ml",
@@ -19024,7 +18992,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -22880,19 +22848,6 @@
         "stock": 1
       },
       {
-        "name": "TTO Soft Aplikatörlü Göz Köpük",
-        "slug": "tto-soft-aplikatorlu-goz-kopuk",
-        "brand": "TTO",
-        "price": 1085.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/61c029d1-0590-443e-97bf-e1dd69c5c523/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Temizleme Köpüğü"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Videma Göz İrigasyon Kiti %100 10 ml Şişe",
         "slug": "videma-goz-irigasyon-kiti-yuzde-100-10-ml-sise",
         "brand": "Tedafarma",
@@ -25200,7 +25155,7 @@
           "Vitamin ve Takviye",
           "Lugol Solüsyonu"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "VeNatura İyot Damla 150 mcg Tiroid Sağlığı 25 ml",
@@ -25312,7 +25267,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Capicade Saç Bakım Serumu 50 ml",
@@ -25340,7 +25295,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Bioxcin Forte Yoğun Saç Dökülmesine Karşı Şampuan (3 Al 2 Öde)",
@@ -25353,20 +25308,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 3
-      },
-      {
-        "name": "Bioxcin Genesis Kuru ve Normal Saçlar İçin Şampuan (3 Al 2 Öde)",
-        "slug": "bioxcin-genesis-kuru-ve-normal-saclar-icin-sampuan-3-al-2-ode",
-        "brand": "Bioxcin",
-        "price": 399.98,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3346be17-9c5d-4657-b40a-2cc5f9fcc9a1/image_1950.webp",
-        "cats": [
-          "Kuru ve Hassas Saçlar İçin",
-          "Dökülme Karşıtı"
-        ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Bioxcin Genesis Yağlı Saçlar İçin Şampuan (3 Al 2 Öde)",
@@ -25594,60 +25536,6 @@
           "Dökülme Karşıtı"
         ],
         "stock": 1
-      }
-    ],
-    "Kuru ve Hassas Saçlar İçin": [
-      {
-        "name": "Bioxcin Genesis Kuru ve Normal Saçlar İçin Şampuan (3 Al 2 Öde)",
-        "slug": "bioxcin-genesis-kuru-ve-normal-saclar-icin-sampuan-3-al-2-ode",
-        "brand": "Bioxcin",
-        "price": 399.98,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3346be17-9c5d-4657-b40a-2cc5f9fcc9a1/image_1950.webp",
-        "cats": [
-          "Kuru ve Hassas Saçlar İçin",
-          "Dökülme Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioxcin Quantum Kuru ve Normal Saçlar İçin Şampuan (3 Al 2 Öde)",
-        "slug": "bioxcin-quantum-kuru-ve-normal-saclar-icin-sampuan-3-al-2-ode",
-        "brand": "Bioxcin",
-        "price": 399.98,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd09bacc-70aa-4fee-adbe-0b4652e2481f/image_1950.webp",
-        "cats": [
-          "Kuru ve Hassas Saçlar İçin",
-          "Dökülme Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Ceradolin Nemlendirici Şampuan Kuru ve Hassas Saçlar İçin 300 ml",
-        "slug": "ceradolin-nemlendirici-sampuan-kuru-ve-hassas-saclar-icin-300-ml",
-        "brand": "Ceradolin",
-        "price": 1550.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/88e9fe69-39f8-48b1-a668-d35c3427cad5/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Kuru ve Hassas Saçlar İçin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vichy Dercos Kuru ve Kepekli Saçlar İçin Şampuan 390 ml",
-        "slug": "vichy-dercos-kuru-ve-kepekli-saclar-icin-sampuan-390-ml",
-        "brand": "Vichy",
-        "price": 1928.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bbdf3f97-2bee-435f-a3e7-9da3189d2cbe/image_1950.webp",
-        "cats": [
-          "Kepek Karşıtı",
-          "Kuru ve Hassas Saçlar İçin"
-        ],
-        "stock": 14
       }
     ],
     "Yağlı Saçlar İçin": [
@@ -25886,6 +25774,47 @@
           "Kolajen İçeren Ürünler"
         ],
         "stock": 4
+      }
+    ],
+    "Kuru ve Hassas Saçlar İçin": [
+      {
+        "name": "Bioxcin Quantum Kuru ve Normal Saçlar İçin Şampuan (3 Al 2 Öde)",
+        "slug": "bioxcin-quantum-kuru-ve-normal-saclar-icin-sampuan-3-al-2-ode",
+        "brand": "Bioxcin",
+        "price": 399.98,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd09bacc-70aa-4fee-adbe-0b4652e2481f/image_1950.webp",
+        "cats": [
+          "Kuru ve Hassas Saçlar İçin",
+          "Dökülme Karşıtı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Ceradolin Nemlendirici Şampuan Kuru ve Hassas Saçlar İçin 300 ml",
+        "slug": "ceradolin-nemlendirici-sampuan-kuru-ve-hassas-saclar-icin-300-ml",
+        "brand": "Ceradolin",
+        "price": 1550.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/88e9fe69-39f8-48b1-a668-d35c3427cad5/image_1950.webp",
+        "cats": [
+          "Nemlendirici",
+          "Kuru ve Hassas Saçlar İçin"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Vichy Dercos Kuru ve Kepekli Saçlar İçin Şampuan 390 ml",
+        "slug": "vichy-dercos-kuru-ve-kepekli-saclar-icin-sampuan-390-ml",
+        "brand": "Vichy",
+        "price": 1928.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bbdf3f97-2bee-435f-a3e7-9da3189d2cbe/image_1950.webp",
+        "cats": [
+          "Kepek Karşıtı",
+          "Kuru ve Hassas Saçlar İçin"
+        ],
+        "stock": 14
       }
     ],
     "Saç Bakımı": [
@@ -26884,7 +26813,7 @@
           "Çinko",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "C Vitamini Serumu": [
@@ -31790,7 +31719,7 @@
         "cats": [
           "Prezervatif"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Protez Bakımı": [
@@ -34749,7 +34678,7 @@
           "Sprey",
           "Sinek Kovucu"
         ],
-        "stock": 20
+        "stock": 19
       }
     ],
     "Terleme Karşıtı": [
@@ -35051,7 +34980,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Etoile 300 mg Boric Acid + Hyal",
@@ -35081,7 +35010,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
@@ -35305,22 +35234,6 @@
         "stock": 8
       },
       {
-        "name": "Solgar Cranberry C Vitamini İdrar Yolu Sağlığı 60 Kapsül",
-        "slug": "solgar-cranberry-c-vitamini-idrar-yolu-sagligi-60-kapsul",
-        "brand": "Solgar",
-        "price": 753.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81e99dab-5e82-4349-a30b-8e4d7fc46d5a/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "C Vitamini",
-          "İdrar Yolu Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Primroz Yağı 1300 mg GLA İçeren 30 Softgel",
         "slug": "solgar-primroz-yagi-1300-mg-gla-iceren-30-softgel",
         "brand": "Solgar",
@@ -35381,7 +35294,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 9
+        "stock": 8
       }
     ],
     "Dil Basacağı": [
@@ -35960,7 +35873,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -37339,7 +37252,7 @@
           "Yeşil Çay Ekstresi",
           "Glukomannan (Konjak)"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Orzax Ocean Krom Pikolinat Kan Şekeri Dengeleyici 90 Kapsül",
@@ -38483,7 +38396,7 @@
           "Çinko",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Likopen": [
@@ -38692,7 +38605,7 @@
           "Yeşil Çay Ekstresi",
           "Glukomannan (Konjak)"
         ],
-        "stock": 11
+        "stock": 10
       }
     ],
     "Deve Dikeni (Milk Thistle)": [
@@ -39417,22 +39330,6 @@
           "Cranberry (Turna Yemişi)"
         ],
         "stock": 22
-      },
-      {
-        "name": "Solgar Cranberry C Vitamini İdrar Yolu Sağlığı 60 Kapsül",
-        "slug": "solgar-cranberry-c-vitamini-idrar-yolu-sagligi-60-kapsul",
-        "brand": "Solgar",
-        "price": 753.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81e99dab-5e82-4349-a30b-8e4d7fc46d5a/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "C Vitamini",
-          "İdrar Yolu Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Urinonvef Vaksiniyum 30 Kapsül",
@@ -43261,7 +43158,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 6
+        "stock": 4
       }
     ],
     "Güç ve Performans": [
@@ -43276,7 +43173,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Proteinocean Taurine Takviyesi 400 g",
@@ -43828,7 +43725,7 @@
           "Yeşil Çay Ekstresi",
           "Glukomannan (Konjak)"
         ],
-        "stock": 11
+        "stock": 10
       }
     ],
     "Regl Dönemi": [
@@ -45338,24 +45235,6 @@
         "stock": 2
       }
     ],
-    "İdrar Yolu Sağlığı": [
-      {
-        "name": "Solgar Cranberry C Vitamini İdrar Yolu Sağlığı 60 Kapsül",
-        "slug": "solgar-cranberry-c-vitamini-idrar-yolu-sagligi-60-kapsul",
-        "brand": "Solgar",
-        "price": 753.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81e99dab-5e82-4349-a30b-8e4d7fc46d5a/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "C Vitamini",
-          "İdrar Yolu Sağlığı"
-        ],
-        "stock": 1
-      }
-    ],
     "Cilt Sağlığı": [
       {
         "name": "Solgar E Vitamini 400 IU Antioksidan Cilt Sağlığı 50 Kapsül",
@@ -45600,7 +45479,7 @@
           "Vitamin ve Takviye",
           "Lugol Solüsyonu"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Antiseptik ve Dezenfektan": [
@@ -45701,21 +45580,6 @@
         "cats": [
           "Vücut Bakımı",
           "Kil Maskesi"
-        ],
-        "stock": 1
-      }
-    ],
-    "Göz Temizleme Köpüğü": [
-      {
-        "name": "TTO Soft Aplikatörlü Göz Köpük",
-        "slug": "tto-soft-aplikatorlu-goz-kopuk",
-        "brand": "TTO",
-        "price": 1085.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/61c029d1-0590-443e-97bf-e1dd69c5c523/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Temizleme Köpüğü"
         ],
         "stock": 1
       }
@@ -47316,9 +47180,9 @@
     ]
   },
   "stats": {
-    "total_products": 3210,
-    "total_categories": 589,
-    "generated": "2026-06-30 15:02",
+    "total_products": 3201,
+    "total_categories": 587,
+    "generated": "2026-07-01 08:04",
     "source": "ikas_api_live"
   }
 }
