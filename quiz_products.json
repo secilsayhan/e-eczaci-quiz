@@ -13545,13 +13545,12 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
         "cats": [
-          "Çocuk Diş Macunu",
           "6+ Yaş",
           "Diş Macunu",
           "Çocuk Diş Bakımı",
           "Diş Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
@@ -14196,7 +14195,7 @@
           "Çok Satanlar",
           "Magnezyum Malat"
         ],
-        "stock": 81
+        "stock": 80
       },
       {
         "name": "Ocean Plus Omega 3 Balık Yağı 1200 mg 50+50 Kapsül",
@@ -18323,18 +18322,6 @@
           "Bebek Losyonu"
         ],
         "stock": 14
-      },
-      {
-        "name": "Juvera Calming Losyon Cilt Sakinleştirici",
-        "slug": "juvera-calming-losyon-cilt-sakinlestirici",
-        "brand": "Juvera",
-        "price": 765.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4fdce2e4-5950-4d70-a177-3cdd3cc7c5a4/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu"
-        ],
-        "stock": 1
       },
       {
         "name": "Mustela Cold Cream Besleyici Vücut Losyonu Kuru Ciltler İçin 200 ml",
@@ -26903,7 +26890,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gida 60 Kapsül",
@@ -29199,7 +29186,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Orzax Ocean Multi Balık Yağı Şurup Vitamin Mineral 150 ml",
@@ -30009,7 +29996,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Orzax Ocean Multi Balık Yağı Şurup Vitamin Mineral 150 ml",
@@ -32939,84 +32926,6 @@
         "stock": 16
       }
     ],
-    "Çocuk Diş Macunu": [
-      {
-        "name": "Dentiste Çocuk Diş Macunu Mixfruit +6 Yaş 60 gr",
-        "slug": "dentiste-cocuk-dis-macunu-mixfruit-plus-6-yas-60-gr",
-        "brand": "Dentiste",
-        "price": 324.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "6+ Yaş",
-          "Diş Macunu",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
-        "slug": "dentiste-cocuk-dis-macunu-orange-plus-1-yas-60-gr",
-        "brand": "Dentiste",
-        "price": 302.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/be2cdc48-3b9b-4077-848c-c8bac2017813/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Diş Bakımı",
-          "Diş Macunu",
-          "Bebek Diş Bakımı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "EST Doğal Karadut Özlü Çocuk Diş Macunu 60 ml",
-        "slug": "est-dogal-karadut-ozlu-cocuk-dis-macunu-60-ml",
-        "brand": "Eyüp Sabri Tuncer",
-        "price": 174.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5343f46-cc4b-4e16-a7d9-f5732a70452b/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Diş Macunu",
-          "Çocuk"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
-        "slug": "rocs-junior-gokkusagi-meyve-aromali-cocuk-dis-macunu-6-12-yas",
-        "brand": "Rocs",
-        "price": 339.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45f0dc-f1f6-424f-8f33-ee4b3b452a65/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Diş Macunu",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Rocs Kids Meyve Kokteyli Aromalı Çocuk Diş Macunu",
-        "slug": "rocs-kids-meyve-kokteyli-aromali-cocuk-dis-macunu",
-        "brand": "Rocs",
-        "price": 299.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/80ff0a8d-2918-4faf-be03-5bb9ef6d2cad/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Diş Macunu",
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 3
-      }
-    ],
     "6+ Yaş": [
       {
         "name": "Dentiste Çocuk Diş Macunu Mixfruit +6 Yaş 60 gr",
@@ -33026,13 +32935,12 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
         "cats": [
-          "Çocuk Diş Macunu",
           "6+ Yaş",
           "Diş Macunu",
           "Çocuk Diş Bakımı",
           "Diş Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Çocuk Diş Bakımı": [
@@ -33044,13 +32952,12 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
         "cats": [
-          "Çocuk Diş Macunu",
           "6+ Yaş",
           "Diş Macunu",
           "Çocuk Diş Bakımı",
           "Diş Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Oral-B Çocuk Şarjlı Diş Fırçası Frozen Karlar Ülkesi Temalı",
@@ -33165,13 +33072,12 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
         "cats": [
-          "Çocuk Diş Macunu",
           "6+ Yaş",
           "Diş Macunu",
           "Çocuk Diş Bakımı",
           "Diş Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
@@ -33348,6 +33254,68 @@
           "Diş Bakımı"
         ],
         "stock": 1
+      }
+    ],
+    "Çocuk Diş Macunu": [
+      {
+        "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
+        "slug": "dentiste-cocuk-dis-macunu-orange-plus-1-yas-60-gr",
+        "brand": "Dentiste",
+        "price": 302.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/be2cdc48-3b9b-4077-848c-c8bac2017813/image_1950.webp",
+        "cats": [
+          "Çocuk Diş Macunu",
+          "Diş Bakımı",
+          "Diş Macunu",
+          "Bebek Diş Bakımı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "EST Doğal Karadut Özlü Çocuk Diş Macunu 60 ml",
+        "slug": "est-dogal-karadut-ozlu-cocuk-dis-macunu-60-ml",
+        "brand": "Eyüp Sabri Tuncer",
+        "price": 174.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5343f46-cc4b-4e16-a7d9-f5732a70452b/image_1950.webp",
+        "cats": [
+          "Çocuk Diş Macunu",
+          "Diş Macunu",
+          "Çocuk"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
+        "slug": "rocs-junior-gokkusagi-meyve-aromali-cocuk-dis-macunu-6-12-yas",
+        "brand": "Rocs",
+        "price": 339.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45f0dc-f1f6-424f-8f33-ee4b3b452a65/image_1950.webp",
+        "cats": [
+          "Çocuk Diş Macunu",
+          "Diş Macunu",
+          "Çocuk Diş Bakımı",
+          "Diş Bakımı"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Rocs Kids Meyve Kokteyli Aromalı Çocuk Diş Macunu",
+        "slug": "rocs-kids-meyve-kokteyli-aromali-cocuk-dis-macunu",
+        "brand": "Rocs",
+        "price": 299.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/80ff0a8d-2918-4faf-be03-5bb9ef6d2cad/image_1950.webp",
+        "cats": [
+          "Çocuk Diş Macunu",
+          "Diş Macunu",
+          "Çocuk",
+          "Çocuk Diş Bakımı",
+          "Diş Bakımı"
+        ],
+        "stock": 3
       }
     ],
     "Bebek Diş Bakımı": [
@@ -35862,33 +35830,6 @@
         "stock": 1
       }
     ],
-    "İntim Temizleyiciler": [
-      {
-        "name": "Etoile 600 MG (boric Acide) 10 Vaginal Ovul",
-        "slug": "etoile-600-mg-boric-acide-10-vaginal-ovul",
-        "brand": "Etoile",
-        "price": 1530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9be9926-c70c-4c77-b159-b6464489b50b/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
-        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
-        "brand": "Sebamed",
-        "price": 629.99,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Hijyen"
-        ],
-        "stock": 1
-      }
-    ],
     "Göz Kapama Pedi": [
       {
         "name": "Exxe Göz Kapama Pedi Yetişkin 10 Adet",
@@ -37194,7 +37135,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Berberin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "GoodDay Fonksiyonel Tıp InsulEX 1 Saşe İnositol ve Bitki Ekstreleri 30 Saşe",
@@ -37782,7 +37723,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Berberin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ligone Berberis Vulgaris Kapsül Kadın Tuzluğu Takviyesi 60 Kapsül",
@@ -38892,7 +38833,7 @@
           "Çok Satanlar",
           "Magnezyum Malat"
         ],
-        "stock": 81
+        "stock": 80
       },
       {
         "name": "Solgar Magnezyum Glisinat 60 Kapsül",
@@ -38992,7 +38933,7 @@
           "Çok Satanlar",
           "Magnezyum Malat"
         ],
-        "stock": 81
+        "stock": 80
       },
       {
         "name": "VeNatura Magnezyum Malat 100 mg Enerji Desteği 60 Kapsül",
@@ -39149,7 +39090,7 @@
           "Çok Satanlar",
           "Magnezyum Malat"
         ],
-        "stock": 81
+        "stock": 80
       },
       {
         "name": "Orzax Ocean Extramag P5P B6 Magnezyum Saşe 30 Poşet",
@@ -40166,7 +40107,7 @@
         "cats": [
           "Kulak Temizleyici"
         ],
-        "stock": 96
+        "stock": 95
       }
     ],
     "Kulak Bakımı": [
@@ -42595,7 +42536,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gida 60 Kapsül",
@@ -45061,6 +45002,21 @@
         "stock": 1
       }
     ],
+    "İntim Temizleyiciler": [
+      {
+        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
+        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
+        "brand": "Sebamed",
+        "price": 629.99,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "Hijyen"
+        ],
+        "stock": 1
+      }
+    ],
     "Yumuşak": [
       {
         "name": "Sensodyne Gentle Soft Diş Fırçası Yumuşak",
@@ -47180,9 +47136,9 @@
     ]
   },
   "stats": {
-    "total_products": 3201,
+    "total_products": 3198,
     "total_categories": 587,
-    "generated": "2026-07-01 08:04",
+    "generated": "2026-07-02 08:27",
     "source": "ikas_api_live"
   }
 }
