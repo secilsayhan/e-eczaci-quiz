@@ -8250,7 +8250,7 @@
           "Cinsel Sağlık ve Performans",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Redoxon Pro Efervesan Tablet Vitamin Mineral Takviyesi 15 Tablet",
@@ -9043,7 +9043,7 @@
           "Cinsel Sağlık ve Performans",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Redoxon Pro Efervesan Tablet Vitamin Mineral Takviyesi 15 Tablet",
@@ -14994,6 +14994,19 @@
           "Soğuk Algınlığı ve Grip",
           "Bitkisel Takviyeler",
           "Öksürük Şurubu"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "HHS A1 Bitkisel Zayıflama Kapsülü Kilo Kontrol 30 Kapsül",
+        "slug": "hhs-a1-bitkisel-zayiflama-kapsulu-kilo-kontrol-30-kapsul",
+        "brand": "HHS",
+        "price": 900.0,
+        "discount_price": 810.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fe5b05ff-d255-40ff-bb76-5b3ed469480a/image_1950.webp",
+        "cats": [
+          "Metabolizma ve Kilo Yönetimi",
+          "Bitkisel Takviyeler"
         ],
         "stock": 10
       },
@@ -34961,6 +34974,18 @@
           "İntim Bakım"
         ],
         "stock": 2
+      },
+      {
+        "name": "Etoile Intim Yıkama Boric Acid 200 ml",
+        "slug": "etoile-intim-yikama-boric-acid-200-ml",
+        "brand": "Etoile",
+        "price": 1107.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25847512-8d22-4617-83b9-b9047fb4ac94/image_1950.webp",
+        "cats": [
+          "İntim Bakım"
+        ],
+        "stock": 3
       }
     ],
     "Kadın Sağlığı": [
@@ -35729,7 +35754,7 @@
           "Cinsel Sağlık ve Performans",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Redoxon Pro Efervesan Tablet Vitamin Mineral Takviyesi 15 Tablet",
@@ -35826,6 +35851,33 @@
           "Multivitamin",
           "Çocuk Vitaminleri",
           "Enerji ve Zindelik"
+        ],
+        "stock": 1
+      }
+    ],
+    "İntim Temizleyiciler": [
+      {
+        "name": "Etoile 600 MG (boric Acide) 10 Vaginal Ovul",
+        "slug": "etoile-600-mg-boric-acide-10-vaginal-ovul",
+        "brand": "Etoile",
+        "price": 1530.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9be9926-c70c-4c77-b159-b6464489b50b/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler"
+        ],
+        "stock": 20
+      },
+      {
+        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
+        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
+        "brand": "Sebamed",
+        "price": 629.99,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "Hijyen"
         ],
         "stock": 1
       }
@@ -37180,6 +37232,19 @@
           "Enerji ve Zindelik"
         ],
         "stock": 14
+      },
+      {
+        "name": "HHS A1 Bitkisel Zayıflama Kapsülü Kilo Kontrol 30 Kapsül",
+        "slug": "hhs-a1-bitkisel-zayiflama-kapsulu-kilo-kontrol-30-kapsul",
+        "brand": "HHS",
+        "price": 900.0,
+        "discount_price": 810.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fe5b05ff-d255-40ff-bb76-5b3ed469480a/image_1950.webp",
+        "cats": [
+          "Metabolizma ve Kilo Yönetimi",
+          "Bitkisel Takviyeler"
+        ],
+        "stock": 10
       },
       {
         "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
@@ -43099,7 +43164,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Güç ve Performans": [
@@ -43114,7 +43179,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Proteinocean Taurine Takviyesi 400 g",
@@ -44562,7 +44627,7 @@
           "Cinsel Sağlık ve Performans",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
@@ -44645,7 +44710,7 @@
           "Cinsel Sağlık ve Performans",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Solgar L-Arginine 500 mg L-Arjinin Takviyesi 50 Kapsül",
@@ -44998,21 +45063,6 @@
         "cats": [
           "Bebek Sabunu",
           "Sabun"
-        ],
-        "stock": 1
-      }
-    ],
-    "İntim Temizleyiciler": [
-      {
-        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
-        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
-        "brand": "Sebamed",
-        "price": 629.99,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Hijyen"
         ],
         "stock": 1
       }
@@ -47136,9 +47186,9 @@
     ]
   },
   "stats": {
-    "total_products": 3198,
+    "total_products": 3202,
     "total_categories": 587,
-    "generated": "2026-07-02 08:27",
+    "generated": "2026-07-02 12:48",
     "source": "ikas_api_live"
   }
 }
