@@ -2263,7 +2263,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 37
+        "stock": 27
       },
       {
         "name": "Splenda Tablet Plastik Tetikleyici Ambalaj 500 Tablet",
@@ -4077,7 +4077,7 @@
           "Vücut Bakımı",
           "Nemlendirici Yağ ve Serumlar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "The Organic Pharmacy Double Rose Ultra Face Cream 50 ml",
@@ -12923,7 +12923,7 @@
           "Vücut Bakımı",
           "Nemlendirici Yağ ve Serumlar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Sebamed Baby Bebek Masaj Yağı 150 ml",
@@ -21684,7 +21684,7 @@
           "Bakım Kremi",
           "Seboreik Dermatit"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Ducray Keracnyl Jel 400 ml",
@@ -22113,6 +22113,20 @@
           "Gece Kremi"
         ],
         "stock": 7
+      },
+      {
+        "name": "CeraVe PM Facial Moisturizing Lotion 52 ml",
+        "slug": "cerave-pm-facial-moisturizing-lotion-52-ml",
+        "brand": "CeraVe",
+        "price": 1099.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22545186-0b1f-4640-9ffe-c0de87b7da38/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler",
+          "Gece Kremi",
+          "Günlük Bakım"
+        ],
+        "stock": 2
       },
       {
         "name": "Vichy Liftactiv B3 Retinol Gece Kremi Leke ve Kırışıklık Karşıtı 50 ml",
@@ -23535,6 +23549,20 @@
           "Hassas Ciltler"
         ],
         "stock": 5
+      },
+      {
+        "name": "CeraVe PM Facial Moisturizing Lotion 52 ml",
+        "slug": "cerave-pm-facial-moisturizing-lotion-52-ml",
+        "brand": "CeraVe",
+        "price": 1099.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22545186-0b1f-4640-9ffe-c0de87b7da38/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler",
+          "Gece Kremi",
+          "Günlük Bakım"
+        ],
+        "stock": 2
       },
       {
         "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
@@ -28368,6 +28396,20 @@
           "Günlük Bakım"
         ],
         "stock": 2
+      },
+      {
+        "name": "CeraVe PM Facial Moisturizing Lotion 52 ml",
+        "slug": "cerave-pm-facial-moisturizing-lotion-52-ml",
+        "brand": "CeraVe",
+        "price": 1099.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22545186-0b1f-4640-9ffe-c0de87b7da38/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler",
+          "Gece Kremi",
+          "Günlük Bakım"
+        ],
+        "stock": 2
       }
     ],
     "Retinol Serum": [
@@ -31592,7 +31634,7 @@
         "cats": [
           "Prezervatif"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Protez Bakımı": [
@@ -34706,7 +34748,7 @@
           "Bakım Kremi",
           "Seboreik Dermatit"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "İntim Bakım": [
@@ -42927,7 +42969,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Güç ve Performans": [
@@ -42942,7 +42984,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Proteinocean Taurine Takviyesi 400 g",
@@ -44874,7 +44916,7 @@
           "Vücut Bakımı",
           "Nemlendirici Yağ ve Serumlar"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Bebek Sabunu": [
@@ -45635,20 +45677,6 @@
         "cats": [
           "Doğal ve Aromaterapi Yağları",
           "Argan Yağı"
-        ],
-        "stock": 1
-      }
-    ],
-    "Gül Yağı": [
-      {
-        "name": "Talya Gül Yağı 20 cc Aromaterapi",
-        "slug": "talya-gul-yagi-20-cc-aromaterapi",
-        "brand": "Talya",
-        "price": 383.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77593d42-34c5-4e38-86bd-ffadc657afac/image_1950.webp",
-        "cats": [
-          "Gül Yağı"
         ],
         "stock": 1
       }
@@ -47054,9 +47082,9 @@
     ]
   },
   "stats": {
-    "total_products": 3193,
-    "total_categories": 585,
-    "generated": "2026-07-03 10:31",
+    "total_products": 3195,
+    "total_categories": 584,
+    "generated": "2026-07-03 20:01",
     "source": "ikas_api_live"
   }
 }
