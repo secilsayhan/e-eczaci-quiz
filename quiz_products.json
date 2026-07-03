@@ -2900,19 +2900,6 @@
         "stock": 1
       },
       {
-        "name": "Listerine Advance White Ağız Gargarası Beyazlatıcı 250 ml",
-        "slug": "listerine-advance-white-agiz-gargarasi-beyazlatici-250-ml",
-        "brand": "Listerine",
-        "price": 140.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/55022403-5c47-4672-a75a-a66017d39750/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Beyazlatıcı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Listerine Cool Mint Hafif Tat Ağız Gargarası Ferahlatıcı 250 ml",
         "slug": "listerine-cool-mint-hafif-tat-agiz-gargarasi-ferahlatici-250-ml",
         "brand": "Listerine",
@@ -3106,7 +3093,7 @@
           "Bitkisel",
           "Diş Macunu"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Eyüp Sabri Tuncer Doğal Zencefil Özlü Diş Macunu 90 ml",
@@ -3119,7 +3106,7 @@
           "Bitkisel",
           "Diş Macunu"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Hunnap Keci Boynuzu Ozu 640 GR",
@@ -5032,7 +5019,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -5181,7 +5168,7 @@
           "Sindirim Sağlığı",
           "Çocuk Sağlığı"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Velavit V-Probiotics Enzim İnülin Zencefil İçeren Probiyotik 30 Kapsül",
@@ -5488,7 +5475,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -5805,7 +5792,7 @@
           "Sindirim Sağlığı",
           "Çocuk Sağlığı"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Velavit V-Probiotics Enzim İnülin Zencefil İçeren Probiyotik 30 Kapsül",
@@ -7368,7 +7355,7 @@
           "Sindirim Sağlığı",
           "Çocuk Sağlığı"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Velavit V-Firstect Kids Kolostrum Beta Glukan Çocuklar İçin 30 Tablet",
@@ -8917,7 +8904,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 42
+        "stock": 41
       },
       {
         "name": "Orzax Ocean Gummies Multivitamin Çocuklar İçin 64 Adet",
@@ -10015,7 +10002,7 @@
           "Sindirim Sağlığı",
           "Çocuk Sağlığı"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Velavit V-Firstect Kids Kolostrum Beta Glukan Çocuklar İçin 30 Tablet",
@@ -10817,7 +10804,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 42
+        "stock": 41
       },
       {
         "name": "Orzax Ocean C Vitamini 1000 mg Takviyesi 30 Tablet",
@@ -12522,20 +12509,6 @@
         "stock": 6
       },
       {
-        "name": "Art de Huile Fly-Mix Doğal Sinek Kovucu Karışım Yağ 120 ml",
-        "slug": "art-de-huile-fly-mix-dogal-sinek-kovucu-karisim-yag-120-ml",
-        "brand": "Art De Huile",
-        "price": 900.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc02b9ee-3745-424e-a4de-493998063f36/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Sinek Kovucu",
-          "Yağ"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Art de Huile Nosemix Burun Çevresi Bakım Yağı 10 ml",
         "slug": "art-de-huile-nosemix-burun-cevresi-bakim-yagi-10-ml",
         "brand": "Art De Huile",
@@ -13083,7 +13056,7 @@
           "Masaj Jeli ve Krem",
           "Vücut Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Uni Baby Bebek Pamuğu Organik 60'lı",
@@ -13538,21 +13511,6 @@
         "stock": 16
       },
       {
-        "name": "Dentiste Çocuk Diş Macunu Mixfruit +6 Yaş 60 gr",
-        "slug": "dentiste-cocuk-dis-macunu-mixfruit-plus-6-yas-60-gr",
-        "brand": "Dentiste",
-        "price": 324.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
-        "cats": [
-          "6+ Yaş",
-          "Diş Macunu",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
         "slug": "dentiste-cocuk-dis-macunu-orange-plus-1-yas-60-gr",
         "brand": "Dentiste",
@@ -13616,7 +13574,7 @@
           "Bitkisel",
           "Diş Macunu"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Eyüp Sabri Tuncer Doğal Misvak Özlü Diş Macunu 90 ml",
@@ -13641,7 +13599,7 @@
           "Bitkisel",
           "Diş Macunu"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Opalescence Macun Hassas Beyaz Diş Macunu 133 gr",
@@ -13875,19 +13833,6 @@
         "stock": 3
       },
       {
-        "name": "Listerine Advance White Ağız Gargarası Beyazlatıcı 250 ml",
-        "slug": "listerine-advance-white-agiz-gargarasi-beyazlatici-250-ml",
-        "brand": "Listerine",
-        "price": 140.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/55022403-5c47-4672-a75a-a66017d39750/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Beyazlatıcı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Listerine Advanced White Hafif Tat Beyazlatıcı Ağız Suyu 500 ml",
         "slug": "listerine-advanced-white-hafif-tat-beyazlatici-agiz-suyu-500-ml",
         "brand": "Listerine",
@@ -13952,78 +13897,6 @@
           "Arnika Bakımı"
         ],
         "stock": 3
-      }
-    ],
-    "Sinek Kovucu": [
-      {
-        "name": "Art de Huile Fly-Mix Doğal Sinek Kovucu Karışım Yağ 120 ml",
-        "slug": "art-de-huile-fly-mix-dogal-sinek-kovucu-karisim-yag-120-ml",
-        "brand": "Art De Huile",
-        "price": 900.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc02b9ee-3745-424e-a4de-493998063f36/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Sinek Kovucu",
-          "Yağ"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Detan Defans Protect Bitkisel Sinek Kovucu Losyon 100 ml",
-        "slug": "detan-defans-protect-bitkisel-sinek-kovucu-losyon-100-ml",
-        "brand": "Defans",
-        "price": 185.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0abd2820-fb71-4618-8bc4-cf5f47b7a421/image_1950.webp",
-        "cats": [
-          "Bitkisel",
-          "Sinek Kovucu",
-          "Losyon"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Nurse Harvey's Organics Buzz Off Doğal Sinek Kovucu Sprey 175 ml",
-        "slug": "nurse-harvey-s-organics-buzz-off-dogal-sinek-kovucu-sprey-175-ml",
-        "brand": "Nurse Harvey's",
-        "price": 699.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ace35b68-6205-458e-9c03-54e0419372d4/image_1950.webp",
-        "cats": [
-          "Sprey",
-          "Sinek Kovucu"
-        ],
-        "stock": 19
-      },
-      {
-        "name": "Sinek Kovucu Sprey Nurse Harvey’s 50 ml",
-        "slug": "sinek-kovucu-sprey-nurse-harvey-s-50-ml",
-        "brand": "Nurse Harvey's",
-        "price": 222.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e7b563-f66e-4b1d-93cd-d4a3b8780338/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Sinek Kovucu"
-        ],
-        "stock": 3
-      }
-    ],
-    "Yağ": [
-      {
-        "name": "Art de Huile Fly-Mix Doğal Sinek Kovucu Karışım Yağ 120 ml",
-        "slug": "art-de-huile-fly-mix-dogal-sinek-kovucu-karisim-yag-120-ml",
-        "brand": "Art De Huile",
-        "price": 900.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc02b9ee-3745-424e-a4de-493998063f36/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Sinek Kovucu",
-          "Yağ"
-        ],
-        "stock": 1
       }
     ],
     "Burun Bakım Yağı": [
@@ -18116,7 +17989,7 @@
         "cats": [
           "Erkek"
         ],
-        "stock": 5
+        "stock": 4
       }
     ],
     "Emzik": [
@@ -19116,7 +18989,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -19266,7 +19139,7 @@
           "Sindirim Sağlığı",
           "Çocuk Sağlığı"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Velavit V-Probiotics Enzim İnülin Zencefil İçeren Probiyotik 30 Kapsül",
@@ -20947,7 +20820,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 42
+        "stock": 41
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -25141,7 +25014,7 @@
           "İyot",
           "Lugol Solüsyonu"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Suvar Lugol Solüsyonu %5 İyot Çözeltisi 100 ml",
@@ -25210,7 +25083,7 @@
         "cats": [
           "Karınca İlacı (Tebeşir)"
         ],
-        "stock": 4
+        "stock": 2
       }
     ],
     "Lens Solüsyonu": [
@@ -31719,7 +31592,7 @@
         "cats": [
           "Prezervatif"
         ],
-        "stock": 2
+        "stock": 3
       }
     ],
     "Protez Bakımı": [
@@ -31993,7 +31866,7 @@
           "Masaj Jeli ve Krem",
           "Vücut Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Kreatin": [
@@ -32939,68 +32812,35 @@
         "stock": 16
       }
     ],
-    "6+ Yaş": [
+    "Çocuk Diş Macunu": [
       {
-        "name": "Dentiste Çocuk Diş Macunu Mixfruit +6 Yaş 60 gr",
-        "slug": "dentiste-cocuk-dis-macunu-mixfruit-plus-6-yas-60-gr",
+        "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
+        "slug": "dentiste-cocuk-dis-macunu-orange-plus-1-yas-60-gr",
         "brand": "Dentiste",
-        "price": 324.0,
+        "price": 302.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/be2cdc48-3b9b-4077-848c-c8bac2017813/image_1950.webp",
         "cats": [
-          "6+ Yaş",
+          "Çocuk Diş Macunu",
+          "Diş Bakımı",
           "Diş Macunu",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
+          "Bebek Diş Bakımı"
         ],
-        "stock": 2
-      }
-    ],
-    "Çocuk Diş Bakımı": [
-      {
-        "name": "Dentiste Çocuk Diş Macunu Mixfruit +6 Yaş 60 gr",
-        "slug": "dentiste-cocuk-dis-macunu-mixfruit-plus-6-yas-60-gr",
-        "brand": "Dentiste",
-        "price": 324.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
-        "cats": [
-          "6+ Yaş",
-          "Diş Macunu",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 2
+        "stock": 3
       },
       {
-        "name": "Oral-B Çocuk Şarjlı Diş Fırçası Frozen Karlar Ülkesi Temalı",
-        "slug": "oral-b-cocuk-sarjli-dis-fircasi-frozen-karlar-ulkesi-temali",
-        "brand": "Oral-B",
-        "price": 2150.0,
+        "name": "EST Doğal Karadut Özlü Çocuk Diş Macunu 60 ml",
+        "slug": "est-dogal-karadut-ozlu-cocuk-dis-macunu-60-ml",
+        "brand": "Eyüp Sabri Tuncer",
+        "price": 174.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bd43bf7-d061-4d75-90a0-c4e2d4bd8b9c/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5343f46-cc4b-4e16-a7d9-f5732a70452b/image_1950.webp",
         "cats": [
-          "Diş Fırçası",
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
+          "Çocuk Diş Macunu",
+          "Diş Macunu",
+          "Çocuk"
         ],
-        "stock": 1
-      },
-      {
-        "name": "Oral-B Çocuk Şarjlı Diş Fırçası Star Wars Temalı",
-        "slug": "oral-b-cocuk-sarjli-dis-fircasi-star-wars-temali",
-        "brand": "Oral-B",
-        "price": 2189.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5e6f6138-7500-47bd-9496-30f03f670db8/image_1950.webp",
-        "cats": [
-          "Diş Fırçası",
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
@@ -33018,34 +32858,6 @@
         "stock": 4
       },
       {
-        "name": "Rocs Junior Çocuk Diş Fırçası (6-12 Yaş)",
-        "slug": "rocs-junior-cocuk-dis-fircasi-6-12-yas",
-        "brand": "Rocs",
-        "price": 350.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/52ef9a6f-5eb8-465f-b166-535518dc0994/image_1950.webp",
-        "cats": [
-          "Diş Fırçası",
-          "Çocuk Diş Bakımı",
-          "Çocuk Diş Fırçası",
-          "Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Rocs Kids Ahududu ve Çilek Aromalı Çocuk Diş Macunu",
-        "slug": "rocs-kids-ahududu-ve-cilek-aromali-cocuk-dis-macunu",
-        "brand": "Rocs",
-        "price": 309.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f95a4493-3e6e-4ec7-ba92-2392d54652f9/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Rocs Kids Meyve Kokteyli Aromalı Çocuk Diş Macunu",
         "slug": "rocs-kids-meyve-kokteyli-aromali-cocuk-dis-macunu",
         "brand": "Rocs",
@@ -33060,38 +32872,9 @@
           "Diş Bakımı"
         ],
         "stock": 3
-      },
-      {
-        "name": "TePe T136 Fırça Çocuk Zoo Soft 3-5 Yaş",
-        "slug": "tepe-t136-firca-cocuk-zoo-soft-3-5-yas",
-        "brand": "TePe",
-        "price": 349.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8571f290-a219-4a86-a233-edf47b44a1c7/image_1950.webp",
-        "cats": [
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 1
       }
     ],
     "Diş Bakımı": [
-      {
-        "name": "Dentiste Çocuk Diş Macunu Mixfruit +6 Yaş 60 gr",
-        "slug": "dentiste-cocuk-dis-macunu-mixfruit-plus-6-yas-60-gr",
-        "brand": "Dentiste",
-        "price": 324.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e5c6480-b928-4edd-95b8-b92a779613de/image_1950.webp",
-        "cats": [
-          "6+ Yaş",
-          "Diş Macunu",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 2
-      },
       {
         "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
         "slug": "dentiste-cocuk-dis-macunu-orange-plus-1-yas-60-gr",
@@ -33267,68 +33050,6 @@
           "Diş Bakımı"
         ],
         "stock": 1
-      }
-    ],
-    "Çocuk Diş Macunu": [
-      {
-        "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
-        "slug": "dentiste-cocuk-dis-macunu-orange-plus-1-yas-60-gr",
-        "brand": "Dentiste",
-        "price": 302.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/be2cdc48-3b9b-4077-848c-c8bac2017813/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Diş Bakımı",
-          "Diş Macunu",
-          "Bebek Diş Bakımı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "EST Doğal Karadut Özlü Çocuk Diş Macunu 60 ml",
-        "slug": "est-dogal-karadut-ozlu-cocuk-dis-macunu-60-ml",
-        "brand": "Eyüp Sabri Tuncer",
-        "price": 174.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5343f46-cc4b-4e16-a7d9-f5732a70452b/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Diş Macunu",
-          "Çocuk"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
-        "slug": "rocs-junior-gokkusagi-meyve-aromali-cocuk-dis-macunu-6-12-yas",
-        "brand": "Rocs",
-        "price": 339.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45f0dc-f1f6-424f-8f33-ee4b3b452a65/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Diş Macunu",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Rocs Kids Meyve Kokteyli Aromalı Çocuk Diş Macunu",
-        "slug": "rocs-kids-meyve-kokteyli-aromali-cocuk-dis-macunu",
-        "brand": "Rocs",
-        "price": 299.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/80ff0a8d-2918-4faf-be03-5bb9ef6d2cad/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Diş Macunu",
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 3
       }
     ],
     "Bebek Diş Bakımı": [
@@ -33534,7 +33255,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBT Life Cleanlife Kapsül Kadın Tuzluğu Pelinotu Balkabağı Takviyesi 60 Kapsül",
@@ -33871,6 +33592,48 @@
           "Yüz Güneş Kremi"
         ],
         "stock": 1
+      }
+    ],
+    "Sinek Kovucu": [
+      {
+        "name": "Detan Defans Protect Bitkisel Sinek Kovucu Losyon 100 ml",
+        "slug": "detan-defans-protect-bitkisel-sinek-kovucu-losyon-100-ml",
+        "brand": "Defans",
+        "price": 185.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0abd2820-fb71-4618-8bc4-cf5f47b7a421/image_1950.webp",
+        "cats": [
+          "Bitkisel",
+          "Sinek Kovucu",
+          "Losyon"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "Nurse Harvey's Organics Buzz Off Doğal Sinek Kovucu Sprey 175 ml",
+        "slug": "nurse-harvey-s-organics-buzz-off-dogal-sinek-kovucu-sprey-175-ml",
+        "brand": "Nurse Harvey's",
+        "price": 699.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ace35b68-6205-458e-9c03-54e0419372d4/image_1950.webp",
+        "cats": [
+          "Sprey",
+          "Sinek Kovucu"
+        ],
+        "stock": 19
+      },
+      {
+        "name": "Sinek Kovucu Sprey Nurse Harvey’s 50 ml",
+        "slug": "sinek-kovucu-sprey-nurse-harvey-s-50-ml",
+        "brand": "Nurse Harvey's",
+        "price": 222.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e7b563-f66e-4b1d-93cd-d4a3b8780338/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Sinek Kovucu"
+        ],
+        "stock": 3
       }
     ],
     "El Dezenfektanı": [
@@ -35096,7 +34859,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Naturalnest Multy Energy Women Kadın Multivitamin ve Mineral 30 Tablet",
@@ -35866,7 +35629,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 20
+        "stock": 17
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -39308,7 +39071,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -43164,7 +42927,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Güç ve Performans": [
@@ -43179,7 +42942,7 @@
           "Erkek Sağlığı Takviyeleri",
           "Güç ve Performans"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Proteinocean Taurine Takviyesi 400 g",
@@ -43635,6 +43398,111 @@
           "Super Floss"
         ],
         "stock": 8
+      }
+    ],
+    "Çocuk Diş Bakımı": [
+      {
+        "name": "Oral-B Çocuk Şarjlı Diş Fırçası Frozen Karlar Ülkesi Temalı",
+        "slug": "oral-b-cocuk-sarjli-dis-fircasi-frozen-karlar-ulkesi-temali",
+        "brand": "Oral-B",
+        "price": 2150.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bd43bf7-d061-4d75-90a0-c4e2d4bd8b9c/image_1950.webp",
+        "cats": [
+          "Diş Fırçası",
+          "Çocuk",
+          "Çocuk Diş Bakımı",
+          "Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Oral-B Çocuk Şarjlı Diş Fırçası Star Wars Temalı",
+        "slug": "oral-b-cocuk-sarjli-dis-fircasi-star-wars-temali",
+        "brand": "Oral-B",
+        "price": 2189.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5e6f6138-7500-47bd-9496-30f03f670db8/image_1950.webp",
+        "cats": [
+          "Diş Fırçası",
+          "Çocuk",
+          "Çocuk Diş Bakımı",
+          "Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
+        "slug": "rocs-junior-gokkusagi-meyve-aromali-cocuk-dis-macunu-6-12-yas",
+        "brand": "Rocs",
+        "price": 339.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45f0dc-f1f6-424f-8f33-ee4b3b452a65/image_1950.webp",
+        "cats": [
+          "Çocuk Diş Macunu",
+          "Diş Macunu",
+          "Çocuk Diş Bakımı",
+          "Diş Bakımı"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Rocs Junior Çocuk Diş Fırçası (6-12 Yaş)",
+        "slug": "rocs-junior-cocuk-dis-fircasi-6-12-yas",
+        "brand": "Rocs",
+        "price": 350.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/52ef9a6f-5eb8-465f-b166-535518dc0994/image_1950.webp",
+        "cats": [
+          "Diş Fırçası",
+          "Çocuk Diş Bakımı",
+          "Çocuk Diş Fırçası",
+          "Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Rocs Kids Ahududu ve Çilek Aromalı Çocuk Diş Macunu",
+        "slug": "rocs-kids-ahududu-ve-cilek-aromali-cocuk-dis-macunu",
+        "brand": "Rocs",
+        "price": 309.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f95a4493-3e6e-4ec7-ba92-2392d54652f9/image_1950.webp",
+        "cats": [
+          "Çocuk Diş Bakımı",
+          "Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Rocs Kids Meyve Kokteyli Aromalı Çocuk Diş Macunu",
+        "slug": "rocs-kids-meyve-kokteyli-aromali-cocuk-dis-macunu",
+        "brand": "Rocs",
+        "price": 299.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/80ff0a8d-2918-4faf-be03-5bb9ef6d2cad/image_1950.webp",
+        "cats": [
+          "Çocuk Diş Macunu",
+          "Diş Macunu",
+          "Çocuk",
+          "Çocuk Diş Bakımı",
+          "Diş Bakımı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "TePe T136 Fırça Çocuk Zoo Soft 3-5 Yaş",
+        "slug": "tepe-t136-firca-cocuk-zoo-soft-3-5-yas",
+        "brand": "TePe",
+        "price": 349.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8571f290-a219-4a86-a233-edf47b44a1c7/image_1950.webp",
+        "cats": [
+          "Çocuk",
+          "Çocuk Diş Bakımı",
+          "Diş Bakımı"
+        ],
+        "stock": 1
       }
     ],
     "Ürün Kombinasyonları": [
@@ -45471,7 +45339,7 @@
           "İyot",
           "Lugol Solüsyonu"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Suvar Lugol Solüsyonu %5 İyot Çözeltisi 100 ml",
@@ -47186,9 +47054,9 @@
     ]
   },
   "stats": {
-    "total_products": 3202,
-    "total_categories": 587,
-    "generated": "2026-07-02 12:48",
+    "total_products": 3193,
+    "total_categories": 585,
+    "generated": "2026-07-03 10:31",
     "source": "ikas_api_live"
   }
 }
