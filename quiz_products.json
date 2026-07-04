@@ -1376,7 +1376,7 @@
           "Aktif Asit",
           "Akne ve Sivilce Bakımı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Bioderma Sebium Lotion Karma ve Yağlı Ciltler İçin Tonik 200 ml",
@@ -14272,7 +14272,7 @@
           "Aktif Asit",
           "Akne ve Sivilce Bakımı"
         ],
-        "stock": 11
+        "stock": 10
       }
     ],
     "Hasta Sürgüsü": [
@@ -25976,7 +25976,7 @@
           "Bit ve Sirke Bakımı",
           "Bit ve Sirke Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Paranit Bit Spreyi 100 ml 2'li Paket",
@@ -25989,7 +25989,7 @@
           "Bit ve Sirke Bakımı",
           "Bit ve Sirke Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Paranit Tedavi Spreyi 100ml Şişe",
@@ -37635,7 +37635,7 @@
         "cats": [
           "Berberin"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Betain HCl & Pepsin": [
@@ -41072,18 +41072,6 @@
           "Ortopedi Ürünleri"
         ],
         "stock": 3
-      },
-      {
-        "name": "Mymed ERS 200 Komot Tuvalet Aparatlı",
-        "slug": "mymed-ers-200-komot-tuvalet-aparatli",
-        "brand": "Mymed",
-        "price": 1750.0,
-        "discount_price": 1575.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eda0f427-cba6-48e3-b804-7527f775b708/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
       }
     ],
     "Korseler": [
@@ -47082,9 +47070,9 @@
     ]
   },
   "stats": {
-    "total_products": 3195,
+    "total_products": 3194,
     "total_categories": 584,
-    "generated": "2026-07-03 20:01",
+    "generated": "2026-07-04 23:33",
     "source": "ikas_api_live"
   }
 }
