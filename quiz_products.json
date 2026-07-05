@@ -8070,7 +8070,7 @@
           "Enerji ve Zindelik",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -20057,7 +20057,7 @@
           "Enerji ve Zindelik",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -27917,7 +27917,7 @@
           "Enerji ve Zindelik",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -35784,7 +35784,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -42959,50 +42959,6 @@
         "stock": 3
       }
     ],
-    "Erkek Sağlığı Takviyeleri": [
-      {
-        "name": "Nutraxin Ultra Men Tablet L-Arginin ve Standardize Bitkisel Ekstreler İçeren Takviye Edici Gıda 60 Tablet",
-        "slug": "nutraxin-ultra-men-tablet-l-arginin-60-tablet",
-        "brand": "Nutraxin",
-        "price": 729.99,
-        "discount_price": 657.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90b249bd-9bdf-4c0d-9a64-b8526d9798e4/image_1950.webp",
-        "cats": [
-          "Erkek Sağlığı Takviyeleri",
-          "Güç ve Performans"
-        ],
-        "stock": 1
-      }
-    ],
-    "Güç ve Performans": [
-      {
-        "name": "Nutraxin Ultra Men Tablet L-Arginin ve Standardize Bitkisel Ekstreler İçeren Takviye Edici Gıda 60 Tablet",
-        "slug": "nutraxin-ultra-men-tablet-l-arginin-60-tablet",
-        "brand": "Nutraxin",
-        "price": 729.99,
-        "discount_price": 657.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90b249bd-9bdf-4c0d-9a64-b8526d9798e4/image_1950.webp",
-        "cats": [
-          "Erkek Sağlığı Takviyeleri",
-          "Güç ve Performans"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Proteinocean Taurine Takviyesi 400 g",
-        "slug": "proteinocean-taurine-takviyesi-400-g",
-        "brand": "Proteinocean",
-        "price": 462.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/11da4487-7c1f-4e41-a010-541d6e2d74dd/image_1950.webp",
-        "cats": [
-          "Taurin",
-          "Güç ve Performans",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 2
-      }
-    ],
     "Ihlamur": [
       {
         "name": "Nutrigen Good Night Melisa Mayıs Papatyası Kedi Otu Ihlamur Vitamin Takviyesi 100 ml Şişe",
@@ -44592,6 +44548,22 @@
       }
     ],
     "Taurin": [
+      {
+        "name": "Proteinocean Taurine Takviyesi 400 g",
+        "slug": "proteinocean-taurine-takviyesi-400-g",
+        "brand": "Proteinocean",
+        "price": 462.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/11da4487-7c1f-4e41-a010-541d6e2d74dd/image_1950.webp",
+        "cats": [
+          "Taurin",
+          "Güç ve Performans",
+          "Enerji ve Zindelik"
+        ],
+        "stock": 2
+      }
+    ],
+    "Güç ve Performans": [
       {
         "name": "Proteinocean Taurine Takviyesi 400 g",
         "slug": "proteinocean-taurine-takviyesi-400-g",
@@ -47084,9 +47056,9 @@
     ]
   },
   "stats": {
-    "total_products": 3195,
-    "total_categories": 584,
-    "generated": "2026-07-05 15:01",
+    "total_products": 3193,
+    "total_categories": 583,
+    "generated": "2026-07-05 19:00",
     "source": "ikas_api_live"
   }
 }
