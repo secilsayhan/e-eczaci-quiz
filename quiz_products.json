@@ -1965,7 +1965,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 46
+        "stock": 45
       },
       {
         "name": "Ocean Daily One Energy 1 Alana 1 Bedava",
@@ -4190,7 +4190,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioxcin Siyah Sarımsaklı Saç Dökülmesine Karşı Şampuan (3 Al 2 Öde)",
@@ -4217,7 +4217,7 @@
           "Şampuanlar",
           "Saç, Cilt ve Tırnak"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Capicade Biotin ve Kolajen 60 Tablet",
@@ -5019,7 +5019,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -5475,7 +5475,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -6017,7 +6017,7 @@
         "cats": [
           "B12 Vitamini"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "NaturalNest Vitamin B12 Metilkobalamin 60 Tablet",
@@ -8904,7 +8904,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 41
+        "stock": 40
       },
       {
         "name": "Orzax Ocean Gummies Multivitamin Çocuklar İçin 64 Adet",
@@ -10758,7 +10758,7 @@
           "D Vitamini",
           "K Vitamini"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -10804,7 +10804,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 41
+        "stock": 40
       },
       {
         "name": "Orzax Ocean C Vitamini 1000 mg Takviyesi 30 Tablet",
@@ -18989,7 +18989,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -20789,7 +20789,7 @@
           "D Vitamini",
           "K Vitamini"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "OCEAN D3K2 DAMLA, D3 VİTAMİNİ VE K2 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 20ml şişe",
@@ -20806,7 +20806,7 @@
           "D Vitamini",
           "K Vitamini"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -20820,7 +20820,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 41
+        "stock": 40
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -21130,59 +21130,6 @@
           "Bebek Pudrası"
         ],
         "stock": 3
-      }
-    ],
-    "Çatlak ve İz Bakımı": [
-      {
-        "name": "Bepanthol Anti-Scar Jel Masaj Topu ile 20 g",
-        "slug": "bepanthol-anti-scar-jel-masaj-topu-ile-20-g",
-        "brand": "Bepanthol",
-        "price": 635.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d5fbc3ec-d7f2-4bb0-9282-ce5605ffb295/image_1950.webp",
-        "cats": [
-          "Çatlak ve İz Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bio-Oil Cilt Bakım Yağı Çatlak ve Leke Karşıtı 125 ml",
-        "slug": "bio-oil-cilt-bakim-yagi-catlak-ve-leke-karsiti-125-ml",
-        "brand": "Bio-Oil",
-        "price": 651.99,
-        "discount_price": 587.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca25fa2e-1f4f-40c9-ad25-1dee845457a9/image_1950.webp",
-        "cats": [
-          "Çatlak Bakımı",
-          "Çatlak ve İz Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Derowipe Çatlak Kremi Cilt Onarıcı",
-        "slug": "derowipe-catlak-kremi-cilt-onarici",
-        "brand": "Derowipe",
-        "price": 506.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c63d3062-a084-4ab6-affa-2333741cd85b/image_1950.webp",
-        "cats": [
-          "Çatlak Bakımı",
-          "Çatlak ve İz Bakımı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Lierac Phytolastil Gel Çatlak Karşıtı Jel 200 ml",
-        "slug": "lierac-phytolastil-gel-catlak-karsiti-jel-200-ml",
-        "brand": "Lierac",
-        "price": 2694.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd56789f-6ba2-4e11-98e5-9472bf9d972a/image_1950.webp",
-        "cats": [
-          "Çatlak Bakımı",
-          "Çatlak ve İz Bakımı"
-        ],
-        "stock": 1
       }
     ],
     "Pişik Kremi": [
@@ -23130,6 +23077,47 @@
       }
     ],
     "Çatlak Bakımı": [
+      {
+        "name": "Bio-Oil Cilt Bakım Yağı Çatlak ve Leke Karşıtı 125 ml",
+        "slug": "bio-oil-cilt-bakim-yagi-catlak-ve-leke-karsiti-125-ml",
+        "brand": "Bio-Oil",
+        "price": 651.99,
+        "discount_price": 587.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca25fa2e-1f4f-40c9-ad25-1dee845457a9/image_1950.webp",
+        "cats": [
+          "Çatlak Bakımı",
+          "Çatlak ve İz Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Derowipe Çatlak Kremi Cilt Onarıcı",
+        "slug": "derowipe-catlak-kremi-cilt-onarici",
+        "brand": "Derowipe",
+        "price": 506.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c63d3062-a084-4ab6-affa-2333741cd85b/image_1950.webp",
+        "cats": [
+          "Çatlak Bakımı",
+          "Çatlak ve İz Bakımı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Lierac Phytolastil Gel Çatlak Karşıtı Jel 200 ml",
+        "slug": "lierac-phytolastil-gel-catlak-karsiti-jel-200-ml",
+        "brand": "Lierac",
+        "price": 2694.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd56789f-6ba2-4e11-98e5-9472bf9d972a/image_1950.webp",
+        "cats": [
+          "Çatlak Bakımı",
+          "Çatlak ve İz Bakımı"
+        ],
+        "stock": 1
+      }
+    ],
+    "Çatlak ve İz Bakımı": [
       {
         "name": "Bio-Oil Cilt Bakım Yağı Çatlak ve Leke Karşıtı 125 ml",
         "slug": "bio-oil-cilt-bakim-yagi-catlak-ve-leke-karsiti-125-ml",
@@ -25209,7 +25197,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioxcin Genesis Yağlı Saçlar İçin Şampuan (3 Al 2 Öde)",
@@ -25802,7 +25790,7 @@
           "Şampuanlar",
           "Saç, Cilt ve Tırnak"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Bioxcin Şampuan Keratin Argan 3 Al 2 Öde Kampanya",
@@ -33297,7 +33285,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "NBT Life Cleanlife Kapsül Kadın Tuzluğu Pelinotu Balkabağı Takviyesi 60 Kapsül",
@@ -34901,7 +34889,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Naturalnest Multy Energy Women Kadın Multivitamin ve Mineral 30 Tablet",
@@ -35105,6 +35093,131 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c0e38b7a-426d-4082-b8df-0ae1953b4ee6/image_1950.webp",
         "cats": [
           "Dil Basacağı"
+        ],
+        "stock": 1
+      }
+    ],
+    "Terleme ve Koku Önleyici": [
+      {
+        "name": "Duransol Ayak Spreyi Koku ve Terleme Önleyici 50 ml",
+        "slug": "duransol-ayak-spreyi-koku-ve-terleme-onleyici-50-ml",
+        "brand": "Duransol",
+        "price": 250.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89c9b5be-df5b-426d-8ca4-2c949ef3c7d9/image_1950.webp",
+        "cats": [
+          "Terleme ve Koku Önleyici",
+          "Ayak"
+        ],
+        "stock": 27
+      },
+      {
+        "name": "Lapitak Ayak Kokusu Kremi Terleme ve Koku Önleyici",
+        "slug": "lapitak-ayak-kokusu-kremi-terleme-ve-koku-onleyici",
+        "brand": "Lapitak",
+        "price": 237.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4bb2b77-7fb9-4b0f-bd3e-97773bb0faa7/image_1950.webp",
+        "cats": [
+          "Terleme ve Koku Önleyici",
+          "Vücut Bakımı",
+          "Ayak"
+        ],
+        "stock": 1
+      }
+    ],
+    "Ayak": [
+      {
+        "name": "Duransol Ayak Spreyi Koku ve Terleme Önleyici 50 ml",
+        "slug": "duransol-ayak-spreyi-koku-ve-terleme-onleyici-50-ml",
+        "brand": "Duransol",
+        "price": 250.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89c9b5be-df5b-426d-8ca4-2c949ef3c7d9/image_1950.webp",
+        "cats": [
+          "Terleme ve Koku Önleyici",
+          "Ayak"
+        ],
+        "stock": 27
+      },
+      {
+        "name": "FE Ponza Taşı Ayak Bakım",
+        "slug": "fe-ponza-tasi-ayak-bakim",
+        "brand": "FE",
+        "price": 89.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd46ce44-c0bf-472f-bdd1-231ef4c54b73/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Ponza Taşı",
+          "Ayak"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "FE Törpü Nasır Ayak Bakım",
+        "slug": "fe-torpu-nasir-ayak-bakim",
+        "brand": "FE",
+        "price": 230.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f2b9827f-2597-4f4c-ae46-62139f71d752/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Nasır Törpüsü",
+          "Ayak"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Lapitak Ayak Kokusu Kremi Terleme ve Koku Önleyici",
+        "slug": "lapitak-ayak-kokusu-kremi-terleme-ve-koku-onleyici",
+        "brand": "Lapitak",
+        "price": 237.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4bb2b77-7fb9-4b0f-bd3e-97773bb0faa7/image_1950.webp",
+        "cats": [
+          "Terleme ve Koku Önleyici",
+          "Vücut Bakımı",
+          "Ayak"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Luxor 194 Malleol Destekli Ayak Bilekliği Tek Boy",
+        "slug": "luxor-194-malleol-destekli-ayak-bilekligi-tek-boy",
+        "brand": "Luxor",
+        "price": 657.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aaf795cb-26a4-4f36-a9c5-d128bfa74eb8/image_1950.webp",
+        "cats": [
+          "Ayak Bilekliği",
+          "Ayak"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Luxor 195 Çapraz Bant Ayak Bilekliği Tek Boy",
+        "slug": "luxor-195-capraz-bant-ayak-bilekligi-tek-boy",
+        "brand": "Luxor",
+        "price": 557.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cc686045-b0ca-4608-b198-65da8bf054bf/image_1950.webp",
+        "cats": [
+          "Ayak Bilekliği",
+          "Ayak"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Luxor 196 Ligament Destekli Ayak Bilekliği Tek Boy",
+        "slug": "luxor-196-ligament-destekli-ayak-bilekligi-tek-boy",
+        "brand": "Luxor",
+        "price": 668.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f38bb24f-7705-471c-8df6-0f3c8e564df8/image_1950.webp",
+        "cats": [
+          "Ayak Bilekliği",
+          "Ayak"
         ],
         "stock": 1
       }
@@ -35671,7 +35784,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 17
+        "stock": 15
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -36110,89 +36223,6 @@
           "Ayak"
         ],
         "stock": 3
-      }
-    ],
-    "Ayak": [
-      {
-        "name": "FE Ponza Taşı Ayak Bakım",
-        "slug": "fe-ponza-tasi-ayak-bakim",
-        "brand": "FE",
-        "price": 89.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd46ce44-c0bf-472f-bdd1-231ef4c54b73/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Ponza Taşı",
-          "Ayak"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "FE Törpü Nasır Ayak Bakım",
-        "slug": "fe-torpu-nasir-ayak-bakim",
-        "brand": "FE",
-        "price": 230.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f2b9827f-2597-4f4c-ae46-62139f71d752/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Nasır Törpüsü",
-          "Ayak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Lapitak Ayak Kokusu Kremi Terleme ve Koku Önleyici",
-        "slug": "lapitak-ayak-kokusu-kremi-terleme-ve-koku-onleyici",
-        "brand": "Lapitak",
-        "price": 237.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4bb2b77-7fb9-4b0f-bd3e-97773bb0faa7/image_1950.webp",
-        "cats": [
-          "Terleme ve Koku Önleyici",
-          "Vücut Bakımı",
-          "Ayak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 194 Malleol Destekli Ayak Bilekliği Tek Boy",
-        "slug": "luxor-194-malleol-destekli-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 657.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aaf795cb-26a4-4f36-a9c5-d128bfa74eb8/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 195 Çapraz Bant Ayak Bilekliği Tek Boy",
-        "slug": "luxor-195-capraz-bant-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 557.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cc686045-b0ca-4608-b198-65da8bf054bf/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Luxor 196 Ligament Destekli Ayak Bilekliği Tek Boy",
-        "slug": "luxor-196-ligament-destekli-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 668.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f38bb24f-7705-471c-8df6-0f3c8e564df8/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 1
       }
     ],
     "Saç Tarak ve Fırçaları": [
@@ -39113,7 +39143,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -39234,7 +39264,7 @@
           "D Vitamini",
           "K Vitamini"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Orzax Ocean D3K2 Damla 2'li Avantaj Paketi",
@@ -40639,22 +40669,6 @@
         "stock": 1
       }
     ],
-    "Terleme ve Koku Önleyici": [
-      {
-        "name": "Lapitak Ayak Kokusu Kremi Terleme ve Koku Önleyici",
-        "slug": "lapitak-ayak-kokusu-kremi-terleme-ve-koku-onleyici",
-        "brand": "Lapitak",
-        "price": 237.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4bb2b77-7fb9-4b0f-bd3e-97773bb0faa7/image_1950.webp",
-        "cats": [
-          "Terleme ve Koku Önleyici",
-          "Vücut Bakımı",
-          "Ayak"
-        ],
-        "stock": 1
-      }
-    ],
     "Karahindiba": [
       {
         "name": "Ligone Milk Thistle Complex Kapsül Devedikeni Enginar Karahindiba Zerdeçal Takviyesi 60 Kapsül",
@@ -41854,7 +41868,7 @@
           "D Vitamini",
           "K Vitamini"
         ],
-        "stock": 12
+        "stock": 11
       }
     ],
     "Ağız Bakım Seti": [
@@ -43190,7 +43204,7 @@
           "D Vitamini",
           "K Vitamini"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gida 20ml Şişe",
@@ -47070,9 +47084,9 @@
     ]
   },
   "stats": {
-    "total_products": 3194,
+    "total_products": 3195,
     "total_categories": 584,
-    "generated": "2026-07-05 12:20",
+    "generated": "2026-07-05 15:01",
     "source": "ikas_api_live"
   }
 }
