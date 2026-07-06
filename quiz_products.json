@@ -13189,20 +13189,6 @@
         "stock": 3
       },
       {
-        "name": "Wee Saplı Çıt Çıt Tırnak Makası 881",
-        "slug": "wee-sapli-cit-cit-tirnak-makasi-881",
-        "brand": "Wee",
-        "price": 267.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb419a29-f0ad-42e7-962f-60e2d9bc368b/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Bebek Tırnak Makası",
-          "Tırnak Makası"
-        ],
-        "stock": 1
-      },
-      {
         "name": "b-good Atopik Krem Bebek Çocuk 150 ml",
         "slug": "b-good-atopik-krem-bebek-cocuk-150-ml",
         "brand": "b-good",
@@ -14881,7 +14867,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Hunnap Keci Boynuzu Ozu 640 GR",
@@ -17989,7 +17975,7 @@
         "cats": [
           "Erkek"
         ],
-        "stock": 4
+        "stock": 2
       }
     ],
     "Emzik": [
@@ -31716,7 +31702,7 @@
         "cats": [
           "Protez Bakımı"
         ],
-        "stock": 38
+        "stock": 34
       },
       {
         "name": "FE Naturel Diş Tozu Doğal İçerikli 50 gr",
@@ -34426,7 +34412,7 @@
         "cats": [
           "Sprey"
         ],
-        "stock": 7
+        "stock": 5
       },
       {
         "name": "K-Othrine AL Haşere İlacı Hazır Sprey 500 ml",
@@ -36295,20 +36281,6 @@
         "stock": 3
       },
       {
-        "name": "Wee Saplı Çıt Çıt Tırnak Makası 881",
-        "slug": "wee-sapli-cit-cit-tirnak-makasi-881",
-        "brand": "Wee",
-        "price": 267.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb419a29-f0ad-42e7-962f-60e2d9bc368b/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Bebek Tırnak Makası",
-          "Tırnak Makası"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Wee Tırnak Makası Çıt Çıt 118",
         "slug": "wee-tirnak-makasi-cit-cit-118",
         "brand": "Wee",
@@ -37079,7 +37051,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
@@ -46745,35 +46717,6 @@
         "stock": 1
       }
     ],
-    "Bebek Tırnak Makası": [
-      {
-        "name": "Wee Saplı Çıt Çıt Tırnak Makası 881",
-        "slug": "wee-sapli-cit-cit-tirnak-makasi-881",
-        "brand": "Wee",
-        "price": 267.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb419a29-f0ad-42e7-962f-60e2d9bc368b/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Bebek Tırnak Makası",
-          "Tırnak Makası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Wee Tırnak Makası Çıt Çıt 118",
-        "slug": "wee-tirnak-makasi-cit-cit-118",
-        "brand": "Wee",
-        "price": 213.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5670bb28-e190-47e2-8baf-5c18d5af56b7/image_1950.webp",
-        "cats": [
-          "Bebek Tırnak Makası",
-          "Tırnak Makası"
-        ],
-        "stock": 1
-      }
-    ],
     "Saç Fırça ve Tarak": [
       {
         "name": "Wee Saç Fırça+Tarak Seti 803",
@@ -46800,6 +46743,21 @@
           "Süt Saklama Poşeti"
         ],
         "stock": 2
+      }
+    ],
+    "Bebek Tırnak Makası": [
+      {
+        "name": "Wee Tırnak Makası Çıt Çıt 118",
+        "slug": "wee-tirnak-makasi-cit-cit-118",
+        "brand": "Wee",
+        "price": 213.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5670bb28-e190-47e2-8baf-5c18d5af56b7/image_1950.webp",
+        "cats": [
+          "Bebek Tırnak Makası",
+          "Tırnak Makası"
+        ],
+        "stock": 1
       }
     ],
     "Silikon Emzik Ucu": [
@@ -47056,9 +47014,9 @@
     ]
   },
   "stats": {
-    "total_products": 3193,
+    "total_products": 3190,
     "total_categories": 583,
-    "generated": "2026-07-05 19:00",
+    "generated": "2026-07-06 08:19",
     "source": "ikas_api_live"
   }
 }
