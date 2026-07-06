@@ -8059,20 +8059,6 @@
         "stock": 2
       },
       {
-        "name": "Ocean Extramag 90 Tablet Aynı Fiyata %50 Daha Fazla",
-        "slug": "ocean-extramag-90-tablet-30-avantajli-magnezyum-takviyesi",
-        "brand": "Orzax",
-        "price": 734.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/280e3efd-bb59-4e7b-9546-0f0336e427de/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Enerji ve Zindelik",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
         "slug": "ocean-extramag-tablet-magnezyum-iceren-takviye-edici-gida-60-tablet",
         "brand": "Orzax",
@@ -8904,7 +8890,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 40
+        "stock": 38
       },
       {
         "name": "Orzax Ocean Gummies Multivitamin Çocuklar İçin 64 Adet",
@@ -10804,7 +10790,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 40
+        "stock": 38
       },
       {
         "name": "Orzax Ocean C Vitamini 1000 mg Takviyesi 30 Tablet",
@@ -12979,19 +12965,6 @@
           "Bebek Bakım"
         ],
         "stock": 8
-      },
-      {
-        "name": "Suvar Kurşun Suyu Eau de Goulard 1 Litre",
-        "slug": "suvar-kursun-suyu-eau-de-goulard-1-litre",
-        "brand": "Suvar Kimya",
-        "price": 105.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4178a7-0551-47cb-980a-707dc8471cbc/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Kurşun Suyu"
-        ],
-        "stock": 1
       },
       {
         "name": "TTO Kil Maskesi 12 gr Saşe",
@@ -20032,20 +20005,6 @@
         "stock": 1
       },
       {
-        "name": "Ocean Extramag 90 Tablet Aynı Fiyata %50 Daha Fazla",
-        "slug": "ocean-extramag-90-tablet-30-avantajli-magnezyum-takviyesi",
-        "brand": "Orzax",
-        "price": 734.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/280e3efd-bb59-4e7b-9546-0f0336e427de/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Enerji ve Zindelik",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
         "slug": "ocean-extramag-tablet-magnezyum-iceren-takviye-edici-gida-60-tablet",
         "brand": "Orzax",
@@ -20806,7 +20765,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 40
+        "stock": 38
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -22494,7 +22453,7 @@
           "Göz Sağlığı",
           "Lens Solüsyonu"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Resvega Kapsül Resveratrol Balık Yağı Lutein Zeaksantin D Vitamini Takviyesi 60 Kapsül",
@@ -25126,7 +25085,7 @@
           "Göz Sağlığı",
           "Lens Solüsyonu"
         ],
-        "stock": 8
+        "stock": 6
       }
     ],
     "Saç Serumları ve Losyonları": [
@@ -27890,20 +27849,6 @@
           "Stres ve Uyku Düzeni"
         ],
         "stock": 2
-      },
-      {
-        "name": "Ocean Extramag 90 Tablet Aynı Fiyata %50 Daha Fazla",
-        "slug": "ocean-extramag-90-tablet-30-avantajli-magnezyum-takviyesi",
-        "brand": "Orzax",
-        "price": 734.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/280e3efd-bb59-4e7b-9546-0f0336e427de/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Enerji ve Zindelik",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -30701,6 +30646,19 @@
           "MSM"
         ],
         "stock": 3
+      },
+      {
+        "name": "Osteo Bi-Flex 5-Loxin Advanced Tablet Glukozamin Kondroitin MSM Boswellia Ekstresi İçeren Takviye Edici Gıda 120 Tablet",
+        "slug": "osteo-bi-flex-5-loxin-advanced-glukozamin-kondroitin-msm-120-tablet",
+        "brand": "Osteo Bi-Flex",
+        "price": 2422.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/212cc73e-b71a-4ae9-a65d-4572b134e281/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Kondroitin"
+        ],
+        "stock": 1
       }
     ],
     "Kondroitin": [
@@ -30774,6 +30732,19 @@
           "MSM"
         ],
         "stock": 3
+      },
+      {
+        "name": "Osteo Bi-Flex 5-Loxin Advanced Tablet Glukozamin Kondroitin MSM Boswellia Ekstresi İçeren Takviye Edici Gıda 120 Tablet",
+        "slug": "osteo-bi-flex-5-loxin-advanced-glukozamin-kondroitin-msm-120-tablet",
+        "brand": "Osteo Bi-Flex",
+        "price": 2422.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/212cc73e-b71a-4ae9-a65d-4572b134e281/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Kondroitin"
+        ],
+        "stock": 1
       }
     ],
     "Kemik ve Eklem Sağlığı": [
@@ -34415,19 +34386,6 @@
         "stock": 5
       },
       {
-        "name": "K-Othrine AL Haşere İlacı Hazır Sprey 500 ml",
-        "slug": "k-othrine-al-hasere-ilaci-hazir-sprey-500-ml",
-        "brand": "K-Othrine",
-        "price": 206.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2441eaaa-6c00-43dc-a78e-1be26cbc0308/image_1950.webp",
-        "cats": [
-          "Haşere İlacı",
-          "Sprey"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Nurse Harvey's Organics Buzz Off Doğal Sinek Kovucu Sprey 175 ml",
         "slug": "nurse-harvey-s-organics-buzz-off-dogal-sinek-kovucu-sprey-175-ml",
         "brand": "Nurse Harvey's",
@@ -35770,7 +35728,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 14
+        "stock": 12
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -36403,19 +36361,6 @@
           "L-Karnitin"
         ],
         "stock": 10
-      },
-      {
-        "name": "Sperra Tribulus Terrestris Demir Dikeni Vitamin Mineral Takviyesi 60 Kapsül",
-        "slug": "sperra-tribulus-terrestris-demir-dikeni-vitamin-mineral-60-kapsul",
-        "brand": "Intraline",
-        "price": 1995.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6d3eeb0-094d-40e9-889c-053ef8c1ffdb/image_1950.webp",
-        "cats": [
-          "Tribulus Terrestris",
-          "Erkek Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Tedafarma Vipros Kapsül Cüce Palmiye Isırgan Likopen Takviyesi 30 Kapsül",
@@ -38479,7 +38424,7 @@
           "Deve Dikeni (Milk Thistle)",
           "Karaciğer Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Karaciğer Sağlığı": [
@@ -38540,7 +38485,7 @@
           "Deve Dikeni (Milk Thistle)",
           "Karaciğer Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Viador Hindiba Ekstresi ve Manganez İçeren Sıvı Takviye Edici Gıda 150 ml",
@@ -39780,19 +39725,6 @@
       }
     ],
     "Haşere İlacı": [
-      {
-        "name": "K-Othrine AL Haşere İlacı Hazır Sprey 500 ml",
-        "slug": "k-othrine-al-hasere-ilaci-hazir-sprey-500-ml",
-        "brand": "K-Othrine",
-        "price": 206.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2441eaaa-6c00-43dc-a78e-1be26cbc0308/image_1950.webp",
-        "cats": [
-          "Haşere İlacı",
-          "Sprey"
-        ],
-        "stock": 1
-      },
       {
         "name": "K-Othrine SC50 Haşere İlacı Konsantre Form",
         "slug": "k-othrine-sc50-hasere-ilaci-konsantre-form",
@@ -43280,19 +43212,6 @@
           "Vitamin ve Takviye"
         ],
         "stock": 14
-      },
-      {
-        "name": "Sperra Tribulus Terrestris Demir Dikeni Vitamin Mineral Takviyesi 60 Kapsül",
-        "slug": "sperra-tribulus-terrestris-demir-dikeni-vitamin-mineral-60-kapsul",
-        "brand": "Intraline",
-        "price": 1995.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6d3eeb0-094d-40e9-889c-053ef8c1ffdb/image_1950.webp",
-        "cats": [
-          "Tribulus Terrestris",
-          "Erkek Sağlığı"
-        ],
-        "stock": 1
       }
     ],
     "Kulak Dezenfektanı": [
@@ -43634,7 +43553,7 @@
           "Deve Dikeni (Milk Thistle)",
           "Karaciğer Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar E Vitamini 400 IU Antioksidan Cilt Sağlığı 50 Kapsül",
@@ -45298,21 +45217,6 @@
           "Sigara Filtresi ve Ağızlık"
         ],
         "stock": 4
-      }
-    ],
-    "Kurşun Suyu": [
-      {
-        "name": "Suvar Kurşun Suyu Eau de Goulard 1 Litre",
-        "slug": "suvar-kursun-suyu-eau-de-goulard-1-litre",
-        "brand": "Suvar Kimya",
-        "price": 105.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4178a7-0551-47cb-980a-707dc8471cbc/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Kurşun Suyu"
-        ],
-        "stock": 1
       }
     ],
     "Lugol Solüsyonu": [
@@ -47014,9 +46918,9 @@
     ]
   },
   "stats": {
-    "total_products": 3190,
-    "total_categories": 583,
-    "generated": "2026-07-06 08:19",
+    "total_products": 3183,
+    "total_categories": 582,
+    "generated": "2026-07-06 19:03",
     "source": "ikas_api_live"
   }
 }
