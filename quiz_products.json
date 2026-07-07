@@ -2182,18 +2182,6 @@
         "stock": 20
       },
       {
-        "name": "Solgar Alpha Lipoic Acid 600 mg Kapsül 50 Kapsül",
-        "slug": "solgar-alpha-lipoic-acid-600-mg-kapsul-50-kapsul",
-        "brand": "Solgar",
-        "price": 1974.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45ba91-c802-4b6b-8c8c-ca12e47c8976/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Beta Glucans Tablet 60 Tablet",
         "slug": "solgar-beta-glucans-tablet-60-tablet",
         "brand": "Solgar",
@@ -35053,7 +35041,7 @@
           "Terleme ve Koku Önleyici",
           "Ayak"
         ],
-        "stock": 27
+        "stock": 17
       },
       {
         "name": "Lapitak Ayak Kokusu Kremi Terleme ve Koku Önleyici",
@@ -35082,7 +35070,7 @@
           "Terleme ve Koku Önleyici",
           "Ayak"
         ],
-        "stock": 27
+        "stock": 17
       },
       {
         "name": "FE Ponza Taşı Ayak Bakım",
@@ -35728,7 +35716,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -46918,9 +46906,9 @@
     ]
   },
   "stats": {
-    "total_products": 3183,
+    "total_products": 3182,
     "total_categories": 582,
-    "generated": "2026-07-06 19:03",
+    "generated": "2026-07-07 07:14",
     "source": "ikas_api_live"
   }
 }
