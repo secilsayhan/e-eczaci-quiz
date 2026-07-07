@@ -5007,7 +5007,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -5463,7 +5463,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -8448,7 +8448,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -9066,7 +9066,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -12507,7 +12507,7 @@
           "Vücut Bakımı",
           "Niaouli Yağı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bebak Acıbadem Süt Büyük 215 g",
@@ -13874,7 +13874,7 @@
           "Vücut Bakımı",
           "Niaouli Yağı"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "İlaç Kutusu ve Aksesuarlar": [
@@ -18936,7 +18936,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -33230,7 +33230,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "NBT Life Cleanlife Kapsül Kadın Tuzluğu Pelinotu Balkabağı Takviyesi 60 Kapsül",
@@ -34821,7 +34821,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Naturalnest Multy Energy Women Kadın Multivitamin ve Mineral 30 Tablet",
@@ -35653,7 +35653,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -35716,7 +35716,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -39048,7 +39048,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -39369,7 +39369,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 26
+        "stock": 25
       }
     ],
     "Kuşburnu": [
@@ -46908,7 +46908,7 @@
   "stats": {
     "total_products": 3182,
     "total_categories": 582,
-    "generated": "2026-07-07 07:14",
+    "generated": "2026-07-07 11:01",
     "source": "ikas_api_live"
   }
 }
