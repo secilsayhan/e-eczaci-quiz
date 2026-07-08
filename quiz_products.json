@@ -4871,7 +4871,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -5007,7 +5007,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -5463,7 +5463,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -8878,7 +8878,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 38
+        "stock": 37
       },
       {
         "name": "Orzax Ocean Gummies Multivitamin Çocuklar İçin 64 Adet",
@@ -10778,7 +10778,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 38
+        "stock": 37
       },
       {
         "name": "Orzax Ocean C Vitamini 1000 mg Takviyesi 30 Tablet",
@@ -18812,7 +18812,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -18936,7 +18936,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -20753,7 +20753,7 @@
           "Bağışıklık Sistemi",
           "D Vitamini"
         ],
-        "stock": 38
+        "stock": 37
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -33230,7 +33230,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "NBT Life Cleanlife Kapsül Kadın Tuzluğu Pelinotu Balkabağı Takviyesi 60 Kapsül",
@@ -33669,19 +33669,6 @@
           "Hijyen"
         ],
         "stock": 6
-      },
-      {
-        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
-        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
-        "brand": "Sebamed",
-        "price": 629.99,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Hijyen"
-        ],
-        "stock": 1
       }
     ],
     "Hamilelik ve Emzirme": [
@@ -34686,7 +34673,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Etoile 300 mg Boric Acid + Hyal",
@@ -34728,7 +34715,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
@@ -34821,7 +34808,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Naturalnest Multy Energy Women Kadın Multivitamin ve Mineral 30 Tablet",
@@ -35012,7 +34999,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 8
+        "stock": 7
       }
     ],
     "Dil Basacağı": [
@@ -35716,20 +35703,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 9
-      },
-      {
-        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
-        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
-        "brand": "Sebamed",
-        "price": 629.99,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Hijyen"
-        ],
-        "stock": 1
+        "stock": 8
       }
     ],
     "Göz Kapama Pedi": [
@@ -39048,7 +39022,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -46906,9 +46880,9 @@
     ]
   },
   "stats": {
-    "total_products": 3182,
+    "total_products": 3180,
     "total_categories": 582,
-    "generated": "2026-07-07 19:01",
+    "generated": "2026-07-08 08:28",
     "source": "ikas_api_live"
   }
 }
