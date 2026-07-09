@@ -11317,20 +11317,6 @@
         "stock": 10
       },
       {
-        "name": "Solgar Çin Geveni Kök Ekstresi Bağışıklık Desteği 60 Kapsül",
-        "slug": "solgar-cin-geveni-kok-ekstresi-bagisiklik-destegi-60-kapsul",
-        "brand": "Solgar",
-        "price": 1073.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fdaf4734-10ba-4402-9a73-8c077201dd1f/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Astragalus (Çin Geveni)",
-          "Bağışıklık"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Talya Kekik Yağı 20 ml Destekleyici",
         "slug": "talya-kekik-yagi-20-ml-destekleyici",
         "brand": "Talya",
@@ -18644,6 +18630,16 @@
         "stock": 1000
       },
       {
+        "name": "ORZAX OCEAN MAGNEZYUM COMPLEX, MAGNEZYUM, VİTAMİN B6 60 TABLET",
+        "slug": "orzax-ocean-magnezyum-complex-magnezyum-vitamin-b6-60-tablet",
+        "brand": "Orzax",
+        "price": 699.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6662d7eb-83c4-409b-ae26-479d28f67507/image_1950.webp",
+        "cats": [],
+        "stock": 93
+      },
+      {
         "name": "Odaklanma ve Zihin Seti",
         "slug": "odaklanma-ve-zihin-seti",
         "brand": "",
@@ -19365,20 +19361,6 @@
           "Selenyum",
           "Tiroid Sağlığı",
           "Antioksidanlar",
-          "Bağışıklık"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Çin Geveni Kök Ekstresi Bağışıklık Desteği 60 Kapsül",
-        "slug": "solgar-cin-geveni-kok-ekstresi-bagisiklik-destegi-60-kapsul",
-        "brand": "Solgar",
-        "price": 1073.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fdaf4734-10ba-4402-9a73-8c077201dd1f/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Astragalus (Çin Geveni)",
           "Bağışıklık"
         ],
         "stock": 1
@@ -45125,22 +45107,6 @@
         "stock": 10
       }
     ],
-    "Astragalus (Çin Geveni)": [
-      {
-        "name": "Solgar Çin Geveni Kök Ekstresi Bağışıklık Desteği 60 Kapsül",
-        "slug": "solgar-cin-geveni-kok-ekstresi-bagisiklik-destegi-60-kapsul",
-        "brand": "Solgar",
-        "price": 1073.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fdaf4734-10ba-4402-9a73-8c077201dd1f/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Astragalus (Çin Geveni)",
-          "Bağışıklık"
-        ],
-        "stock": 1
-      }
-    ],
     "Sigara Filtresi ve Ağızlık": [
       {
         "name": "Super Süzen 92 Ağızlık 718 Filtreli 30'lu",
@@ -46854,9 +46820,9 @@
     ]
   },
   "stats": {
-    "total_products": 3178,
-    "total_categories": 582,
-    "generated": "2026-07-08 19:00",
+    "total_products": 3176,
+    "total_categories": 581,
+    "generated": "2026-07-09 12:31",
     "source": "ikas_api_live"
   }
 }
