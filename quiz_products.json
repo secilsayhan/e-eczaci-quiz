@@ -2982,7 +2982,7 @@
         "cats": [
           "Gargara"
         ],
-        "stock": 4
+        "stock": 2
       }
     ],
     "Aft ve Ağız Yarası Bakımı": [
@@ -35672,7 +35672,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 7
+        "stock": 1
       }
     ],
     "Göz Kapama Pedi": [
@@ -46822,7 +46822,7 @@
   "stats": {
     "total_products": 3176,
     "total_categories": 581,
-    "generated": "2026-07-09 12:31",
+    "generated": "2026-07-09 15:00",
     "source": "ikas_api_live"
   }
 }
