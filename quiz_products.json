@@ -16416,20 +16416,6 @@
         "stock": 4
       },
       {
-        "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
-        "slug": "mustela-spf-50-plus-cok-yuksek-korumali-bebek-gunes-losyonu-40-ml",
-        "brand": "Mustela",
-        "price": 799.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db8114d-f957-49f9-aad3-1fcf8fa69c09/image_1950.webp",
-        "cats": [
-          "Güneş Losyonu",
-          "SPF 50+",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Orzax SHINIQ Onarıcı ve Koruyucu Bakım Kremi SPF 50+",
         "slug": "orzax-shiniq-onarici-ve-koruyucu-bakim-kremi-spf-50",
         "brand": "Orzax",
@@ -24301,20 +24287,6 @@
         "cats": [
           "Güneş Koruma",
           "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
-        "slug": "mustela-spf-50-plus-cok-yuksek-korumali-bebek-gunes-losyonu-40-ml",
-        "brand": "Mustela",
-        "price": 799.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db8114d-f957-49f9-aad3-1fcf8fa69c09/image_1950.webp",
-        "cats": [
-          "Güneş Losyonu",
-          "SPF 50+",
           "Çocuk ve Bebek Güneş Koruma"
         ],
         "stock": 2
@@ -35674,33 +35646,6 @@
         "stock": 1
       }
     ],
-    "İntim Temizleyiciler": [
-      {
-        "name": "Etoile 600 MG (boric Acide) 10 Vaginal Ovul",
-        "slug": "etoile-600-mg-boric-acide-10-vaginal-ovul",
-        "brand": "Etoile",
-        "price": 1530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9be9926-c70c-4c77-b159-b6464489b50b/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
-        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
-        "brand": "Sebamed",
-        "price": 629.99,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Hijyen"
-        ],
-        "stock": 1
-      }
-    ],
     "Göz Kapama Pedi": [
       {
         "name": "Exxe Göz Kapama Pedi Yetişkin 10 Adet",
@@ -42068,20 +42013,6 @@
         "stock": 2
       },
       {
-        "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
-        "slug": "mustela-spf-50-plus-cok-yuksek-korumali-bebek-gunes-losyonu-40-ml",
-        "brand": "Mustela",
-        "price": 799.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db8114d-f957-49f9-aad3-1fcf8fa69c09/image_1950.webp",
-        "cats": [
-          "Güneş Losyonu",
-          "SPF 50+",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Sebamed Sun Güneş Losyonu SPF50+ 150 ml",
         "slug": "sebamed-sun-gunes-losyonu-spf50-plus-150-ml",
         "brand": "Sebamed",
@@ -44786,6 +44717,21 @@
         "stock": 1
       }
     ],
+    "İntim Temizleyiciler": [
+      {
+        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
+        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
+        "brand": "Sebamed",
+        "price": 629.99,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "Hijyen"
+        ],
+        "stock": 1
+      }
+    ],
     "Yumuşak": [
       {
         "name": "Sensodyne Gentle Soft Diş Fırçası Yumuşak",
@@ -46846,9 +46792,9 @@
     ]
   },
   "stats": {
-    "total_products": 3178,
+    "total_products": 3174,
     "total_categories": 581,
-    "generated": "2026-07-10 09:26",
+    "generated": "2026-07-10 11:52",
     "source": "ikas_api_live"
   }
 }
