@@ -1,7 +1,7 @@
 {
-  "name": "Sağlıklı Yaşam Koçu",
-  "short_name": "Sağlık Koçu",
-  "description": "Sağlık koçun 7/24 yanında — bilime dayalı.",
+  "name": "Sağlıklı Yaşam Danışmanı",
+  "short_name": "Sağlık Danışmanı",
+  "description": "Sağlık danışmanın 7/24 yanında — bilime dayalı.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",

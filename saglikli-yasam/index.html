@@ -4,13 +4,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#ffffff">
-<title>Sağlıklı Yaşam Koçu</title>
+<title>Sağlıklı Yaşam Danışmanı</title>
 <link rel="manifest" href="manifest.json">
 <link rel="apple-touch-icon" href="icon-180.png">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-title" content="Sağlık Koçu">
-<meta name="description" content="Sağlık koçun 7/24 yanında — bilime dayalı. Yaşamını 10 boyutta değerlendir, sana özel plan al.">
+<meta name="apple-mobile-web-app-title" content="Sağlık Danışmanı">
+<meta name="description" content="Sağlık danışmanın 7/24 yanında — bilime dayalı. Yaşamını 10 boyutta değerlendir, sana özel plan al.">
 <style>
 :root{
   --bg:#ffffff; --soft:#f6f8f7; --ink:#16221d; --muted:#697670; --line:#e9ece9;
@@ -213,11 +213,11 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
 
   <section class="screen active" id="s-hero">
     <div class="hero">
-      <div class="brand"><span class="dot">🌿</span> Sağlıklı Yaşam Koçu</div>
+      <div class="brand"><span class="dot">🌿</span> Sağlıklı Yaşam Danışmanı</div>
       <div>
         <h1>Daha uzun,<br>daha dinç bir<br><em>yaşam.</em> Adım adım.</h1>
-        <p>Yaşamını 10 boyutta değerlendir, sana özel planını al. <b style="color:var(--ink)">Sağlık koçun 7/24 yanında — bilime dayalı.</b></p>
-        <div class="pills"><span class="pill">🧬 10 boyutlu analiz</span><span class="pill">🎯 Sana özel plan</span><span class="pill">💬 Günlük koçluk</span></div>
+        <p>Yaşamını 10 boyutta değerlendir, sana özel planını al. <b style="color:var(--ink)">Sağlık danışmanın 7/24 yanında — bilime dayalı.</b></p>
+        <div class="pills"><span class="pill">🧬 10 boyutlu analiz</span><span class="pill">🎯 Sana özel plan</span><span class="pill">💬 Günlük danışmanlık</span></div>
       </div>
       <div class="cta">
         <button class="btn" onclick="startAudit()">Ücretsiz analizine başla</button>
@@ -269,7 +269,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
     <div class="pad">
       <div class="card mission"><div class="mt">🎯 Bu haftanın misyonu</div><h4 id="mission-t"></h4><div class="small" id="mission-d"></div></div>
       <div class="card coach"><h3>📋 Bugünün planı</h3><div class="small" id="plan-sub" style="margin-bottom:8px"></div><div id="tasks"></div></div>
-      <button class="btn ghost" onclick="setNav('coach');go('coach')" style="margin-bottom:8px">💬 Koçunla konuş</button>
+      <button class="btn ghost" onclick="setNav('coach');go('coach')" style="margin-bottom:8px">💬 Danışmanınla konuş</button>
       <div class="sec-title">🛒 İhtiyaç sepetin</div>
       <div class="card">
         <div class="small" id="basket-sub" style="margin-bottom:12px"></div>
@@ -278,8 +278,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
         <div class="small" style="text-align:center;margin-top:10px">Eczane güvencesiyle · 14 gün iade hakkı</div>
       </div>
       <div class="sec-title">Premium</div>
-      <div class="premium"><span class="tag">PLUS ÜYELİK</span><h3>Koç + alışveriş ayrıcalıkları</h3>
-        <ul><li>Sınırsız günlük koçluk + hafıza</li><li><b>e-eczaci.com'da %10 indirim + ücretsiz kargo</b></li><li><b>2x Sağlık Puanı</b> (tier hızlı yükselir)</li><li>Kan testi yorumu + ileri seviye plan</li><li>Her ay sürpriz ürün hediyesi</li></ul>
+      <div class="premium"><span class="tag">PLUS ÜYELİK</span><h3>Danışman + alışveriş ayrıcalıkları</h3>
+        <ul><li>Sınırsız günlük danışmanlık + hafıza</li><li><b>e-eczaci.com'da %10 indirim + ücretsiz kargo</b></li><li><b>2x Sağlık Puanı</b> (tier hızlı yükselir)</li><li>Kan testi yorumu + ileri seviye plan</li><li>Her ay sürpriz ürün hediyesi</li></ul>
         <div style="background:rgba(184,134,47,.2);border:1px solid var(--gold);border-radius:11px;padding:10px 13px;font-size:13px;margin-bottom:14px">🎁 e-eczaci.com'dan alışverişe <b>1 ay hediye!</b></div>
         <div class="price"><b>₺99</b><span>/ay</span> <s>₺149</s></div>
         <button class="btn gold" onclick="openPay()">Plus'ı dene</button>
@@ -289,12 +289,12 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
 
   <!-- COACH CHAT -->
   <section class="screen" id="s-coach">
-    <div class="chead"><button class="back" onclick="setNav('dash');go('dash')" aria-label="Geri">‹</button><div class="av">🌿</div><div class="nm"><b>Sağlıklı Yaşam Koçu</b><span>çevrimiçi</span></div></div>
+    <div class="chead"><button class="back" onclick="setNav('dash');go('dash')" aria-label="Geri">‹</button><div class="av">🌿</div><div class="nm"><b>Sağlıklı Yaşam Danışmanı</b><span>çevrimiçi</span></div></div>
     <div class="chat" id="chat"></div>
     <div class="chips" id="chips"></div>
   </section>
   <div class="composer hidden" id="composer">
-    <input id="cinput" placeholder="Koçuna bir şey sor..." onkeydown="if(event.key==='Enter')sendMsg()">
+    <input id="cinput" placeholder="Danışmanına bir şey sor..." onkeydown="if(event.key==='Enter')sendMsg()">
     <button class="send" onclick="sendMsg()">↑</button>
   </div>
 
@@ -325,14 +325,14 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
 
   <div class="nav hidden" id="nav">
     <button data-t="dash" class="on" onclick="setNav('dash');go('dash')"><span class="ic">🏠</span>Bugün</button>
-    <button data-t="coach" onclick="setNav('coach');go('coach')"><span class="ic">💬</span>Koç</button>
+    <button data-t="coach" onclick="setNav('coach');go('coach')"><span class="ic">💬</span>Danışman</button>
     <button data-t="yol" onclick="setNav('yol');go('yolculuk');buildGami()"><span class="ic">🏆</span>Yolculuk</button>
     <button data-t="prof" onclick="restart()"><span class="ic">👤</span>Profil</button>
   </div>
 
   <div class="modal" id="pay"><div class="sheet">
     <span class="tag-g">PLUS</span>
-    <h3 style="margin-top:12px">Günlük koçluğun kilidini aç</h3>
+    <h3 style="margin-top:12px">Günlük danışmanlığın kilidini aç</h3>
     <p class="small" style="margin-bottom:8px">Sınırsız sohbet, her sabah sana özel plan, hatırlatmalar, ileri seviyeler ve kan testi yorumu.</p>
     <div class="price" style="color:var(--ink)"><b style="font-size:29px;font-weight:800">₺99</b><span class="small">/ay</span></div>
     <button class="btn gold" onclick="closePay()">7 gün ücretsiz dene</button>
@@ -359,7 +359,7 @@ const LEVELS=[
  {n:'Optimizasyon',ic:'⚙️',d:'İnce ayar & polifenoller',free:true},{n:'İleri',ic:'📈',d:'Ölçüm, sauna, soğuk maruziyet',free:false},
  {n:'Uzman',ic:'🧬',d:'Red light, ileri biyobelirteç, longevity stack',free:false},
 ];
-// Domain bazlı koçluk aksiyonları (seviye-duyarlı) + neden + ürün
+// Domain bazlı danışmanlık aksiyonları (seviye-duyarlı) + neden + ürün
 function actFor(dom,lv){
  const A={
   uyku:{cat:'Uyku',why:'Uyku; hücre onarımı, hormon dengesi ve longevity’nin temelidir.',p:['Magnezyum','magnezyum'],
@@ -406,7 +406,7 @@ const DOMPROD={
  sosyal:[],anlam:[],
  onleyici:[['D Vitamini','d-vitamini','☀️'],['B12 Vitamini','b12','💊']],
 };
-const UTM='&utm_source=saglik-kocu&utm_medium=app&utm_campaign=';
+const UTM='&utm_source=saglik-danismani&utm_medium=app&utm_campaign=';
 function ecz(slug,camp){return 'https://e-eczaci.com/search?s='+slug+UTM+(camp||'oneri');}
 
 let qi=0, ans={}, state={level:2,score:6,doms:{},weak:[],points:50}, plan=[];
@@ -470,7 +470,7 @@ function initCoach(){if(coachStarted)return;coachStarted=true;
   setChips(['Bugün ne yapmalıyım?','Neden sürekli yorgunum?',w1+' için öneri','Ürün öner']);}
 function pushCoach(html,prod){const c=document.getElementById('chat');
   const tp=document.createElement('div');tp.className='crow';tp.innerHTML='<div class="ca">🌿</div><div class="bub coach"><div class="typing"><i></i><i></i><i></i></div></div>';c.appendChild(tp);scrollChat();
-  setTimeout(()=>{let p='';if(prod)p='<a class="pc" target="_blank" href="'+ecz(prod[1],'koc-sohbet')+'"><span class="e">'+(prod[2]||'💊')+'</span><span><b>'+prod[0]+'</b><span>İncele →</span></span></a>';
+  setTimeout(()=>{let p='';if(prod)p='<a class="pc" target="_blank" href="'+ecz(prod[1],'danisman-sohbet')+'"><span class="e">'+(prod[2]||'💊')+'</span><span><b>'+prod[0]+'</b><span>İncele →</span></span></a>';
     tp.innerHTML='<div class="ca">🌿</div><div class="bub coach">'+html+p+'</div>';scrollChat();},650);}
 function pushMe(t){const c=document.getElementById('chat');const d=document.createElement('div');d.className='crow merow';d.innerHTML='<div class="bub me">'+t+'</div>';c.appendChild(d);scrollChat();}
 function scrollChat(){const c=document.getElementById('chat');setTimeout(()=>window.scrollTo(0,document.body.scrollHeight),60);}
@@ -514,11 +514,11 @@ const QUESTS=[
  {ic:'💎',t:'Plus aboneliğini başlat',r:'Usta seviye + özel ödüller',st:'lock'},
 ];
 const BADGES=[['🌱','İlk Adım',true],['🛒','İlk Alışveriş',false],['🔥','7 Gün Seri',false],['⭐','Yorumcu',false],['👥','Davetçi',false],['💎','Plus Üye',false]];
-const REWARDS=[['🚚','Ücretsiz kargo','500 puan = ₺5',500],['💬','1 ay Sağlıklı Yaşam Koçu Plus','1.000 puan = ₺10',1000],['🎟️','₺25 indirim kuponu','2.500 puan',2500],['🎁','₺50 + sürpriz ürün','5.000 puan',5000]];
+const REWARDS=[['🚚','Ücretsiz kargo','500 puan = ₺5',500],['💬','1 ay Sağlıklı Yaşam Danışmanı Plus','1.000 puan = ₺10',1000],['🎟️','₺25 indirim kuponu','2.500 puan',2500],['🎁','₺50 + sürpriz ürün','5.000 puan',5000]];
 const TIERS=[
  {n:'Gümüş',ic:'🥈',min:0,perk:'1x puan · üye fiyatları · doğum günü hediyesi'},
  {n:'Altın',ic:'🥇',min:200,perk:'1.5x puan · indirimli kargo · aylık örnek ürün'},
- {n:'Platin',ic:'💠',min:600,perk:'2x puan · ücretsiz kargo · %5 üye indirimi · 1 ay Koç Plus'},
+ {n:'Platin',ic:'💠',min:600,perk:'2x puan · ücretsiz kargo · %5 üye indirimi · 1 ay Danışman Plus'},
  {n:'Elmas',ic:'💎',min:1500,perk:'3x puan · sınırsız ücretsiz kargo · %10 indirim · ücretsiz Plus · erken erişim'},
 ];
 function buildGami(){const pts=state.points||50;document.getElementById('g-pts').textContent=pts;
