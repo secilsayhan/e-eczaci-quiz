@@ -295,8 +295,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
         <div class="rc-note"><div class="rc-k">✍️ Danışmanından not</div><p id="rc-note-body"></p>
           <div class="rc-sig"><b>Sağlıklı Yaşam Danışmanın</b><span>Sana özel hazırlandı</span></div></div>
         <div id="rc-items"></div>
-        <div class="rc-review"><span>🛡️</span><p><b>40 yılı aşkın deneyime sahip lisanslı eczacı tarafından incelendi.</b> Takviyeler ilaç değildir; bir rahatsızlığınız varsa hekiminize danışınız.</p></div>
-        <button class="btn" id="rc-order" onclick="orderProtocol()">🛒 Protokolü Sipariş Et →</button>
+        <div class="rc-review"><span>🛡️</span><p>Takviyeler ilaç değildir; bir rahatsızlığınız varsa hekiminize danışınız.</p></div>
+        <button class="btn" id="rc-order" onclick="orderProtocol()">Protokolü Sipariş Et →</button>
         <div class="small" style="text-align:center;margin-top:9px">Tüm ürünler e-eczaci.com sepetine eklenir · güvenli ödeme · 14 gün iade</div>
       </div>
       <div class="sec-title">Premium</div>
@@ -556,14 +556,14 @@ function route(x){
 /* ---------- GAMIFICATION ---------- */
 const QUESTS=[
  {ic:'📊',t:'Sağlık analizini tamamla',r:'+50 puan',st:'done'},
- {ic:'🛒',t:'İlk siparişini ver',r:'+100 puan · 1 ay Plus hediye',st:'active',cta:'Alışveriş'},
+ {ic:'📦',t:'İlk siparişini ver',r:'+100 puan · 1 ay Plus hediye',st:'active',cta:'Alışveriş'},
  {ic:'🔥',t:'7 gün görev serisi yakala',r:'+200 puan · Seri rozeti',st:'open'},
  {ic:'⭐',t:'İlk ürün yorumunu yaz',r:'+50 puan',st:'open'},
  {ic:'📱',t:'Bizi sosyal medyada takip et',r:'+30 puan',st:'active',cta:'Takip et'},
  {ic:'👥',t:'Bir arkadaşını davet et',r:'+150 puan (ikinize de)',st:'open'},
  {ic:'💎',t:'Plus aboneliğini başlat',r:'Usta seviye + özel ödüller',st:'lock'},
 ];
-const BADGES=[['🌱','İlk Adım',true],['🛒','İlk Alışveriş',false],['🔥','7 Gün Seri',false],['⭐','Yorumcu',false],['👥','Davetçi',false],['💎','Plus Üye',false]];
+const BADGES=[['🌱','İlk Adım',true],['📦','İlk Alışveriş',false],['🔥','7 Gün Seri',false],['⭐','Yorumcu',false],['👥','Davetçi',false],['💎','Plus Üye',false]];
 const REWARDS=[['🚚','Ücretsiz kargo','500 puan = ₺5',500],['💬','1 ay Sağlıklı Yaşam Danışmanı Plus','1.000 puan = ₺10',1000],['🎟️','₺25 indirim kuponu','2.500 puan',2500],['🎁','₺50 + sürpriz ürün','5.000 puan',5000]];
 const TIERS=[
  {n:'Gümüş',ic:'🥈',min:0,perk:'1x puan · üye fiyatları · doğum günü hediyesi'},
