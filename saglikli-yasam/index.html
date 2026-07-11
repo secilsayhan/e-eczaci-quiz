@@ -206,6 +206,26 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
 @keyframes up{from{transform:translateY(100%)}to{transform:none}}
 .sheet h3{font-size:21px;font-weight:800;margin-bottom:6px}
 .tag-g{display:inline-block;background:var(--gold);color:#fff;font-size:11px;font-weight:800;padding:5px 11px;border-radius:20px}
+/* Reçete / Protokol */
+.recete{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);box-shadow:var(--shadow-sm);padding:18px;margin-bottom:16px}
+.rc-note{background:var(--soft);border:1px solid var(--line);border-left:3px solid var(--accent);border-radius:0 14px 14px 0;padding:15px 16px;margin-bottom:16px}
+.rc-k{font-size:10.5px;font-weight:800;letter-spacing:.6px;text-transform:uppercase;color:var(--accent);margin-bottom:8px}
+.rc-note p{font-size:14.5px;line-height:1.6;color:#2a3a33}
+.rc-sig{margin-top:11px;font-size:11.5px;color:var(--muted)}
+.rc-sig b{color:var(--ink);display:block;font-size:12.5px;font-weight:700}
+.rc-item{display:flex;gap:12px;padding:0 0 14px}
+.rc-item:not(:last-child){border-bottom:1px dashed var(--line);margin-bottom:14px}
+.rc-num{width:26px;height:26px;flex:none;border-radius:8px;background:var(--accent-soft);color:var(--accent);font-size:13px;font-weight:800;display:flex;align-items:center;justify-content:center;margin-top:2px}
+.rc-thumb{width:48px;height:48px;flex:none;border-radius:11px;background:#fff;border:1px solid var(--line);object-fit:contain;padding:3px}
+.rc-info{flex:1;min-width:0}
+.rc-nm{font-size:14px;font-weight:700;line-height:1.25;letter-spacing:-.1px}
+.rc-why{font-size:12px;color:var(--muted);margin-top:3px;line-height:1.45}
+.rc-use{display:inline-flex;align-items:center;gap:6px;margin-top:8px;background:var(--soft);border:1px solid var(--line);border-radius:8px;padding:5px 10px;font-size:11px;font-weight:600;color:#3a4a43}
+.rc-use b{color:var(--accent);font-weight:700}
+.rc-review{display:flex;gap:9px;align-items:flex-start;margin:16px 0;padding:11px 12px;background:var(--soft);border-radius:11px}
+.rc-review span{font-size:14px;line-height:1.2;margin-top:1px}
+.rc-review p{font-size:10.5px;color:var(--muted);line-height:1.5}
+.rc-review b{color:#3a4a43;font-weight:700}
 </style>
 </head>
 <body>
@@ -270,12 +290,14 @@ body{font-family:var(--font);background:var(--bg);color:var(--ink);line-height:1
       <div class="card mission"><div class="mt">🎯 Bu haftanın misyonu</div><h4 id="mission-t"></h4><div class="small" id="mission-d"></div></div>
       <div class="card coach"><h3>📋 Bugünün planı</h3><div class="small" id="plan-sub" style="margin-bottom:8px"></div><div id="tasks"></div></div>
       <button class="btn ghost" onclick="setNav('coach');go('coach')" style="margin-bottom:8px">💬 Danışmanınla konuş</button>
-      <div class="sec-title">🛒 İhtiyaç sepetin</div>
-      <div class="card">
-        <div class="small" id="basket-sub" style="margin-bottom:12px"></div>
-        <div id="basket"></div>
-        <a class="btn" id="basket-all" target="_blank" href="https://e-eczaci.com" style="margin-top:14px">Tümünü e-eczaci.com'da incele →</a>
-        <div class="small" style="text-align:center;margin-top:10px">Eczane güvencesiyle · 14 gün iade hakkı</div>
+      <div class="sec-title">🩺 Protokolün</div>
+      <div class="recete">
+        <div class="rc-note"><div class="rc-k">✍️ Danışmanından not</div><p id="rc-note-body"></p>
+          <div class="rc-sig"><b>Sağlıklı Yaşam Danışmanın</b><span>Sana özel hazırlandı</span></div></div>
+        <div id="rc-items"></div>
+        <div class="rc-review"><span>🛡️</span><p><b>40 yılı aşkın deneyime sahip lisanslı eczacı tarafından incelendi.</b> Takviyeler ilaç değildir; bir rahatsızlığınız varsa hekiminize danışınız.</p></div>
+        <button class="btn" id="rc-order" onclick="orderProtocol()">🛒 Protokolü Sipariş Et →</button>
+        <div class="small" style="text-align:center;margin-top:9px">Tüm ürünler e-eczaci.com sepetine eklenir · güvenli ödeme · 14 gün iade</div>
       </div>
       <div class="sec-title">Premium</div>
       <div class="premium"><span class="tag">PLUS ÜYELİK</span><h3>Danışman + alışveriş ayrıcalıkları</h3>
@@ -451,14 +473,42 @@ function buildDash(){const L=LEVELS[state.level-1];
     tw.innerHTML+='<div class="task" id="tk'+i+'"><div class="check" onclick="toggle('+i+')"></div>'+
     '<div class="tx"><div class="cat">'+a.cat+'</div><div class="t">'+a.t+'</div><div class="why">'+a.why+'</div>'+pl+'</div></div>';});
   document.getElementById('d-done').textContent='0/'+plan.length;
-  // İhtiyaç sepeti — zayıf alanlar + temeller, ürün eşleşmesi
-  const need=[...state.weak,'beslenme','onleyici'];const seen={};const items=[];
-  need.forEach(d=>(DOMPROD[d]||[]).forEach(p=>{if(!seen[p[1]]){seen[p[1]]=1;items.push(p.concat([DOMS[d]]));}}));
-  document.getElementById('basket-sub').innerHTML='En çok <b>'+state.weak.map(k=>DOMS[k]).join('</b> ve <b>')+'</b> alanına göre, sana özel seçildi';
-  const bw=document.getElementById('basket');bw.innerHTML='';
-  items.slice(0,6).forEach(p=>bw.innerHTML+='<div class="bitem"><span class="be">'+p[2]+'</span><div class="bm"><b>'+p[0]+'</b><span>'+p[3]+' için</span></div><a class="badd" target="_blank" href="'+ecz(p[1],'ihtiyac-sepeti')+'">Sepete ekle</a></div>');
-  document.getElementById('basket-all').href=ecz(items[0]?items[0][1]:'vitamin','ihtiyac-sepeti');
+  renderRecete();
   document.getElementById('nav').classList.remove('hidden');}
+
+/* ---------- REÇETE / PROTOKOL + TOPLU SEPET ---------- */
+const RAILWAY='https://whatsapp-chatbot-production-9af2.up.railway.app';
+// protokol ürün anahtarı (actFor) → gerçek katalog kategorisi
+const CATMAP={'magnezyum':'Magnezyum','omega-3':'Omega 3','vitamin-d':'D Vitamini','d-vitamini':'D Vitamini','b12-vitamini':'B12 Vitamini','b12':'B12 Vitamini','kreatin':'Kreatin','demir':'Demir','multivitamin':'Multivitamin','ginkgo':'Ginkgo Biloba'};
+const USEBY={'magnezyum':'akşam, yemekle · 1 kapsül','omega-3':'sabah, yemekle · 1 kapsül','vitamin-d':'sabah, yemekle · 1 damla','d-vitamini':'sabah, yemekle · 1 damla','b12-vitamini':'sabah · 1 tablet','b12':'sabah · 1 tablet','kreatin':'günde 1 ölçek, suyla','demir':'aç karnına, C vitamini ile','multivitamin':'sabah, kahvaltıyla','ginkgo':'sabah · 1 kapsül'};
+let CATALOG=null, protoItems=[];
+function loadCatalog(){if(CATALOG)return Promise.resolve(CATALOG);
+  return fetch('../quiz_products.json').then(r=>r.json()).then(d=>{CATALOG=d.categories||{};return CATALOG;}).catch(()=>{CATALOG={};return CATALOG;});}
+function bestInCat(cat){const bad=/rehber|protokol|uzman|e-?eczac/i;
+  const lst=(CATALOG[cat]||[]).filter(p=>p.stock>0&&p.image&&p.brand&&!bad.test(p.name)&&!bad.test(p.slug)&&!bad.test(p.brand));
+  if(!lst.length)return null;lst.sort((a,b)=>b.stock-a.stock);return lst[0];}
+function renderRecete(){const w1=DOMS[state.weak[0]],w2=DOMS[state.weak[1]];
+  document.getElementById('rc-note-body').innerHTML='Son analizinde en çok <b>'+w1+'</b> ve <b>'+w2+'</b> alanı öne çıktı. Sana sade bir protokol hazırladım — önce temeli kuralım, adım adım birlikte takip edeceğiz.';
+  const wrap=document.getElementById('rc-items');wrap.innerHTML='<div class="small" style="padding:10px 0;color:var(--muted)">Protokolün hazırlanıyor…</div>';
+  loadCatalog().then(function(){const need=[...new Set([...state.weak,'beslenme','onleyici'])];protoItems=[];const seen={};
+    need.forEach(function(dom){const a=actFor(dom);if(!a||!a.p)return;const cat=CATMAP[a.p[1]];if(!cat)return;
+      const prod=bestInCat(cat);if(!prod||seen[prod.slug])return;seen[prod.slug]=1;
+      protoItems.push({prod:prod,why:a.why,use:USEBY[a.p[1]]||''});});
+    protoItems=protoItems.slice(0,4);
+    const btn=document.getElementById('rc-order');
+    if(!protoItems.length){wrap.innerHTML='<div class="small" style="padding:6px 0">Şu an uygun protokol ürünü bulunamadı. Danışmanınla konuşarak öneri alabilirsin.</div>';btn.style.display='none';return;}
+    btn.style.display='';
+    wrap.innerHTML=protoItems.map(function(it,i){return '<div class="rc-item"><div class="rc-num">'+(i+1)+'</div>'+
+      '<img class="rc-thumb" src="'+it.prod.image+'" alt="" loading="lazy">'+
+      '<div class="rc-info"><div class="rc-nm">'+it.prod.name+'</div><div class="rc-why">'+it.why+'</div>'+
+      (it.use?'<span class="rc-use">⏱ <b>'+it.use+'</b></span>':'')+'</div></div>';}).join('');});}
+function orderProtocol(){const btn=document.getElementById('rc-order');
+  if(!protoItems.length){window.open('https://e-eczaci.com','_blank');return;}
+  const items=protoItems.map(function(it){return {slug:it.prod.slug,name:it.prod.name};});
+  const label=btn.textContent;btn.textContent='Sepetin hazırlanıyor…';btn.disabled=true;
+  fetch(RAILWAY+'/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+    .then(function(r){return r.json();}).then(function(d){if(d&&d.url){window.open(d.url,'_blank');btn.textContent=label;btn.disabled=false;}else{throw 0;}})
+    .catch(function(){window.open('https://e-eczaci.com/search?s='+encodeURIComponent(protoItems[0].prod.name)+UTM+'protokol','_blank');btn.textContent=label;btn.disabled=false;});}
 function toggle(i){const el=document.getElementById('tk'+i);const c=el.querySelector('.check');c.classList.toggle('on');el.classList.toggle('done');c.textContent=c.classList.contains('on')?'✓':'';
   const done=document.querySelectorAll('.task.done').length;document.getElementById('d-done').textContent=done+'/'+plan.length;}
 
