@@ -86,19 +86,6 @@
         "stock": 1
       },
       {
-        "name": "Breathe Right Burun Bantları Büyük Boy 10 Adet",
-        "slug": "breathe-right-buyuk-burun-bantlari-10-adet",
-        "brand": "Breathe Right",
-        "price": 188.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd901556-b4a6-49c5-b496-9999a5d42ad9/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Çok Satanlar"
-        ],
-        "stock": 73
-      },
-      {
         "name": "Bruno Baby Nazal Burun Aspiratörü Manuel",
         "slug": "bruno-baby-nazal-burun-aspiratoru-manuel",
         "brand": "Bruno Baby",
@@ -2873,159 +2860,6 @@
         "stock": 2
       }
     ],
-    "Gargara": [
-      {
-        "name": "Aftamed Gargara Ağız İçi Yaraları İçin %025 150 ml",
-        "slug": "aftamed-gargara-agiz-ici-yaralari-icin-yuzde-025-150-ml",
-        "brand": "Aftamed",
-        "price": 666.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/62d96430-403f-4b04-9647-c64f9b3d7247/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Aft ve Ağız Yarası Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Cool Mint Hafif Tat Ağız Gargarası Ferahlatıcı 250 ml",
-        "slug": "listerine-cool-mint-hafif-tat-agiz-gargarasi-ferahlatici-250-ml",
-        "brand": "Listerine",
-        "price": 186.0,
-        "discount_price": 168.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5633848d-88f0-40a6-851b-c4bdceff9cad/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Cool Mint Hafif Tat Ferahlatıcı Ağız Suyu 500 ml",
-        "slug": "listerine-cool-mint-hafif-tat-ferahlatici-agiz-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 233.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/abcf4532-5b32-4e1f-8036-cfdb62f42840/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 250 ml",
-        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-250-ml",
-        "brand": "Listerine",
-        "price": 130.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/255e2669-9749-4e29-99e6-d782ead462e0/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 500 ml",
-        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 233.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b27cb0d5-4fd8-428f-bf2e-44f35315af94/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 250 ml",
-        "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-250-ml",
-        "brand": "Listerine",
-        "price": 140.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb89ac71-a608-48d7-80a2-af38ca170ea5/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 500 ml",
-        "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 245.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f35c0666-7a41-41f5-955f-1687a0e5f467/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Total Care Alkolsüz Ağız Bakım Suyu 500 ml",
-        "slug": "listerine-total-care-alkolsuz-agiz-bakim-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 267.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/09692f86-243a-490d-9dbe-35f5983f882d/image_1950.webp",
-        "cats": [
-          "Alkolsüz",
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Meridol Gargara 100 ml",
-        "slug": "meridol-gargara-100-ml",
-        "brand": "Meridol",
-        "price": 107.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c83a6872-5d56-4ff1-b7af-a159ecc2a824/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 2
-      }
-    ],
-    "Aft ve Ağız Yarası Bakımı": [
-      {
-        "name": "Aftamed Gargara Ağız İçi Yaraları İçin %025 150 ml",
-        "slug": "aftamed-gargara-agiz-ici-yaralari-icin-yuzde-025-150-ml",
-        "brand": "Aftamed",
-        "price": 666.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/62d96430-403f-4b04-9647-c64f9b3d7247/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Aft ve Ağız Yarası Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Aftamed Sprey Ağız İçi Yaraları İçin %03 20 ml",
-        "slug": "aftamed-sprey-agiz-ici-yaralari-icin-yuzde-03-20-ml",
-        "brand": "Aftamed",
-        "price": 606.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c950d77-4cc0-4f13-9ed0-5a227d2916f8/image_1950.webp",
-        "cats": [
-          "Aft ve Ağız Yarası Bakımı"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Aftoral Oral Sprey Karadutlu Bitkisel Takviye 20 ml",
-        "slug": "aftoral-oral-sprey-karadutlu-bitkisel-takviye-20-ml",
-        "brand": "",
-        "price": 290.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/47818d4b-0c25-4cdc-b6bf-968d6df242a1/image_1950.webp",
-        "cats": [
-          "Bitkisel",
-          "Oral Sprey",
-          "Aft ve Ağız Yarası Bakımı"
-        ],
-        "stock": 13
-      }
-    ],
     "Bitkisel": [
       {
         "name": "Aftoral Oral Sprey Karadutlu Bitkisel Takviye 20 ml",
@@ -3211,6 +3045,22 @@
           "Propolis"
         ],
         "stock": 1
+      }
+    ],
+    "Aft ve Ağız Yarası Bakımı": [
+      {
+        "name": "Aftoral Oral Sprey Karadutlu Bitkisel Takviye 20 ml",
+        "slug": "aftoral-oral-sprey-karadutlu-bitkisel-takviye-20-ml",
+        "brand": "",
+        "price": 290.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/47818d4b-0c25-4cdc-b6bf-968d6df242a1/image_1950.webp",
+        "cats": [
+          "Bitkisel",
+          "Oral Sprey",
+          "Aft ve Ağız Yarası Bakımı"
+        ],
+        "stock": 13
       }
     ],
     "Problem Paketleri": [
@@ -13948,19 +13798,6 @@
         "stock": 101
       },
       {
-        "name": "Breathe Right Burun Bantları Büyük Boy 10 Adet",
-        "slug": "breathe-right-buyuk-burun-bantlari-10-adet",
-        "brand": "Breathe Right",
-        "price": 188.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd901556-b4a6-49c5-b496-9999a5d42ad9/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Çok Satanlar"
-        ],
-        "stock": 73
-      },
-      {
         "name": "Ocean Extramag 90 TB %50 Daha Fazla",
         "slug": "ocean-extramag-90-tb-50-daha-fazla",
         "brand": "Orzax",
@@ -16209,7 +16046,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Capicade Güneş Kremi SPF50+ Yağlı Ciltler İçin 100 ml",
@@ -16924,7 +16761,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Capicade Güneş Kremi SPF50+ Yağlı Ciltler İçin 100 ml",
@@ -23200,7 +23037,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
@@ -23382,7 +23219,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "CeraVe Moisturising Cream 340 gr",
@@ -35026,45 +34863,6 @@
           "Ayak"
         ],
         "stock": 1
-      },
-      {
-        "name": "Luxor 194 Malleol Destekli Ayak Bilekliği Tek Boy",
-        "slug": "luxor-194-malleol-destekli-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 657.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aaf795cb-26a4-4f36-a9c5-d128bfa74eb8/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 195 Çapraz Bant Ayak Bilekliği Tek Boy",
-        "slug": "luxor-195-capraz-bant-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 557.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cc686045-b0ca-4608-b198-65da8bf054bf/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Luxor 196 Ligament Destekli Ayak Bilekliği Tek Boy",
-        "slug": "luxor-196-ligament-destekli-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 668.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f38bb24f-7705-471c-8df6-0f3c8e564df8/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 1
       }
     ],
     "Kolonya": [
@@ -40539,891 +40337,103 @@
         "stock": 1
       }
     ],
-    "Abdominal Korse": [
+    "Gargara": [
       {
-        "name": "Luxor 180 Dorsolomber Korse (tek Boy)",
-        "slug": "luxor-180-dorsolomber-korse",
-        "brand": "Luxor",
-        "price": 1217.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc0c04db-da4e-4557-8011-8aad6a2ced37/image_1950.webp",
+        "name": "Listerine Cool Mint Hafif Tat Ağız Gargarası Ferahlatıcı 250 ml",
+        "slug": "listerine-cool-mint-hafif-tat-agiz-gargarasi-ferahlatici-250-ml",
+        "brand": "Listerine",
+        "price": 186.0,
+        "discount_price": 168.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5633848d-88f0-40a6-851b-c4bdceff9cad/image_1950.webp",
         "cats": [
-          "Abdominal Korse",
-          "Duruş (Postür) Korse",
-          "Lumbosakral Korse",
-          "Ortopedi Ürünleri"
+          "Gargara"
         ],
         "stock": 1
       },
       {
-        "name": "Luxor 181 Posturex Korse (tek Boy)",
-        "slug": "luxor-181-posturex-korse",
-        "brand": "Luxor",
-        "price": 548.0,
+        "name": "Listerine Cool Mint Hafif Tat Ferahlatıcı Ağız Suyu 500 ml",
+        "slug": "listerine-cool-mint-hafif-tat-ferahlatici-agiz-suyu-500-ml",
+        "brand": "Listerine",
+        "price": 233.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d7a91f1-d949-4992-a864-91827d5ddfc2/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/abcf4532-5b32-4e1f-8036-cfdb62f42840/image_1950.webp",
         "cats": [
-          "Abdominal Korse",
-          "Duruş (Postür) Korse",
-          "Lumbosakral Korse",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      }
-    ],
-    "Duruş (Postür) Korse": [
-      {
-        "name": "Luxor 180 Dorsolomber Korse (tek Boy)",
-        "slug": "luxor-180-dorsolomber-korse",
-        "brand": "Luxor",
-        "price": 1217.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc0c04db-da4e-4557-8011-8aad6a2ced37/image_1950.webp",
-        "cats": [
-          "Abdominal Korse",
-          "Duruş (Postür) Korse",
-          "Lumbosakral Korse",
-          "Ortopedi Ürünleri"
+          "Gargara"
         ],
         "stock": 1
       },
       {
-        "name": "Luxor 181 Posturex Korse (tek Boy)",
-        "slug": "luxor-181-posturex-korse",
-        "brand": "Luxor",
-        "price": 548.0,
+        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 250 ml",
+        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-250-ml",
+        "brand": "Listerine",
+        "price": 130.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d7a91f1-d949-4992-a864-91827d5ddfc2/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/255e2669-9749-4e29-99e6-d782ead462e0/image_1950.webp",
         "cats": [
-          "Abdominal Korse",
-          "Duruş (Postür) Korse",
-          "Lumbosakral Korse",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      }
-    ],
-    "Lumbosakral Korse": [
-      {
-        "name": "Luxor 180 Dorsolomber Korse (tek Boy)",
-        "slug": "luxor-180-dorsolomber-korse",
-        "brand": "Luxor",
-        "price": 1217.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc0c04db-da4e-4557-8011-8aad6a2ced37/image_1950.webp",
-        "cats": [
-          "Abdominal Korse",
-          "Duruş (Postür) Korse",
-          "Lumbosakral Korse",
-          "Ortopedi Ürünleri"
+          "Gargara"
         ],
         "stock": 1
       },
       {
-        "name": "Luxor 181 Posturex Korse (tek Boy)",
-        "slug": "luxor-181-posturex-korse",
-        "brand": "Luxor",
-        "price": 548.0,
+        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 500 ml",
+        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-500-ml",
+        "brand": "Listerine",
+        "price": 233.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d7a91f1-d949-4992-a864-91827d5ddfc2/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b27cb0d5-4fd8-428f-bf2e-44f35315af94/image_1950.webp",
         "cats": [
-          "Abdominal Korse",
-          "Duruş (Postür) Korse",
-          "Lumbosakral Korse",
-          "Ortopedi Ürünleri"
+          "Gargara"
         ],
         "stock": 1
       },
       {
-        "name": "Luxor 188 Lumbosakral Korse Tek Boy",
-        "slug": "luxor-188-lumbosakral-korse-tek-boy",
-        "brand": "Luxor",
-        "price": 1058.0,
+        "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 250 ml",
+        "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-250-ml",
+        "brand": "Listerine",
+        "price": 140.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c0bfc9fb-6e8d-45c4-bf9a-6de3262e8457/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb89ac71-a608-48d7-80a2-af38ca170ea5/image_1950.webp",
         "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
+          "Gargara"
         ],
         "stock": 1
       },
       {
-        "name": "Luxor 304 Lumbosakral Korse L: 90-100 cm",
-        "slug": "luxor-304-lumbosakral-korse-l-90-100-cm",
-        "brand": "Luxor",
-        "price": 1049.0,
+        "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 500 ml",
+        "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-500-ml",
+        "brand": "Listerine",
+        "price": 245.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49fde255-6a0f-41b4-a72e-9aa7b4b7c2ab/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f35c0666-7a41-41f5-955f-1687a0e5f467/image_1950.webp",
         "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
+          "Gargara"
         ],
         "stock": 1
       },
       {
-        "name": "Luxor 304 Lumbosakral Korse M: 80-90 cm",
-        "slug": "luxor-304-lumbosakral-korse-m-80-90-cm",
-        "brand": "Luxor",
-        "price": 1049.0,
+        "name": "Listerine Total Care Alkolsüz Ağız Bakım Suyu 500 ml",
+        "slug": "listerine-total-care-alkolsuz-agiz-bakim-suyu-500-ml",
+        "brand": "Listerine",
+        "price": 267.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49fde255-6a0f-41b4-a72e-9aa7b4b7c2ab/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/09692f86-243a-490d-9dbe-35f5983f882d/image_1950.webp",
         "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
+          "Alkolsüz",
+          "Gargara"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Meridol Gargara 100 ml",
+        "slug": "meridol-gargara-100-ml",
+        "brand": "Meridol",
+        "price": 107.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c83a6872-5d56-4ff1-b7af-a159ecc2a824/image_1950.webp",
+        "cats": [
+          "Gargara"
         ],
         "stock": 2
-      },
-      {
-        "name": "Luxor 304 Lumbosakral Korse XL: 100-110 cm",
-        "slug": "luxor-304-lumbosakral-korse-xl-100-110-cm",
-        "brand": "Luxor",
-        "price": 1049.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49fde255-6a0f-41b4-a72e-9aa7b4b7c2ab/image_1950.webp",
-        "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 304 Lumbosakral Korse XXL: 110-120 cm",
-        "slug": "luxor-304-lumbosakral-korse-xxl-110-120-cm",
-        "brand": "Luxor",
-        "price": 1049.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49fde255-6a0f-41b4-a72e-9aa7b4b7c2ab/image_1950.webp",
-        "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
-        ],
-        "stock": 1
-      }
-    ],
-    "Ortopedi Ürünleri": [
-      {
-        "name": "Luxor 180 Dorsolomber Korse (tek Boy)",
-        "slug": "luxor-180-dorsolomber-korse",
-        "brand": "Luxor",
-        "price": 1217.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc0c04db-da4e-4557-8011-8aad6a2ced37/image_1950.webp",
-        "cats": [
-          "Abdominal Korse",
-          "Duruş (Postür) Korse",
-          "Lumbosakral Korse",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 181 Posturex Korse (tek Boy)",
-        "slug": "luxor-181-posturex-korse",
-        "brand": "Luxor",
-        "price": 548.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d7a91f1-d949-4992-a864-91827d5ddfc2/image_1950.webp",
-        "cats": [
-          "Abdominal Korse",
-          "Duruş (Postür) Korse",
-          "Lumbosakral Korse",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 197 Üst Baldırlık Tek Boy",
-        "slug": "luxor-197-ust-baldirlik-tek-boy",
-        "brand": "Luxor",
-        "price": 615.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/16d1cdfd-1289-47a7-83bc-b186490c59d2/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 406 Kol Askısı Fileli L 44-50",
-        "slug": "luxor-406-kol-askisi-fileli-l-44-50",
-        "brand": "Luxor",
-        "price": 450.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5e54d75-fde0-40af-9bb9-75e1934e03cf/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 606 Silikon Topukluk L 43-46",
-        "slug": "luxor-606-silikon-topukluk-l-43-46",
-        "brand": "Luxor",
-        "price": 560.0,
-        "discount_price": 504.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3066f2d1-4ce6-4003-8018-e372fafaafe6/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 606 Silikon Topukluk M 39-42",
-        "slug": "luxor-606-silikon-topukluk-m-39-42",
-        "brand": "Luxor",
-        "price": 390.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37e8360f-61cc-4f5b-8784-060fa3a39088/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 606 Silikon Topukluk S 35-38",
-        "slug": "luxor-606-silikon-topukluk-s-35-38",
-        "brand": "Luxor",
-        "price": 390.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37e8360f-61cc-4f5b-8784-060fa3a39088/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 619 Silikon Yapışkan Epin Topuk M 38-40",
-        "slug": "luxor-619-silikon-yapiskan-epin-topuk-m-38-40",
-        "brand": "Luxor",
-        "price": 400.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4760592-772b-408c-b5d3-5724eb13a94e/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 619 Silikon Yapışkan Epin Topuk S 35-37",
-        "slug": "luxor-619-silikon-yapiskan-epin-topuk-s-35-37",
-        "brand": "Luxor",
-        "price": 400.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4760592-772b-408c-b5d3-5724eb13a94e/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 622 Silikon Kamalı Metatarsal Ped",
-        "slug": "luxor-622-silikon-kamali-metatarsal-ped",
-        "brand": "Luxor",
-        "price": 347.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d18fe841-760e-4b77-891e-ef6b59c41971/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri",
-          "Metatarsal Ped"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 703 Sünger Boyunluk 1 S 34-36",
-        "slug": "luxor-703-sunger-boyunluk-1-s-34-36",
-        "brand": "Luxor",
-        "price": 281.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bf74bef9-6cec-4641-a3ae-1837061113b3/image_1950.webp",
-        "cats": [
-          "Sünger Boyunluk",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 703 Sünger Boyunluk 2 M 36-38",
-        "slug": "luxor-703-sunger-boyunluk-2-m-36-38",
-        "brand": "Luxor",
-        "price": 281.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bf74bef9-6cec-4641-a3ae-1837061113b3/image_1950.webp",
-        "cats": [
-          "Sünger Boyunluk",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 703 Sünger Boyunluk 3 L 38-40",
-        "slug": "luxor-703-sunger-boyunluk-3-l-38-40",
-        "brand": "Luxor",
-        "price": 281.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bf74bef9-6cec-4641-a3ae-1837061113b3/image_1950.webp",
-        "cats": [
-          "Sünger Boyunluk",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 903 Kanedyen",
-        "slug": "luxor-903-kanedyen",
-        "brand": "Luxor",
-        "price": 446.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c96391a8-c51a-4b24-94e1-648151804a6b/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 3
-      }
-    ],
-    "Korseler": [
-      {
-        "name": "Luxor 186 Karın Korsesi Tek Boy",
-        "slug": "luxor-186-karin-korsesi-tek-boy",
-        "brand": "Luxor",
-        "price": 485.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a12b5c4e-eae3-45c0-bc57-613ba54e0fad/image_1950.webp",
-        "cats": [
-          "Korseler"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Luxor 187 Lumbostad Korse Tek Boy",
-        "slug": "luxor-187-lumbostad-korse-tek-boy",
-        "brand": "Luxor",
-        "price": 890.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b488af98-eaf1-469f-83e6-f837c73a0a21/image_1950.webp",
-        "cats": [
-          "Lumbostad",
-          "Korseler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 188 Lumbosakral Korse Tek Boy",
-        "slug": "luxor-188-lumbosakral-korse-tek-boy",
-        "brand": "Luxor",
-        "price": 1058.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c0bfc9fb-6e8d-45c4-bf9a-6de3262e8457/image_1950.webp",
-        "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 304 Lumbosakral Korse L: 90-100 cm",
-        "slug": "luxor-304-lumbosakral-korse-l-90-100-cm",
-        "brand": "Luxor",
-        "price": 1049.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49fde255-6a0f-41b4-a72e-9aa7b4b7c2ab/image_1950.webp",
-        "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 304 Lumbosakral Korse M: 80-90 cm",
-        "slug": "luxor-304-lumbosakral-korse-m-80-90-cm",
-        "brand": "Luxor",
-        "price": 1049.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49fde255-6a0f-41b4-a72e-9aa7b4b7c2ab/image_1950.webp",
-        "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Luxor 304 Lumbosakral Korse XL: 100-110 cm",
-        "slug": "luxor-304-lumbosakral-korse-xl-100-110-cm",
-        "brand": "Luxor",
-        "price": 1049.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49fde255-6a0f-41b4-a72e-9aa7b4b7c2ab/image_1950.webp",
-        "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 304 Lumbosakral Korse XXL: 110-120 cm",
-        "slug": "luxor-304-lumbosakral-korse-xxl-110-120-cm",
-        "brand": "Luxor",
-        "price": 1049.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49fde255-6a0f-41b4-a72e-9aa7b4b7c2ab/image_1950.webp",
-        "cats": [
-          "Korseler",
-          "Lumbosakral Korse"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 307 Göğüs Korsesi Askılı Tek Boy",
-        "slug": "luxor-307-gogus-korsesi-askili-tek-boy",
-        "brand": "Luxor",
-        "price": 765.0,
-        "discount_price": 689.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6f68870-95b5-4854-bc8b-ef4b0caa2c35/image_1950.webp",
-        "cats": [
-          "Korseler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 309 Yün Korse No:2 M: 80-90 cm",
-        "slug": "luxor-309-yun-korse-no-2-m-80-90-cm",
-        "brand": "Luxor",
-        "price": 318.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41192b22-2850-41a1-b328-80a917119747/image_1950.webp",
-        "cats": [
-          "Korseler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 309 Yün Korse No:3 l: 90-100 cm",
-        "slug": "luxor-309-yun-korse-no-3-l-90-100-cm",
-        "brand": "Luxor",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41192b22-2850-41a1-b328-80a917119747/image_1950.webp",
-        "cats": [
-          "Korseler"
-        ],
-        "stock": 1
-      }
-    ],
-    "Lumbostad": [
-      {
-        "name": "Luxor 187 Lumbostad Korse Tek Boy",
-        "slug": "luxor-187-lumbostad-korse-tek-boy",
-        "brand": "Luxor",
-        "price": 890.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b488af98-eaf1-469f-83e6-f837c73a0a21/image_1950.webp",
-        "cats": [
-          "Lumbostad",
-          "Korseler"
-        ],
-        "stock": 1
-      }
-    ],
-    "Ayak Bilekliği": [
-      {
-        "name": "Luxor 194 Malleol Destekli Ayak Bilekliği Tek Boy",
-        "slug": "luxor-194-malleol-destekli-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 657.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aaf795cb-26a4-4f36-a9c5-d128bfa74eb8/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 195 Çapraz Bant Ayak Bilekliği Tek Boy",
-        "slug": "luxor-195-capraz-bant-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 557.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cc686045-b0ca-4608-b198-65da8bf054bf/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Luxor 196 Ligament Destekli Ayak Bilekliği Tek Boy",
-        "slug": "luxor-196-ligament-destekli-ayak-bilekligi-tek-boy",
-        "brand": "Luxor",
-        "price": 668.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f38bb24f-7705-471c-8df6-0f3c8e564df8/image_1950.webp",
-        "cats": [
-          "Ayak Bilekliği",
-          "Ayak"
-        ],
-        "stock": 1
-      }
-    ],
-    "Dizlikler": [
-      {
-        "name": "Luxor 200 Pat.lig.dest.dizlik (tek Boy)",
-        "slug": "luxor-200-patligdestdizlik",
-        "brand": "Luxor",
-        "price": 780.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bf23fc62-a3cf-4469-b851-ac2f9958143f/image_1950.webp",
-        "cats": [
-          "Dizlikler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Luxor 221 Yün Dizlik No:1 XL:41-44 cm",
-        "slug": "luxor-221-yun-dizlik-no-1-xl-41-44-cm",
-        "brand": "Luxor",
-        "price": 224.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbf5a709-56ba-4e27-90d4-cb3c6afa5429/image_1950.webp",
-        "cats": [
-          "Dizlikler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Luxor 221 Yün Dizlik No:1 XXL:44-47 cm",
-        "slug": "luxor-221-yun-dizlik-no-1-xxl-44-47-cm",
-        "brand": "Luxor",
-        "price": 190.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0604b9b0-33c7-411a-8269-abc8adbf17fe/image_1950.webp",
-        "cats": [
-          "Dizlikler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Luxor 221 Yün Dizlik No:1 l:38-41 cm",
-        "slug": "luxor-221-yun-dizlik-no-1-l-38-41-cm",
-        "brand": "Luxor",
-        "price": 209.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72a3dc40-ec34-4054-a08d-7d04061b5b24/image_1950.webp",
-        "cats": [
-          "Dizlikler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mymed Ersa 200 Elastik Dizlik (Tek)",
-        "slug": "mymed-ersa-200-elastik-dizlik-tek",
-        "brand": "Mymed",
-        "price": 650.0,
-        "discount_price": 585.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/58e61cbe-b83d-44b2-9730-afb5c2c9fd8f/image_1950.webp",
-        "cats": [
-          "Dizlikler"
-        ],
-        "stock": 1
-      }
-    ],
-    "Kol Askıları": [
-      {
-        "name": "Luxor 406 Kol Askısı Fileli M: 38-44 cm",
-        "slug": "luxor-406-kol-askisi-fileli-m-38-44-cm",
-        "brand": "Luxor",
-        "price": 450.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77263ff5-0e99-4e4f-bcf8-f58ab9c88bed/image_1950.webp",
-        "cats": [
-          "Kol Askıları"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 406 Kol Askısı Fileli XL: 50-58 cm",
-        "slug": "luxor-406-kol-askisi-fileli-xl-50-58-cm",
-        "brand": "Luxor",
-        "price": 450.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77263ff5-0e99-4e4f-bcf8-f58ab9c88bed/image_1950.webp",
-        "cats": [
-          "Kol Askıları"
-        ],
-        "stock": 1
-      }
-    ],
-    "Parmak Ateli": [
-      {
-        "name": "Luxor 522 Kurbağa Parmak Splinti No:1",
-        "slug": "luxor-522-kurbaga-parmak-splinti-no-1",
-        "brand": "Luxor",
-        "price": 209.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cd67e4d0-308e-4f66-a5c2-f0afbb061a79/image_1950.webp",
-        "cats": [
-          "Parmak Ateli"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 522 Kurbağa Parmak Splinti No:2",
-        "slug": "luxor-522-kurbaga-parmak-splinti-no-2",
-        "brand": "Luxor",
-        "price": 239.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cd67e4d0-308e-4f66-a5c2-f0afbb061a79/image_1950.webp",
-        "cats": [
-          "Parmak Ateli"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 522 Kurbağa Parmak Splinti No:3",
-        "slug": "luxor-522-kurbaga-parmak-splinti-no-3",
-        "brand": "Luxor",
-        "price": 200.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cd67e4d0-308e-4f66-a5c2-f0afbb061a79/image_1950.webp",
-        "cats": [
-          "Parmak Ateli"
-        ],
-        "stock": 1
-      }
-    ],
-    "Tabanlıklar": [
-      {
-        "name": "Luxor 603 Silikon Tabanlık XL: 43-44 Numara",
-        "slug": "luxor-603-silikon-tabanlik-xl-43-44-numara",
-        "brand": "Luxor",
-        "price": 576.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ede57e86-424c-4cfb-a155-4cea27df9258/image_1950.webp",
-        "cats": [
-          "Tabanlıklar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 603 Silikon Tabanlık XXL: 45-46 Numara",
-        "slug": "luxor-603-silikon-tabanlik-xxl-45-46-numara",
-        "brand": "Luxor",
-        "price": 576.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ede57e86-424c-4cfb-a155-4cea27df9258/image_1950.webp",
-        "cats": [
-          "Tabanlıklar"
-        ],
-        "stock": 1
-      }
-    ],
-    "Topukluklar": [
-      {
-        "name": "Luxor 619 Silikon Topukluk Epin Topuk L: 41-43 Numara",
-        "slug": "luxor-619-silikon-topukluk-epin-topuk-l-41-43-numara",
-        "brand": "Luxor",
-        "price": 400.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15898954-e49b-479a-aff3-47d649baded2/image_1950.webp",
-        "cats": [
-          "Topukluklar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 619 Silikon Topukluk Epin Topuk XL: 44-46 Numara",
-        "slug": "luxor-619-silikon-topukluk-epin-topuk-xl-44-46-numara",
-        "brand": "Luxor",
-        "price": 400.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15898954-e49b-479a-aff3-47d649baded2/image_1950.webp",
-        "cats": [
-          "Topukluklar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Minion Silikon Topuk Koruyucu (Tek)",
-        "slug": "minion-silikon-topuk-koruyucu-tek",
-        "brand": "Minion",
-        "price": 110.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/816760fe-504f-4732-b5ca-b272eee211e6/image_1950.webp",
-        "cats": [
-          "Topukluklar"
-        ],
-        "stock": 1
-      }
-    ],
-    "Metatarsal Ped": [
-      {
-        "name": "Luxor 622 Silikon Kamalı Metatarsal Ped",
-        "slug": "luxor-622-silikon-kamali-metatarsal-ped",
-        "brand": "Luxor",
-        "price": 347.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d18fe841-760e-4b77-891e-ef6b59c41971/image_1950.webp",
-        "cats": [
-          "Ortopedi Ürünleri",
-          "Metatarsal Ped"
-        ],
-        "stock": 1
-      }
-    ],
-    "Sünger Boyunluk": [
-      {
-        "name": "Luxor 703 Sünger Boyunluk 1 S 34-36",
-        "slug": "luxor-703-sunger-boyunluk-1-s-34-36",
-        "brand": "Luxor",
-        "price": 281.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bf74bef9-6cec-4641-a3ae-1837061113b3/image_1950.webp",
-        "cats": [
-          "Sünger Boyunluk",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 703 Sünger Boyunluk 2 M 36-38",
-        "slug": "luxor-703-sunger-boyunluk-2-m-36-38",
-        "brand": "Luxor",
-        "price": 281.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bf74bef9-6cec-4641-a3ae-1837061113b3/image_1950.webp",
-        "cats": [
-          "Sünger Boyunluk",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor 703 Sünger Boyunluk 3 L 38-40",
-        "slug": "luxor-703-sunger-boyunluk-3-l-38-40",
-        "brand": "Luxor",
-        "price": 281.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bf74bef9-6cec-4641-a3ae-1837061113b3/image_1950.webp",
-        "cats": [
-          "Sünger Boyunluk",
-          "Ortopedi Ürünleri"
-        ],
-        "stock": 1
-      }
-    ],
-    "Nelson Boyunluk": [
-      {
-        "name": "Luxor 704 Nelson Boyunluk No:4: 40-42 cm",
-        "slug": "luxor-704-nelson-boyunluk-no-4-40-42-cm",
-        "brand": "Luxor",
-        "price": 291.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/157e5e8a-d51b-47be-82b2-71fac26f0577/image_1950.webp",
-        "cats": [
-          "Nelson Boyunluk",
-          "Boyunluklar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mymed Ers 110K Nelson Boyunluk Kılıflı (Orta Boy)",
-        "slug": "mymed-ers-110k-nelson-boyunluk-kilifli-orta-boy",
-        "brand": "Mymed",
-        "price": 650.0,
-        "discount_price": 585.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7aeb8946-1a08-4284-a5a1-5cad274934d4/image_1950.webp",
-        "cats": [
-          "Nelson Boyunluk"
-        ],
-        "stock": 2
-      }
-    ],
-    "Boyunluklar": [
-      {
-        "name": "Luxor 704 Nelson Boyunluk No:4: 40-42 cm",
-        "slug": "luxor-704-nelson-boyunluk-no-4-40-42-cm",
-        "brand": "Luxor",
-        "price": 291.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/157e5e8a-d51b-47be-82b2-71fac26f0577/image_1950.webp",
-        "cats": [
-          "Nelson Boyunluk",
-          "Boyunluklar"
-        ],
-        "stock": 1
-      }
-    ],
-    "Anti-embolizm": [
-      {
-        "name": "Luxor Antiembolizm Dizüstü Varis Çorabı No:2",
-        "slug": "luxor-antiembolizm-dizustu-varis-corabi-no-2",
-        "brand": "Luxor",
-        "price": 521.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f39b161-f1ea-43ed-9f11-e79e9b2a2272/image_1950.webp",
-        "cats": [
-          "Anti-embolizm"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor Antiembolizm Dizüstü Varis Çorabı No:3",
-        "slug": "luxor-antiembolizm-dizustu-varis-corabi-no-3",
-        "brand": "Luxor",
-        "price": 521.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f39b161-f1ea-43ed-9f11-e79e9b2a2272/image_1950.webp",
-        "cats": [
-          "Anti-embolizm"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor Antiembolizm Dizüstü Varis Çorabı No:4",
-        "slug": "luxor-antiembolizm-dizustu-varis-corabi-no-4",
-        "brand": "Luxor",
-        "price": 521.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f39b161-f1ea-43ed-9f11-e79e9b2a2272/image_1950.webp",
-        "cats": [
-          "Anti-embolizm"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor Antiembolizm Dizüstü Varis Çorabı No:5",
-        "slug": "luxor-antiembolizm-dizustu-varis-corabi-no-5",
-        "brand": "Luxor",
-        "price": 521.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f39b161-f1ea-43ed-9f11-e79e9b2a2272/image_1950.webp",
-        "cats": [
-          "Anti-embolizm"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor Antiembolizm Dizüstü Varis Çorabı No:6",
-        "slug": "luxor-antiembolizm-dizustu-varis-corabi-no-6",
-        "brand": "Luxor",
-        "price": 597.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f39b161-f1ea-43ed-9f11-e79e9b2a2272/image_1950.webp",
-        "cats": [
-          "Anti-embolizm"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Luxor Antiembolizm Dizüstü Varis Çorabı No:7",
-        "slug": "luxor-antiembolizm-dizustu-varis-corabi-no-7",
-        "brand": "Luxor",
-        "price": 597.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f39b161-f1ea-43ed-9f11-e79e9b2a2272/image_1950.webp",
-        "cats": [
-          "Anti-embolizm"
-        ],
-        "stock": 1
       }
     ],
     "Stres ve Uyku": [
@@ -41816,6 +40826,20 @@
         "stock": 1
       }
     ],
+    "Topukluklar": [
+      {
+        "name": "Minion Silikon Topuk Koruyucu (Tek)",
+        "slug": "minion-silikon-topuk-koruyucu-tek",
+        "brand": "Minion",
+        "price": 110.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/816760fe-504f-4732-b5ca-b272eee211e6/image_1950.webp",
+        "cats": [
+          "Topukluklar"
+        ],
+        "stock": 1
+      }
+    ],
     "Sünnet Külodu": [
       {
         "name": "Minion Sünnet Külodu (Büyük Boy, 36-50 kg)",
@@ -42121,6 +41145,34 @@
         "cats": [
           "Bakım Kremi",
           "Atopik Cilt Bakımı"
+        ],
+        "stock": 1
+      }
+    ],
+    "Nelson Boyunluk": [
+      {
+        "name": "Mymed Ers 110K Nelson Boyunluk Kılıflı (Orta Boy)",
+        "slug": "mymed-ers-110k-nelson-boyunluk-kilifli-orta-boy",
+        "brand": "Mymed",
+        "price": 650.0,
+        "discount_price": 585.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7aeb8946-1a08-4284-a5a1-5cad274934d4/image_1950.webp",
+        "cats": [
+          "Nelson Boyunluk"
+        ],
+        "stock": 2
+      }
+    ],
+    "Dizlikler": [
+      {
+        "name": "Mymed Ersa 200 Elastik Dizlik (Tek)",
+        "slug": "mymed-ersa-200-elastik-dizlik-tek",
+        "brand": "Mymed",
+        "price": 650.0,
+        "discount_price": 585.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/58e61cbe-b83d-44b2-9730-afb5c2c9fd8f/image_1950.webp",
+        "cats": [
+          "Dizlikler"
         ],
         "stock": 1
       }
@@ -46790,9 +45842,9 @@
     ]
   },
   "stats": {
-    "total_products": 3174,
-    "total_categories": 582,
-    "generated": "2026-07-11 15:00",
+    "total_products": 3102,
+    "total_categories": 568,
+    "generated": "2026-07-11 19:00",
     "source": "ikas_api_live"
   }
 }

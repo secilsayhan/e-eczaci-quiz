@@ -325,9 +325,59 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- INTRO -->
     <div class="step active" id="stepIntro">
       <div class="intro">
-        <div class="intro-badge">&#9733; Ücretsiz Analiz</div>
-        <h1>Kişiye <span>Özel</span> Plan</h1>
-        <p class="intro-desc">Birkaç kısa soruya yanıt verin, size en uygun ürünleri seçelim.</p>
+        <style>
+          #aiHeroWrap{margin:0 0 6px}
+          .ai-badge{display:inline-block;background:linear-gradient(135deg,#eafaf1,#dcf5e8);color:#0d6b45;font-size:12px;font-weight:800;padding:6px 14px;border-radius:20px;letter-spacing:.3px;margin-bottom:14px}
+          .ai-title{font-size:26px;line-height:1.22;font-weight:800;color:#12261d;margin:0 0 8px}
+          .ai-title b{color:#16a34a}
+          .ai-sub{font-size:14.5px;color:#6b7280;line-height:1.55;margin:0 auto 18px;max-width:440px}
+          .ai-box{display:flex;gap:8px;align-items:flex-end;max-width:520px;margin:0 auto;background:#fff;border:1.5px solid #e7ece9;border-radius:18px;padding:8px;box-shadow:0 8px 30px rgba(13,107,69,.08)}
+          .ai-box textarea{flex:1 1 auto;resize:none;border:0;outline:none;font:inherit;font-size:15px;padding:10px 12px;background:transparent;line-height:1.4;max-height:110px;color:#12261d}
+          .ai-box button{flex:0 0 auto;border:0;border-radius:13px;background:linear-gradient(135deg,#16a34a,#0d6b45);color:#fff;font-weight:800;font-size:14px;padding:12px 18px;cursor:pointer;box-shadow:0 4px 14px rgba(13,107,69,.26)}
+          .ai-box button:active{transform:scale(.97)}
+          .ai-chips{display:flex;flex-wrap:wrap;gap:7px;justify-content:center;margin:14px auto 0;max-width:520px}
+          .ai-chips button{background:#fff;border:1px solid #e7ece9;border-radius:20px;padding:7px 14px;font-size:13px;color:#0d6b45;font-weight:600;cursor:pointer;transition:all .16s}
+          .ai-chips button:hover{background:#16a34a;color:#fff;border-color:#16a34a}
+          .ai-or{position:relative;text-align:center;margin:26px auto 20px;max-width:420px}
+          .ai-or:before{content:"";position:absolute;top:50%;left:0;right:0;height:1px;background:#e7ece9}
+          .ai-or span{position:relative;background:#fff;padding:0 14px;color:#9aa5a0;font-size:12.5px;font-weight:600}
+          .ai-back{background:#fff;border:1px solid #e7ece9;border-radius:12px;padding:8px 14px;font-size:13px;font-weight:700;color:#0d6b45;cursor:pointer;margin-bottom:10px}
+          @media(max-width:480px){.ai-title{font-size:22px}.ai-box{flex-direction:column;align-items:stretch}.ai-box button{width:100%}}
+        </style>
+        <div id="aiHeroWrap">
+          <span class="ai-badge">Uzman Rehberliğinde &middot; Saniyeler içinde</span>
+          <div class="ai-title">İhtiyacınızı anlatın, <b>size özel</b> planı hazırlayalım</div>
+          <div class="ai-sub">Kendi cümlelerinizle yazın — örneğin “Geceleri uyuyamıyorum”, “Saçlarım dökülüyor” ya da “Bebeğim için vitamin arıyorum”. Uzman rehberimiz size en uygun ürünleri seçsin.</div>
+          <div class="ai-box">
+            <textarea id="aiInput" rows="2" maxlength="600" placeholder="Örn: Uykum düzensiz ve gün içi yorgunum..." aria-label="İhtiyacınızı yazın"></textarea>
+            <button type="button" onclick="startAI()">Analiz Et</button>
+          </div>
+          <div class="ai-chips">
+            <button type="button" onclick="aiChip('Uykum düzensiz ve gün içi yorgunum')">Uykum düzensiz</button>
+            <button type="button" onclick="aiChip('Sürekli yorgun ve halsiz hissediyorum')">Sürekli yorgunum</button>
+            <button type="button" onclick="aiChip('Cildim yağlı ve sivilcelerim var')">Cildim yağlı ve akneli</button>
+            <button type="button" onclick="aiChip('Saçlarım dökülüyor ve inceliyor')">Saçlarım dökülüyor</button>
+            <button type="button" onclick="aiChip('Bağışıklığım zayıf sık hastalanıyorum')">Bağışıklığım zayıf</button>
+            <button type="button" onclick="aiChip('Kilo vermek ve metabolizmamı desteklemek istiyorum')">Kilo vermek istiyorum</button>
+            <button type="button" onclick="aiChip('Sindirim sorunum var şişkinlik yapıyor')">Sindirim sorunum var</button>
+            <button type="button" onclick="aiChip('Bebeğim için vitamin ve bakım')">Bebeğim için vitamin</button>
+          </div>
+        </div>
+        <div id="aiFrameWrap" style="display:none">
+          <button type="button" class="ai-back" onclick="closeAI()">&#8592; Geri</button>
+          <iframe id="aiFrame" title="e-Eczacı Analiz Asistanı" style="width:100%;height:70vh;min-height:520px;border:0;border-radius:16px;background:#f6f8f7"></iframe>
+        </div>
+        <div class="ai-or"><span>ya da adım adım ilerleyin</span></div>
+        <script>
+          var AIORIGIN='https://whatsapp-chatbot-production-9af2.up.railway.app';
+          function startAI(){var v=(document.getElementById('aiInput').value||'').trim();if(!v){document.getElementById('aiInput').focus();return;}document.getElementById('aiFrame').src=AIORIGIN+'/analiz/chat?q='+encodeURIComponent(v);document.getElementById('aiHeroWrap').style.display='none';document.querySelector('.ai-or').style.display='none';document.getElementById('aiFrameWrap').style.display='block';try{window.scrollTo({top:0,behavior:'smooth'});}catch(e){}}
+          function aiChip(t){document.getElementById('aiInput').value=t;startAI();}
+          function closeAI(){document.getElementById('aiFrameWrap').style.display='none';document.getElementById('aiHeroWrap').style.display='block';document.querySelector('.ai-or').style.display='';document.getElementById('aiFrame').src='';}
+          window.addEventListener('message',function(ev){if(ev.origin!==AIORIGIN){return;}var d=ev.data;if(d&&typeof d==='object'&&d.type==='eeczaci:cart'&&d.url){try{window.top.location.href=d.url;}catch(e){location.href=d.url;}}});
+        </script>
+        <div class="intro-badge">&#9733; Ücretsiz &middot; Uzman Rehberliğinde</div>
+        <h1>Size <span>Özel</span> Ürün Analizi</h1>
+        <p class="intro-desc">İhtiyacınızı anlatın; uzman rehberliğinde, size en uygun ürünleri saniyeler içinde birlikte belirleyelim.</p>
         <div class="intro-features">
           <div class="intro-feat">
             <div class="feat-icon">&#127919;</div>
@@ -461,7 +511,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <!-- STEP 6: İsim & Email -->
     <div class="step" id="step6">
       <div class="email-section">
-        <div class="email-icon">&#10024;</div>
+        <div class="email-icon">&#127919;</div>
         <div class="email-title" id="emailTitle">Son adım</div>
         <div class="email-desc">Planınızı kişiselleştirmek ve göndermek için isim ve e-posta adresinizi girin.</div>
         <div class="email-field">
@@ -939,17 +989,29 @@ function submitFinal(){
   }
   state.email=emailVal;
   trackEvent('quiz_submit',{name:true,email_provided:true});
+  // NOT: /api/analiz/submit fetch'i showResults() içinde, renderProducts() ÖNERİLERİ
+  // hesapladıktan SONRA gönderilir (aksi halde recommended_slugs boş gider → bildirimde 0 ürün).
+  showLoading();
+}
+
+// Öneriler render edildikten SONRA çağrılır — payload'da gerçek önerilen ürünler olur.
+function sendAnalizSubmit(){
+  if(window._analizSubmitted) return; window._analizSubmitted=true;
+  var recSlugs=(window._quizRecommendedSlugs||[]);
+  var plan=window._quizPlan||{};
   fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/submit',{method:'POST',headers:{'Content-Type':'application/json'},
     body:JSON.stringify({
       email:state.email,name:state.name,segment:state.who,
       needs:state.needs,details:state.details,lifestyle:state.lifestyle,
       form:state.form,brands:state.brands,budget:state.budget,
       current_products:state.currentProducts,note:state.note,blood_cats:state.bloodCats,
-      product_count:(window._quizProducts||[]).length,
-      recommended_slugs:window._quizRecommendedSlugs||[],
+      source:'analiz_page',
+      product_count:recSlugs.length,
+      recommended_slugs:recSlugs,
+      recommended_products:(window._quizProducts||[]).map(function(p){return {slug:p.slug,name:p.name,category:p._fromCat||p.category||'',price:p.discount_price||p.price||0};}),
+      plan_tier:plan.tier||'',plan_total:plan.total||0,plan_kur:!!plan.kur,
     })
-  }).catch(()=>{});
-  showLoading();
+  }).catch(function(){});
 }
 
 function goTo(n){
@@ -1141,6 +1203,7 @@ function showResults(){
   document.getElementById('progressStep').textContent='Tamamlandı';
   document.getElementById('progressCount').textContent='';
   renderProducts();
+  sendAnalizSubmit();   // öneriler hesaplandıktan SONRA — bildirime doğru ürün sayısı gider
   // iframe/embed senaryosunda sonucun başına dön (iKAS /pages/analiz)
   try{window.scrollTo({top:0,behavior:'auto'});}catch(e){}
   try{if(window.parent&&window.parent!==window){window.parent.postMessage({type:'eeczaci:scrollTop'},'*');}}catch(e){}
@@ -1227,6 +1290,13 @@ const detailBias = {
   kadin_pms:['Kadın Sağlığı','Magnezyum'],
   kadin_hormonal:['Kadın Sağlığı','Folik Asit (B9 Vitamini)']
 };
+
+// Türkiye'de en bilinen/güvenilen markalar (prominence sırası — en tanınmış önce).
+// Aynı içerikte (ör. iki magnezyum) kullanıcı marka seçmemişse tercih sırasını belirler.
+// Katalogdaki gerçek markalardan seçildi (uydurma yok).
+const TRUSTED_BRANDS=['solgar','la roche-posay','bioderma','vichy','orzax','nutraxin','bepanthol',
+  'mustela','sebamed','bioxcin','abdi ibrahim','venatura','new life','easyvit','avent',
+  'oral-b','listerine','rocs','tepe','strepsils','imuneks','imunol'];
 
 function applyDetailBias(need, cats){
   const d=(state.details||{})[need];
@@ -1326,11 +1396,15 @@ function renderProducts(){
     const supOnly=cands.filter(p=>p._sup);
     if(supOnly.length) cands=supOnly;
     const _sbk=x=>{const s=x.stock||0;return s>=10?2:(s>=4?1:0);};
+    // Türkiye'de en bilinen/tercih edilen markalar — aynı içerikte (ör. iki magnezyum)
+    // kullanıcı marka seçmediyse güvenilir/tanınmış markayı öne al (kullanıcı geri bildirimi).
+    const _tb=(x)=>{const b=(x.brand||'').toLowerCase();for(let i=0;i<TRUSTED_BRANDS.length;i++){if(b.includes(TRUSTED_BRANDS[i]))return TRUSTED_BRANDS.length-i;}return 0;};
     cands.sort((a,b)=>{
       if(b._nm!==a._nm)return b._nm-a._nm;
       if(b._brand!==a._brand)return b._brand-a._brand;
       if(b._sup!==a._sup)return b._sup-a._sup;
       if(_sbk(b)!==_sbk(a))return _sbk(b)-_sbk(a); // aynı alakada: stoğu bol olan önce (OOS riski az)
+      if(_tb(b)!==_tb(a))return _tb(b)-_tb(a);      // aynı alakada: TR'de en bilinen/güvenilir marka önce
       if(budgetMax<99999){return Math.abs(a._price-perSlotTarget)-Math.abs(b._price-perSlotTarget);}
       const ad=a.discount_price?1:0,bd=b.discount_price?1:0;
       if(bd!==ad)return bd-ad;
@@ -1440,7 +1514,9 @@ function renderProducts(){
   // Tam Plan: Temel'in tümü + kofaktör sinerji ürünleri (alakalı, orantılı)
   const premiumSet=valueSet.map(p=>({...p, _new:false}));
   const inSet=new Set(premiumSet.map(p=>p.slug));
-  const maxPrem=Math.min(10, valueSet.length*2+1);
+  // Odaklı Tam Plan: temelden birkaç sinerji ürünü fazlası — 10+ ürün "en etkili" değil,
+  // bunaltıcı + içerik tekrarı (B12+B kompleks+multivitamin). Net upgrade, şişkin değil.
+  const maxPrem=Math.min(8, valueSet.length+3);
   for(const p of valueSet){
     if(premiumSet.length>=maxPrem) break;
     const cofs=COFACTORS[p._fromCat]||[];
@@ -1465,7 +1541,7 @@ function renderProducts(){
   const ESSENTIAL_STAPLES=ESS_BY_WHO[state.who]||ESS_BY_WHO.yetiskin;
   const STAPLE_KW={'D Vitamini':['d vitamin','d3'],'Omega 3':['omega','balık yağı'],'Magnezyum':['magnezyum'],'Multivitamin':['multivitamin'],'Kreatin':['kreatin','creatine'],'B12 Vitamini':['b12'],'Kalsiyum':['kalsiyum'],'Folik Asit (B9 Vitamini)':['folik','folat'],'Demir':['demir']};
   for(const cat of ESSENTIAL_STAPLES){
-    if(premiumSet.length>=12) break;
+    if(premiumSet.length>=8) break;
     const kws=STAPLE_KW[cat]||[cat.toLowerCase()];
     const exists=premiumSet.some(p=>(p._fromCat||'')===cat || kws.some(k=>((p.name||'').toLowerCase()).indexOf(k)>=0));
     if(exists) continue;
@@ -1869,6 +1945,7 @@ function recomputePlan(){
   document.getElementById('planSummary').innerHTML=summaryHTML;
 
   window._quizProducts=products;
+  window._quizPlan=plan;
   window._quizData=quizData;
   buildBundleLink(products);
   // Upsell ve cross-sell kaldırıldı — planın kendisi pain/dream ile tek paket olarak satılıyor
