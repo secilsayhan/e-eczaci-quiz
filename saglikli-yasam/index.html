@@ -483,7 +483,7 @@ const CATMAP={'magnezyum':'Magnezyum','omega-3':'Omega 3','vitamin-d':'D Vitamin
 const USEBY={'magnezyum':'akşam, yemekle · 1 kapsül','omega-3':'sabah, yemekle · 1 kapsül','vitamin-d':'sabah, yemekle · 1 damla','d-vitamini':'sabah, yemekle · 1 damla','b12-vitamini':'sabah · 1 tablet','b12':'sabah · 1 tablet','kreatin':'günde 1 ölçek, suyla','demir':'aç karnına, C vitamini ile','multivitamin':'sabah, kahvaltıyla','ginkgo':'sabah · 1 kapsül'};
 let CATALOG=null, protoItems=[];
 function loadCatalog(){if(CATALOG)return Promise.resolve(CATALOG);
-  return fetch('../quiz_products.json').then(r=>r.json()).then(d=>{CATALOG=d.categories||{};return CATALOG;}).catch(()=>{CATALOG={};return CATALOG;});}
+  return fetch(RAILWAY+'/analiz/quiz_products.json').then(r=>r.json()).then(d=>{CATALOG=d.categories||{};return CATALOG;}).catch(()=>{CATALOG={};return CATALOG;});}
 function bestInCat(cat){const bad=/rehber|protokol|uzman|e-?eczac/i;
   const lst=(CATALOG[cat]||[]).filter(p=>p.stock>0&&p.image&&p.brand&&!bad.test(p.name)&&!bad.test(p.slug)&&!bad.test(p.brand));
   if(!lst.length)return null;lst.sort((a,b)=>b.stock-a.stock);return lst[0];}
