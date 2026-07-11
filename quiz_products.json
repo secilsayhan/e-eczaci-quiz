@@ -96,7 +96,7 @@
           "Burun ve Sinüs Sağlığı",
           "Çok Satanlar"
         ],
-        "stock": 74
+        "stock": 73
       },
       {
         "name": "Bruno Baby Nazal Burun Aspiratörü Manuel",
@@ -8375,20 +8375,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar L-Arginine 500 mg L-Arjinin Takviyesi 50 Kapsül",
-        "slug": "solgar-l-arginine-500-mg-l-arjinin-takviyesi-50-kapsul",
-        "brand": "Solgar",
-        "price": 559.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bdc4c4a-9f01-4993-aef4-8dafd376f39f/image_1950.webp",
-        "cats": [
-          "L-Arjinin",
-          "Cinsel Sağlık ve Performans",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
         "slug": "solgar-l-karnitin-500-mg-yag-yakimi-enerji-30-tablet",
         "brand": "Solgar",
@@ -9293,20 +9279,6 @@
           "L-Karnitin"
         ],
         "stock": 10
-      },
-      {
-        "name": "Solgar L-Arginine 500 mg L-Arjinin Takviyesi 50 Kapsül",
-        "slug": "solgar-l-arginine-500-mg-l-arjinin-takviyesi-50-kapsul",
-        "brand": "Solgar",
-        "price": 559.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bdc4c4a-9f01-4993-aef4-8dafd376f39f/image_1950.webp",
-        "cats": [
-          "L-Arjinin",
-          "Cinsel Sağlık ve Performans",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 1
       },
       {
         "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gida 150ml Şişe",
@@ -13986,7 +13958,7 @@
           "Burun ve Sinüs Sağlığı",
           "Çok Satanlar"
         ],
-        "stock": 74
+        "stock": 73
       },
       {
         "name": "Ocean Extramag 90 TB %50 Daha Fazla",
@@ -14028,7 +14000,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 87
+        "stock": 86
       },
       {
         "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
@@ -14801,7 +14773,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Hunnap Keci Boynuzu Ozu 640 GR",
@@ -35646,6 +35618,33 @@
         "stock": 1
       }
     ],
+    "İntim Temizleyiciler": [
+      {
+        "name": "Etoile 600 MG (boric Acide) 10 Vaginal Ovul",
+        "slug": "etoile-600-mg-boric-acide-10-vaginal-ovul",
+        "brand": "Etoile",
+        "price": 1530.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9be9926-c70c-4c77-b159-b6464489b50b/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler"
+        ],
+        "stock": 18
+      },
+      {
+        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
+        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
+        "brand": "Sebamed",
+        "price": 629.99,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "Hijyen"
+        ],
+        "stock": 1
+      }
+    ],
     "Göz Kapama Pedi": [
       {
         "name": "Exxe Göz Kapama Pedi Yetişkin 10 Adet",
@@ -36898,7 +36897,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
@@ -37254,7 +37253,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 87
+        "stock": 86
       },
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
@@ -37268,7 +37267,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 87
+        "stock": 86
       },
       {
         "name": "Solgar Bromelain 150 mg Ananas Enzimi 60 Kapsül",
@@ -42738,6 +42737,50 @@
         "stock": 3
       }
     ],
+    "Erkek Sağlığı Takviyeleri": [
+      {
+        "name": "Nutraxin Ultra Men Tablet L-Arginin ve Standardize Bitkisel Ekstreler İçeren Takviye Edici Gıda 60 Tablet",
+        "slug": "nutraxin-ultra-men-tablet-l-arginin-60-tablet",
+        "brand": "Nutraxin",
+        "price": 729.99,
+        "discount_price": 657.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90b249bd-9bdf-4c0d-9a64-b8526d9798e4/image_1950.webp",
+        "cats": [
+          "Erkek Sağlığı Takviyeleri",
+          "Güç ve Performans"
+        ],
+        "stock": 7
+      }
+    ],
+    "Güç ve Performans": [
+      {
+        "name": "Nutraxin Ultra Men Tablet L-Arginin ve Standardize Bitkisel Ekstreler İçeren Takviye Edici Gıda 60 Tablet",
+        "slug": "nutraxin-ultra-men-tablet-l-arginin-60-tablet",
+        "brand": "Nutraxin",
+        "price": 729.99,
+        "discount_price": 657.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90b249bd-9bdf-4c0d-9a64-b8526d9798e4/image_1950.webp",
+        "cats": [
+          "Erkek Sağlığı Takviyeleri",
+          "Güç ve Performans"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "Proteinocean Taurine Takviyesi 400 g",
+        "slug": "proteinocean-taurine-takviyesi-400-g",
+        "brand": "Proteinocean",
+        "price": 462.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/11da4487-7c1f-4e41-a010-541d6e2d74dd/image_1950.webp",
+        "cats": [
+          "Taurin",
+          "Güç ve Performans",
+          "Enerji ve Zindelik"
+        ],
+        "stock": 2
+      }
+    ],
     "Ihlamur": [
       {
         "name": "Nutrigen Good Night Melisa Mayıs Papatyası Kedi Otu Ihlamur Vitamin Takviyesi 100 ml Şişe",
@@ -44329,22 +44372,6 @@
         "stock": 2
       }
     ],
-    "Güç ve Performans": [
-      {
-        "name": "Proteinocean Taurine Takviyesi 400 g",
-        "slug": "proteinocean-taurine-takviyesi-400-g",
-        "brand": "Proteinocean",
-        "price": 462.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/11da4487-7c1f-4e41-a010-541d6e2d74dd/image_1950.webp",
-        "cats": [
-          "Taurin",
-          "Güç ve Performans",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 2
-      }
-    ],
     "Cinsel Sağlık ve Performans": [
       {
         "name": "Proxeed Plus Saşe Karnitin Vitamin Mineral Takviyesi 30 Saşe",
@@ -44357,20 +44384,6 @@
           "Mineraller",
           "Multivitamin",
           "L-Karnitin",
-          "Cinsel Sağlık ve Performans",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar L-Arginine 500 mg L-Arjinin Takviyesi 50 Kapsül",
-        "slug": "solgar-l-arginine-500-mg-l-arjinin-takviyesi-50-kapsul",
-        "brand": "Solgar",
-        "price": 559.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bdc4c4a-9f01-4993-aef4-8dafd376f39f/image_1950.webp",
-        "cats": [
-          "L-Arjinin",
           "Cinsel Sağlık ve Performans",
           "Enerji ve Zindelik"
         ],
@@ -44713,21 +44726,6 @@
         "cats": [
           "Bebek Sabunu",
           "Sabun"
-        ],
-        "stock": 1
-      }
-    ],
-    "İntim Temizleyiciler": [
-      {
-        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
-        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
-        "brand": "Sebamed",
-        "price": 629.99,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Hijyen"
         ],
         "stock": 1
       }
@@ -46793,8 +46791,8 @@
   },
   "stats": {
     "total_products": 3174,
-    "total_categories": 581,
-    "generated": "2026-07-10 11:52",
+    "total_categories": 582,
+    "generated": "2026-07-11 11:00",
     "source": "ikas_api_live"
   }
 }
