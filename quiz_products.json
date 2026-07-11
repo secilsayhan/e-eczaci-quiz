@@ -16361,7 +16361,7 @@
           "SPF 50+",
           "Leke Karşıtı"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Anthelios UVmune 400 Invisible Fluid Spf 50 ml",
@@ -16562,7 +16562,7 @@
         "cats": [
           "SPF 50+"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Capital Soleil Velvety SPF50 50 ml",
@@ -16759,7 +16759,7 @@
           "SPF 50+",
           "Leke Karşıtı"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Mela B3 Leke Karşıtı Niasinamid Serum",
@@ -46792,7 +46792,7 @@
   "stats": {
     "total_products": 3174,
     "total_categories": 582,
-    "generated": "2026-07-11 11:00",
+    "generated": "2026-07-11 15:00",
     "source": "ikas_api_live"
   }
 }
