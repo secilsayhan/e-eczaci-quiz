@@ -837,8 +837,9 @@ function findProductByText(txt){
       }
     }
   }
-  // Kelimelerin en az yarısı eşleşmeli (alakasız ürün pinlenmesin)
-  if(!best || bestScore < Math.max(1, Math.ceil(words.length/2))) return null;
+  // TÜM kelimeler eşleşmeli — kısmi eşleşme yanlış ürün pinler
+  // (örn. "solgar omega 3" yarım eşleşince hamilelik multivitamini gelmişti)
+  if(!best || bestScore < words.length) return null;
   return {slug:best.p.slug, cat:best.cat, name:best.p.name};
 }
 
@@ -1705,8 +1706,28 @@ function renderProducts(){
 
   const pickedSlugs=new Set();
 
+  // Segment güvenliği: hamile/bebek/çocuk ürünleri yalnızca ilgili segmentte önerilir.
+  // scoreCandidates + fiyat bandı düzelticileri dahil TÜM seçim yolları bunu kullanmalı.
+  function _segOk(p){
+    const n=p.name||'';
+    if(state.who!=='hamile' && /hamile|gebelik|pregna|prenatal|lohusa/i.test(n)) return false;
+    if(state.who!=='cocuk' && /bebek|bebe |kids|çocuk|cocuk|junior|pediatr/i.test(n)) return false;
+    return true;
+  }
+
   function scoreCandidates(items, catName){
     let cands=items.filter(p=>!pickedSlugs.has(p.slug));
+    const fseg=cands.filter(_segOk);
+    if(fseg.length)cands=fseg;
+    if(state.who==='cocuk'){
+      // Çocuk planında çocuğa uygun form/ürün TERCİH edilir (varsa)
+      const f3=cands.filter(p=>/çocuk|cocuk|kids|junior|pediatr|bebek|şurup|surup|damla|çiğne|cigne|gummy|jel/i.test(p.name));
+      if(f3.length)cands=f3;
+    }
+    if(state.who==='hamile'){
+      const f4=cands.filter(p=>/hamile|prenatal|pregna|gebelik|anne/i.test(p.name));
+      if(f4.length)cands=f4;
+    }
     // Form filtresi
     if(state.form&&state.form!=='any'){
       const kws=formKeywords[state.form]||[];
@@ -1776,7 +1797,7 @@ function renderProducts(){
       for(const cat of group.cats){
         const p=(quizData.categories[cat]||[]).find(x=>x.slug===group.pin);
         if(p && !pickedSlugs.has(p.slug)){
-          const cand={...p,_fromCat:cat};
+          const cand={...p,_fromCat:cat,_pinned:true};
           pickedSlugs.add(p.slug); markIng(cand);
           return {need:group.need, reason:getCategoryReason(cat, group.need), value:cand};
         }
@@ -1868,7 +1889,10 @@ function renderProducts(){
   const maxPrem=Math.min(8, valueSet.length+3);
   for(const p of valueSet){
     if(premiumSet.length>=maxPrem) break;
-    const cofs=COFACTORS[p._fromCat]||[];
+    let cofs=COFACTORS[p._fromCat]||[];
+    // Çocuk planına yetişkin-odaklı kofaktör ekleme (Q10/magnezyum tablet/kreatin vb.)
+    if(state.who==='cocuk') cofs=cofs.filter(function(c){
+      return ['Koenzim Q10','Magnezyum','Magnezyum Bisglisinat','Kreatin','K2 Vitamini','Glukozamin','Sindirim Enzimleri'].indexOf(c)<0;});
     for(const cf of cofs){
       if(premiumSet.length>=maxPrem) break;
       const add=pickFromCat(cf);
@@ -1941,6 +1965,7 @@ function renderProducts(){
       var idx=-1, pick=raise?1e18:-1;
       for(var i=0;i<valueSet.length;i++){
         if(valueSet[i].slug==='yilbasi-ozel-orzax-energy-d3k2-25-indirimli') continue;
+        if(valueSet[i]._pinned) continue; // kullanıcının yazdığı ürün fiyat bandına kurban edilmez
         var pp=valueSet[i].discount_price||valueSet[i].price;
         if(raise ? pp<pick : pp>pick){pick=pp;idx=i;}
       }
@@ -1948,7 +1973,7 @@ function renderProducts(){
       var cur=valueSet[idx], cat=cur._fromCat, curp=cur.discount_price||cur.price;
       var used={}; valueSet.forEach(function(p){used[p.slug]=1;}); premiumSet.forEach(function(p){used[p.slug]=1;});
       var pool=(quizData.categories[cat]||[]).filter(function(p){
-        if((p.stock||0)<=0||used[p.slug]) return false;
+        if((p.stock||0)<=0||used[p.slug]||!_segOk(p)) return false;
         var pp=p.discount_price||p.price;
         return raise ? (pp>curp) : (pp<curp && pp>=QFLOOR);
       });
@@ -1971,13 +1996,14 @@ function renderProducts(){
       for(var i=0;i<premiumSet.length;i++){
         if(!premiumSet[i]._new) continue; // Temel çekirdeğine dokunma
         if(premiumSet[i].slug==='yilbasi-ozel-orzax-energy-d3k2-25-indirimli') continue; // bundle'a dokunma
+        if(premiumSet[i]._pinned) continue; // kullanıcının yazdığı ürüne dokunma
         var pp=premiumSet[i].discount_price||premiumSet[i].price;
         if(pp>hi){hi=pp;idx=i;}
       }
       if(idx<0) break;
       var cur=premiumSet[idx], cat=cur._fromCat, curp=cur.discount_price||cur.price;
       var used={}; premiumSet.forEach(function(p){used[p.slug]=1;}); valueSet.forEach(function(p){used[p.slug]=1;});
-      var pool=(quizData.categories[cat]||[]).filter(function(p){if((p.stock||0)<=0||used[p.slug])return false;var pp=p.discount_price||p.price;return pp<curp&&pp>=300;});
+      var pool=(quizData.categories[cat]||[]).filter(function(p){if((p.stock||0)<=0||used[p.slug]||!_segOk(p))return false;var pp=p.discount_price||p.price;return pp<curp&&pp>=300;});
       if(pool.length){
         pool.sort(function(a,b){return (b.discount_price||b.price)-(a.discount_price||a.price);}); // bir kademe alt
         premiumSet[idx]=Object.assign({},pool[0],{_fromCat:cat,_need:cur._need,_reason:cur._reason,_new:true});
@@ -2142,20 +2168,88 @@ function painReflect(){
   return list+'. Planınızı tam bunun için, size göre hazırladık.';
 }
 
+// Ürün adından kullanım zamanı + nasıl kuralı (yerleşik, genel geçer bilgiler).
+// Sıra önemli: spesifik kalıplar önce. Eşleşmeyen: genel öneri.
+const _USAGE_RULES=[
+  {kw:['melatonin'], slot:'aksam', how:'Yatmadan 30-60 dk önce'},
+  {kw:['magnezyum','magnesium','mag '], slot:'aksam', how:'Akşam yemeğinden sonra veya yatmadan önce'},
+  {kw:['demir','ferro','ferritin'], slot:'sabah', how:'Aç karnına; C vitamini ile birlikte, çay/kahveden 2 saat arayla'},
+  {kw:['d vitamini','d3','vitamin d'], slot:'sabah', how:'Kahvaltıyla, yağ içeren bir öğünle (yağda çözünür)'},
+  {kw:['omega','balık yağı','balik yagi','dha','epa'], slot:'ogle', how:'Yemekle birlikte (tercihen ana öğün)'},
+  {kw:['b12','b kompleks','b-kompleks','b vitamin'], slot:'sabah', how:'Kahvaltıyla (akşam alımı uykuyu etkileyebilir)'},
+  {kw:['multivitamin','multi '], slot:'sabah', how:'Kahvaltıyla birlikte'},
+  {kw:['c vitamini','vitamin c','ester-c'], slot:'sabah', how:'Kahvaltıyla veya öğle yemeğiyle'},
+  {kw:['çinko','cinko','zinc'], slot:'aksam', how:'Yemekle birlikte (aç karnına bulantı yapabilir)'},
+  {kw:['probiyotik','probiotic'], slot:'sabah', how:'Aç karnına, kahvaltıdan 20-30 dk önce'},
+  {kw:['kolajen','collagen'], slot:'aksam', how:'Aç karnına; yatmadan önce veya sabah'},
+  {kw:['koenzim','q10','coq10'], slot:'ogle', how:'Yağ içeren bir yemekle'},
+  {kw:['spf','güneş','gunes koruyucu'], slot:'sabah', how:'Cilt bakımının son adımı olarak, güne çıkmadan önce'},
+  {kw:['serum'], slot:'aksam', how:'Temiz cilde, nemlendiriciden önce'},
+  {kw:['krem','nemlendirici','losyon','bakım yağı'], slot:'aksam', how:'Akşam temizlik sonrası (sabah da kullanılabilir)'},
+  {kw:['şampuan','sampuan','sac spreyi'], slot:'ogle', how:'Duş rutininizde, haftada 3-4 kez'},
+  {kw:['gargara','ağız','agiz'], slot:'aksam', how:'Diş fırçalama sonrası'},
+];
+const _SLOT_META={sabah:['&#127749; Sabah'],ogle:['&#9728;&#65039; Öğle / Gün içi'],aksam:['&#127769; Akşam']};
+function buildUsageSchedule(products){
+  if(!products||!products.length) return '';
+  const slots={sabah:[],ogle:[],aksam:[]};
+  products.forEach(function(p){
+    const n=_aiNorm(p.name||'');
+    let hit=null;
+    for(const r of _USAGE_RULES){ if(r.kw.some(function(k){return n.indexOf(_aiNorm(k))!==-1;})){hit=r;break;} }
+    const slot=hit?hit.slot:'sabah';
+    const how=hit?hit.how:'Günde 1 kez, yemekle birlikte (ambalaj önerisine uyun)';
+    slots[slot].push({name:p.name, how:how});
+  });
+  let html='';
+  ['sabah','ogle','aksam'].forEach(function(s){
+    if(!slots[s].length) return;
+    html+='<div style="margin-top:10px;font-weight:800;color:#0a4c32;font-size:12.5px;">'+_SLOT_META[s][0]+'</div>';
+    slots[s].forEach(function(x){
+      html+='<div style="display:flex;gap:8px;align-items:flex-start;margin-top:5px;"><span style="color:#16a34a;font-weight:800;flex-shrink:0;">&#10003;</span><span><b>'+esc(x.name)+'</b><br><span style="color:#4b5563;font-size:11.5px;">'+x.how+'</span></span></div>';
+    });
+  });
+  return html;
+}
+// Konu bazlı beslenme & yaşam tarzı önerileri (genel geçer, tıbbi iddiasız)
+const _LIFESTYLE_TIPS={
+  uyku:['Yatmadan 1 saat önce ekranları bırakın; yatak odasını serin ve karanlık tutun','Kafeini öğleden sonra 14:00 itibarıyla kesin'],
+  enerji:['Güne 10 dakika gün ışığıyla başlayın; gün içinde 2-2,5 litre su için','Öğünleri atlamayın; protein içeren kahvaltı gün boyu enerjiyi dengeler'],
+  bagisiklik:['7-8 saat düzenli uyku bağışıklığın en güçlü destekçisidir','Tabakta renk çeşitliliği: her öğünde farklı renkte sebze-meyve'],
+  sindirim:['Lifli besinleri artırın, yemekleri yavaş ve iyi çiğneyerek yiyin','Günlük 20-30 dakika yürüyüş bağırsak hareketlerini düzenler'],
+  cilt:['Her sabah SPF — bulutlu günlerde bile','Günde 2 litre su ve yastık kılıfını haftada 2 kez değiştirmek cildin dostudur'],
+  sac:['Isıyla şekillendirmeyi azaltın, ıslak saçı sıkı taramayın','Yeterli protein ve demir alımı saç sağlığının temelidir'],
+  eklem:['Yüzme ve yürüyüş gibi düşük etkili egzersizler eklemleri korur','İdeal kiloyu korumak diz eklemlerindeki yükü belirgin azaltır'],
+  kalp:['Haftada 150 dakika tempolu yürüyüş hedefleyin','Sofrada tuzu azaltın; işlenmiş gıdaları sınırlayın'],
+  beyin:['Düzenli uyku saatleri hafıza konsolidasyonu için kritik','Yeni beceriler öğrenmek (dil, enstrüman, bulmaca) zihni dinç tutar'],
+  goz:['20-20-20 kuralı: her 20 dakikada, 20 saniye, 6 metre uzağa bakın','Ekran parlaklığını ortam ışığına eşitleyin'],
+  kilo:['Proteinli kahvaltı gün boyu tokluğu artırır','Günlük 8-10 bin adım hedefi koyun; asansör yerine merdiven'],
+  kadin:['Düzenli uyku ve stres yönetimi hormon dengesinin temelidir','Demir açısından zengin besinleri C vitamini kaynaklarıyla birleştirin'],
+  multivitamin:['Takviye dengeli beslenmenin yerine geçmez, tamamlar','Düzenli kullanım için sabit bir rutine bağlayın (ör. kahvaltı sonrası)'],
+  sporcu:['Antrenman sonrası 30-60 dk içinde protein alın','Toparlanmanın yarısı uykudur: 7-9 saat hedefleyin'],
+  longevity:['Akdeniz tipi beslenme (zeytinyağı, balık, sebze) uzun sağlıklı yaşamın en güçlü kanıtlı modelidir','Düzenli hareket + güçlü sosyal bağlar: ikisi birlikte fark yaratır'],
+};
+function buildLifestyleTips(){
+  const seen=new Set(); let html='';
+  (state.needs||[]).forEach(function(n){
+    const key=({multi:'multivitamin',vitamin:'multivitamin',hafiza:'beyin',kemik:'eklem',demir:'enerji',omega:'kalp'})[n]||n;
+    if(seen.has(key)||!_LIFESTYLE_TIPS[key]) return;
+    seen.add(key);
+    _LIFESTYLE_TIPS[key].forEach(function(t){
+      html+='<div style="display:flex;gap:8px;align-items:flex-start;margin-top:6px;"><span style="color:#16a34a;font-weight:800;flex-shrink:0;">&#10003;</span><span>'+t+'</span></div>';
+    });
+  });
+  return html;
+}
+
 function recomputePlan(){
   const plan=window._plan;
   if(!plan) return;
   const grid=document.getElementById('productGrid');
   grid.innerHTML='';
 
-  // Empati — kişinin problemini birebir yansıt ("anlaşıldım" hissi)
-  const _pr=painReflect();
-  if(_pr){
-    const emp=document.createElement('div');
-    emp.style.cssText='margin:0 0 14px;padding:14px 16px;background:#fff;border:1px solid #e8eeeb;border-radius:14px;font-size:14px;line-height:1.5;color:#1a1a1a;';
-    emp.innerHTML='<span style="font-weight:800;color:#0a4c32;">Sizi anlıyoruz.</span> '+esc(_pr);
-    grid.appendChild(emp);
-  }
+  // Empati kutusu KALDIRILDI (12 Tem 2026, kullanıcı isteği) — "Sizi anlıyoruz..."
+  // paragrafı sonuçlarda gösterilmiyor. Geri açmak için painReflect() bloğunu buraya ekle.
 
   function tierTotal(set){let t=0;set.forEach(p=>{t+=(p.discount_price||p.price)*kurQtyFor(p,plan.kur);});return plan.kur?Math.round(t*0.9):t;}
   const vT=tierTotal(plan.value), pT=tierTotal(plan.premium);
@@ -2267,16 +2361,36 @@ function recomputePlan(){
 
   // (paket görselleri artık tier kartlarının İÇİNDE gösteriliyor)
 
-  // Plana özel kullanım rehberi sözü (satın alım sonrası gönderilir)
-  const guide=document.createElement('div');
-  guide.style.cssText='margin:16px 0 4px;padding:14px 16px;background:#fff;border:1.5px dashed #86efac;border-radius:12px;font-size:12.5px;color:#1a1a1a;line-height:1.55;';
-  guide.innerHTML='<div style="font-weight:800;color:#0a4c32;margin-bottom:8px;">Planınızla birlikte — ücretsiz</div>'+
-    ['Kişiye özel kullanım takvimi — hangi ürün ne zaman (sabah / öğle / akşam) ve nasıl',
-     'Plana özel beslenme ve yaşam tarzı önerileri',
-     'Kür boyunca takip ve hatırlatmalar',
-     '2 ay sonra ücretsiz yeniden değerlendirme']
-    .map(function(x){return '<div style="display:flex;gap:8px;align-items:flex-start;margin-top:6px;"><span style="color:#16a34a;font-weight:800;flex-shrink:0;">&#10003;</span><span>'+x+'</span></div>';}).join('');
-  grid.appendChild(guide);
+  // GERÇEK kullanım takvimi — plandaki ürünlerden türetilir (sabah/öğle/akşam + nasıl)
+  const tierSet=(plan.tier==='premium'?plan.premium:plan.value)||[];
+  const schedHtml=buildUsageSchedule(tierSet);
+  if(schedHtml){
+    const sched=document.createElement('details');
+    sched.style.cssText='margin:16px 0 4px;padding:12px 16px;background:#fff;border:1.5px solid #cfe5d8;border-radius:12px;font-size:12.5px;color:#1a1a1a;line-height:1.55;';
+    sched.innerHTML='<summary style="font-weight:800;color:#0a4c32;cursor:pointer;font-size:13.5px;">&#128197; Kullanım Takviminiz — hangi ürün ne zaman</summary>'
+      +schedHtml
+      +'<div style="margin-top:10px;font-size:11px;color:#6b7280;">Genel kullanım rehberidir; ambalajdaki öneri ve hekiminizin yönlendirmesi esastır. Sipariş sonrası WhatsApp üzerinden yenileme hatırlatması alırsınız.</div>';
+    grid.appendChild(sched);
+  }
+  // GERÇEK beslenme & yaşam tarzı önerileri — seçilen konulara göre
+  const tipsHtml=buildLifestyleTips();
+  if(tipsHtml){
+    const tips=document.createElement('details');
+    tips.style.cssText='margin:10px 0 4px;padding:12px 16px;background:#fff;border:1.5px solid #cfe5d8;border-radius:12px;font-size:12.5px;color:#1a1a1a;line-height:1.55;';
+    tips.innerHTML='<summary style="font-weight:800;color:#0a4c32;cursor:pointer;font-size:13.5px;">&#127793; Plana Özel Beslenme &amp; Yaşam Tarzı Önerileri</summary>'+tipsHtml;
+    grid.appendChild(tips);
+  }
+
+  // Kullandığı takviyeler plana girdiyse bunu görünür söyle (sayı verme —
+  // kofaktörler de yenileme etiketi taşıyabiliyor, yanlış sayı güven kırar)
+  const _hasRenewal=((state.currentProducts&&state.currentProducts.length)||(state.typedProducts&&state.typedProducts.length))
+    && tierSet.some(function(p){return p._need==='yenileme';});
+  if(_hasRenewal){
+    const rn=document.createElement('div');
+    rn.style.cssText='margin:10px 0 0;padding:10px 14px;background:#eef6f1;border:1px solid #cfe5d8;border-radius:10px;font-size:12.5px;color:#0a4c32;font-weight:700;';
+    rn.innerHTML='&#10003; Düzenli kullandığınız takviyeleri de planınıza ekledik — tek sepette tamamlayın.';
+    grid.appendChild(rn);
+  }
 
   // Fiyat kademeleri + kür upsell — value/fayda gösterildikten SONRA (most conversion)
   if(tierSeg) grid.appendChild(tierSeg);
