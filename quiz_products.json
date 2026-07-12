@@ -4721,7 +4721,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -15297,7 +15297,7 @@
         "cats": [
           "Yüz Bakımı"
         ],
-        "stock": 51
+        "stock": 50
       },
       {
         "name": "Bioderma Sensibio Micellar Cleansing Oil 150 ml",
@@ -15695,7 +15695,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 5
+        "stock": 6
       },
       {
         "name": "La Roche Posay Anthelios Oil Correct Spf 50 Yağlı Cilt Güneş Kremi",
@@ -16142,7 +16142,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 5
+        "stock": 6
       },
       {
         "name": "La Roche Posay Anthelios Oil Correct Spf 50 Yağlı Cilt Güneş Kremi",
@@ -16874,7 +16874,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 5
+        "stock": 6
       },
       {
         "name": "La Roche Posay Anthelios Oil Correct Spf 50 Yağlı Cilt Güneş Kremi",
@@ -18590,7 +18590,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -21328,7 +21328,7 @@
           "Bakım Kremi",
           "Seboreik Dermatit"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ducray Keracnyl Jel 400 ml",
@@ -25736,8 +25736,8 @@
     ],
     "Cinsel Sağlık": [
       {
-        "name": "Black Berry Bayanlara Özel Bitkisel Performans Damla 10 ml",
-        "slug": "black-berry-bayanlara-ozel-bitkisel-performans-damla-10-ml",
+        "name": "Black Berry Kadınlara Özel Bitkisel Performans Damla 10 ml",
+        "slug": "black-berry-kadinlara-ozel-bitkisel-performans-damla-10-ml",
         "brand": "",
         "price": 514.0,
         "discount_price": 463.0,
@@ -34233,7 +34233,7 @@
           "Bakım Kremi",
           "Seboreik Dermatit"
         ],
-        "stock": 6
+        "stock": 5
       }
     ],
     "İntim Bakım": [
@@ -34251,7 +34251,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Etoile 300 mg Boric Acid + Hyal",
@@ -34293,7 +34293,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
@@ -34577,7 +34577,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Dil Basacağı": [
@@ -35242,7 +35242,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -45818,7 +45818,7 @@
   "stats": {
     "total_products": 3100,
     "total_categories": 568,
-    "generated": "2026-07-12 07:15",
+    "generated": "2026-07-12 15:00",
     "source": "ikas_api_live"
   }
 }
