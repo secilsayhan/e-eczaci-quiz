@@ -4605,7 +4605,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "WX Pecia Tablet 60 Tablet",
@@ -4857,7 +4857,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -5313,7 +5313,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -6481,7 +6481,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 117
+        "stock": 116
       },
       {
         "name": "Orzax Ocean Metil B12 Dilaltı Sprey 1000 mcg",
@@ -18714,7 +18714,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -19830,7 +19830,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 117
+        "stock": 116
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -25094,7 +25094,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "Vichy Dercos Neogenic Saç Yoğunlaştırıcı Şampuan 400 ml",
@@ -29938,7 +29938,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 117
+        "stock": 116
       }
     ],
     "Ginkgo Biloba": [
@@ -32980,7 +32980,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "NBT Life Cleanlife Kapsül Kadın Tuzluğu Pelinotu Balkabağı Takviyesi 60 Kapsül",
@@ -34263,7 +34263,7 @@
         "cats": [
           "İntim Bakım"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Etoile Intim Yıkama Boric Acid 200 ml",
@@ -34386,7 +34386,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Naturalnest Multy Energy Women Kadın Multivitamin ve Mineral 30 Tablet",
@@ -38561,7 +38561,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -39544,7 +39544,7 @@
         "cats": [
           "Doğal Sabunlar"
         ],
-        "stock": 13
+        "stock": 3
       }
     ],
     "Kulak Temizleyici": [
@@ -44670,20 +44670,6 @@
         "stock": 1
       }
     ],
-    "Sarımsak Yağı": [
-      {
-        "name": "Talya Sarımsak Yağı 20 cc Saç ve Cilt Bakım",
-        "slug": "talya-sarimsak-yagi-20-cc-sac-ve-cilt-bakim",
-        "brand": "Talya",
-        "price": 189.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8471097f-bc61-4cbb-938f-4ad2a200b831/image_1950.webp",
-        "cats": [
-          "Sarımsak Yağı"
-        ],
-        "stock": 1
-      }
-    ],
     "Susam Yağı": [
       {
         "name": "Talya Susam Yağı 20 cc Cilt ve Saç Bakım",
@@ -45816,9 +45802,9 @@
     ]
   },
   "stats": {
-    "total_products": 3100,
-    "total_categories": 568,
-    "generated": "2026-07-12 15:00",
+    "total_products": 3099,
+    "total_categories": 567,
+    "generated": "2026-07-12 20:45",
     "source": "ikas_api_live"
   }
 }
