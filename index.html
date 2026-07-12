@@ -344,12 +344,13 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           .ai-back{background:#fff;border:1px solid #e7ece9;border-radius:12px;padding:8px 14px;font-size:13px;font-weight:700;color:#0d6b45;cursor:pointer;margin-bottom:10px}
           @media(max-width:480px){.ai-title{font-size:22px}.ai-box{flex-direction:column;align-items:stretch}.ai-box button{width:100%}}
         </style>
-        <!-- AI sohbet girişi ŞİMDİLİK gizli (12 Tem 2026): form motoruyla farklı sonuç
-             üretiyor; birleştirilene kadar display:none. Geri açmak için iki display:none'ı sil. -->
-        <div id="aiHeroWrap" style="display:none">
+        <!-- Birleşik giriş (12 Tem 2026): serbest metin formun kendi motorunu besler —
+             metin anlık çözümlenir, kim-için + ihtiyaçlar + detaylar önceden seçilir ve
+             kullanıcı forma seçimleri hazır şekilde devam eder. Ayrı sohbet motoru YOK. -->
+        <div id="aiHeroWrap">
           <span class="ai-badge">Uzman Rehberliğinde &middot; Saniyeler içinde</span>
           <div class="ai-title">İhtiyacınızı anlatın, <b>size özel</b> planı hazırlayalım</div>
-          <div class="ai-sub">Kendi cümlelerinizle yazın — örneğin “Geceleri uyuyamıyorum”, “Saçlarım dökülüyor” ya da “Bebeğim için vitamin arıyorum”. Uzman rehberimiz size en uygun ürünleri seçsin.</div>
+          <div class="ai-sub">Kendi cümlelerinizle yazın — örneğin “Geceleri uyuyamıyorum”, “Saçlarım dökülüyor” ya da “Bebeğim için vitamin arıyorum”. Sizi doğrudan size uygun plana yönlendirelim.</div>
           <div class="ai-box">
             <textarea id="aiInput" rows="2" maxlength="600" placeholder="Örn: Uykum düzensiz ve gün içi yorgunum..." aria-label="İhtiyacınızı yazın"></textarea>
             <button type="button" onclick="startAI()">Analiz Et</button>
@@ -365,17 +366,155 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
             <button type="button" onclick="aiChip('Bebeğim için vitamin ve bakım')">Bebeğim için vitamin</button>
           </div>
         </div>
-        <div id="aiFrameWrap" style="display:none">
-          <button type="button" class="ai-back" onclick="closeAI()">&#8592; Geri</button>
-          <iframe id="aiFrame" title="e-Eczacı Analiz Asistanı" style="width:100%;height:70vh;min-height:520px;border:0;border-radius:16px;background:#f6f8f7"></iframe>
-        </div>
-        <div class="ai-or" style="display:none"><span>ya da adım adım ilerleyin</span></div>
+        <div class="ai-or"><span>ya da adım adım ilerleyin</span></div>
         <script>
-          var AIORIGIN='https://whatsapp-chatbot-production-9af2.up.railway.app';
-          function startAI(){var v=(document.getElementById('aiInput').value||'').trim();if(!v){document.getElementById('aiInput').focus();return;}document.getElementById('aiFrame').src=AIORIGIN+'/analiz/chat?q='+encodeURIComponent(v);document.getElementById('aiHeroWrap').style.display='none';document.querySelector('.ai-or').style.display='none';document.getElementById('aiFrameWrap').style.display='block';try{window.scrollTo({top:0,behavior:'smooth'});}catch(e){}}
-          function aiChip(t){document.getElementById('aiInput').value=t;startAI();}
-          function closeAI(){document.getElementById('aiFrameWrap').style.display='none';document.getElementById('aiHeroWrap').style.display='block';document.querySelector('.ai-or').style.display='';document.getElementById('aiFrame').src='';}
-          window.addEventListener('message',function(ev){if(ev.origin!==AIORIGIN){return;}var d=ev.data;if(d&&typeof d==='object'&&d.type==='eeczaci:cart'&&d.url){try{window.top.location.href=d.url;}catch(e){location.href=d.url;}}});
+          // Serbest metin → form ön-doldurma. Motor formunkiyle AYNI (quiz_products.json);
+          // metin sadece kim-için + ihtiyaç + detay seçimlerini hızlandırır.
+          function _aiNorm(s){
+            return (s||'').toLocaleLowerCase('tr')
+              .replace(/ğ/g,'g').replace(/ü/g,'u').replace(/ş/g,'s')
+              .replace(/ı/g,'i').replace(/ö/g,'o').replace(/ç/g,'c');
+          }
+          // Kelime BAŞINDA eşleş ("desteklemek" içindeki "eklem" gibi yanlış pozitifleri önler)
+          function _aiHas(t, words){
+            return words.some(function(w){
+              var esc=w.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+              return new RegExp('(^|[^a-z0-9])'+esc).test(t);
+            });
+          }
+          // Kim için? (metinden segment tahmini — kullanıcı 1. adıma dönüp değiştirebilir)
+          function _aiWho(t){
+            if(_aiHas(t,['bebegim','bebege','bebek','cocugum','cocugum icin','oglum','kizim','okul cagi'])) return 'cocuk';
+            if(_aiHas(t,['hamile','gebe','emzir','lohusa'])) return 'hamile';
+            if(_aiHas(t,['annem','babam','dedem','babaannem','anneannem','65 yas','yasli','kayinvalidem','kayinpederim'])) return 'yasli';
+            return 'yetiskin';
+          }
+          // Kural tablosu: anahtar kelimeler → segment başına form ihtiyaç değeri
+          // (null = o segmentte yok → 'diger' + serbest metin). detail: {need: value}
+          var _AI_RULES = [
+            {kw:['uyku','uyuy','stres','kayg','anksiyet','gergin','huzursuz','melatonin'],
+             need:{yetiskin:'uyku'}, detail:function(t){
+               if(_aiHas(t,['dalam'])) return {uyku:'dalamama'};
+               if(_aiHas(t,['uyan','bolun'])) return {uyku:'bolunme'};
+               if(_aiHas(t,['dinlenme','yorgun kalk'])) return {uyku:'yorgun'};
+               if(_aiHas(t,['stres','kayg','anksiyet','gergin'])) return {uyku:'stres'};
+               return {};}},
+            {kw:['yorgun','bitkin','halsiz','enerji','zinde','tukenmis'],
+             need:{yetiskin:'enerji',cocuk:'multi',hamile:'vitamin',yasli:'multivitamin'}, detail:function(t){
+               if(_aiHas(t,['sabah'])) return {enerji:'sabah'};
+               if(_aiHas(t,['ogle'])) return {enerji:'ogleden'};
+               if(_aiHas(t,['surekli','gun boyu','hep'])) return {enerji:'surekli'};
+               return {};}},
+            {kw:['bagisik','hastalan','grip','nezle','soguk algin','direnc'],
+             need:{yetiskin:'bagisiklik',cocuk:'bagisiklik',hamile:'vitamin'}, detail:function(t){
+               if(_aiHas(t,['sik hastalan'])) return {bagisiklik:'sik'};
+               if(_aiHas(t,['mevsim','kis'])) return {bagisiklik:'mevsim'};
+               return {bagisiklik:'onlem'};}},
+            {kw:['sindirim','siskin','gaz','kabiz','mide','reflu','hazimsiz','probiyotik','flora','bagirsak'],
+             need:{yetiskin:'sindirim',cocuk:'sindirim',yasli:'sindirim'}, detail:function(t){
+               if(_aiHas(t,['siskin','gaz'])) return {sindirim:'siskinlik'};
+               if(_aiHas(t,['kabiz','duzensiz'])) return {sindirim:'kabizlik'};
+               if(_aiHas(t,['reflu','mide','yanma','eksime'])) return {sindirim:'reflu'};
+               if(_aiHas(t,['probiyotik','flora','bagirsak'])) return {sindirim:'flora'};
+               return {};}},
+            {kw:['eklem','dizim','diz agri','kirec','kikirdak','romatizm'],
+             need:{yetiskin:'eklem',cocuk:'kemik',yasli:'eklem'}, detail:function(t){
+               if(_aiHas(t,['agri','sert'])) return {eklem:'agri'};
+               if(_aiHas(t,['esnek','hareket'])) return {eklem:'esneklik'};
+               return {};}},
+            {kw:['kemik','osteo'],
+             need:{yetiskin:'eklem',cocuk:'kemik',yasli:'kemik'}},
+            {kw:['kalp','kolesterol','damar','tansiyon','dolasim','trigliserit'],
+             need:{yetiskin:'kalp',yasli:'kalp'}, detail:function(t){
+               if(_aiHas(t,['kolesterol','trigliserit'])) return {kalp:'kolesterol'};
+               if(_aiHas(t,['tansiyon'])) return {kalp:'tansiyon'};
+               return {kalp:'genel'};}},
+            {kw:['hafiza','odak','konsantr','unut','beyin','zihin','brain fog'],
+             need:{yetiskin:'beyin',cocuk:'beyin',yasli:'hafiza'}, detail:function(t){
+               if(_aiHas(t,['odak','konsantr'])) return {beyin:'konsantrasyon'};
+               if(_aiHas(t,['unut','hafiza'])) return {beyin:'hafiza'};
+               if(_aiHas(t,['berrak','fog','bulanik'])) return {beyin:'berraklik'};
+               return {};}},
+            {kw:['gozum','gozler','gorme','goz yorgun','kuru goz','ekran yorgun'],
+             need:{yetiskin:'goz',yasli:'goz'}, detail:function(t){
+               if(_aiHas(t,['ekran','bilgisayar','telefon'])) return {goz:'ekran'};
+               if(_aiHas(t,['kuru','batma','yanma'])) return {goz:'kuruluk'};
+               return {goz:'genel'};}},
+            {kw:['kilo','zayifla','metaboliz','yag yak','istah'],
+             need:{yetiskin:'kilo'}, detail:function(t){
+               if(_aiHas(t,['yag yak'])) return {kilo:'yakim'};
+               if(_aiHas(t,['istah','asiri yeme'])) return {kilo:'istah'};
+               if(_aiHas(t,['metaboliz'])) return {kilo:'metabolizma'};
+               return {};}},
+            {kw:['adet','regl','pms','menopoz','hormon','idrar yolu','vajin','dogurganlik','fertilite'],
+             need:{yetiskin:'kadin'}},
+            {kw:['dokul','sac kayb','seyrel','sac incel','kepek','sacim','saclarim','kolajen'],
+             need:{yetiskin:'sac'}, detail:function(t){
+               if(_aiHas(t,['dokul','kayb','seyrel','incel'])) return {sac:'dokulme'};
+               if(_aiHas(t,['kepek','kasinti'])) return {sac:'kepek'};
+               if(_aiHas(t,['parlak','mat','cansiz'])) return {sac:'parlaklik'};
+               return {sac:'genel'};}},
+            {kw:['cilt','akne','sivilce','leke','kirisik','gozenek','siyah nokta','yaslanma','nemlendir','catlak'],
+             need:{yetiskin:'cilt',hamile:'cilt'}, detail:function(t){
+               if(_aiHas(t,['akne','sivilce','yagli'])) return {cilt:'yagli'};
+               if(_aiHas(t,['kuru','dehidre','pul pul'])) return {cilt:'kuru'};
+               if(_aiHas(t,['karma'])) return {cilt:'karma'};
+               if(_aiHas(t,['hassas','kizarik','tahris'])) return {cilt:'hassas'};
+               return {};}},
+            {kw:['gunes','spf','bronzlas'],
+             need:{yetiskin:'cilt',cocuk:'gunes'}},
+            {kw:['multivitamin','genel vitamin','vitamin ariyorum','vitamin ve bakim','her sey icin'],
+             need:{yetiskin:'multivitamin',cocuk:'multi',hamile:'vitamin',yasli:'multivitamin'}},
+            {kw:['omega','balik yagi','dha'],
+             need:{yetiskin:'kalp',hamile:'omega',yasli:'kalp',cocuk:'beyin'}},
+            {kw:['demir','kansiz','anemi','ferritin'],
+             need:{yetiskin:'enerji',hamile:'demir'}},
+            {kw:['magnezyum'], need:{yetiskin:'uyku'}},
+            {kw:['bulanti','mide bulan'], need:{hamile:'bulanti',yetiskin:'sindirim'}},
+            {kw:['sporcu','antrenman','kas gelis','performans','protein'],
+             need:{yetiskin:'sporcu'}},
+            {kw:['longevity','hucresel','saglikli yaslanma','nmn','uzun yasam'],
+             need:{yetiskin:'longevity'}},
+            {kw:['dis eti','dis kanam','dis macun','dis bakim','beyazlat','agiz koku','aft'],
+             need:{cocuk:'dis'}}
+          ];
+          function startAI(){
+            var raw=(document.getElementById('aiInput').value||'').trim();
+            if(!raw){document.getElementById('aiInput').focus();return;}
+            var t=_aiNorm(raw);
+            var who=_aiWho(t);
+            state.who=who; state.note=raw;
+            state.needs=[]; state.details={};
+            var validNeeds=(needMap[who]||needMap.yetiskin).map(function(o){return o.value;});
+            _AI_RULES.forEach(function(r){
+              if(!_aiHas(t,r.kw)) return;
+              var n=r.need[who];
+              if(n && validNeeds.indexOf(n)!==-1){
+                if(state.needs.indexOf(n)===-1) state.needs.push(n);
+                if(r.detail){var d=r.detail(t);Object.keys(d).forEach(function(k){
+                  if(k===n||state.needs.indexOf(k)!==-1) state.details[k]=d[k];});}
+              } else if(state.needs.indexOf('diger')===-1){
+                state.needs.push('diger');
+              }
+            });
+            if(state.needs.length===0) state.needs.push('diger');
+            // 1. adım UI'ını senkronla (geri dönülürse seçim görünsün)
+            document.querySelectorAll('#whoOptions .option').forEach(function(o){
+              o.classList.toggle('selected', o.dataset.value===who);
+            });
+            var b1=document.getElementById('btn1'); if(b1) b1.disabled=false;
+            var pw=document.getElementById('progressWrap'); if(pw) pw.style.display='';
+            if(typeof trackEvent==='function') trackEvent('quiz_start',{via:'ai_text'});
+            // Form akışına gir: seçimler hazır, kullanıcı görsün ve onaylayıp devam etsin
+            goTo(2);
+            if(state.needs.indexOf('diger')!==-1){
+              var ow=document.getElementById('otherWrap'),oi=document.getElementById('otherInput');
+              if(ow){ow.classList.add('visible');} if(oi&&!oi.value){oi.value=raw.slice(0,120);}
+            }
+            if(typeof updateBtn2==='function') updateBtn2();
+            try{window.scrollTo({top:0,behavior:'smooth'});}catch(e){}
+          }
+          function aiChip(txt){document.getElementById('aiInput').value=txt;startAI();}
         </script>
         <div class="intro-badge">&#9733; Ücretsiz &middot; Uzman Rehberliğinde</div>
         <h1>Size <span>Özel</span> Ürün Analizi</h1>
