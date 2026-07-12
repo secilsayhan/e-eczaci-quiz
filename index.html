@@ -986,7 +986,7 @@ const categoryMapping = {
   'hamile_vitamin':['Hamilelik ve Emzirme','Hamile Vitamini'],
   'hamile_demir':['Demir','Folik Asit (B9 Vitamini)','Hamilelik ve Emzirme'],
   'hamile_omega':['Omega 3','Hamilelik ve Emzirme'],
-  'hamile_bulanti':['Hamilelik ve Emzirme'],
+  'hamile_bulanti':['B6 Vitamini','Zencefil','Hamilelik ve Emzirme'],
   'hamile_cilt':['Onarıcı Bakım','Onarıcı Kremler','Kaşıntı ve Tahriş Bakımı','Vücut Losyonu'],
   // Yaşlı
   'yasli_eklem':['Kemik ve Eklem Sağlığı','Eklem ve Kemik Sağlığı','Kolajen Takviyeleri','Glukozamin'],
@@ -1620,7 +1620,29 @@ const detailBias = {
   kadin_vajinal:['Kadın Sağlığı','Probiyotik ve Prebiyotik'],
   kadin_idrar:['Turna Yemişi (Cranberry)','Kadın Sağlığı'],
   kadin_pms:['Kadın Sağlığı','Magnezyum'],
-  kadin_hormonal:['Kadın Sağlığı','Folik Asit (B9 Vitamini)']
+  kadin_hormonal:['Kadın Sağlığı','Folik Asit (B9 Vitamini)'],
+  // 12 Tem 2026: her detay cevabı ürün seçimini etkilesin (21 eksik kombinasyon eklendi)
+  eklem_agri:['Glukozamin','Kemik ve Eklem Sağlığı','Eklem ve Kemik Sağlığı'],
+  eklem_esneklik:['Kolajen Takviyeleri','Hidrolize Kolajen','Glukozamin'],
+  eklem_onlem:['Kemik ve Eklem Sağlığı','Kolajen Takviyeleri','Magnezyum'],
+  kalp_kolesterol:['Omega 3','Kalp ve Damar Sağlığı'],
+  kalp_tansiyon:['Koenzim Q10','Kalp ve Damar Sağlığı'],
+  kalp_genel:['Kalp ve Damar Sağlığı','Omega 3'],
+  beyin_konsantrasyon:['Omega 3','Beyin ve Hafıza'],
+  beyin_hafiza:['Ginkgo Biloba','Beyin ve Hafıza'],
+  beyin_berraklik:['Beyin ve Hafıza','Omega 3'],
+  goz_ekran:['Göz Sağlığı'],
+  goz_kuruluk:['Göz Damlası','Göz Sağlığı'],
+  goz_genel:['Göz Sağlığı'],
+  kilo_yakim:['L-Karnitin','Metabolizma ve Kilo Yönetimi'],
+  kilo_istah:['Metabolizma ve Kilo Yönetimi'],
+  kilo_metabolizma:['Metabolizma ve Kilo Yönetimi','L-Karnitin'],
+  sporcu_kas:['Sporcu Takviyeleri','L-Arjinin'],
+  sporcu_dayaniklilik:['L-Karnitin','Sporcu Takviyeleri'],
+  sporcu_toparlanma:['Sporcu Takviyeleri','L-Karnitin'],
+  multivitamin_eksiklik:['Mineraller','Multivitamin'],
+  multivitamin_genel:['Multivitamin'],
+  multivitamin_yas:['Multivitamin','Mineraller']
 };
 
 // Türkiye'de en bilinen/güvenilen markalar (prominence sırası — en tanınmış önce).
@@ -1893,6 +1915,8 @@ function renderProducts(){
     // Çocuk planına yetişkin-odaklı kofaktör ekleme (Q10/magnezyum tablet/kreatin vb.)
     if(state.who==='cocuk') cofs=cofs.filter(function(c){
       return ['Koenzim Q10','Magnezyum','Magnezyum Bisglisinat','Kreatin','K2 Vitamini','Glukozamin','Sindirim Enzimleri'].indexOf(c)<0;});
+    if(state.who==='hamile') cofs=cofs.filter(function(c){
+      return ['Koenzim Q10','Kreatin','Glukozamin','Sindirim Enzimleri','Ginkgo Biloba','Resveratrol'].indexOf(c)<0;});
     for(const cf of cofs){
       if(premiumSet.length>=maxPrem) break;
       const add=pickFromCat(cf);
@@ -1941,7 +1965,8 @@ function renderProducts(){
     // bundle zaten D3+K2 içerir → ayrı K2 varsa onu da çıkar (tekrar olmasın)
     for(var k=0;k<set.length;k++){var nk=(set[k].name||'').toLowerCase();if((nk.indexOf(' k2')>=0||nk.indexOf('k2 ')>=0||nk.indexOf('menakuinon')>=0)&&rm.indexOf(set[k].slug)<0)rm.push(set[k].slug);}
     var out=set.filter(function(p){return rm.indexOf(p.slug)<0;});
-    out.push(Object.assign({},DMULTI_BUNDLE,{_fromCat:'Multivitamin',_need:'temel',_reason:'Multivitamin + D3 & K2 birlikte (indirimli)',_new:true,
+    var _mvNeed=(set[mi]&&set[mi]._need)||'temel';
+    out.push(Object.assign({},DMULTI_BUNDLE,{_fromCat:'Multivitamin',_need:_mvNeed,_reason:'Multivitamin + D3 & K2 birlikte (indirimli)',_new:true,
       _thumbs:[
         {image:'https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb4ff06b-863c-4008-91af-96b2082e17ab/image_1950.webp',label:'Multivitamin'},
         {image:'https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bede280e-6b37-490b-a99b-87463008eb4e/image_1950.webp',label:'D3 & K2'}
