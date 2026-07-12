@@ -344,10 +344,10 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           .ai-back{background:#fff;border:1px solid #e7ece9;border-radius:12px;padding:8px 14px;font-size:13px;font-weight:700;color:#0d6b45;cursor:pointer;margin-bottom:10px}
           @media(max-width:480px){.ai-title{font-size:22px}.ai-box{flex-direction:column;align-items:stretch}.ai-box button{width:100%}}
         </style>
-        <!-- Birleşik giriş (12 Tem 2026): serbest metin formun kendi motorunu besler —
-             metin anlık çözümlenir, kim-için + ihtiyaçlar + detaylar önceden seçilir ve
-             kullanıcı forma seçimleri hazır şekilde devam eder. Ayrı sohbet motoru YOK. -->
-        <div id="aiHeroWrap">
+        <!-- Serbest metin hero GİZLİ (12 Tem 2026, kullanıcı kararı: klasik giriş kartı kalsın).
+             Metin çözümleme motoru (_AI_RULES) duruyor ve formun "Diğer" alanına bağlı:
+             kullanıcı orada derdini yazınca ilgili konular + detaylar otomatik eklenir. -->
+        <div id="aiHeroWrap" style="display:none">
           <span class="ai-badge">Uzman Rehberliğinde &middot; Saniyeler içinde</span>
           <div class="ai-title">İhtiyacınızı anlatın, <b>size özel</b> planı hazırlayalım</div>
           <div class="ai-sub">Kendi cümlelerinizle yazın — örneğin “Geceleri uyuyamıyorum”, “Saçlarım dökülüyor” ya da “Bebeğim için vitamin arıyorum”. Sizi doğrudan size uygun plana yönlendirelim.</div>
@@ -366,7 +366,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
             <button type="button" onclick="aiChip('Bebeğim için vitamin ve bakım')">Bebeğim için vitamin</button>
           </div>
         </div>
-        <div class="ai-or"><span>ya da adım adım ilerleyin</span></div>
+        <div class="ai-or" style="display:none"><span>ya da adım adım ilerleyin</span></div>
         <script>
           // Serbest metin → form ön-doldurma. Motor formunkiyle AYNI (quiz_products.json);
           // metin sadece kim-için + ihtiyaç + detay seçimlerini hızlandırır.
@@ -405,7 +405,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
                if(_aiHas(t,['ogle'])) return {enerji:'ogleden'};
                if(_aiHas(t,['surekli','gun boyu','hep'])) return {enerji:'surekli'};
                return {};}},
-            {kw:['bagisik','hastalan','grip','nezle','soguk algin','direnc'],
+            {kw:['bagisik','hastalan','grip','nezle','soguk algin','direnc','propolis','ari sutu','ekinezya','cinko','c vitamini'],
              need:{yetiskin:'bagisiklik',cocuk:'bagisiklik',hamile:'vitamin'}, detail:function(t){
                if(_aiHas(t,['sik hastalan'])) return {bagisiklik:'sik'};
                if(_aiHas(t,['mevsim','kis'])) return {bagisiklik:'mevsim'};
@@ -478,40 +478,42 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
             {kw:['dis eti','dis kanam','dis macun','dis bakim','beyazlat','agiz koku','aft'],
              need:{cocuk:'dis'}}
           ];
-          function startAI(){
-            var raw=(document.getElementById('aiInput').value||'').trim();
-            if(!raw){document.getElementById('aiInput').focus();return;}
+          // Ortak çözümleyici: serbest metin → {who, needs[], details{}}.
+          // Hem (gizli) hero girişinde hem formun "Diğer" alanında kullanılır.
+          function _aiMapText(raw, whoFixed){
             var t=_aiNorm(raw);
-            var who=_aiWho(t);
-            state.who=who; state.note=raw;
-            state.needs=[]; state.details={};
+            var who=whoFixed||_aiWho(t);
+            var out={who:who, needs:[], details:{}};
             var validNeeds=(needMap[who]||needMap.yetiskin).map(function(o){return o.value;});
             _AI_RULES.forEach(function(r){
               if(!_aiHas(t,r.kw)) return;
               var n=r.need[who];
               if(n && validNeeds.indexOf(n)!==-1){
-                if(state.needs.indexOf(n)===-1) state.needs.push(n);
+                if(out.needs.indexOf(n)===-1) out.needs.push(n);
                 if(r.detail){var d=r.detail(t);Object.keys(d).forEach(function(k){
-                  if(k===n||state.needs.indexOf(k)!==-1) state.details[k]=d[k];});}
-              } else if(state.needs.indexOf('diger')===-1){
-                state.needs.push('diger');
+                  if(k===n||out.needs.indexOf(k)!==-1) out.details[k]=d[k];});}
               }
             });
-            if(state.needs.length===0) state.needs.push('diger');
-            // 1. adım UI'ını senkronla (geri dönülürse seçim görünsün)
+            return out;
+          }
+          function startAI(){
+            var raw=(document.getElementById('aiInput').value||'').trim();
+            if(!raw){document.getElementById('aiInput').focus();return;}
+            var m=_aiMapText(raw);
+            state.who=m.who; state.note=raw;
+            state.needs=m.needs.length?m.needs:['diger'];
+            state.details=m.details;
             document.querySelectorAll('#whoOptions .option').forEach(function(o){
-              o.classList.toggle('selected', o.dataset.value===who);
+              o.classList.toggle('selected', o.dataset.value===m.who);
             });
             var b1=document.getElementById('btn1'); if(b1) b1.disabled=false;
             var pw=document.getElementById('progressWrap'); if(pw) pw.style.display='';
             if(typeof trackEvent==='function') trackEvent('quiz_start',{via:'ai_text'});
-            // Form akışına gir: seçimler hazır, kullanıcı görsün ve onaylayıp devam etsin
-            goTo(2);
+            goTo(1);
             if(state.needs.indexOf('diger')!==-1){
               var ow=document.getElementById('otherWrap'),oi=document.getElementById('otherInput');
-              if(ow){ow.classList.add('visible');} if(oi&&!oi.value){oi.value=raw.slice(0,120);}
+              if(ow){ow.classList.add('visible');} if(oi&&!oi.value){oi.value=raw.slice(0,300);}
             }
-            if(typeof updateBtn2==='function') updateBtn2();
             try{window.scrollTo({top:0,behavior:'smooth'});}catch(e){}
           }
           function aiChip(txt){document.getElementById('aiInput').value=txt;startAI();}
@@ -598,7 +600,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       </div>
       <div class="options multi" id="needOptions"></div>
       <div class="other-input-wrap" id="otherWrap">
-        <input type="text" class="other-input" id="otherInput" placeholder="Örn: kolajen, göz bakımı, propolis..." oninput="onOtherInput()">
+        <textarea class="other-input" id="otherInput" rows="2" maxlength="600" placeholder="İhtiyacınızı kendi cümlelerinizle yazın — örn: &quot;Geceleri uyuyamıyorum, sabahları çok yorgun kalkıyorum&quot;" oninput="onOtherInput()" style="resize:vertical;min-height:52px"></textarea>
       </div>
       <div class="btn-row">
         <button class="btn-primary" id="btn2" disabled onclick="nextFromNeeds()">Devam Et</button>
@@ -749,9 +751,25 @@ fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats'
 const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, bloodCats:[], currentProducts:[], note:'' };
 
 // Detay sadece KRİTİK ihtiyaçlarda (ürünü gerçekten değiştirenler) sorulur
-const CRITICAL_DETAIL = ['cilt','sac','kadin'];
-function hasCriticalDetail(){ return (state.needs||[]).some(n=>n!=='diger' && typeof detailMap!=='undefined' && detailMap[n] && CRITICAL_DETAIL.includes(n)); }
-function nextFromNeeds(){ hasCriticalDetail() ? goTo(3) : goTo(4); }
+// Detay soruları TÜM konular için sorulur (12 Tem 2026) — detay cevapları
+// detailBias ile kategori sıralamasını değiştirir, en doğru ürün için gerekli.
+function hasCriticalDetail(){ return (state.needs||[]).some(n=>n!=='diger' && typeof detailMap!=='undefined' && detailMap[n]); }
+function nextFromNeeds(){
+  // "Diğer" serbest metnini çözümle: eşleşen konuları + detayları otomatik ekle
+  // (kullanıcı "geceleri uyuyamıyorum" yazdıysa uyku konusu ve detayı plana girer)
+  try{
+    if(state.needs.includes('diger')){
+      var _txt=(document.getElementById('otherInput').value||'').trim();
+      if(_txt){
+        state.note=_txt;
+        var m=_aiMapText(_txt, state.who);
+        m.needs.forEach(function(n){ if(state.needs.indexOf(n)===-1) state.needs.push(n); });
+        Object.keys(m.details).forEach(function(k){ if(!state.details[k]) state.details[k]=m.details[k]; });
+      }
+    }
+  }catch(e){}
+  hasCriticalDetail() ? goTo(3) : goTo(4);
+}
 
 // Şu an kullanılan yaygın ürünler (değer = iKAS kategori adı → çakışma kontrolü)
 const CURRENT_PRODUCT_OPTS = [
@@ -1171,10 +1189,17 @@ function goTo(n){
 function buildDetailStep(){
   const c=document.getElementById('detailContainer');
   c.innerHTML='';
-  state.details={};
-  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]&&CRITICAL_DETAIL.includes(n));
+  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
+  // Aktif olmayan ihtiyaçların detayını temizle; geçerli ön-seçimleri KORU
+  // (geri dönüp ilerleyince cevaplar kaybolmasın)
+  const kept={};
+  activeNeeds.forEach(n=>{
+    const v=state.details[n];
+    if(v && detailMap[n].options.some(o=>o.value===v)) kept[n]=v;
+  });
+  state.details=kept;
   if(!activeNeeds.length){
-    // Kritik detay yok — mevcut ürünler adımına geç
+    // Detay sorusu olan konu yok — mevcut ürünler adımına geç
     setTimeout(()=>goTo(4),100);
     return;
   }
@@ -1188,7 +1213,7 @@ function buildDetailStep(){
     opts.id='detail_'+needKey;
     dm.options.forEach(o=>{
       const div=document.createElement('div');
-      div.className='option';
+      div.className='option'+(state.details[needKey]===o.value?' selected':'');
       div.dataset.value=o.value;
       div.dataset.need=needKey;
       div.onclick=function(){selectDetail(this)};
@@ -1210,7 +1235,7 @@ function selectDetail(el){
 }
 
 function updateDetailBtn(){
-  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]&&CRITICAL_DETAIL.includes(n));
+  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
   const allAnswered=activeNeeds.every(n=>state.details[n]);
   document.getElementById('btn3').disabled=!allAnswered;
 }
@@ -1247,7 +1272,7 @@ function buildNeedOptions(){
   dg.className='option'+(state.needs.includes('diger')?' selected':'');
   dg.dataset.value='diger';
   dg.onclick=function(){selectMulti(this)};
-  dg.innerHTML='<div class="check"></div><div class="opt-icon">&#128172;</div><div class="opt-content"><div class="opt-label">Diğer</div><div class="opt-desc">Aradığınızı yazın</div></div>';
+  dg.innerHTML='<div class="check"></div><div class="opt-icon">&#128172;</div><div class="opt-content"><div class="opt-label">Diğer / Kendim anlatmak istiyorum</div><div class="opt-desc">İhtiyacınızı kendi cümlelerinizle yazın</div></div>';
   c.appendChild(dg);
   if(!state.needs.includes('diger')) document.getElementById('otherWrap').classList.remove('visible');
   updateBtn2();
