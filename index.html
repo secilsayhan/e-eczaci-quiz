@@ -89,6 +89,38 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
 .option .opt-label{font-size:.95rem;font-weight:600;color:var(--text)}
 .option .opt-desc{font-size:.78rem;color:var(--text-muted);margin-top:1px}
 
+/* ===== KONU SEÇİMİ: kompakt 2 sütun + seçilen konunun altında detay sorusu ===== */
+#needOptions{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+#needOptions .option{padding:10px 12px;gap:9px;border-radius:10px}
+#needOptions .option .opt-icon{font-size:1.1rem}
+#needOptions .option .opt-label{font-size:.83rem;line-height:1.25}
+#needOptions .option .opt-desc{display:none}
+#needOptions .option .check{width:18px;height:18px}
+#needOptions .option .popular-badge{display:none}
+#needOptions .option[data-value="diger"]{grid-column:1/-1}
+#needOptions .detail-inline{grid-column:1/-1}
+.detail-inline{background:#f8fbf9;border:1.5px solid #dcebe2;border-radius:12px;padding:12px 14px;margin:0 0 2px}
+.detail-inline .di-q{font-size:.85rem;font-weight:700;color:#0a4c32;margin-bottom:8px}
+.detail-inline .di-opts{display:flex;flex-wrap:wrap;gap:6px}
+.detail-inline .di-opt{border:1.5px solid var(--border);border-radius:999px;padding:7px 12px;font-size:.8rem;
+  cursor:pointer;background:#fff;transition:var(--transition);user-select:none}
+.detail-inline .di-opt:hover{border-color:#0a4c32}
+.detail-inline .di-opt.selected{background:#0a4c32;border-color:#0a4c32;color:#fff;font-weight:600}
+.detail-inline .di-free{width:100%;margin-top:8px;padding:9px 12px;border:1.5px solid var(--border);
+  border-radius:10px;font-size:.82rem;font-family:var(--font);outline:none;background:#fff}
+.detail-inline .di-free:focus{border-color:#0a4c32}
+/* Yazarak ürün ekleme (adım 4) */
+.typed-add{display:flex;gap:8px;margin-top:10px}
+.typed-add input{flex:1;padding:11px 14px;border:1.5px solid var(--border);border-radius:10px;
+  font-size:.88rem;font-family:var(--font);outline:none;background:var(--card)}
+.typed-add input:focus{border-color:#0a4c32}
+.typed-add button{padding:0 18px;background:#0a4c32;color:#fff;border:none;border-radius:10px;
+  font-weight:700;font-size:.85rem;font-family:var(--font);cursor:pointer}
+.typed-chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.typed-chips .tchip{display:inline-flex;align-items:center;gap:6px;background:#eef6f1;border:1px solid #cfe5d8;
+  border-radius:999px;padding:6px 8px 6px 12px;font-size:.8rem;color:#0a4c32;font-weight:600}
+.typed-chips .tchip b{cursor:pointer;font-weight:800;padding:0 4px}
+
 /* ===== OTHER INPUT ===== */
 .other-input-wrap{margin-top:10px;overflow:hidden;max-height:0;opacity:0;transition:max-height .3s ease,opacity .3s ease}
 .other-input-wrap.visible{max-height:100px;opacity:1}
@@ -629,8 +661,13 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         <div class="step-multi-hint">&#10003; Birden fazla seçebilirsiniz (opsiyonel)</div>
       </div>
       <div class="options multi" id="currentProductOptions"></div>
+      <div class="typed-add">
+        <input type="text" id="typedProductInput" placeholder="Listede yok mu? Ürün adını yazın (örn: Solgar Omega-3)" maxlength="80" onkeydown="if(event.key==='Enter'){event.preventDefault();addTypedProduct();}">
+        <button type="button" onclick="addTypedProduct()">Ekle</button>
+      </div>
+      <div class="typed-chips" id="typedChips"></div>
       <div class="other-input-wrap" style="display:block;margin-top:14px;">
-        <textarea class="other-input" id="noteInput" rows="2" placeholder="Kullandığınız başka ürünler ya da belirtmek istediğiniz bir şey (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
+        <textarea class="other-input" id="noteInput" rows="2" placeholder="Belirtmek istediğiniz başka bir şey (opsiyonel)" oninput="state.note=this.value" style="resize:vertical;min-height:48px;font-family:var(--font);"></textarea>
       </div>
       <div class="btn-row">
         <button class="btn-primary" id="btn4" onclick="goTo(6)">Devam Et</button>
@@ -748,12 +785,12 @@ fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats'
 }).catch(()=>{});
 
 /* ===== STATE ===== */
-const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, bloodCats:[], currentProducts:[], note:'' };
+const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, bloodCats:[], currentProducts:[], typedProducts:[], note:'' };
 
 // Detay sadece KRİTİK ihtiyaçlarda (ürünü gerçekten değiştirenler) sorulur
-// Detay soruları TÜM konular için sorulur (12 Tem 2026) — detay cevapları
-// detailBias ile kategori sıralamasını değiştirir, en doğru ürün için gerekli.
-function hasCriticalDetail(){ return (state.needs||[]).some(n=>n!=='diger' && typeof detailMap!=='undefined' && detailMap[n]); }
+// Detaylar artık 2. adımda konunun altında soruluyor; 3. adım yalnızca
+// cevaplanmamış detay kalırsa (ör. serbest metinden eklenen konu) devreye girer.
+function hasCriticalDetail(){ return (state.needs||[]).some(n=>n!=='diger' && typeof detailMap!=='undefined' && detailMap[n] && !state.details[n]); }
 function nextFromNeeds(){
   // "Diğer" serbest metnini çözümle: eşleşen konuları + detayları otomatik ekle
   // (kullanıcı "geceleri uyuyamıyorum" yazdıysa uyku konusu ve detayı plana girer)
@@ -785,7 +822,51 @@ const CURRENT_PRODUCT_OPTS = [
   {v:'C Vitamini', l:'C Vitamini'},
   {v:'Diğer', l:'Diğer'}
 ];
+// Yazarak eklenen ürünler: katalogda isimle arar, bulursa plana pinler
+function findProductByText(txt){
+  if(!quizData||!quizData.categories) return null;
+  const words=_aiNorm(txt).split(/[^a-z0-9]+/).filter(w=>w.length>2);
+  if(!words.length) return null;
+  let best=null, bestScore=0;
+  for(const cat in quizData.categories){
+    for(const p of quizData.categories[cat]){
+      const n=_aiNorm(p.name||'');
+      let s=0; words.forEach(w=>{ if(n.indexOf(w)!==-1) s++; });
+      if(s>bestScore || (s===bestScore && best && (p.stock||0)>(best.p.stock||0))){
+        if(s>0){ bestScore=s; best={p:p, cat:cat}; }
+      }
+    }
+  }
+  // Kelimelerin en az yarısı eşleşmeli (alakasız ürün pinlenmesin)
+  if(!best || bestScore < Math.max(1, Math.ceil(words.length/2))) return null;
+  return {slug:best.p.slug, cat:best.cat, name:best.p.name};
+}
+
+function renderTypedChips(){
+  const c=document.getElementById('typedChips'); if(!c) return;
+  c.innerHTML='';
+  (state.typedProducts||[]).forEach(function(t,i){
+    const chip=document.createElement('span');
+    chip.className='tchip';
+    chip.innerHTML='&#10003; '+t.replace(/</g,'&lt;')+' <b data-i="'+i+'">&times;</b>';
+    chip.querySelector('b').onclick=function(){ state.typedProducts.splice(i,1); renderTypedChips(); };
+    c.appendChild(chip);
+  });
+}
+
+function addTypedProduct(){
+  const inp=document.getElementById('typedProductInput');
+  const txt=(inp.value||'').trim();
+  if(!txt) return;
+  state.typedProducts=state.typedProducts||[];
+  if(state.typedProducts.indexOf(txt)===-1) state.typedProducts.push(txt);
+  inp.value='';
+  renderTypedChips();
+  trackEvent('typed_product_add',{});
+}
+
 function buildCurrentProducts(){
+  renderTypedChips();
   const c = document.getElementById('currentProductOptions');
   if(!c) return;
   c.innerHTML='';
@@ -1093,12 +1174,83 @@ function selectSingle(el, field) {
   trackEvent('step_selection',{field,value:el.dataset.value});
 }
 
+// Serbest metin cevabını en yakın seçeneğe eşle (label+desc kelime örtüşmesi).
+// Eşleşirse detailBias çalışır; eşleşmezse ham metin detay olarak saklanır (nota da düşer).
+function _matchDetailOption(needKey, txt){
+  const dm=detailMap[needKey]; if(!dm) return null;
+  const t=_aiNorm(txt);
+  let best=null, bestScore=0;
+  dm.options.forEach(o=>{
+    const words=_aiNorm(o.label+' '+o.desc).split(/[^a-z0-9]+/).filter(w=>w.length>3);
+    let s=0; words.forEach(w=>{ if(t.indexOf(w)!==-1) s++; });
+    if(s>bestScore){bestScore=s;best=o.value;}
+  });
+  return bestScore>0?best:null;
+}
+
+function removeInlineDetail(needKey){
+  const ex=document.getElementById('di_'+needKey);
+  if(ex) ex.remove();
+}
+
+// Seçilen konunun kartının hemen altında detay sorusu + serbest cevap alanı
+function renderInlineDetail(optionEl, needKey){
+  removeInlineDetail(needKey);
+  const dm=detailMap[needKey]; if(!dm) return;
+  const box=document.createElement('div');
+  box.className='detail-inline'; box.id='di_'+needKey;
+  box.onclick=function(e){e.stopPropagation();};
+  box.innerHTML='<div class="di-q">'+dm.icon+' '+dm.question+'</div>';
+  const opts=document.createElement('div'); opts.className='di-opts';
+  dm.options.forEach(o=>{
+    const b=document.createElement('div');
+    b.className='di-opt'+(state.details[needKey]===o.value?' selected':'');
+    b.dataset.value=o.value;
+    b.textContent=o.label;
+    b.onclick=function(e){
+      e.stopPropagation();
+      opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
+      b.classList.add('selected');
+      state.details[needKey]=o.value;
+      const f=box.querySelector('.di-free'); if(f) f.value='';
+      updateBtn2();
+    };
+    opts.appendChild(b);
+  });
+  box.appendChild(opts);
+  const free=document.createElement('input');
+  free.type='text'; free.className='di-free'; free.maxLength=200;
+  free.placeholder='ya da kendi cevabınızı yazın...';
+  if(state.details[needKey] && !dm.options.some(o=>o.value===state.details[needKey])) free.value=state.details[needKey];
+  free.onclick=function(e){e.stopPropagation();};
+  free.oninput=function(){
+    const txt=this.value.trim();
+    opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
+    if(txt){
+      const m=_matchDetailOption(needKey, txt);
+      if(m){ const hit=opts.querySelector('.di-opt[data-value="'+m+'"]'); if(hit) hit.classList.add('selected'); }
+      state.details[needKey]=m||txt;
+    } else {
+      delete state.details[needKey];
+    }
+    updateBtn2();
+  };
+  box.appendChild(free);
+  optionEl.insertAdjacentElement('afterend', box);
+}
+
 function selectMulti(el) {
   const val = el.dataset.value;
   el.classList.toggle('selected');
   if(el.classList.contains('selected')) el.classList.add('just-selected');
   const idx = state.needs.indexOf(val);
   if(idx > -1) state.needs.splice(idx,1); else state.needs.push(val);
+
+  // Detay sorusu: konu seçilince kartın altında açılır, kaldırılınca kapanır
+  if(val!=='diger' && detailMap[val]){
+    if(state.needs.includes(val)) renderInlineDetail(el, val);
+    else { removeInlineDetail(val); delete state.details[val]; }
+  }
 
   // Diğer input
   const wrap = document.getElementById('otherWrap');
@@ -1117,7 +1269,9 @@ function updateBtn2(){
   const hasNormal = state.needs.some(n=>n!=='diger');
   const hasDiger = state.needs.includes('diger');
   const digerOk = hasDiger ? !!document.getElementById('otherInput').value.trim() : true;
-  document.getElementById('btn2').disabled = !(hasNormal || (hasDiger && digerOk));
+  // Seçilen her konunun detay sorusu cevaplanmalı (seçenek veya serbest metin)
+  const detailsOk = state.needs.every(n=>n==='diger'||!detailMap[n]||!!state.details[n]);
+  document.getElementById('btn2').disabled = !((hasNormal || (hasDiger && digerOk)) && detailsOk);
 }
 
 function startQuiz(){
@@ -1163,7 +1317,7 @@ function sendAnalizSubmit(){
       email:state.email,name:state.name,segment:state.who,
       needs:state.needs,details:state.details,lifestyle:state.lifestyle,
       form:state.form,brands:state.brands,budget:state.budget,
-      current_products:state.currentProducts,note:state.note,blood_cats:state.bloodCats,
+      current_products:state.currentProducts.concat((state.typedProducts||[]).map(function(t){return 'Yazıldı: '+t;})),note:state.note,blood_cats:state.bloodCats,
       source:'analiz_page',
       product_count:recSlugs.length,
       recommended_slugs:recSlugs,
@@ -1189,48 +1343,54 @@ function goTo(n){
 function buildDetailStep(){
   const c=document.getElementById('detailContainer');
   c.innerHTML='';
-  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
-  // Aktif olmayan ihtiyaçların detayını temizle; geçerli ön-seçimleri KORU
-  // (geri dönüp ilerleyince cevaplar kaybolmasın)
-  const kept={};
-  activeNeeds.forEach(n=>{
-    const v=state.details[n];
-    if(v && detailMap[n].options.some(o=>o.value===v)) kept[n]=v;
-  });
-  state.details=kept;
+  // Seçili olmayan konuların detayını temizle
+  Object.keys(state.details).forEach(k=>{ if(!state.needs.includes(k)) delete state.details[k]; });
+  // Sadece CEVAPLANMAMIŞ detaylar sorulur (2. adımda inline cevaplananlar tekrar sorulmaz)
+  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]&&!state.details[n]);
   if(!activeNeeds.length){
-    // Detay sorusu olan konu yok — mevcut ürünler adımına geç
     setTimeout(()=>goTo(4),100);
     return;
   }
   activeNeeds.forEach(needKey=>{
     const dm=detailMap[needKey];
-    const group=document.createElement('div');
-    group.className='detail-group';
-    group.innerHTML=`<div class="detail-question"><span class="dq-icon">${dm.icon}</span>${dm.question}</div>`;
-    const opts=document.createElement('div');
-    opts.className='options';
-    opts.id='detail_'+needKey;
+    const box=document.createElement('div');
+    box.className='detail-inline';
+    box.style.marginBottom='12px';
+    box.innerHTML='<div class="di-q">'+dm.icon+' '+dm.question+'</div>';
+    const opts=document.createElement('div'); opts.className='di-opts';
     dm.options.forEach(o=>{
-      const div=document.createElement('div');
-      div.className='option'+(state.details[needKey]===o.value?' selected':'');
-      div.dataset.value=o.value;
-      div.dataset.need=needKey;
-      div.onclick=function(){selectDetail(this)};
-      div.innerHTML=`<div class="check"></div><div class="opt-content"><div class="opt-label">${o.label}</div><div class="opt-desc">${o.desc}</div></div>`;
-      opts.appendChild(div);
+      const b=document.createElement('div');
+      b.className='di-opt'+(state.details[needKey]===o.value?' selected':'');
+      b.dataset.value=o.value;
+      b.textContent=o.label;
+      b.onclick=function(){
+        opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
+        b.classList.add('selected');
+        state.details[needKey]=o.value;
+        const f=box.querySelector('.di-free'); if(f) f.value='';
+        updateDetailBtn();
+      };
+      opts.appendChild(b);
     });
-    group.appendChild(opts);
-    c.appendChild(group);
+    box.appendChild(opts);
+    const free=document.createElement('input');
+    free.type='text'; free.className='di-free'; free.maxLength=200;
+    free.placeholder='ya da kendi cevabınızı yazın...';
+    free.oninput=function(){
+      const txt=this.value.trim();
+      opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
+      if(txt){
+        const m=_matchDetailOption(needKey, txt);
+        if(m){ const hit=opts.querySelector('.di-opt[data-value="'+m+'"]'); if(hit) hit.classList.add('selected'); }
+        state.details[needKey]=m||txt;
+      } else {
+        delete state.details[needKey];
+      }
+      updateDetailBtn();
+    };
+    box.appendChild(free);
+    c.appendChild(box);
   });
-  updateDetailBtn();
-}
-
-function selectDetail(el){
-  const needKey=el.dataset.need;
-  el.closest('.options').querySelectorAll('.option').forEach(o=>{o.classList.remove('selected','just-selected')});
-  el.classList.add('selected','just-selected');
-  state.details[needKey]=el.dataset.value;
   updateDetailBtn();
 }
 
@@ -1274,6 +1434,11 @@ function buildNeedOptions(){
   dg.onclick=function(){selectMulti(this)};
   dg.innerHTML='<div class="check"></div><div class="opt-icon">&#128172;</div><div class="opt-content"><div class="opt-label">Diğer / Kendim anlatmak istiyorum</div><div class="opt-desc">İhtiyacınızı kendi cümlelerinizle yazın</div></div>';
   c.appendChild(dg);
+  // Seçili konuların detay soruları (geri dönüş / ön-doldurma sonrası) yeniden çizilir
+  c.querySelectorAll('.option').forEach(div=>{
+    const v=div.dataset.value;
+    if(v && v!=='diger' && state.needs.includes(v) && detailMap[v]) renderInlineDetail(div, v);
+  });
   if(!state.needs.includes('diger')) document.getElementById('otherWrap').classList.remove('visible');
   updateBtn2();
 }
@@ -1378,7 +1543,7 @@ function showResults(){
 }
 
 function restart(){
-  state.name='';state.who=null;state.needs=[];state.details={};state.lifestyle=null;state.form=null;state.brands=['any'];state.budget='any';state.email=null;state.bloodCats=[];state.currentProducts=[];state.note='';
+  state.name='';state.who=null;state.needs=[];state.details={};state.lifestyle=null;state.form=null;state.brands=['any'];state.budget='any';state.email=null;state.bloodCats=[];state.currentProducts=[];state.typedProducts=[];state.note='';
   {const _ni=document.getElementById('noteInput');if(_ni)_ni.value='';}
   {const _bs=document.getElementById('bloodStatus');if(_bs)_bs.innerHTML='';const _bi=document.getElementById('bloodInput');if(_bi)_bi.value='';}
   document.querySelectorAll('.option').forEach(o=>o.classList.remove('selected'));
@@ -1530,6 +1695,13 @@ function renderProducts(){
       if(quizData.categories[cat]) needGroups.push({need:'yenileme', cats:[cat]});
     }
   }
+  // Yazarak eklenen ürünler → katalogda bulunursa TAM O ÜRÜN plana pinlenir
+  if(state.typedProducts && state.typedProducts.length){
+    for(const txt of state.typedProducts){
+      const hit=findProductByText(txt);
+      if(hit) needGroups.push({need:'yenileme', cats:[hit.cat], pin:hit.slug});
+    }
+  }
 
   const pickedSlugs=new Set();
 
@@ -1599,6 +1771,17 @@ function renderProducts(){
 
   // Her ihtiyaç için en alakalı (detay-biaslı) uygun ürün — içerik tekrarından kaçın
   function pickValue(group){
+    // Pinli grup: kullanıcının yazdığı ürün katalogda bulunduysa doğrudan o seçilir
+    if(group.pin){
+      for(const cat of group.cats){
+        const p=(quizData.categories[cat]||[]).find(x=>x.slug===group.pin);
+        if(p && !pickedSlugs.has(p.slug)){
+          const cand={...p,_fromCat:cat};
+          pickedSlugs.add(p.slug); markIng(cand);
+          return {need:group.need, reason:getCategoryReason(cat, group.need), value:cand};
+        }
+      }
+    }
     const pool=poolFor(group.cats);
     if(!pool.length) return null;
     // aynı içerikte: önce stok bucket (bol olan), sonra uygun fiyat — etkinlik korunur, OOS riski düşer
