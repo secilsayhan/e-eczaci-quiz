@@ -742,20 +742,6 @@
         "stock": 2
       },
       {
-        "name": "b-good Atopik Krem Bebek Çocuk 150 ml",
-        "slug": "b-good-atopik-krem-bebek-cocuk-150-ml",
-        "brand": "b-good",
-        "price": 459.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/414cd9b7-151d-4a64-a852-702258f80ccb/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "En Yeniler",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
         "name": "b-good Nemlendirici Vücut Kremi Atopik Ciltler Bebek ve Çocuk 150 ml",
         "slug": "b-good-nemlendirici-vucut-kremi-atopik-ciltler-bebek-ve-cocuk-150-ml",
         "brand": "b-good",
@@ -1964,7 +1950,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 60
+        "stock": 58
       },
       {
         "name": "Ocean Daily One Energy Tablet 30 Tablet",
@@ -8284,7 +8270,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 25
+        "stock": 26
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -8902,7 +8888,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 25
+        "stock": 26
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -12958,20 +12944,6 @@
         "stock": 3
       },
       {
-        "name": "b-good Atopik Krem Bebek Çocuk 150 ml",
-        "slug": "b-good-atopik-krem-bebek-cocuk-150-ml",
-        "brand": "b-good",
-        "price": 459.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/414cd9b7-151d-4a64-a852-702258f80ccb/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "En Yeniler",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
         "name": "b-good Nemlendirici Vücut Kremi Atopik Ciltler Bebek ve Çocuk 150 ml",
         "slug": "b-good-nemlendirici-vucut-kremi-atopik-ciltler-bebek-ve-cocuk-150-ml",
         "brand": "b-good",
@@ -13811,19 +13783,6 @@
           "Magnezyum Malat"
         ],
         "stock": 80
-      },
-      {
-        "name": "Ocean Plus Omega 3 Balık Yağı 1200 mg 50+50 Kapsül",
-        "slug": "ocean-plus-omega-3-balik-yagi-1200-mg-100-kapsul",
-        "brand": "Orzax",
-        "price": 1212.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/05e8e72d-ed06-42f1-9a24-d3f2a5704295/image_1950.webp",
-        "cats": [
-          "Omega 3",
-          "Çok Satanlar"
-        ],
-        "stock": 91
       },
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
@@ -28718,19 +28677,6 @@
         "stock": 9
       },
       {
-        "name": "Ocean Plus Omega 3 Balık Yağı 1200 mg 50+50 Kapsül",
-        "slug": "ocean-plus-omega-3-balik-yagi-1200-mg-100-kapsul",
-        "brand": "Orzax",
-        "price": 1212.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/05e8e72d-ed06-42f1-9a24-d3f2a5704295/image_1950.webp",
-        "cats": [
-          "Omega 3",
-          "Çok Satanlar"
-        ],
-        "stock": 91
-      },
-      {
         "name": "Ocuvite Max Kapsül Omega 3 Lutein Zeaksantin Vitamin Ekstre Takviyesi 60 Kapsül",
         "slug": "ocuvite-max-kapsul-omega-3-lutein-zeaksantin-vitamin-ekstre-60-kapsul",
         "brand": "Ocuvite",
@@ -32918,7 +32864,7 @@
           "Terleme Karşıtı",
           "Roll-on"
         ],
-        "stock": 20
+        "stock": 19
       }
     ],
     "Erkek Roll-On": [
@@ -34149,7 +34095,7 @@
           "Terleme Karşıtı",
           "Roll-on"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "TTO TRX Roll On 45 ml",
@@ -35179,7 +35125,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 25
+        "stock": 26
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -36453,7 +36399,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Berberin"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "GoodDay Fonksiyonel Tıp InsulEX 1 Saşe İnositol ve Bitki Ekstreleri 30 Saşe",
@@ -37041,7 +36987,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Berberin"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ligone Berberis Vulgaris Kapsül Kadın Tuzluğu Takviyesi 60 Kapsül",
@@ -38882,7 +38828,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 25
+        "stock": 26
       }
     ],
     "Kuşburnu": [
@@ -45597,20 +45543,6 @@
     ],
     "En Yeniler": [
       {
-        "name": "b-good Atopik Krem Bebek Çocuk 150 ml",
-        "slug": "b-good-atopik-krem-bebek-cocuk-150-ml",
-        "brand": "b-good",
-        "price": 459.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/414cd9b7-151d-4a64-a852-702258f80ccb/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "En Yeniler",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
         "name": "b-good Nemlendirici Vücut Kremi Atopik Ciltler Bebek ve Çocuk 150 ml",
         "slug": "b-good-nemlendirici-vucut-kremi-atopik-ciltler-bebek-ve-cocuk-150-ml",
         "brand": "b-good",
@@ -45802,9 +45734,9 @@
     ]
   },
   "stats": {
-    "total_products": 3099,
+    "total_products": 3094,
     "total_categories": 567,
-    "generated": "2026-07-13 08:03",
+    "generated": "2026-07-13 15:00",
     "source": "ikas_api_live"
   }
 }
