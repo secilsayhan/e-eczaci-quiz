@@ -1581,7 +1581,7 @@
         "stock": 2
       },
       {
-        "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "hpwash-kapsul-aktif-heksoz-korele-bilesik-ve-dim-iceren-takviye-edici",
         "brand": "HPWash",
         "price": 2915.0,
@@ -1841,7 +1841,7 @@
         "stock": 14
       },
       {
-        "name": "Nurse Harvey's Gg Oral Damla, Rumi Papatya, Çörekotu ve Melisa İçeren Takviye Edici Gida 20ml Şişe",
+        "name": "Nurse Harvey's Gg Oral Damla, Rumi Papatya, Çörekotu ve Melisa İçeren Takviye Edici Gıda 20ml Şişe",
         "slug": "nurse-harveys-gg-oral-damla-rumi-papatya-corekotu-ve-melisa-iceren",
         "brand": "Nurse Harvey's",
         "price": 695.0,
@@ -1892,18 +1892,6 @@
         "stock": 1
       },
       {
-        "name": "OCEAN PANAX GINSENG İÇEREN TAKVİYE EDİCİ GIDA 60 KAPSÜL",
-        "slug": "ocean-panax-ginseng-iceren-takviye-edici-gida-60-kapsul",
-        "brand": "Orzax",
-        "price": 689.9,
-        "discount_price": 552.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f4f2d57-40ab-418a-a2d0-79b2b903650e/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
-        "stock": 17
-      },
-      {
         "name": "Ocean Betain HCL + Pepsin Tablet Betain ve Pepsin İçeren Takviye Edici Gıda 120 Tablet",
         "slug": "ocean-betain-hcl-pepsin-tablet-betain-ve-pepsin-120-tablet",
         "brand": "Orzax",
@@ -1941,7 +1929,7 @@
         "stock": 45
       },
       {
-        "name": "Ocean Daily One Energy 1 Alana 1 Bedava",
+        "name": "Ocean Daily One Energy (1+1 Paket)",
         "slug": "ocean-daily-one-energy-1-alana-1-bedava",
         "brand": "Orzax",
         "price": 654.5,
@@ -1977,7 +1965,7 @@
         "stock": 13
       },
       {
-        "name": "Ocean Glucosamine Complex 60 Tablet 1 Alana 1 Hediye",
+        "name": "Ocean Glucosamine Complex 60 Tablet (1+1 Paket)",
         "slug": "ocean-glucosamine-complex-60-tablet-1-alana-1-hediye",
         "brand": "Orzax",
         "price": 1119.0,
@@ -2023,6 +2011,18 @@
           "Vitamin ve Takviye"
         ],
         "stock": 12
+      },
+      {
+        "name": "Ocean Panax Ginseng İçeren Takviye Edici Gıda 60 Kapsül",
+        "slug": "ocean-panax-ginseng-iceren-takviye-edici-gida-60-kapsul",
+        "brand": "Orzax",
+        "price": 689.9,
+        "discount_price": 552.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f4f2d57-40ab-418a-a2d0-79b2b903650e/image_1950.webp",
+        "cats": [
+          "Vitamin ve Takviye"
+        ],
+        "stock": 17
       },
       {
         "name": "Ocean Passiflora Kapsül 30 Kapsül",
@@ -2113,7 +2113,7 @@
         "stock": 1
       },
       {
-        "name": "Omepa 1500 Yumuşak Kapsül, Balik Yaği İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Omepa 1500 Yumuşak Kapsül, Balik Yaği İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "omepa-1500-yumusak-kapsul-balik-yagi-iceren-takviye-edici-gida-30",
         "brand": "Omepa",
         "price": 1097.0,
@@ -2253,18 +2253,6 @@
         "stock": 2
       },
       {
-        "name": "VICHY LIFTACTIV COLLAGEN SPECIALIST 50 ML",
-        "slug": "vichy-liftactiv-collagen-specialist-50-ml",
-        "brand": "Vichy",
-        "price": 3849.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9615fa64-acb3-4028-8483-a63160045f23/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Velavit V-Firstect With Colostrum 30 Kapsül",
         "slug": "velavit-v-firstect-with-colostrum-30-kapsul",
         "brand": "Velavit",
@@ -2295,6 +2283,18 @@
         "price": 735.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e7f5a66-818f-4caa-8bf3-6c2833ad9e3d/image_1950.webp",
+        "cats": [
+          "Vitamin ve Takviye"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Vichy Liftactiv Collagen Specialist 50 ml",
+        "slug": "vichy-liftactiv-collagen-specialist-50-ml",
+        "brand": "Vichy",
+        "price": 3849.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9615fa64-acb3-4028-8483-a63160045f23/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye"
         ],
@@ -2337,7 +2337,7 @@
         "stock": 4
       },
       {
-        "name": "Vitaly One Kapsül, Tip 1 Kollajen, Bromelain ve Rutin İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Vitaly One Kapsül, Tip 1 Kollajen, Bromelain ve Rutin İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "vitaly-one-kapsul-tip-1-kollajen-bromelain-ve-rutin-iceren-takviye",
         "brand": "Vitaly",
         "price": 1263.0,
@@ -2403,7 +2403,7 @@
         "stock": 5
       },
       {
-        "name": "İntramag Day & Night Tablet Takviye Edici Gida Seti 30+30 Tablet",
+        "name": "İntramag Day & Night Tablet Takviye Edici Gıda Seti 30+30 Tablet",
         "slug": "intramag-day-night-tablet-takviye-edici-gida-seti-3030-tablet",
         "brand": "Intramag",
         "price": 1464.0,
@@ -2543,7 +2543,7 @@
         "stock": 1
       },
       {
-        "name": "Nbtlife Lifeguard Kapsül, Selenyum, Çinko, Bakir ve İyot İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Nbtlife Lifeguard Kapsül, Selenyum, Çinko, Bakir ve İyot İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "nbtlife-lifeguard-kapsul-selenyum-cinko-bakir-ve-iyot-iceren-takviye",
         "brand": "NBT Life",
         "price": 749.0,
@@ -2557,7 +2557,7 @@
         "stock": 1
       },
       {
-        "name": "Ocean Picozinc 45 Tablet %50 Hediye",
+        "name": "Ocean Picozinc 45 Tablet (%50 Bonus)",
         "slug": "ocean-picozinc-45-tablet-50-hediye",
         "brand": "Orzax",
         "price": 284.5,
@@ -2594,7 +2594,7 @@
         "stock": 7
       },
       {
-        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gida 240ml Şişe",
+        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gıda 240ml Şişe",
         "slug": "phytopharma-servi-kozalagi-sivi-cam-kavanoz-sakiz-cinko-ve-d-vitamini",
         "brand": "Phytopharma",
         "price": 438.0,
@@ -2610,7 +2610,7 @@
         "stock": 2
       },
       {
-        "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gida 20 Adet",
+        "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
         "slug": "phytorelief-junior-cignenebilir-form-turmeric-pomegranate-ginger",
         "brand": "PhytoRelief",
         "price": 380.0,
@@ -3455,7 +3455,7 @@
         "stock": 6
       },
       {
-        "name": "BEPANTHOL DERMA YOĞUN NEMLENDİRİCİ GÜNLÜK VÜCUT LOSYONU 200 ML",
+        "name": "Bepanthol Derma Yoğun Nemlendirici Günlük Vücut Losyonu 200 ml",
         "slug": "bepanthol-derma-yogun-nemlendirici-gunluk-vucut-losyonu-200-ml",
         "brand": "",
         "price": 939.9,
@@ -4626,7 +4626,7 @@
     ],
     "Probiyotik": [
       {
-        "name": "Anti Bactovis Kapsül, Probiyotik Mikroorganizma İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Anti Bactovis Kapsül, Probiyotik Mikroorganizma İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "anti-bactovis-kapsul-probiyotik-mikroorganizma-iceren-takviye-edici",
         "brand": "Anti Bovelax",
         "price": 699.0,
@@ -4654,7 +4654,7 @@
         "stock": 7
       },
       {
-        "name": "Bigflor Probiyotik Saşe, Probiyotik Mikroorganizma İçeren Takviye Edici Gida 10 Saşe",
+        "name": "Bigflor Probiyotik Saşe, Probiyotik Mikroorganizma İçeren Takviye Edici Gıda 10 Saşe",
         "slug": "bigflor-probiyotik-sase-probiyotik-mikroorganizma-iceren-takviye",
         "brand": "Biocodex",
         "price": 324.5,
@@ -4802,7 +4802,7 @@
         "stock": 1
       },
       {
-        "name": "Ligoflor Probiyotik Saşe, Probiyotik Mikroorganizma İçeren Takviye Edici Gida 10 Saşe",
+        "name": "Ligoflor Probiyotik Saşe, Probiyotik Mikroorganizma İçeren Takviye Edici Gıda 10 Saşe",
         "slug": "ligoflor-probiyotik-sase-probiyotik-mikroorganizma-iceren-takviye",
         "brand": "Ligone",
         "price": 400.0,
@@ -5013,7 +5013,7 @@
     ],
     "Sindirim Sağlığı": [
       {
-        "name": "Anti Bactovis Kapsül, Probiyotik Mikroorganizma İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Anti Bactovis Kapsül, Probiyotik Mikroorganizma İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "anti-bactovis-kapsul-probiyotik-mikroorganizma-iceren-takviye-edici",
         "brand": "Anti Bovelax",
         "price": 699.0,
@@ -5832,7 +5832,7 @@
         "stock": 12
       },
       {
-        "name": "Ligone Methyl B12 Dilalti Sprey, B12 Vitamini İçeren Takviye Edici Gida 2x20ml Şişe",
+        "name": "Ligone Methyl B12 Dilalti Sprey, B12 Vitamini İçeren Takviye Edici Gıda 2x20ml Şişe",
         "slug": "ligone-methyl-b12-dilalti-sprey-b12-vitamini-iceren-takviye-edici",
         "brand": "Ligone",
         "price": 600.0,
@@ -5902,22 +5902,6 @@
         "stock": 29
       },
       {
-        "name": "OCEAN METHYL B12 500 MCG DİLALTI SPREY, B12 VİTAMİNİ (METİLKOBALAMİN) İÇEREN TAKVİYE EDİCİ GIDA 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
-        "brand": "Orzax",
-        "price": 377.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
-        "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "B12 Vitamini",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "B3 Vitamini (Niasin)"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 10 ml Şişe",
         "slug": "ocean-methyl-b12-1000-mcg-dilalti-sprey-10-ml-sise",
         "brand": "Orzax",
@@ -5952,6 +5936,22 @@
           "B12 Vitamini"
         ],
         "stock": 5
+      },
+      {
+        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
+        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
+        "brand": "Orzax",
+        "price": 377.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
+        "cats": [
+          "B2 Vitamini (Riboflavin)",
+          "B12 Vitamini",
+          "B6 Vitamini (Piridoksin)",
+          "B5 Vitamini (Pantotenik Asit)",
+          "B3 Vitamini (Niasin)"
+        ],
+        "stock": 1
       },
       {
         "name": "Orzax Ocean Metil B12 Dilaltı Sprey 1000 mcg",
@@ -7791,7 +7791,7 @@
         "stock": 11
       },
       {
-        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gida 50ml Şişe",
+        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gıda 50ml Şişe",
         "slug": "newvit-demir-oral-damla-demir-sulfat-iceren-takviye-edici-gida-50ml",
         "brand": "Newvit",
         "price": 600.0,
@@ -7806,7 +7806,7 @@
         "stock": 4
       },
       {
-        "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gida 200ml Şişe",
+        "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gıda 200ml Şişe",
         "slug": "newvit-demir-surup-demir-sulfat-iceren-takviye-edici-gida-200ml-sise",
         "brand": "Newvit",
         "price": 600.0,
@@ -8986,7 +8986,7 @@
         "stock": 1
       },
       {
-        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gida 150ml Şişe",
+        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
         "slug": "zebovit-sivi-cam-sise-fosfotidilserin-kolin-sitikolin-l-arjinin-l",
         "brand": "Zebovit",
         "price": 453.0,
@@ -9117,7 +9117,7 @@
         "stock": 10
       },
       {
-        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gida 150ml Şişe",
+        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
         "slug": "zebovit-sivi-cam-sise-fosfotidilserin-kolin-sitikolin-l-arjinin-l",
         "brand": "Zebovit",
         "price": 453.0,
@@ -10526,7 +10526,7 @@
         "stock": 3
       },
       {
-        "name": "OCEAN D3K2 DAMLA, D3 VİTAMİNİ VE K2 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 20ml şişe",
+        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
         "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
         "brand": "Orzax",
         "price": 632.0,
@@ -10765,7 +10765,7 @@
         "stock": 20
       },
       {
-        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gida 20ml Şişe",
+        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
         "slug": "osende-vitamin-d3-1000-iu-oral-damla-d3-vitamini-iceren-takviye-edici",
         "brand": "Osende",
         "price": 350.0,
@@ -10780,7 +10780,7 @@
         "stock": 6
       },
       {
-        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gida 240ml Şişe",
+        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gıda 240ml Şişe",
         "slug": "phytopharma-servi-kozalagi-sivi-cam-kavanoz-sakiz-cinko-ve-d-vitamini",
         "brand": "Phytopharma",
         "price": 438.0,
@@ -11680,7 +11680,7 @@
         "stock": 4
       },
       {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
         "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
         "brand": "Nutraxin",
         "price": 1299.99,
@@ -11781,7 +11781,7 @@
         "stock": 3
       },
       {
-        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gida 60 Kapsül",
+        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
         "brand": "Peptiline",
         "price": 1499.0,
@@ -12316,7 +12316,7 @@
         "stock": 2
       },
       {
-        "name": "Bioderma Atoderm 2 in 1 Body Oil 150 ml Özel Fiyat",
+        "name": "Bioderma Atoderm 2 in 1 Body Oil 150 ml",
         "slug": "bioderma-atoderm-2-in-1-body-oil-150-ml-ozel-fiyat",
         "brand": "Bioderma",
         "price": 1731.0,
@@ -13770,7 +13770,7 @@
         "stock": 101
       },
       {
-        "name": "Ocean Extramag 90 TB %50 Daha Fazla",
+        "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
         "slug": "ocean-extramag-90-tb-50-daha-fazla",
         "brand": "Orzax",
         "price": 864.5,
@@ -13831,7 +13831,7 @@
         "stock": 62
       },
       {
-        "name": "Youplus Vitamin C Efervesan Suda Eriyen Tablet - 2.si %50 İNDİRİMLİ (2x20 Adet)",
+        "name": "Youplus Vitamin C Efervesan Suda Eriyen Tablet (2. Ürün %50 İndirimli) (2x20 Adet)",
         "slug": "youplus-vitamin-c-efervesan-suda-eriyen-tablet-2si-50-indirimli",
         "brand": "",
         "price": 825.0,
@@ -14486,19 +14486,6 @@
         "stock": 5
       },
       {
-        "name": "GRİNTUSS PEDİATRİK ÖKSÜRÜK ŞURUBU 128g şişe",
-        "slug": "grintuss-pediatrik-oksuruk-surubu-128g-sise",
-        "brand": "Grintuss",
-        "price": 702.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3b3a699f-67a2-4857-8152-37a4aa4b289b/image_1950.webp",
-        "cats": [
-          "Bitkisel Takviyeler",
-          "Öksürük Şurubu"
-        ],
-        "stock": 6
-      },
-      {
         "name": "GoodDay Fonksiyonel Tıp GSTEXRA Saşe N-Asetil D-Glikozamin ve L-Karnosin 30 Saşe",
         "slug": "goodday-fonksiyonel-tip-gstexra-n-asetil-d-glikozamin-l-karnosin-30",
         "brand": "Goodday",
@@ -14527,6 +14514,19 @@
           "PCOS ve Hormonal Denge"
         ],
         "stock": 4
+      },
+      {
+        "name": "Grintuss Pediatrik Öksürük Şurubu 128g şişe",
+        "slug": "grintuss-pediatrik-oksuruk-surubu-128g-sise",
+        "brand": "Grintuss",
+        "price": 702.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3b3a699f-67a2-4857-8152-37a4aa4b289b/image_1950.webp",
+        "cats": [
+          "Bitkisel Takviyeler",
+          "Öksürük Şurubu"
+        ],
+        "stock": 6
       },
       {
         "name": "Grintuss Pediatrik Öksürük Şurubu Çocuklar İçin 128 g",
@@ -14703,7 +14703,7 @@
         "stock": 5
       },
       {
-        "name": "GRİNTUSS PEDİATRİK ÖKSÜRÜK ŞURUBU 128g şişe",
+        "name": "Grintuss Pediatrik Öksürük Şurubu 128g şişe",
         "slug": "grintuss-pediatrik-oksuruk-surubu-128g-sise",
         "brand": "Grintuss",
         "price": 702.0,
@@ -15034,7 +15034,7 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Atoderm Intensive Baume 500 ml Özel Fiyat",
+        "name": "Bioderma Atoderm Intensive Baume 500 ml",
         "slug": "bioderma-atoderm-intensive-baume-500-ml-ozel-fiyat",
         "brand": "Bioderma",
         "price": 2294.0,
@@ -15097,7 +15097,7 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Atoderm Ultra Cream 200 ml Özel Fiyat",
+        "name": "Bioderma Atoderm Ultra Cream 200 ml",
         "slug": "bioderma-atoderm-ultra-cream-200-ml-ozel-fiyat",
         "brand": "Bioderma",
         "price": 776.0,
@@ -15286,19 +15286,6 @@
         "stock": 5
       },
       {
-        "name": "LA ROCHE POSAY VİTAMİN C YÜZ TEMİZLEME JELİ",
-        "slug": "la-roche-posay-vitamin-c-yuz-temizleme-jeli",
-        "brand": "La Roche-Posay",
-        "price": 1248.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/48b530ea-d6ee-4541-a0bf-12ddef821b1e/image_1950.webp",
-        "cats": [
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 4
-      },
-      {
         "name": "La Roche Posay Anthelios 100 Ka+ Cilt Bariyeri Kremi",
         "slug": "la-roche-posay-anthelios-100-ka-plus-cilt-bariyeri-kremi",
         "brand": "La Roche-Posay",
@@ -15372,6 +15359,19 @@
           "Yüz Bakımı"
         ],
         "stock": 2
+      },
+      {
+        "name": "La Roche Posay Vitamin C Yüz Temizleme Jeli",
+        "slug": "la-roche-posay-vitamin-c-yuz-temizleme-jeli",
+        "brand": "La Roche-Posay",
+        "price": 1248.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/48b530ea-d6ee-4541-a0bf-12ddef821b1e/image_1950.webp",
+        "cats": [
+          "Yüz Bakımı",
+          "Temizleme Jeli"
+        ],
+        "stock": 4
       },
       {
         "name": "Mustela Çok Hassas Ciltler İçin Rahatlatıcı Bebek Yüz Kremi 40 ml",
@@ -16952,19 +16952,6 @@
         "stock": 2
       },
       {
-        "name": "LA ROCHE POSAY VİTAMİN C YÜZ TEMİZLEME JELİ",
-        "slug": "la-roche-posay-vitamin-c-yuz-temizleme-jeli",
-        "brand": "La Roche-Posay",
-        "price": 1248.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/48b530ea-d6ee-4541-a0bf-12ddef821b1e/image_1950.webp",
-        "cats": [
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 4
-      },
-      {
         "name": "La Roche Posay Effaclar Mikro Peeling Jel Yüz ve Vücut",
         "slug": "la-roche-posay-effaclar-mikro-peeling-jel-yuz-ve-vucut",
         "brand": "La Roche-Posay",
@@ -16989,6 +16976,19 @@
           "Temizleme Jeli"
         ],
         "stock": 32
+      },
+      {
+        "name": "La Roche Posay Vitamin C Yüz Temizleme Jeli",
+        "slug": "la-roche-posay-vitamin-c-yuz-temizleme-jeli",
+        "brand": "La Roche-Posay",
+        "price": 1248.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/48b530ea-d6ee-4541-a0bf-12ddef821b1e/image_1950.webp",
+        "cats": [
+          "Yüz Bakımı",
+          "Temizleme Jeli"
+        ],
+        "stock": 4
       },
       {
         "name": "Neutrogena Deep Clean Yüz Temizleme Jeli 200 ml",
@@ -17792,688 +17792,6 @@
         "stock": 3
       }
     ],
-    "Vücut Losyonu": [
-      {
-        "name": "BEPANTHOL DERMA YOĞUN NEMLENDİRİCİ GÜNLÜK VÜCUT LOSYONU 200 ML",
-        "slug": "bepanthol-derma-yogun-nemlendirici-gunluk-vucut-losyonu-200-ml",
-        "brand": "",
-        "price": 939.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9b09a7d5-9d28-442a-84f0-49634675d763/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Vücut Losyonu"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bepanthol Derma Temel Vücut Losyonu 400 ml",
-        "slug": "bepanthol-derma-temel-vucut-losyonu-400-ml",
-        "brand": "Bepanthol",
-        "price": 1375.0,
-        "discount_price": 1238.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/330fb092-49e6-4e24-a0e9-8152d5424c9d/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bepanthol Derma Yoğun Vücut Losyonu 400 ml",
-        "slug": "bepanthol-derma-yogun-vucut-losyonu-400-ml",
-        "brand": "Bepanthol",
-        "price": 1375.0,
-        "discount_price": 1169.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/21badf23-eec7-484f-8508-8adf160c8f0a/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm After Sun Güneş Sonrası Losyon 200 ml",
-        "slug": "bioderma-photoderm-after-sun-gunes-sonrasi-losyon-200-ml",
-        "brand": "Bioderma",
-        "price": 1097.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0c3fe4a7-f488-40c2-9073-6d9c0802a8a1/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Losyon"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Capicade Demoxcade Vücut Losyonu 220 ml",
-        "slug": "capicade-demoxcade-vucut-losyonu-220-ml",
-        "brand": "Capicade",
-        "price": 975.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ccdfcc65-4e4a-4768-a2fe-f08abcc79f2e/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "CeraVe Moisturising Cream 340 gr",
-        "slug": "cerave-moisturising-cream-340-gr",
-        "brand": "CeraVe",
-        "price": 1295.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56b6e0c7-dcb8-43f2-a68c-b95225a395a2/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Vücut Kremi",
-          "Hassas Ciltler"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Dalin Care Nemlendirici Bebek Losyonu 500 ml",
-        "slug": "dalin-care-nemlendirici-bebek-losyonu-500-ml",
-        "brand": "Dalin",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cbbde11-772b-486e-a4b5-ae483fa61343/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Nemlendirici",
-          "Bebek Losyonu"
-        ],
-        "stock": 14
-      },
-      {
-        "name": "Mustela Cold Cream Besleyici Vücut Losyonu Kuru Ciltler İçin 200 ml",
-        "slug": "mustela-cold-cream-besleyici-vucut-losyonu-kuru-ciltler-icin-200-ml",
-        "brand": "Mustela",
-        "price": 1005.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f3bc0bf1-a196-41a8-9504-6410178e454f/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Vücut Losyonu",
-          "Besleyici"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mustela Cold Cream Besleyici Vücut Losyonu Kuru Ciltler İçin 200 ml",
-        "slug": "mustela-cold-cream-besleyici-vucut-losyonu-kuru-ciltler-icin-200-ml",
-        "brand": "Mustela",
-        "price": 1005.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f3bc0bf1-a196-41a8-9504-6410178e454f/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Vücut Losyonu",
-          "Besleyici"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mustela Çok Hassas Ciltler İçin Rahatlatıcı Bebek Losyonu 200 ml",
-        "slug": "mustela-cok-hassas-ciltler-icin-rahatlatici-bebek-losyonu-200-ml",
-        "brand": "Mustela",
-        "price": 1106.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f84e634-a851-40d1-af9a-9e3349c304c9/image_1950.webp",
-        "cats": [
-          "Bebek Losyonu",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Vücut Losyonu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Nivea Vücut Sütü Yoğun Nemlendirici Kuru Ciltler İçin 400 ml",
-        "slug": "nivea-vucut-sutu-yogun-nemlendirici-kuru-ciltler-icin-400-ml",
-        "brand": "Nivea",
-        "price": 573.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8484feb9-8bdf-48c3-af16-f2b9800b9240/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Vücut Losyonu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solante Pregna SPF 50+ Losyon",
-        "slug": "solante-pregna-spf-50-plus-losyon",
-        "brand": "Solante",
-        "price": 1673.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9fb3e598-991c-42e2-b125-be6dd7d4b757/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "SPF 50+"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solante Sun Acnes-Tinted SPF50 Losyon",
-        "slug": "solante-sun-acnes-tinted-spf50-losyon",
-        "brand": "Solante",
-        "price": 1703.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d5761a2d-2916-407e-ae0a-083f0db5c74a/image_1950.webp",
-        "cats": [
-          "Renkli SPF 50+",
-          "Vücut Losyonu",
-          "SPF 50+"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solante Sun Losyon Acnes SPF50+ 150 ml",
-        "slug": "solante-sun-losyon-acnes-spf50-plus-150-ml",
-        "brand": "Solante",
-        "price": 1703.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/611c9a5b-b903-4739-ad6c-e09b6af296cc/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "SPF 50+"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solante Sun Losyon Irrita SPF50+ 150 ml",
-        "slug": "solante-sun-losyon-irrita-spf50-plus-150-ml",
-        "brand": "Solante",
-        "price": 1703.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/31cea032-9ff8-4f52-a7ec-1090aaaad719/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Vücut Losyonu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solante Sun Losyon Pigmenta SPF50+ 150 ml",
-        "slug": "solante-sun-losyon-pigmenta-spf50-plus-150-ml",
-        "brand": "Solante",
-        "price": 1703.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af1def0d-60ec-40b1-adb6-f041fe698204/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "SPF 50+",
-          "Leke Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solante Sun Tele-Rubor SPF 50 Losyon",
-        "slug": "solante-sun-tele-rubor-spf-50-losyon",
-        "brand": "Solante",
-        "price": 1602.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ba7f2cd-c42e-49ea-bb62-491f5e1682d6/image_1950.webp",
-        "cats": [
-          "Renkli SPF 50+",
-          "Vücut Losyonu",
-          "SPF 50+",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solante Sun Tele-Rubor Tinted SPF 50+ Losyon",
-        "slug": "solante-sun-tele-rubor-tinted-spf-50-plus-losyon",
-        "brand": "Solante",
-        "price": 1602.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbe09fd8-e89e-489e-b97f-83d3fb1bd64f/image_1950.webp",
-        "cats": [
-          "Renkli SPF 50+",
-          "Vücut Losyonu",
-          "SPF 50+",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Xabion Pediatrik Cilt Bakım Losyonu 250 ml",
-        "slug": "xabion-pediatrik-cilt-bakim-losyonu-250-ml",
-        "brand": "Edis Pharma",
-        "price": 598.0,
-        "discount_price": 478.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/74b4c811-eaa5-434e-a1c9-6bf9e57055aa/image_1950.webp",
-        "cats": [
-          "Bebek Losyonu",
-          "Vücut Losyonu"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Xabion Yetişkin Cilt Bakım Losyonu 250 ml",
-        "slug": "xabion-yetiskin-cilt-bakim-losyonu-250-ml",
-        "brand": "Edis Pharma",
-        "price": 666.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8f2945e3-ab4d-4376-a2a0-132f2eee5d1b/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu"
-        ],
-        "stock": 5
-      }
-    ],
-    "Genel": [
-      {
-        "name": "BIODERMA PIGMENTBIO FOAMING CREM 500 ML ÖZEL FİYAT",
-        "slug": "bioderma-pigmentbio-foaming-crem-500-ml-ozel-fiyat",
-        "brand": "",
-        "price": 1577.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5458e778-022e-42af-ab41-ebed4bed05e5/image_1950.webp",
-        "cats": [],
-        "stock": 7
-      },
-      {
-        "name": "Bağırsak & Mikrobiyom Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "bagirsak-mikrobiyom-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/369086ab-368a-408d-bc25-ebf51c6fe869/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Bioderma Atoderm Intensive Jel-Krem 75 ml",
-        "slug": "bioderma-atoderm-intensive-jel-krem-75-ml",
-        "brand": "Bioderma",
-        "price": 1745.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/877071af-ffe1-4c1d-8af8-2bae9841ca5e/image_1950.webp",
-        "cats": [],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Matricium Cilt Yenileyici Bakım Kapsülü 30x1 ml",
-        "slug": "bioderma-matricium-cilt-yenileyici-bakim-kapsulu-30x1-ml",
-        "brand": "Bioderma",
-        "price": 3608.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3de80002-5e66-455e-b718-6f8740d8cbf9/image_1950.webp",
-        "cats": [],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Nodé DS+ Şampuan 125 ml",
-        "slug": "bioderma-node-ds-sampuan-125-ml",
-        "brand": "Bioderma",
-        "price": 1803.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4310cedf-cbd0-4e16-9abf-689bea89d827/image_1950.webp",
-        "cats": [],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Invisible Sprey SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-invisible-sprey-spf50-200-ml",
-        "brand": "Bioderma",
-        "price": 2438.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Lait Ultra SPF50+ 100 ml",
-        "slug": "bioderma-photoderm-lait-ultra-spf50-100-ml",
-        "brand": "Bioderma",
-        "price": 1706.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/78b0aec0-6e8c-48f3-9812-af18b0482dad/image_1950.webp",
-        "cats": [],
-        "stock": 3
-      },
-      {
-        "name": "Bioderma Photoderm Pediatrics Lait SPF50+ 100 ml",
-        "slug": "bioderma-photoderm-pediatrics-lait-spf50-100-ml",
-        "brand": "Bioderma",
-        "price": 1584.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9955445-7ca7-47f9-bf82-2b31427e242a/image_1950.webp",
-        "cats": [],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm XDefense Ultra-Fluid SPF50+ Light 40 ml",
-        "slug": "bioderma-photoderm-xdefense-ultra-fluid-spf50-light-40-ml",
-        "brand": "Bioderma",
-        "price": 1584.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5d94536-8536-460c-929e-1c656b98a6d1/image_1950.webp",
-        "cats": [],
-        "stock": 3
-      },
-      {
-        "name": "Bioderma Photoderm XDefense Ultra-Fluid SPF50+ Very Light 40 ml",
-        "slug": "bioderma-photoderm-xdefense-ultra-fluid-spf50-very-light-40-ml",
-        "brand": "Bioderma",
-        "price": 1584.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fdf95fb4-5723-4e0b-a463-b5ae353f8349/image_1950.webp",
-        "cats": [],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Sebium Kerato+ Cover 30 ml",
-        "slug": "bioderma-sebium-kerato-cover-30-ml",
-        "brand": "",
-        "price": 1640.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/de0a6e9c-c780-4b22-9954-d599b5c8ca2c/image_1950.webp",
-        "cats": [],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Sensibio AR+ BI-Serum 30 ml",
-        "slug": "bioderma-sensibio-ar-bi-serum-30-ml",
-        "brand": "Bioderma",
-        "price": 3062.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e01a58-73df-4e78-9816-a2ce716117ce/image_1950.webp",
-        "cats": [],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Sensibio Micellar Cleansing Oil 200 ml",
-        "slug": "bioderma-sensibio-micellar-cleansing-oil-200-ml",
-        "brand": "Bioderma",
-        "price": 2565.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d121e397-4f31-4ba5-ba85-380687395fb2/image_1950.webp",
-        "cats": [],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Akneye Eğilimli Yüz Bakım Jeli 40 ml",
-        "slug": "cerave-akneye-egilimli-yuz-bakim-jeli-40-ml",
-        "brand": "CeraVe",
-        "price": 1319.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af3ec4b2-2b4e-4ccb-9a9e-28cefd276bbd/image_1950.webp",
-        "cats": [],
-        "stock": 2
-      },
-      {
-        "name": "CeraVe Hyalüronik Asit Serum 30 ml",
-        "slug": "cerave-hyaluronik-asit-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 1649.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb5fc4cf-2af5-4e04-a1cc-ada7a3adbc17/image_1950.webp",
-        "cats": [],
-        "stock": 1
-      },
-      {
-        "name": "CeraVe Moisturising Lotion 236 ml",
-        "slug": "cerave-moisturising-lotion-236-ml",
-        "brand": "CeraVe",
-        "price": 1083.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bdd77d77-496a-489c-a3ba-2acf158cb9c8/image_1950.webp",
-        "cats": [],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Moisturising Lotion 473 ml",
-        "slug": "cerave-moisturising-lotion-473-ml",
-        "brand": "CeraVe",
-        "price": 1530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3da9a58c-992a-4bbd-8f17-4e43d35a1a93/image_1950.webp",
-        "cats": [],
-        "stock": 5
-      },
-      {
-        "name": "CeraVe Moisturising Lotion 88 ml",
-        "slug": "cerave-moisturising-lotion-88-ml",
-        "brand": "CeraVe",
-        "price": 624.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/622e98df-3421-4c03-8d9c-9f30da42497f/image_1950.webp",
-        "cats": [],
-        "stock": 3
-      },
-      {
-        "name": "Day2Day The Collagen Beauty Core",
-        "slug": "day2day-the-collagen-beauty-core",
-        "brand": "Day2Day",
-        "price": 699.0,
-        "discount_price": 559.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2366a979-2fee-4915-a616-14c9b83209ee/image_1950.webp",
-        "cats": [],
-        "stock": 6
-      },
-      {
-        "name": "Demir & Ferritin Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "demir-ferritin-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5de37ede-95d3-4e21-84cb-1798c707b294/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Hashimoto & Tiroid Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "hashimoto-tiroid-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2b6e1f33-d817-4fc6-a4fb-43ca06f80a66/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Hormonal Akne Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "hormonal-akne-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b737539f-ae09-46aa-b389-599bbabcf033/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "La Roche-Posay Anthelios UVAir SPF50+ Güneş Serumu 50 ml",
-        "slug": "la-roche-posay-anthelios-uvair-spf50-serum-50-ml",
-        "brand": "La Roche-Posay",
-        "price": 1157.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7943d1c8-1130-4723-8865-220b966cdb83/image_1950.webp",
-        "cats": [],
-        "stock": 3
-      },
-      {
-        "name": "La Roche-Posay Anthelios UVAir SPF50+ Stick 10 ml",
-        "slug": "la-roche-posay-anthelios-uvair-spf50-stick-10-ml",
-        "brand": "La Roche-Posay",
-        "price": 1565.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9e595e2f-c9fe-4eef-8a48-44d2501bcedd/image_1950.webp",
-        "cats": [],
-        "stock": 4
-      },
-      {
-        "name": "La Roche-Posay Effaclar Duo+M Patch 22 Adet",
-        "slug": "la-roche-posay-effaclar-duo-m-patch-22-adet",
-        "brand": "La Roche-Posay",
-        "price": 873.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/58efb3c2-d295-413d-a1b5-f6b086745541/image_1950.webp",
-        "cats": [],
-        "stock": 7
-      },
-      {
-        "name": "La Roche-Posay Effaclar Mat Matlaştırıcı Krem 40 ml",
-        "slug": "la-roche-posay-effaclar-mat-krem-40-ml",
-        "brand": "La Roche-Posay",
-        "price": 1644.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/03b8078a-931c-4a51-bc87-16f3d3e22f3f/image_1950.webp",
-        "cats": [],
-        "stock": 1
-      },
-      {
-        "name": "La Roche-Posay Hyalu B5 Matte Jel 40 ml",
-        "slug": "la-roche-posay-hyalu-b5-matte-jel-40-ml",
-        "brand": "La Roche-Posay",
-        "price": 1701.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6203b1b-3233-4e79-9577-75f91f89d41a/image_1950.webp",
-        "cats": [],
-        "stock": 2
-      },
-      {
-        "name": "La Roche-Posay Hyalu B5 Suractivated Serum 30 ml",
-        "slug": "la-roche-posay-hyalu-b5-suractivated-30-ml",
-        "brand": "La Roche-Posay",
-        "price": 2967.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b78255e6-7d8c-4730-8e8b-87d075a6bb6c/image_1950.webp",
-        "cats": [],
-        "stock": 4
-      },
-      {
-        "name": "La Roche-Posay Pure Vitamin C12 Serum 30 ml",
-        "slug": "la-roche-posay-pure-vitamin-c12-serum-30-ml",
-        "brand": "La Roche-Posay",
-        "price": 2967.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ce1d119f-324d-47d7-b405-3db74da58e28/image_1950.webp",
-        "cats": [],
-        "stock": 5
-      },
-      {
-        "name": "La Roche-Posay Toleriane Gel Moussant Arındırıcı Jel 400 ml",
-        "slug": "la-roche-posay-toleriane-gel-moussant-400-ml",
-        "brand": "La Roche-Posay",
-        "price": 1134.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/220f2cec-92fb-4fe4-b059-a467a173a7c2/image_1950.webp",
-        "cats": [],
-        "stock": 1
-      },
-      {
-        "name": "Longevity & NMN Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "longevity-nmn-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ce40fc9-ed7f-47ac-9e4c-fde428c852e3/image_1950.webp",
-        "cats": [],
-        "stock": 999
-      },
-      {
-        "name": "Menopoz Geçiş Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "menopoz-gecis-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c71c7ef9-2181-47fd-807f-bfbf77a24156/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "ORZAX OCEAN MAGNEZYUM COMPLEX, MAGNEZYUM, VİTAMİN B6 60 TABLET",
-        "slug": "orzax-ocean-magnezyum-complex-magnezyum-vitamin-b6-60-tablet",
-        "brand": "Orzax",
-        "price": 699.0,
-        "discount_price": 559.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6662d7eb-83c4-409b-ae26-479d28f67507/image_1950.webp",
-        "cats": [],
-        "stock": 92
-      },
-      {
-        "name": "Odaklanma ve Zihin Seti",
-        "slug": "odaklanma-ve-zihin-seti",
-        "brand": "",
-        "price": 2045.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3c4bc69b-0428-461c-b6ce-b1a43e22c254/image_1950.webp",
-        "cats": [],
-        "stock": 100
-      },
-      {
-        "name": "PCOS Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "pcos-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1a29e516-71af-4843-b96b-eb8e36621b75/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "PMS Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "pms-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/74122bce-11d3-47fb-937e-6e3ef4e7b983/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Saç Dökülmesi Uzman Tedavi Seti",
-        "slug": "sac-dokulmesi-karsiti-uzman-paketi",
-        "brand": "",
-        "price": 3302.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a658249a-c08b-4148-a2a4-9e2fe1dd6486/image_1950.webp",
-        "cats": [],
-        "stock": 100
-      },
-      {
-        "name": "Tüm Uzman Rehberler Paketi — 15 Rehber",
-        "slug": "tum-uzman-rehberler-paketi",
-        "brand": "e-Eczacı",
-        "price": 1990.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/609a6d9e-c664-4019-b4c7-43b891a073ec/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Vajinal pH & Enfeksiyon Protokol Rehberi",
-        "slug": "vajinal-ph-protokol-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3808dee3-0000-0000-0000-000000000000/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Vichy Neovadiol Longevity Revolumizing Cilt Sıkılaştırıcı Krem 50 ml",
-        "slug": "vichy-neovadiol-longevity-revolumizing-cilt-sikilastirici-krem-50-ml",
-        "brand": "Vichy",
-        "price": 5028.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06cbcf81-6314-40e3-bf55-199e150b0188/image_1950.webp",
-        "cats": [],
-        "stock": 1
-      },
-      {
-        "name": "İnsülin Direnci Kırma Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "insulin-direnci-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/348f6e4d-e770-40c1-afcf-f608d4f98c89/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      }
-    ],
     "Burun Aspiratörü": [
       {
         "name": "Baby-Vac Elektrik Süpürgesi Uyumlu Burun Aspiratörü",
@@ -19242,7 +18560,7 @@
         "stock": 2
       },
       {
-        "name": "Nurse Harvey's Gg Oral Damla, Rumi Papatya, Çörekotu ve Melisa İçeren Takviye Edici Gida 20ml Şişe",
+        "name": "Nurse Harvey's Gg Oral Damla, Rumi Papatya, Çörekotu ve Melisa İçeren Takviye Edici Gıda 20ml Şişe",
         "slug": "nurse-harveys-gg-oral-damla-rumi-papatya-corekotu-ve-melisa-iceren",
         "brand": "Nurse Harvey's",
         "price": 695.0,
@@ -19490,7 +18808,7 @@
         "stock": 5
       },
       {
-        "name": "Magnesium Diasporal Granül Saşe, Magnezyum İçeren Takviye Edici Gida 20 Saşe",
+        "name": "Magnesium Diasporal Granül Saşe, Magnezyum İçeren Takviye Edici Gıda 20 Saşe",
         "slug": "magnesium-diasporal-granul-sase-magnezyum-iceren-takviye-edici-gida",
         "brand": "Magnesium Diasporal",
         "price": 863.0,
@@ -19605,7 +18923,7 @@
         "stock": 1
       },
       {
-        "name": "Nature's Bounty 5-HTP Kapsül, 5-HTP İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Nature's Bounty 5-HTP Kapsül, 5-HTP İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "natures-bounty-5-htp-kapsul-5-htp-iceren-takviye-edici-gida-30-kapsul",
         "brand": "Nature's Bounty",
         "price": 487.9,
@@ -19931,7 +19249,7 @@
         "stock": 2
       },
       {
-        "name": "Venatura 5-HTP Kapsül, 5-hidroksitriptofan İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Venatura 5-HTP Kapsül, 5-hidroksitriptofan İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "venatura-5-htp-kapsul-5-hidroksitriptofan-iceren-takviye-edici-gida",
         "brand": "VeNatura",
         "price": 467.0,
@@ -19978,6 +19296,418 @@
           "Stres ve Uyku Düzeni"
         ],
         "stock": 3
+      }
+    ],
+    "Genel": [
+      {
+        "name": "Bağırsak & Mikrobiyom Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "bagirsak-mikrobiyom-protokol-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/369086ab-368a-408d-bc25-ebf51c6fe869/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "Bioderma Atoderm Intensive Jel-Krem 75 ml",
+        "slug": "bioderma-atoderm-intensive-jel-krem-75-ml",
+        "brand": "Bioderma",
+        "price": 1745.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/877071af-ffe1-4c1d-8af8-2bae9841ca5e/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      },
+      {
+        "name": "Bioderma Matricium Cilt Yenileyici Bakım Kapsülü 30x1 ml",
+        "slug": "bioderma-matricium-cilt-yenileyici-bakim-kapsulu-30x1-ml",
+        "brand": "Bioderma",
+        "price": 3608.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3de80002-5e66-455e-b718-6f8740d8cbf9/image_1950.webp",
+        "cats": [],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Nodé DS+ Şampuan 125 ml",
+        "slug": "bioderma-node-ds-sampuan-125-ml",
+        "brand": "Bioderma",
+        "price": 1803.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4310cedf-cbd0-4e16-9abf-689bea89d827/image_1950.webp",
+        "cats": [],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Photoderm Invisible Sprey SPF50+ 200 ml",
+        "slug": "bioderma-photoderm-invisible-sprey-spf50-200-ml",
+        "brand": "Bioderma",
+        "price": 2438.0,
+        "discount_price": null,
+        "image": "",
+        "cats": [],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Photoderm Lait Ultra SPF50+ 100 ml",
+        "slug": "bioderma-photoderm-lait-ultra-spf50-100-ml",
+        "brand": "Bioderma",
+        "price": 1706.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/78b0aec0-6e8c-48f3-9812-af18b0482dad/image_1950.webp",
+        "cats": [],
+        "stock": 3
+      },
+      {
+        "name": "Bioderma Photoderm Pediatrics Lait SPF50+ 100 ml",
+        "slug": "bioderma-photoderm-pediatrics-lait-spf50-100-ml",
+        "brand": "Bioderma",
+        "price": 1584.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9955445-7ca7-47f9-bf82-2b31427e242a/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      },
+      {
+        "name": "Bioderma Photoderm XDefense Ultra-Fluid SPF50+ Light 40 ml",
+        "slug": "bioderma-photoderm-xdefense-ultra-fluid-spf50-light-40-ml",
+        "brand": "Bioderma",
+        "price": 1584.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5d94536-8536-460c-929e-1c656b98a6d1/image_1950.webp",
+        "cats": [],
+        "stock": 3
+      },
+      {
+        "name": "Bioderma Photoderm XDefense Ultra-Fluid SPF50+ Very Light 40 ml",
+        "slug": "bioderma-photoderm-xdefense-ultra-fluid-spf50-very-light-40-ml",
+        "brand": "Bioderma",
+        "price": 1584.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fdf95fb4-5723-4e0b-a463-b5ae353f8349/image_1950.webp",
+        "cats": [],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Pigmentbio Foaming Crem 500 ml",
+        "slug": "bioderma-pigmentbio-foaming-crem-500-ml-ozel-fiyat",
+        "brand": "",
+        "price": 1577.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5458e778-022e-42af-ab41-ebed4bed05e5/image_1950.webp",
+        "cats": [],
+        "stock": 7
+      },
+      {
+        "name": "Bioderma Sebium Kerato+ Cover 30 ml",
+        "slug": "bioderma-sebium-kerato-cover-30-ml",
+        "brand": "",
+        "price": 1640.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/de0a6e9c-c780-4b22-9954-d599b5c8ca2c/image_1950.webp",
+        "cats": [],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Sensibio AR+ BI-Serum 30 ml",
+        "slug": "bioderma-sensibio-ar-bi-serum-30-ml",
+        "brand": "Bioderma",
+        "price": 3062.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e01a58-73df-4e78-9816-a2ce716117ce/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      },
+      {
+        "name": "Bioderma Sensibio Micellar Cleansing Oil 200 ml",
+        "slug": "bioderma-sensibio-micellar-cleansing-oil-200-ml",
+        "brand": "Bioderma",
+        "price": 2565.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d121e397-4f31-4ba5-ba85-380687395fb2/image_1950.webp",
+        "cats": [],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Akneye Eğilimli Yüz Bakım Jeli 40 ml",
+        "slug": "cerave-akneye-egilimli-yuz-bakim-jeli-40-ml",
+        "brand": "CeraVe",
+        "price": 1319.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af3ec4b2-2b4e-4ccb-9a9e-28cefd276bbd/image_1950.webp",
+        "cats": [],
+        "stock": 2
+      },
+      {
+        "name": "CeraVe Hyalüronik Asit Serum 30 ml",
+        "slug": "cerave-hyaluronik-asit-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 1649.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb5fc4cf-2af5-4e04-a1cc-ada7a3adbc17/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      },
+      {
+        "name": "CeraVe Moisturising Lotion 236 ml",
+        "slug": "cerave-moisturising-lotion-236-ml",
+        "brand": "CeraVe",
+        "price": 1083.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bdd77d77-496a-489c-a3ba-2acf158cb9c8/image_1950.webp",
+        "cats": [],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Moisturising Lotion 473 ml",
+        "slug": "cerave-moisturising-lotion-473-ml",
+        "brand": "CeraVe",
+        "price": 1530.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3da9a58c-992a-4bbd-8f17-4e43d35a1a93/image_1950.webp",
+        "cats": [],
+        "stock": 5
+      },
+      {
+        "name": "CeraVe Moisturising Lotion 88 ml",
+        "slug": "cerave-moisturising-lotion-88-ml",
+        "brand": "CeraVe",
+        "price": 624.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/622e98df-3421-4c03-8d9c-9f30da42497f/image_1950.webp",
+        "cats": [],
+        "stock": 3
+      },
+      {
+        "name": "Day2Day The Collagen Beauty Core",
+        "slug": "day2day-the-collagen-beauty-core",
+        "brand": "Day2Day",
+        "price": 699.0,
+        "discount_price": 559.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2366a979-2fee-4915-a616-14c9b83209ee/image_1950.webp",
+        "cats": [],
+        "stock": 6
+      },
+      {
+        "name": "Demir & Ferritin Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "demir-ferritin-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5de37ede-95d3-4e21-84cb-1798c707b294/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "Hashimoto & Tiroid Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "hashimoto-tiroid-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2b6e1f33-d817-4fc6-a4fb-43ca06f80a66/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "Hormonal Akne Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "hormonal-akne-protokol-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b737539f-ae09-46aa-b389-599bbabcf033/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "La Roche-Posay Anthelios UVAir SPF50+ Güneş Serumu 50 ml",
+        "slug": "la-roche-posay-anthelios-uvair-spf50-serum-50-ml",
+        "brand": "La Roche-Posay",
+        "price": 1157.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7943d1c8-1130-4723-8865-220b966cdb83/image_1950.webp",
+        "cats": [],
+        "stock": 3
+      },
+      {
+        "name": "La Roche-Posay Anthelios UVAir SPF50+ Stick 10 ml",
+        "slug": "la-roche-posay-anthelios-uvair-spf50-stick-10-ml",
+        "brand": "La Roche-Posay",
+        "price": 1565.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9e595e2f-c9fe-4eef-8a48-44d2501bcedd/image_1950.webp",
+        "cats": [],
+        "stock": 4
+      },
+      {
+        "name": "La Roche-Posay Effaclar Duo+M Patch 22 Adet",
+        "slug": "la-roche-posay-effaclar-duo-m-patch-22-adet",
+        "brand": "La Roche-Posay",
+        "price": 873.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/58efb3c2-d295-413d-a1b5-f6b086745541/image_1950.webp",
+        "cats": [],
+        "stock": 7
+      },
+      {
+        "name": "La Roche-Posay Effaclar Mat Matlaştırıcı Krem 40 ml",
+        "slug": "la-roche-posay-effaclar-mat-krem-40-ml",
+        "brand": "La Roche-Posay",
+        "price": 1644.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/03b8078a-931c-4a51-bc87-16f3d3e22f3f/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      },
+      {
+        "name": "La Roche-Posay Hyalu B5 Matte Jel 40 ml",
+        "slug": "la-roche-posay-hyalu-b5-matte-jel-40-ml",
+        "brand": "La Roche-Posay",
+        "price": 1701.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6203b1b-3233-4e79-9577-75f91f89d41a/image_1950.webp",
+        "cats": [],
+        "stock": 2
+      },
+      {
+        "name": "La Roche-Posay Hyalu B5 Suractivated Serum 30 ml",
+        "slug": "la-roche-posay-hyalu-b5-suractivated-30-ml",
+        "brand": "La Roche-Posay",
+        "price": 2967.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b78255e6-7d8c-4730-8e8b-87d075a6bb6c/image_1950.webp",
+        "cats": [],
+        "stock": 4
+      },
+      {
+        "name": "La Roche-Posay Pure Vitamin C12 Serum 30 ml",
+        "slug": "la-roche-posay-pure-vitamin-c12-serum-30-ml",
+        "brand": "La Roche-Posay",
+        "price": 2967.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ce1d119f-324d-47d7-b405-3db74da58e28/image_1950.webp",
+        "cats": [],
+        "stock": 5
+      },
+      {
+        "name": "La Roche-Posay Toleriane Gel Moussant Arındırıcı Jel 400 ml",
+        "slug": "la-roche-posay-toleriane-gel-moussant-400-ml",
+        "brand": "La Roche-Posay",
+        "price": 1134.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/220f2cec-92fb-4fe4-b059-a467a173a7c2/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      },
+      {
+        "name": "Longevity & NMN Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "longevity-nmn-protokol-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ce40fc9-ed7f-47ac-9e4c-fde428c852e3/image_1950.webp",
+        "cats": [],
+        "stock": 999
+      },
+      {
+        "name": "Menopoz Geçiş Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "menopoz-gecis-protokol-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c71c7ef9-2181-47fd-807f-bfbf77a24156/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "Odaklanma ve Zihin Seti",
+        "slug": "odaklanma-ve-zihin-seti",
+        "brand": "",
+        "price": 2045.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3c4bc69b-0428-461c-b6ce-b1a43e22c254/image_1950.webp",
+        "cats": [],
+        "stock": 100
+      },
+      {
+        "name": "Orzax Ocean Magnezyum Complex, Magnezyum, Vitamin B6 60 Tablet",
+        "slug": "orzax-ocean-magnezyum-complex-magnezyum-vitamin-b6-60-tablet",
+        "brand": "Orzax",
+        "price": 699.0,
+        "discount_price": 559.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6662d7eb-83c4-409b-ae26-479d28f67507/image_1950.webp",
+        "cats": [],
+        "stock": 92
+      },
+      {
+        "name": "PCOS Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "pcos-protokol-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1a29e516-71af-4843-b96b-eb8e36621b75/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "PMS Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "pms-protokol-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/74122bce-11d3-47fb-937e-6e3ef4e7b983/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "Saç Dökülmesi Uzman Tedavi Seti",
+        "slug": "sac-dokulmesi-karsiti-uzman-paketi",
+        "brand": "",
+        "price": 3302.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a658249a-c08b-4148-a2a4-9e2fe1dd6486/image_1950.webp",
+        "cats": [],
+        "stock": 100
+      },
+      {
+        "name": "Tüm Uzman Rehberler Paketi — 15 Rehber",
+        "slug": "tum-uzman-rehberler-paketi",
+        "brand": "e-Eczacı",
+        "price": 1990.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/609a6d9e-c664-4019-b4c7-43b891a073ec/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "Vajinal pH & Enfeksiyon Protokol Rehberi",
+        "slug": "vajinal-ph-protokol-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3808dee3-0000-0000-0000-000000000000/image_1950.webp",
+        "cats": [],
+        "stock": 1000
+      },
+      {
+        "name": "Vichy Neovadiol Longevity Revolumizing Cilt Sıkılaştırıcı Krem 50 ml",
+        "slug": "vichy-neovadiol-longevity-revolumizing-cilt-sikilastirici-krem-50-ml",
+        "brand": "Vichy",
+        "price": 5028.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06cbcf81-6314-40e3-bf55-199e150b0188/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      },
+      {
+        "name": "İnsülin Direnci Kırma Protokolü — e-Eczacı Uzman Rehberi",
+        "slug": "insulin-direnci-uzman-rehberi",
+        "brand": "e-Eczacı",
+        "price": 297.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/348f6e4d-e770-40c1-afcf-f608d4f98c89/image_1950.webp",
+        "cats": [],
+        "stock": 1000
       }
     ],
     "Bebek Kaşığı": [
@@ -20431,7 +20161,7 @@
         "stock": 3
       },
       {
-        "name": "OCEAN D3K2 DAMLA, D3 VİTAMİNİ VE K2 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 20ml şişe",
+        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
         "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
         "brand": "Orzax",
         "price": 632.0,
@@ -20448,7 +20178,7 @@
         "stock": 11
       },
       {
-        "name": "OCEAN D3K2 DAMLA, D3 VİTAMİNİ VE K2 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 20ml şişe",
+        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
         "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
         "brand": "Orzax",
         "price": 632.0,
@@ -20570,7 +20300,7 @@
         "stock": 13
       },
       {
-        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gida 20ml Şişe",
+        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
         "slug": "osende-vitamin-d3-1000-iu-oral-damla-d3-vitamini-iceren-takviye-edici",
         "brand": "Osende",
         "price": 350.0,
@@ -20585,7 +20315,7 @@
         "stock": 6
       },
       {
-        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gida 20ml Şişe",
+        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
         "slug": "osende-vitamin-d3-1000-iu-oral-damla-d3-vitamini-iceren-takviye-edici",
         "brand": "Osende",
         "price": 350.0,
@@ -20600,7 +20330,7 @@
         "stock": 6
       },
       {
-        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gida 240ml Şişe",
+        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gıda 240ml Şişe",
         "slug": "phytopharma-servi-kozalagi-sivi-cam-kavanoz-sakiz-cinko-ve-d-vitamini",
         "brand": "Phytopharma",
         "price": 438.0,
@@ -20616,7 +20346,7 @@
         "stock": 2
       },
       {
-        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gida 240ml Şişe",
+        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gıda 240ml Şişe",
         "slug": "phytopharma-servi-kozalagi-sivi-cam-kavanoz-sakiz-cinko-ve-d-vitamini",
         "brand": "Phytopharma",
         "price": 438.0,
@@ -21939,6 +21669,276 @@
         "stock": 2
       }
     ],
+    "Vücut Losyonu": [
+      {
+        "name": "Bepanthol Derma Temel Vücut Losyonu 400 ml",
+        "slug": "bepanthol-derma-temel-vucut-losyonu-400-ml",
+        "brand": "Bepanthol",
+        "price": 1375.0,
+        "discount_price": 1238.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/330fb092-49e6-4e24-a0e9-8152d5424c9d/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Bepanthol Derma Yoğun Nemlendirici Günlük Vücut Losyonu 200 ml",
+        "slug": "bepanthol-derma-yogun-nemlendirici-gunluk-vucut-losyonu-200-ml",
+        "brand": "",
+        "price": 939.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9b09a7d5-9d28-442a-84f0-49634675d763/image_1950.webp",
+        "cats": [
+          "Nemlendirici",
+          "Vücut Losyonu"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bepanthol Derma Yoğun Vücut Losyonu 400 ml",
+        "slug": "bepanthol-derma-yogun-vucut-losyonu-400-ml",
+        "brand": "Bepanthol",
+        "price": 1375.0,
+        "discount_price": 1169.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/21badf23-eec7-484f-8508-8adf160c8f0a/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Bioderma Photoderm After Sun Güneş Sonrası Losyon 200 ml",
+        "slug": "bioderma-photoderm-after-sun-gunes-sonrasi-losyon-200-ml",
+        "brand": "Bioderma",
+        "price": 1097.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0c3fe4a7-f488-40c2-9073-6d9c0802a8a1/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "Losyon"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Capicade Demoxcade Vücut Losyonu 220 ml",
+        "slug": "capicade-demoxcade-vucut-losyonu-220-ml",
+        "brand": "Capicade",
+        "price": 975.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ccdfcc65-4e4a-4768-a2fe-f08abcc79f2e/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "CeraVe Moisturising Cream 340 gr",
+        "slug": "cerave-moisturising-cream-340-gr",
+        "brand": "CeraVe",
+        "price": 1295.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56b6e0c7-dcb8-43f2-a68c-b95225a395a2/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "Vücut Kremi",
+          "Hassas Ciltler"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Dalin Care Nemlendirici Bebek Losyonu 500 ml",
+        "slug": "dalin-care-nemlendirici-bebek-losyonu-500-ml",
+        "brand": "Dalin",
+        "price": 999.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cbbde11-772b-486e-a4b5-ae483fa61343/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "Nemlendirici",
+          "Bebek Losyonu"
+        ],
+        "stock": 14
+      },
+      {
+        "name": "Mustela Cold Cream Besleyici Vücut Losyonu Kuru Ciltler İçin 200 ml",
+        "slug": "mustela-cold-cream-besleyici-vucut-losyonu-kuru-ciltler-icin-200-ml",
+        "brand": "Mustela",
+        "price": 1005.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f3bc0bf1-a196-41a8-9504-6410178e454f/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "Vücut Losyonu",
+          "Besleyici"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Mustela Cold Cream Besleyici Vücut Losyonu Kuru Ciltler İçin 200 ml",
+        "slug": "mustela-cold-cream-besleyici-vucut-losyonu-kuru-ciltler-icin-200-ml",
+        "brand": "Mustela",
+        "price": 1005.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f3bc0bf1-a196-41a8-9504-6410178e454f/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "Vücut Losyonu",
+          "Besleyici"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Mustela Çok Hassas Ciltler İçin Rahatlatıcı Bebek Losyonu 200 ml",
+        "slug": "mustela-cok-hassas-ciltler-icin-rahatlatici-bebek-losyonu-200-ml",
+        "brand": "Mustela",
+        "price": 1106.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f84e634-a851-40d1-af9a-9e3349c304c9/image_1950.webp",
+        "cats": [
+          "Bebek Losyonu",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Vücut Losyonu"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Nivea Vücut Sütü Yoğun Nemlendirici Kuru Ciltler İçin 400 ml",
+        "slug": "nivea-vucut-sutu-yogun-nemlendirici-kuru-ciltler-icin-400-ml",
+        "brand": "Nivea",
+        "price": 573.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8484feb9-8bdf-48c3-af16-f2b9800b9240/image_1950.webp",
+        "cats": [
+          "Nemlendirici",
+          "Vücut Losyonu"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solante Pregna SPF 50+ Losyon",
+        "slug": "solante-pregna-spf-50-plus-losyon",
+        "brand": "Solante",
+        "price": 1673.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9fb3e598-991c-42e2-b125-be6dd7d4b757/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "SPF 50+"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solante Sun Acnes-Tinted SPF50 Losyon",
+        "slug": "solante-sun-acnes-tinted-spf50-losyon",
+        "brand": "Solante",
+        "price": 1703.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d5761a2d-2916-407e-ae0a-083f0db5c74a/image_1950.webp",
+        "cats": [
+          "Renkli SPF 50+",
+          "Vücut Losyonu",
+          "SPF 50+"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solante Sun Losyon Acnes SPF50+ 150 ml",
+        "slug": "solante-sun-losyon-acnes-spf50-plus-150-ml",
+        "brand": "Solante",
+        "price": 1703.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/611c9a5b-b903-4739-ad6c-e09b6af296cc/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "SPF 50+"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solante Sun Losyon Irrita SPF50+ 150 ml",
+        "slug": "solante-sun-losyon-irrita-spf50-plus-150-ml",
+        "brand": "Solante",
+        "price": 1703.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/31cea032-9ff8-4f52-a7ec-1090aaaad719/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "Vücut Losyonu"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solante Sun Losyon Pigmenta SPF50+ 150 ml",
+        "slug": "solante-sun-losyon-pigmenta-spf50-plus-150-ml",
+        "brand": "Solante",
+        "price": 1703.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af1def0d-60ec-40b1-adb6-f041fe698204/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "SPF 50+",
+          "Leke Karşıtı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solante Sun Tele-Rubor SPF 50 Losyon",
+        "slug": "solante-sun-tele-rubor-spf-50-losyon",
+        "brand": "Solante",
+        "price": 1602.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ba7f2cd-c42e-49ea-bb62-491f5e1682d6/image_1950.webp",
+        "cats": [
+          "Renkli SPF 50+",
+          "Vücut Losyonu",
+          "SPF 50+",
+          "Rozasea"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solante Sun Tele-Rubor Tinted SPF 50+ Losyon",
+        "slug": "solante-sun-tele-rubor-tinted-spf-50-plus-losyon",
+        "brand": "Solante",
+        "price": 1602.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbe09fd8-e89e-489e-b97f-83d3fb1bd64f/image_1950.webp",
+        "cats": [
+          "Renkli SPF 50+",
+          "Vücut Losyonu",
+          "SPF 50+",
+          "Rozasea"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Xabion Pediatrik Cilt Bakım Losyonu 250 ml",
+        "slug": "xabion-pediatrik-cilt-bakim-losyonu-250-ml",
+        "brand": "Edis Pharma",
+        "price": 598.0,
+        "discount_price": 478.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/74b4c811-eaa5-434e-a1c9-6bf9e57055aa/image_1950.webp",
+        "cats": [
+          "Bebek Losyonu",
+          "Vücut Losyonu"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Xabion Yetişkin Cilt Bakım Losyonu 250 ml",
+        "slug": "xabion-yetiskin-cilt-bakim-losyonu-250-ml",
+        "brand": "Edis Pharma",
+        "price": 666.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8f2945e3-ab4d-4376-a2a0-132f2eee5d1b/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu"
+        ],
+        "stock": 5
+      }
+    ],
     "Dudak Kremi": [
       {
         "name": "Bepanthol Dudak Bakım Kremi 7.5 ml",
@@ -22525,7 +22525,7 @@
         "stock": 16
       },
       {
-        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gida 50ml Şişe",
+        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gıda 50ml Şişe",
         "slug": "newvit-demir-oral-damla-demir-sulfat-iceren-takviye-edici-gida-50ml",
         "brand": "Newvit",
         "price": 600.0,
@@ -22540,7 +22540,7 @@
         "stock": 4
       },
       {
-        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gida 50ml Şişe",
+        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gıda 50ml Şişe",
         "slug": "newvit-demir-oral-damla-demir-sulfat-iceren-takviye-edici-gida-50ml",
         "brand": "Newvit",
         "price": 600.0,
@@ -22555,7 +22555,7 @@
         "stock": 4
       },
       {
-        "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gida 200ml Şişe",
+        "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gıda 200ml Şişe",
         "slug": "newvit-demir-surup-demir-sulfat-iceren-takviye-edici-gida-200ml-sise",
         "brand": "Newvit",
         "price": 600.0,
@@ -22570,7 +22570,7 @@
         "stock": 5
       },
       {
-        "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gida 200ml Şişe",
+        "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gıda 200ml Şişe",
         "slug": "newvit-demir-surup-demir-sulfat-iceren-takviye-edici-gida-200ml-sise",
         "brand": "Newvit",
         "price": 600.0,
@@ -24648,7 +24648,7 @@
         "stock": 3
       },
       {
-        "name": "Nbtlife Lifeguard Kapsül, Selenyum, Çinko, Bakir ve İyot İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Nbtlife Lifeguard Kapsül, Selenyum, Çinko, Bakir ve İyot İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "nbtlife-lifeguard-kapsul-selenyum-cinko-bakir-ve-iyot-iceren-takviye",
         "brand": "NBT Life",
         "price": 749.0,
@@ -26437,7 +26437,7 @@
         "stock": 19
       },
       {
-        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gida 60 Kapsül",
+        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
         "brand": "Peptiline",
         "price": 1499.0,
@@ -26513,7 +26513,7 @@
         "stock": 5
       },
       {
-        "name": "OCEAN METHYL B12 500 MCG DİLALTI SPREY, B12 VİTAMİNİ (METİLKOBALAMİN) İÇEREN TAKVİYE EDİCİ GIDA 5ml şişe",
+        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
         "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
         "brand": "Orzax",
         "price": 377.0,
@@ -26827,7 +26827,7 @@
         "stock": 9
       },
       {
-        "name": "İmuneks Farma Inflamax Kapsül Optimize Zerdeçöp Ekstresi Takviyesi 60 Kapsül",
+        "name": "İmuneks Farma Inflamax Kapsül Optimize Zerdeçal Ekstresi Takviyesi 60 Kapsül",
         "slug": "imuneks-farma-inflamax-kapsul-optimize-zerdecop-ekstresi-60-kapsul",
         "brand": "İmuneks",
         "price": 1806.0,
@@ -27149,7 +27149,7 @@
         "stock": 31
       },
       {
-        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gida 150ml Şişe",
+        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
         "slug": "zebovit-sivi-cam-sise-fosfotidilserin-kolin-sitikolin-l-arjinin-l",
         "brand": "Zebovit",
         "price": 453.0,
@@ -27337,7 +27337,7 @@
         "stock": 3
       },
       {
-        "name": "Magnesium Diasporal Granül Saşe, Magnezyum İçeren Takviye Edici Gida 20 Saşe",
+        "name": "Magnesium Diasporal Granül Saşe, Magnezyum İçeren Takviye Edici Gıda 20 Saşe",
         "slug": "magnesium-diasporal-granul-sase-magnezyum-iceren-takviye-edici-gida",
         "brand": "Magnesium Diasporal",
         "price": 863.0,
@@ -27949,7 +27949,7 @@
         "stock": 1
       },
       {
-        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gida 150ml Şişe",
+        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
         "slug": "zebovit-sivi-cam-sise-fosfotidilserin-kolin-sitikolin-l-arjinin-l",
         "brand": "Zebovit",
         "price": 453.0,
@@ -27966,7 +27966,7 @@
         "stock": 1
       },
       {
-        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gida 150ml Şişe",
+        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
         "slug": "zebovit-sivi-cam-sise-fosfotidilserin-kolin-sitikolin-l-arjinin-l",
         "brand": "Zebovit",
         "price": 453.0,
@@ -28581,7 +28581,7 @@
         "stock": 1
       },
       {
-        "name": "New Life EFA S 1200 Yumuşak Jelatin Kapsül, Balik Yaği İçeren Takviye Edici Gida 90 Kapsül",
+        "name": "New Life EFA S 1200 Yumuşak Jelatin Kapsül, Balik Yaği İçeren Takviye Edici Gıda 90 Kapsül",
         "slug": "new-life-efa-s-1200-yumusak-jelatin-kapsul-balik-yagi-iceren-takviye",
         "brand": "New Life",
         "price": 1549.0,
@@ -28795,7 +28795,7 @@
         "stock": 2
       },
       {
-        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gida 60 Kapsül",
+        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
         "brand": "Peptiline",
         "price": 1499.0,
@@ -30294,7 +30294,7 @@
         "stock": 1
       },
       {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
         "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
         "brand": "Nutraxin",
         "price": 1299.99,
@@ -30313,7 +30313,7 @@
         "stock": 3
       },
       {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
         "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
         "brand": "Nutraxin",
         "price": 1299.99,
@@ -30380,7 +30380,7 @@
         "stock": 1
       },
       {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
         "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
         "brand": "Nutraxin",
         "price": 1299.99,
@@ -30399,7 +30399,7 @@
         "stock": 3
       },
       {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
         "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
         "brand": "Nutraxin",
         "price": 1299.99,
@@ -32419,7 +32419,7 @@
         "stock": 4
       },
       {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
         "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
         "brand": "Nutraxin",
         "price": 1299.99,
@@ -32438,7 +32438,7 @@
         "stock": 3
       },
       {
-        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gida 60 Kapsül",
+        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
         "brand": "Peptiline",
         "price": 1499.0,
@@ -32454,7 +32454,7 @@
         "stock": 2
       },
       {
-        "name": "Vitaly One Kapsül, Tip 1 Kollajen, Bromelain ve Rutin İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Vitaly One Kapsül, Tip 1 Kollajen, Bromelain ve Rutin İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "vitaly-one-kapsul-tip-1-kollajen-bromelain-ve-rutin-iceren-takviye",
         "brand": "Vitaly",
         "price": 1263.0,
@@ -36027,7 +36027,7 @@
         "stock": 3
       },
       {
-        "name": "Nature's Bounty 5-HTP Kapsül, 5-HTP İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Nature's Bounty 5-HTP Kapsül, 5-HTP İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "natures-bounty-5-htp-kapsul-5-htp-iceren-takviye-edici-gida-30-kapsul",
         "brand": "Nature's Bounty",
         "price": 487.9,
@@ -36054,7 +36054,7 @@
         "stock": 22
       },
       {
-        "name": "Venatura 5-HTP Kapsül, 5-hidroksitriptofan İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Venatura 5-HTP Kapsül, 5-hidroksitriptofan İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "venatura-5-htp-kapsul-5-hidroksitriptofan-iceren-takviye-edici-gida",
         "brand": "VeNatura",
         "price": 467.0,
@@ -36184,7 +36184,7 @@
         "stock": 18
       },
       {
-        "name": "NBTLIFE SAFLIFE KAPSÜL, SAFRAN EKSTRESİ, GLİSİN VE B6 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 30 kapsül",
+        "name": "Nbtlife Saflıfe Kapsül, Safran Ekstresi, Glisin ve B6 Vitamini İçeren Takviye Edici Gıda 30 kapsül",
         "slug": "nbtlife-saflife-kapsul-safran-ekstresi-glisin-ve-b6-vitamini-iceren",
         "brand": "NBT Life",
         "price": 942.0,
@@ -36830,7 +36830,7 @@
         "stock": 1
       },
       {
-        "name": "Vitaly One Kapsül, Tip 1 Kollajen, Bromelain ve Rutin İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Vitaly One Kapsül, Tip 1 Kollajen, Bromelain ve Rutin İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "vitaly-one-kapsul-tip-1-kollajen-bromelain-ve-rutin-iceren-takviye",
         "brand": "Vitaly",
         "price": 1263.0,
@@ -36908,7 +36908,7 @@
         "stock": 10
       },
       {
-        "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gida 20 Adet",
+        "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
         "slug": "phytorelief-junior-cignenebilir-form-turmeric-pomegranate-ginger",
         "brand": "PhytoRelief",
         "price": 380.0,
@@ -36949,7 +36949,7 @@
         "stock": 9
       },
       {
-        "name": "İmuneks Farma Inflamax Kapsül Optimize Zerdeçöp Ekstresi Takviyesi 60 Kapsül",
+        "name": "İmuneks Farma Inflamax Kapsül Optimize Zerdeçal Ekstresi Takviyesi 60 Kapsül",
         "slug": "imuneks-farma-inflamax-kapsul-optimize-zerdecop-ekstresi-60-kapsul",
         "brand": "İmuneks",
         "price": 1806.0,
@@ -37008,7 +37008,7 @@
         "stock": 33
       },
       {
-        "name": "Venatura Berberis Vulgaris Kapsül, Berberis Vulgaris (karamuk) İçeren Takviye Edici Gida 60 Kapsül",
+        "name": "Venatura Berberis Vulgaris Kapsül, Berberis Vulgaris (karamuk) İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "venatura-berberis-vulgaris-kapsul-berberis-vulgaris-iceren-takviye",
         "brand": "VeNatura",
         "price": 1050.0,
@@ -37391,7 +37391,7 @@
         "stock": 1
       },
       {
-        "name": "Vitisfera Resveratrol Caps Kapsül, Resveratrol, Üzüm Çekirdeği Ekstresi ve Kuersetin İçeren Takviye Edici Gida 20 Kapsül",
+        "name": "Vitisfera Resveratrol Caps Kapsül, Resveratrol, Üzüm Çekirdeği Ekstresi ve Kuersetin İçeren Takviye Edici Gıda 20 Kapsül",
         "slug": "vitisfera-resveratrol-caps-kapsul-resveratrol-uzum-cekirdegi-ekstresi",
         "brand": "Vitisfera",
         "price": 780.0,
@@ -38073,7 +38073,7 @@
         "stock": 11
       },
       {
-        "name": "Ocean Extramag 90 TB %50 Daha Fazla",
+        "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
         "slug": "ocean-extramag-90-tb-50-daha-fazla",
         "brand": "Orzax",
         "price": 864.5,
@@ -38173,7 +38173,7 @@
         "stock": 11
       },
       {
-        "name": "Ocean Extramag 90 TB %50 Daha Fazla",
+        "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
         "slug": "ocean-extramag-90-tb-50-daha-fazla",
         "brand": "Orzax",
         "price": 864.5,
@@ -38330,7 +38330,7 @@
         "stock": 11
       },
       {
-        "name": "Ocean Extramag 90 TB %50 Daha Fazla",
+        "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
         "slug": "ocean-extramag-90-tb-50-daha-fazla",
         "brand": "Orzax",
         "price": 864.5,
@@ -38602,7 +38602,7 @@
         "stock": 2
       },
       {
-        "name": "OCEAN D3K2 DAMLA, D3 VİTAMİNİ VE K2 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 20ml şişe",
+        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
         "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
         "brand": "Orzax",
         "price": 632.0,
@@ -39424,7 +39424,7 @@
         "stock": 1
       },
       {
-        "name": "Vitisfera Resveratrol Caps Kapsül, Resveratrol, Üzüm Çekirdeği Ekstresi ve Kuersetin İçeren Takviye Edici Gida 20 Kapsül",
+        "name": "Vitisfera Resveratrol Caps Kapsül, Resveratrol, Üzüm Çekirdeği Ekstresi ve Kuersetin İçeren Takviye Edici Gıda 20 Kapsül",
         "slug": "vitisfera-resveratrol-caps-kapsul-resveratrol-uzum-cekirdegi-ekstresi",
         "brand": "Vitisfera",
         "price": 780.0,
@@ -39680,36 +39680,6 @@
           "Antioksidan Serum"
         ],
         "stock": 47
-      }
-    ],
-    "Cilt Bakımı": [
-      {
-        "name": "LAMİDERM KREM 60ml tüp",
-        "slug": "lamiderm-krem-60ml-tup",
-        "brand": "Lamiderm",
-        "price": 833.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb547fe1-7904-4804-ac91-2c8195d690b0/image_1950.webp",
-        "cats": [
-          "Cilt Bakımı",
-          "Seramid İçeren Ürünler"
-        ],
-        "stock": 3
-      }
-    ],
-    "Seramid İçeren Ürünler": [
-      {
-        "name": "LAMİDERM KREM 60ml tüp",
-        "slug": "lamiderm-krem-60ml-tup",
-        "brand": "Lamiderm",
-        "price": 833.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb547fe1-7904-4804-ac91-2c8195d690b0/image_1950.webp",
-        "cats": [
-          "Cilt Bakımı",
-          "Seramid İçeren Ürünler"
-        ],
-        "stock": 3
       }
     ],
     "Yaşlanma Karşıtı": [
@@ -40097,6 +40067,36 @@
         "stock": 3
       }
     ],
+    "Cilt Bakımı": [
+      {
+        "name": "Lamiderm Krem 60ml tüp",
+        "slug": "lamiderm-krem-60ml-tup",
+        "brand": "Lamiderm",
+        "price": 833.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb547fe1-7904-4804-ac91-2c8195d690b0/image_1950.webp",
+        "cats": [
+          "Cilt Bakımı",
+          "Seramid İçeren Ürünler"
+        ],
+        "stock": 3
+      }
+    ],
+    "Seramid İçeren Ürünler": [
+      {
+        "name": "Lamiderm Krem 60ml tüp",
+        "slug": "lamiderm-krem-60ml-tup",
+        "brand": "Lamiderm",
+        "price": 833.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb547fe1-7904-4804-ac91-2c8195d690b0/image_1950.webp",
+        "cats": [
+          "Cilt Bakımı",
+          "Seramid İçeren Ürünler"
+        ],
+        "stock": 3
+      }
+    ],
     "Cam Biberon": [
       {
         "name": "Lansinoh Cam Biberon 240 ml",
@@ -40346,7 +40346,7 @@
     ],
     "Stres ve Uyku": [
       {
-        "name": "Magnesium Diasporal Granül Saşe, Magnezyum İçeren Takviye Edici Gida 20 Saşe",
+        "name": "Magnesium Diasporal Granül Saşe, Magnezyum İçeren Takviye Edici Gıda 20 Saşe",
         "slug": "magnesium-diasporal-granul-sase-magnezyum-iceren-takviye-edici-gida",
         "brand": "Magnesium Diasporal",
         "price": 863.0,
@@ -40564,7 +40564,7 @@
         "stock": 5
       },
       {
-        "name": "OCEAN D3K2 DAMLA, D3 VİTAMİNİ VE K2 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 20ml şişe",
+        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
         "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
         "brand": "Orzax",
         "price": 632.0,
@@ -40900,7 +40900,7 @@
         "stock": 8
       },
       {
-        "name": "NBTLIFE SAFLIFE KAPSÜL, SAFRAN EKSTRESİ, GLİSİN VE B6 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 30 kapsül",
+        "name": "Nbtlife Saflıfe Kapsül, Safran Ekstresi, Glisin ve B6 Vitamini İçeren Takviye Edici Gıda 30 kapsül",
         "slug": "nbtlife-saflife-kapsul-safran-ekstresi-glisin-ve-b6-vitamini-iceren",
         "brand": "NBT Life",
         "price": 942.0,
@@ -41122,7 +41122,7 @@
         "stock": 16
       },
       {
-        "name": "OCEAN ULTIMATE KAPSÜL, BALIK YAĞI İÇEREN TAKVİYE EDİCİ GIDA 30 kapsül",
+        "name": "Ocean Ultimate Kapsül, Balık Yağı İçeren Takviye Edici Gıda 30 kapsül",
         "slug": "ocean-ultimate-kapsul-balik-yagi-iceren-takviye-edici-gida-30-kapsul",
         "brand": "Orzax",
         "price": 1182.0,
@@ -41149,7 +41149,7 @@
         "stock": 19
       },
       {
-        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gida 60 Kapsül",
+        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
         "brand": "Peptiline",
         "price": 1499.0,
@@ -41257,57 +41257,6 @@
         "stock": 10
       }
     ],
-    "B6 Vitamini (Piridoksin)": [
-      {
-        "name": "NBTLIFE SAFLIFE KAPSÜL, SAFRAN EKSTRESİ, GLİSİN VE B6 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 30 kapsül",
-        "slug": "nbtlife-saflife-kapsul-safran-ekstresi-glisin-ve-b6-vitamini-iceren",
-        "brand": "NBT Life",
-        "price": 942.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb040d05-6774-4cba-8651-e1eaf3948041/image_1950.webp",
-        "cats": [
-          "B6 Vitamini (Piridoksin)",
-          "Safran",
-          "B6 Vitamini"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "OCEAN METHYL B12 500 MCG DİLALTI SPREY, B12 VİTAMİNİ (METİLKOBALAMİN) İÇEREN TAKVİYE EDİCİ GIDA 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
-        "brand": "Orzax",
-        "price": 377.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
-        "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "B12 Vitamini",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "B3 Vitamini (Niasin)"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
-        "slug": "ocean-microfer-kapsul-mikroenkapsule-demir-ve-c-vitamini-iceren",
-        "brand": "Orzax",
-        "price": 954.5,
-        "discount_price": 764.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6df21941-5765-43b4-a0e1-52333b931a4b/image_1950.webp",
-        "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "Bağışıklık Sistemi",
-          "B6 Vitamini (Piridoksin)",
-          "C Vitamini",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "Demir",
-          "B3 Vitamini (Niasin)"
-        ],
-        "stock": 9
-      }
-    ],
     "Kadın Multivitamin": [
       {
         "name": "Naturalnest Multy Energy Women Kadın Multivitamin ve Mineral 30 Tablet",
@@ -41404,7 +41353,7 @@
     ],
     "Selenyum": [
       {
-        "name": "Nbtlife Lifeguard Kapsül, Selenyum, Çinko, Bakir ve İyot İçeren Takviye Edici Gida 30 Kapsül",
+        "name": "Nbtlife Lifeguard Kapsül, Selenyum, Çinko, Bakir ve İyot İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "nbtlife-lifeguard-kapsul-selenyum-cinko-bakir-ve-iyot-iceren-takviye",
         "brand": "NBT Life",
         "price": 749.0,
@@ -41494,6 +41443,57 @@
         "stock": 2
       }
     ],
+    "B6 Vitamini (Piridoksin)": [
+      {
+        "name": "Nbtlife Saflıfe Kapsül, Safran Ekstresi, Glisin ve B6 Vitamini İçeren Takviye Edici Gıda 30 kapsül",
+        "slug": "nbtlife-saflife-kapsul-safran-ekstresi-glisin-ve-b6-vitamini-iceren",
+        "brand": "NBT Life",
+        "price": 942.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb040d05-6774-4cba-8651-e1eaf3948041/image_1950.webp",
+        "cats": [
+          "B6 Vitamini (Piridoksin)",
+          "Safran",
+          "B6 Vitamini"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
+        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
+        "brand": "Orzax",
+        "price": 377.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
+        "cats": [
+          "B2 Vitamini (Riboflavin)",
+          "B12 Vitamini",
+          "B6 Vitamini (Piridoksin)",
+          "B5 Vitamini (Pantotenik Asit)",
+          "B3 Vitamini (Niasin)"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
+        "slug": "ocean-microfer-kapsul-mikroenkapsule-demir-ve-c-vitamini-iceren",
+        "brand": "Orzax",
+        "price": 954.5,
+        "discount_price": 764.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6df21941-5765-43b4-a0e1-52333b931a4b/image_1950.webp",
+        "cats": [
+          "B2 Vitamini (Riboflavin)",
+          "Bağışıklık Sistemi",
+          "B6 Vitamini (Piridoksin)",
+          "C Vitamini",
+          "B5 Vitamini (Pantotenik Asit)",
+          "Enerji ve Zindelik",
+          "Demir",
+          "B3 Vitamini (Niasin)"
+        ],
+        "stock": 9
+      }
+    ],
     "Kolesterol": [
       {
         "name": "New Life Bergacol Bergamot Bitkisel Sterol Kolesterol Dengeleyici 60 Tablet",
@@ -41509,7 +41509,7 @@
         "stock": 5
       },
       {
-        "name": "New Life EFA S 1200 Yumuşak Jelatin Kapsül, Balik Yaği İçeren Takviye Edici Gida 90 Kapsül",
+        "name": "New Life EFA S 1200 Yumuşak Jelatin Kapsül, Balik Yaği İçeren Takviye Edici Gıda 90 Kapsül",
         "slug": "new-life-efa-s-1200-yumusak-jelatin-kapsul-balik-yagi-iceren-takviye",
         "brand": "New Life",
         "price": 1549.0,
@@ -41539,7 +41539,7 @@
     ],
     "Çocuk Demir": [
       {
-        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gida 50ml Şişe",
+        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gıda 50ml Şişe",
         "slug": "newvit-demir-oral-damla-demir-sulfat-iceren-takviye-edici-gida-50ml",
         "brand": "Newvit",
         "price": 600.0,
@@ -41554,7 +41554,7 @@
         "stock": 4
       },
       {
-        "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gida 200ml Şişe",
+        "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gıda 200ml Şişe",
         "slug": "newvit-demir-surup-demir-sulfat-iceren-takviye-edici-gida-200ml-sise",
         "brand": "Newvit",
         "price": 600.0,
@@ -41659,7 +41659,7 @@
     ],
     "MSM": [
       {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
         "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
         "brand": "Nutraxin",
         "price": 1299.99,
@@ -41678,7 +41678,7 @@
         "stock": 3
       },
       {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gida 90 Tablet",
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
         "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
         "brand": "Nutraxin",
         "price": 1299.99,
@@ -41785,7 +41785,7 @@
         "stock": 1
       },
       {
-        "name": "Vitisfera Resveratrol Caps Kapsül, Resveratrol, Üzüm Çekirdeği Ekstresi ve Kuersetin İçeren Takviye Edici Gida 20 Kapsül",
+        "name": "Vitisfera Resveratrol Caps Kapsül, Resveratrol, Üzüm Çekirdeği Ekstresi ve Kuersetin İçeren Takviye Edici Gıda 20 Kapsül",
         "slug": "vitisfera-resveratrol-caps-kapsul-resveratrol-uzum-cekirdegi-ekstresi",
         "brand": "Vitisfera",
         "price": 780.0,
@@ -41928,7 +41928,7 @@
     ],
     "Çocuk D Vitamini": [
       {
-        "name": "OCEAN D3K2 DAMLA, D3 VİTAMİNİ VE K2 VİTAMİNİ İÇEREN TAKVİYE EDİCİ GIDA 20ml şişe",
+        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
         "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
         "brand": "Orzax",
         "price": 632.0,
@@ -41945,7 +41945,7 @@
         "stock": 11
       },
       {
-        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gida 20ml Şişe",
+        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
         "slug": "osende-vitamin-d3-1000-iu-oral-damla-d3-vitamini-iceren-takviye-edici",
         "brand": "Osende",
         "price": 350.0,
@@ -41960,7 +41960,7 @@
         "stock": 6
       },
       {
-        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gida 240ml Şişe",
+        "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gıda 240ml Şişe",
         "slug": "phytopharma-servi-kozalagi-sivi-cam-kavanoz-sakiz-cinko-ve-d-vitamini",
         "brand": "Phytopharma",
         "price": 438.0,
@@ -41978,7 +41978,7 @@
     ],
     "B2 Vitamini (Riboflavin)": [
       {
-        "name": "OCEAN METHYL B12 500 MCG DİLALTI SPREY, B12 VİTAMİNİ (METİLKOBALAMİN) İÇEREN TAKVİYE EDİCİ GIDA 5ml şişe",
+        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
         "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
         "brand": "Orzax",
         "price": 377.0,
@@ -42028,7 +42028,7 @@
     ],
     "B3 Vitamini (Niasin)": [
       {
-        "name": "OCEAN METHYL B12 500 MCG DİLALTI SPREY, B12 VİTAMİNİ (METİLKOBALAMİN) İÇEREN TAKVİYE EDİCİ GIDA 5ml şişe",
+        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
         "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
         "brand": "Orzax",
         "price": 377.0,
@@ -43299,7 +43299,7 @@
         "stock": 2
       },
       {
-        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gida 150ml Şişe",
+        "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
         "slug": "zebovit-sivi-cam-sise-fosfotidilserin-kolin-sitikolin-l-arjinin-l",
         "brand": "Zebovit",
         "price": 453.0,
@@ -45574,7 +45574,7 @@
         "stock": 2
       },
       {
-        "name": "İmuneks Farma Inflamax Kapsül Optimize Zerdeçöp Ekstresi Takviyesi 60 Kapsül",
+        "name": "İmuneks Farma Inflamax Kapsül Optimize Zerdeçal Ekstresi Takviyesi 60 Kapsül",
         "slug": "imuneks-farma-inflamax-kapsul-optimize-zerdecop-ekstresi-60-kapsul",
         "brand": "İmuneks",
         "price": 1806.0,
@@ -45652,7 +45652,7 @@
         "stock": 2
       },
       {
-        "name": "İntramag Day & Night Tablet Takviye Edici Gida Seti 30+30 Tablet",
+        "name": "İntramag Day & Night Tablet Takviye Edici Gıda Seti 30+30 Tablet",
         "slug": "intramag-day-night-tablet-takviye-edici-gida-seti-3030-tablet",
         "brand": "Intramag",
         "price": 1464.0,
@@ -45724,7 +45724,7 @@
   "stats": {
     "total_products": 3093,
     "total_categories": 567,
-    "generated": "2026-07-14 15:43",
+    "generated": "2026-07-14 19:00",
     "source": "ikas_api_live"
   }
 }
