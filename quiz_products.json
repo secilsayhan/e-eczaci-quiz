@@ -8794,7 +8794,7 @@
           "İnositol",
           "Glutatyon"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Prowomen Kadın Multivitamin ve Mineral Takviye 30 Saşe",
@@ -32864,7 +32864,7 @@
           "Terleme Karşıtı",
           "Roll-on"
         ],
-        "stock": 19
+        "stock": 18
       }
     ],
     "Erkek Roll-On": [
@@ -34095,7 +34095,7 @@
           "Terleme Karşıtı",
           "Roll-on"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "TTO TRX Roll On 45 ml",
@@ -34412,7 +34412,7 @@
           "İnositol",
           "Glutatyon"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Profolmix Women Saşe Myo-İnositol L-Arjinin Vitamin C Koenzim Q10 Folik Asit Takviyesi 30 Saşe",
@@ -37716,7 +37716,7 @@
           "İnositol",
           "Glutatyon"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Profolmix Women Saşe Myo-İnositol L-Arjinin Vitamin C Koenzim Q10 Folik Asit Takviyesi 30 Saşe",
@@ -38735,7 +38735,7 @@
           "İnositol",
           "Glutatyon"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -43199,7 +43199,7 @@
           "İnositol",
           "Glutatyon"
         ],
-        "stock": 10
+        "stock": 9
       }
     ],
     "L-Karnitin": [
@@ -45724,7 +45724,7 @@
   "stats": {
     "total_products": 3093,
     "total_categories": 567,
-    "generated": "2026-07-14 07:42",
+    "generated": "2026-07-14 11:24",
     "source": "ikas_api_live"
   }
 }
