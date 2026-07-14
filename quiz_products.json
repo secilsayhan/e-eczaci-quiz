@@ -1901,7 +1901,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Betain HCL + Pepsin Tablet Betain ve Pepsin İçeren Takviye Edici Gıda 120 Tablet",
@@ -10613,7 +10613,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -14569,7 +14569,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 6
+        "stock": 1
       },
       {
         "name": "Hunnap Keci Boynuzu Ozu 640 GR",
@@ -18391,7 +18391,7 @@
         "discount_price": 559.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6662d7eb-83c4-409b-ae26-479d28f67507/image_1950.webp",
         "cats": [],
-        "stock": 93
+        "stock": 92
       },
       {
         "name": "Odaklanma ve Zihin Seti",
@@ -20490,7 +20490,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -20995,7 +20995,7 @@
           "Gece",
           "Gece Kremi"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Bepanthol Derma Onarıcı Bakım Merhemi 30 gr",
@@ -21163,7 +21163,7 @@
           "Gece",
           "Gece Kremi"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Bepanthol Dudak Bakım Kremi 7.5 ml",
@@ -21669,7 +21669,7 @@
           "Gece",
           "Gece Kremi"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Vichy Liftactiv B3 Retinol Gece Kremi Leke ve Kırışıklık Karşıtı 50 ml",
@@ -21715,7 +21715,7 @@
           "Gece",
           "Gece Kremi"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "CeraVe PM Facial Moisturizing Lotion 52 ml",
@@ -28778,7 +28778,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Saf Balık Yağı Omega 3 EPA DHA 500 mg 60 Kapsül",
@@ -29574,7 +29574,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Saf Balık Yağı Omega 3 EPA DHA 500 mg 60 Kapsül",
@@ -30714,7 +30714,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -34200,18 +34200,6 @@
         "stock": 6
       },
       {
-        "name": "Etoile 300 mg Boric Acid + Hyal",
-        "slug": "etoile-300-mg-boric-acid-hyal",
-        "brand": "Etoile",
-        "price": 1199.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/01d8639d-0111-461b-a325-7387e5586f82/image_1950.webp",
-        "cats": [
-          "İntim Bakım"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Etoile Intim Yıkama Boric Acid 200 ml",
         "slug": "etoile-intim-yikama-boric-acid-200-ml",
         "brand": "Etoile",
@@ -35188,7 +35176,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -36456,7 +36444,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 6
+        "stock": 1
       },
       {
         "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
@@ -38731,7 +38719,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -45734,9 +45722,9 @@
     ]
   },
   "stats": {
-    "total_products": 3094,
+    "total_products": 3093,
     "total_categories": 567,
-    "generated": "2026-07-13 15:00",
+    "generated": "2026-07-14 07:42",
     "source": "ikas_api_live"
   }
 }
