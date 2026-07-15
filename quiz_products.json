@@ -3457,7 +3457,7 @@
       {
         "name": "Bepanthol Derma Yoğun Nemlendirici Günlük Vücut Losyonu 200 ml",
         "slug": "bepanthol-derma-yogun-nemlendirici-gunluk-vucut-losyonu-200-ml",
-        "brand": "",
+        "brand": "Bepanthol",
         "price": 939.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9b09a7d5-9d28-442a-84f0-49634675d763/image_1950.webp",
@@ -13787,7 +13787,7 @@
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
         "slug": "orzax-ocean-bromelain-complex-60-tablet",
-        "brand": "",
+        "brand": "Orzax",
         "price": 754.5,
         "discount_price": 604.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/587c60d0-66f6-4a3a-8777-9ff0ad9b6e00/image_1950.webp",
@@ -14569,7 +14569,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 1
+        "stock": 5
       },
       {
         "name": "Hunnap Keci Boynuzu Ozu 640 GR",
@@ -19392,7 +19392,7 @@
       {
         "name": "Bioderma Pigmentbio Foaming Crem 500 ml",
         "slug": "bioderma-pigmentbio-foaming-crem-500-ml-ozel-fiyat",
-        "brand": "",
+        "brand": "Bioderma",
         "price": 1577.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5458e778-022e-42af-ab41-ebed4bed05e5/image_1950.webp",
@@ -19402,7 +19402,7 @@
       {
         "name": "Bioderma Sebium Kerato+ Cover 30 ml",
         "slug": "bioderma-sebium-kerato-cover-30-ml",
-        "brand": "",
+        "brand": "Bioderma",
         "price": 1640.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/de0a6e9c-c780-4b22-9954-d599b5c8ca2c/image_1950.webp",
@@ -20502,20 +20502,6 @@
           "C Vitamini"
         ],
         "stock": 7
-      }
-    ],
-    "Bebek Pudrası": [
-      {
-        "name": "Benex Bebek Talk Pudrası 75 g",
-        "slug": "benex-bebek-talk-pudrasi-75-g",
-        "brand": "Benex",
-        "price": 45.0,
-        "discount_price": 36.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ac84c20d-d70f-4e6b-95ad-7d0b8f6cbe8b/image_1950.webp",
-        "cats": [
-          "Bebek Pudrası"
-        ],
-        "stock": 3
       }
     ],
     "Pişik Kremi": [
@@ -21685,7 +21671,7 @@
       {
         "name": "Bepanthol Derma Yoğun Nemlendirici Günlük Vücut Losyonu 200 ml",
         "slug": "bepanthol-derma-yogun-nemlendirici-gunluk-vucut-losyonu-200-ml",
-        "brand": "",
+        "brand": "Bepanthol",
         "price": 939.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9b09a7d5-9d28-442a-84f0-49634675d763/image_1950.webp",
@@ -35176,7 +35162,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 15
+        "stock": 12
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -36444,7 +36430,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 1
+        "stock": 5
       },
       {
         "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
@@ -36791,7 +36777,7 @@
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
         "slug": "orzax-ocean-bromelain-complex-60-tablet",
-        "brand": "",
+        "brand": "Orzax",
         "price": 754.5,
         "discount_price": 604.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/587c60d0-66f6-4a3a-8777-9ff0ad9b6e00/image_1950.webp",
@@ -36805,7 +36791,7 @@
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
         "slug": "orzax-ocean-bromelain-complex-60-tablet",
-        "brand": "",
+        "brand": "Orzax",
         "price": 754.5,
         "discount_price": 604.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/587c60d0-66f6-4a3a-8777-9ff0ad9b6e00/image_1950.webp",
@@ -45722,9 +45708,9 @@
     ]
   },
   "stats": {
-    "total_products": 3093,
-    "total_categories": 567,
-    "generated": "2026-07-14 19:00",
+    "total_products": 3092,
+    "total_categories": 566,
+    "generated": "2026-07-15 08:25",
     "source": "ikas_api_live"
   }
 }
