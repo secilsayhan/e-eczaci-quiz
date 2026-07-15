@@ -8198,19 +8198,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Koenzim Q10 100 mg Softgel Enerji Desteği 30 Adet",
-        "slug": "solgar-koenzim-q10-100-mg-softgel-enerji-destegi-30-adet",
-        "brand": "Solgar",
-        "price": 1246.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c5041a61-f3d4-45ac-ad42-b59043a97445/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
         "slug": "solgar-l-karnitin-500-mg-yag-yakimi-enerji-30-tablet",
         "brand": "Solgar",
@@ -13155,7 +13142,7 @@
           "Diş Macunu",
           "Beyazlatıcı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Rocs Black Edition Aktif Kömürlü Beyazlatıcı Diş Macunu",
@@ -13185,7 +13172,7 @@
           "Diş Macunu",
           "Beyazlatıcı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Clinomyn Dis Macun Sigara 75 ML",
@@ -13339,7 +13326,7 @@
           "Diş Macunu",
           "Beyazlatıcı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Parodontax Diş Macunu Ferah Tam Koruma 75 ml",
@@ -13352,7 +13339,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Parodontax Diş Macunu Orijinal Diş Eti Bakımı 75 ml",
@@ -13531,7 +13518,7 @@
           "Diş Macunu",
           "Beyazlatıcı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Capicade Cilt Beyazlatıcı Leke Karşıtı Krem 50 ml",
@@ -13595,7 +13582,7 @@
           "Diş Macunu",
           "Beyazlatıcı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Rocs Black Edition Aktif Kömürlü Beyazlatıcı Diş Macunu",
@@ -30229,7 +30216,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Parodontax Diş Macunu Orijinal Diş Eti Bakımı 75 ml",
@@ -38777,19 +38764,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Koenzim Q10 100 mg Softgel Enerji Desteği 30 Adet",
-        "slug": "solgar-koenzim-q10-100-mg-softgel-enerji-destegi-30-adet",
-        "brand": "Solgar",
-        "price": 1246.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c5041a61-f3d4-45ac-ad42-b59043a97445/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Supradyn Daily Multivitamin Mineral Koenzim Q10 30 Tablet",
         "slug": "supradyn-daily-multivitamin-mineral-koenzim-q10-30-tablet",
         "brand": "Supradyn",
@@ -45708,9 +45682,9 @@
     ]
   },
   "stats": {
-    "total_products": 3092,
+    "total_products": 3090,
     "total_categories": 566,
-    "generated": "2026-07-15 15:00",
+    "generated": "2026-07-15 19:00",
     "source": "ikas_api_live"
   }
 }
