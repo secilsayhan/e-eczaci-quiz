@@ -4707,7 +4707,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -4858,7 +4858,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
@@ -5314,7 +5314,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
@@ -10413,7 +10413,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "NBL Probiotic Optima Probiyotik Lif Vitamin Takviyesi 30 Tablet",
@@ -17854,7 +17854,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -17993,7 +17993,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
@@ -19110,7 +19110,7 @@
           "Pasiflora",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 15
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko Kemik Sağlığı 100 Tablet",
@@ -27582,7 +27582,7 @@
           "Pasiflora",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 15
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko Kemik Sağlığı 100 Tablet",
@@ -34170,7 +34170,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Etoile Intim Yıkama Boric Acid 200 ml",
@@ -34182,7 +34182,7 @@
         "cats": [
           "İntim Bakım"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Kadın Sağlığı": [
@@ -34200,7 +34200,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
@@ -34369,7 +34369,7 @@
           "Pasiflora",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 15
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -34484,7 +34484,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 6
+        "stock": 5
       }
     ],
     "Dil Basacağı": [
@@ -35149,7 +35149,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -40825,7 +40825,7 @@
           "Pasiflora",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 15
       }
     ],
     "Ovulasyon Testi": [
@@ -43127,7 +43127,7 @@
           "Pasiflora",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 15
       },
       {
         "name": "Solgar Primroz Yağı 1300 mg GLA İçeren 30 Softgel",
@@ -45684,7 +45684,7 @@
   "stats": {
     "total_products": 3090,
     "total_categories": 566,
-    "generated": "2026-07-16 07:16",
+    "generated": "2026-07-16 15:00",
     "source": "ikas_api_live"
   }
 }
