@@ -1647,11 +1647,18 @@ const detailBias = {
 };
 
 // Türkiye'de en bilinen/güvenilen markalar (prominence sırası — en tanınmış önce).
-// Aynı içerikte (ör. iki magnezyum) kullanıcı marka seçmemişse tercih sırasını belirler.
-// Katalogdaki gerçek markalardan seçildi (uydurma yok).
-const TRUSTED_BRANDS=['solgar','la roche-posay','bioderma','vichy','orzax','nutraxin','bepanthol',
-  'mustela','sebamed','bioxcin','abdi ibrahim','venatura','new life','easyvit','avent',
-  'oral-b','listerine','rocs','tepe','strepsils','imuneks','imunol'];
+// Türkiye-geneli bilinirlik: ana sayfa _tr_fame ile hizalı 3 katman (pazar araştırmalı).
+// Aynı içerikte (ör. iki magnezyum) kullanıcı marka seçmemişse en tanınan marka önce gelir.
+const BRAND_FAME_100=['solgar','supradyn','pharmaton','redoxon','centrum','bepanthol','la roche','bioderma','vichy','ocean ','orzax'];
+const BRAND_FAME_70=['avene','cerave','mustela','sebamed','eucerin','bioxcin','argivit','nutraxin','imuneks','zade vital','dynavit','wellcare','sudocrem','blistex','bioblas','otacı','otaci','uriage','nuxe','svr','caudalie'];
+const BRAND_FAME_40=['venatura','voonka','day2day','new life','easyvit','abdi ibrahim','avent','oral-b','listerine','rocs','strepsils','imunol','goodday','ddrops','sambucol','jamieson','nbl'];
+function brandFame(p){
+  const t=((p.brand||'')+' '+(p.name||'')).toLowerCase();
+  if(BRAND_FAME_100.some(b=>t.includes(b)))return 100;
+  if(BRAND_FAME_70.some(b=>t.includes(b)))return 70;
+  if(BRAND_FAME_40.some(b=>t.includes(b)))return 40;
+  return 0;
+}
 
 function applyDetailBias(need, cats){
   const d=(state.details||{})[need];
@@ -1759,10 +1766,16 @@ function renderProducts(){
     const catWords=catName.toLowerCase().replace(/[()]/g,'').split(/\s+/).filter(w=>w.length>2);
     const supKw=['tablet','kapsül','kapsul','softgel','damla','şurup','saşe','toz','sprey','efervesan','takviye','krem','serum','losyon'];
     const MIN_PRICE=100;
-    const blackKw=['çayı','çay ','pastil','sakız','sakiz','mendil','oje','pamuk','ruj','bandaj','bandı',
+    const blackKw=['uzman rehberi','protokolü —','rehberi —','çayı','çay ','pastil','sakız','sakiz','mendil','oje','pamuk','ruj','bandaj','bandı',
       'kinesiyoloji','duratape','eldiven','maske ','bone','flaster','pamukçuk','tirnak','tırnak',
       'termometre','ped ','gazlı bez','sargı','yara ','alçı','atel'];
-    const ageBlackKw=state.who==='yetiskin'||state.who==='yasli'?['junior','çocuk','bebek','kids','baby']:[];
+    // Segment-uyum: yetişkin/yaşlıya çocuk VE hamile ürünü önerilmez (kullanıcı: "çocuk ürünü öneriyor gibi")
+    const ageBlackKw=state.who==='yetiskin'||state.who==='yasli'
+      ?['junior','çocuk','cocuk','bebek','bebek','kids','kid ','baby','pediatrik','pediatric','infant','okul çağı',
+        'prenatal','pregna','elenatal','hamile','gebelik','anne adayı']
+      :(state.who==='cocuk'
+        ?['50+','menopoz','prostat','yetişkinler için']
+        :[]);
     cands.forEach(p=>{
       const nl=p.name.toLowerCase();
       const bl=(p.brand||'').toLowerCase();
@@ -1774,19 +1787,18 @@ function renderProducts(){
         p._brand=state.brands.some(b=>bl.includes(b.toLowerCase()))?1:0;
       }else{p._brand=0;}
     });
-    cands=cands.filter(p=>!p._black && p._price>=MIN_PRICE);
+    // Stok ŞART: stoğu olmayan ürün asla önerilmez (kullanıcı: "bizde stoğu olan")
+    cands=cands.filter(p=>!p._black && p._price>=MIN_PRICE && (p.stock||0)>0);
     const supOnly=cands.filter(p=>p._sup);
     if(supOnly.length) cands=supOnly;
     const _sbk=x=>{const s=x.stock||0;return s>=10?2:(s>=4?1:0);};
-    // Türkiye'de en bilinen/tercih edilen markalar — aynı içerikte (ör. iki magnezyum)
-    // kullanıcı marka seçmediyse güvenilir/tanınmış markayı öne al (kullanıcı geri bildirimi).
-    const _tb=(x)=>{const b=(x.brand||'').toLowerCase();for(let i=0;i<TRUSTED_BRANDS.length;i++){if(b.includes(TRUSTED_BRANDS[i]))return TRUSTED_BRANDS.length-i;}return 0;};
     cands.sort((a,b)=>{
       if(b._nm!==a._nm)return b._nm-a._nm;
       if(b._brand!==a._brand)return b._brand-a._brand;
       if(b._sup!==a._sup)return b._sup-a._sup;
-      if(_sbk(b)!==_sbk(a))return _sbk(b)-_sbk(a); // aynı alakada: stoğu bol olan önce (OOS riski az)
-      if(_tb(b)!==_tb(a))return _tb(b)-_tb(a);      // aynı alakada: TR'de en bilinen/güvenilir marka önce
+      // Türkiye-geneli en çok tercih edilen marka ÖNCE (kullanıcı isteği), sonra stok bolluğu
+      if(brandFame(b)!==brandFame(a))return brandFame(b)-brandFame(a);
+      if(_sbk(b)!==_sbk(a))return _sbk(b)-_sbk(a);
       if(budgetMax<99999){return Math.abs(a._price-perSlotTarget)-Math.abs(b._price-perSlotTarget);}
       const ad=a.discount_price?1:0,bd=b.discount_price?1:0;
       if(bd!==ad)return bd-ad;
@@ -2311,8 +2323,8 @@ function recomputePlan(){
         '<div style="text-align:right;flex-shrink:0;"><div style="font-size:21px;font-weight:800;color:#0a4c32;">'+fmt(total)+'</div><div style="font-size:10px;color:#6b7280;">'+kurTxt+'</div></div>'+
       '</div>'+
       '<div style="margin-top:10px;">'+f+'</div>'+
-      (function(){var _c=(key==='premium'&&total>=2600)?['ANALIZ250','250']:(total>=1500?['ANALIZ100','100']:null);
-        return _c?'<div style="margin-top:10px;background:#fff7e6;border:1px dashed #d97706;border-radius:10px;padding:8px 12px;font-size:12.5px;color:#92400e;font-weight:700;">&#127991;&#65039; Paket kuponu: <span style="letter-spacing:.5px;">'+_c[0]+'</span> &rarr; sepette '+_c[1]+' TL indirim</div>':'';})()+
+      (function(){var _c=(key==='premium'&&total>=2600)?'250':(total>=1500?'100':null);
+        return _c?'<div style="margin-top:10px;background:#fff7e6;border:1px dashed #d97706;border-radius:10px;padding:8px 12px;font-size:12.5px;color:#92400e;font-weight:700;">&#127991;&#65039; Sepette '+_c+' TL paket indirimi &mdash; Sat&#305;n Al&#39;da otomatik uygulan&#305;r</div>':'';})()+
       thumbsHTML(set)+
       (active
         ? '<div onclick="event.stopPropagation();buyNow(event);" style="margin-top:14px;text-align:center;padding:14px;border-radius:10px;font-weight:800;font-size:15px;background:#0a4c32;color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>Sat&#305;n Al &#8594;</div>'
@@ -2328,11 +2340,11 @@ function recomputePlan(){
         'Temel Plan’daki her şey dahil',
         '+'+extra+' tamamlayıcı ürün',
         'Daha hızlı ve eksiksiz sonuç',
-        'Plana özel kullanım rehberi'
+        'Kullanım talimatı hediye — sipariş sonrası WhatsApp ile'
       ],true,plan.premium)+
       tierCard('value','Temel Plan','İhtiyaçların için sağlam başlangıç',vT,[
         plan.value.length+' hedefe özel seçilmiş ürün',
-        'Plana özel kullanım rehberi',
+        'Kullanım talimatı hediye — sipariş sonrası WhatsApp ile',
         '2 aylık kür avantajı'
       ],false,plan.value);
   }
@@ -2467,7 +2479,8 @@ function buyNow(ev){
     if(state.budget)_answers.push('Bütçe: '+state.budget);
     if(window._plan&&window._plan.tier)_answers.push('Plan: '+window._plan.tier);
   }catch(e){}
-  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items,source:'analiz_form',concerns:_answers})})
+  var _pl=window._plan||{};
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items,source:'analiz_form',concerns:_answers,plan_tier:_pl.tier||'',plan_total:_pl.total||0})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
