@@ -4858,7 +4858,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 2
+        "stock": 4
       },
       {
         "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
@@ -5314,7 +5314,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 2
+        "stock": 4
       },
       {
         "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
@@ -10413,7 +10413,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 2
+        "stock": 4
       },
       {
         "name": "NBL Probiotic Optima Probiyotik Lif Vitamin Takviyesi 30 Tablet",
@@ -14556,7 +14556,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Hunnap Keci Boynuzu Ozu 640 GR",
@@ -17993,7 +17993,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 2
+        "stock": 4
       },
       {
         "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
@@ -20990,7 +20990,7 @@
           "Bakım Kremi",
           "Seboreik Dermatit"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ducray Keracnyl Jel 400 ml",
@@ -27847,20 +27847,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Folasin Folik Asit 400 mcg Takviyesi 100 Tablet",
-        "slug": "solgar-folasin-folik-asit-400-mcg-takviyesi-100-tablet",
-        "brand": "Solgar",
-        "price": 461.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8218113c-106b-4179-af37-f12c0022b0d5/image_1950.webp",
-        "cats": [
-          "Folik Asit (B9 Vitamini)",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
         "slug": "solgar-folate-as-metafolin-400-mcg-tablet-folat-takviyesi-50-tablet",
         "brand": "Solgar",
@@ -33647,20 +33633,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Folasin Folik Asit 400 mcg Takviyesi 100 Tablet",
-        "slug": "solgar-folasin-folik-asit-400-mcg-takviyesi-100-tablet",
-        "brand": "Solgar",
-        "price": 461.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8218113c-106b-4179-af37-f12c0022b0d5/image_1950.webp",
-        "cats": [
-          "Folik Asit (B9 Vitamini)",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
         "slug": "solgar-folate-as-metafolin-400-mcg-tablet-folat-takviyesi-50-tablet",
         "brand": "Solgar",
@@ -33877,20 +33849,6 @@
           "C Vitamini",
           "Folik Asit (B9 Vitamini)",
           "İnositol",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Folasin Folik Asit 400 mcg Takviyesi 100 Tablet",
-        "slug": "solgar-folasin-folik-asit-400-mcg-takviyesi-100-tablet",
-        "brand": "Solgar",
-        "price": 461.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8218113c-106b-4179-af37-f12c0022b0d5/image_1950.webp",
-        "cats": [
-          "Folik Asit (B9 Vitamini)",
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
@@ -34140,7 +34098,7 @@
           "Bakım Kremi",
           "Seboreik Dermatit"
         ],
-        "stock": 5
+        "stock": 4
       }
     ],
     "İntim Bakım": [
@@ -35137,7 +35095,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
@@ -36405,7 +36363,7 @@
           "Metabolizma ve Kilo Yönetimi",
           "Bitkisel Takviyeler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
@@ -41548,33 +41506,6 @@
         "stock": 1
       }
     ],
-    "Gaz Giderici ve Kolik": [
-      {
-        "name": "Nurse Harvey's Colex Bitkisel Yağ Karışımı 145 ml",
-        "slug": "nurse-harvey-s-colex-bitkisel-yag-karisimi-145-ml",
-        "brand": "Nurse Harvey's",
-        "price": 551.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/91d0d702-583e-4c14-83ea-cb10a3c94519/image_1950.webp",
-        "cats": [
-          "Gaz Giderici ve Kolik"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Nurse Harvey's Gaz Giderici Bebek Damlası 20 ml",
-        "slug": "nurse-harvey-s-gaz-giderici-bebek-damlasi-20-ml",
-        "brand": "Nurse Harvey's",
-        "price": 520.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ac5ed747-b5ab-4987-b436-7b3d9105de33/image_1950.webp",
-        "cats": [
-          "Gaz Giderici ve Kolik",
-          "Gaz Giderici"
-        ],
-        "stock": 2
-      }
-    ],
     "Diş Jeli": [
       {
         "name": "Nurse Harvey's Dentigel Bebek Diş Eti Jeli 15 gr",
@@ -41588,6 +41519,21 @@
           "Diş Jeli"
         ],
         "stock": 1
+      }
+    ],
+    "Gaz Giderici ve Kolik": [
+      {
+        "name": "Nurse Harvey's Gaz Giderici Bebek Damlası 20 ml",
+        "slug": "nurse-harvey-s-gaz-giderici-bebek-damlasi-20-ml",
+        "brand": "Nurse Harvey's",
+        "price": 520.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ac5ed747-b5ab-4987-b436-7b3d9105de33/image_1950.webp",
+        "cats": [
+          "Gaz Giderici ve Kolik",
+          "Gaz Giderici"
+        ],
+        "stock": 2
       }
     ],
     "Gaz Giderici": [
@@ -45670,9 +45616,9 @@
     ]
   },
   "stats": {
-    "total_products": 3089,
+    "total_products": 3085,
     "total_categories": 566,
-    "generated": "2026-07-16 19:00",
+    "generated": "2026-07-17 08:44",
     "source": "ikas_api_live"
   }
 }

@@ -550,7 +550,6 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           }
           function aiChip(txt){document.getElementById('aiInput').value=txt;startAI();}
         </script>
-        <div class="intro-badge">&#9733; Ücretsiz &middot; Uzman Rehberliğinde</div>
         <h1>Size <span>Özel</span> Ürün Analizi</h1>
         <p class="intro-desc">İhtiyacınızı anlatın; uzman rehberliğinde, size en uygun ürünleri saniyeler içinde birlikte belirleyelim.</p>
         <div class="intro-features">
@@ -572,7 +571,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         </div>
         <div class="intro-social-proof" id="socialProof">
           <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
-          <span>Binlerce <strong>mutlu</strong> danışan · Eczane güvencesi</span>
+          <span>Binlerce <strong>mutlu</strong> müşteri · Eczane güvencesi</span>
         </div>
       </div>
     </div>
@@ -648,8 +647,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       </div>
       <div id="detailContainer"></div>
       <div class="btn-row">
-        <button class="btn-primary" id="btn3" disabled onclick="goTo(4)">Devam Et</button>
-        <button class="btn-back" onclick="goTo(2)">&#8592; Geri dön</button>
+        <button class="btn-primary" id="btn3" disabled onclick="nextDetail()">Devam Et</button>
+        <button class="btn-back" onclick="backDetail()">&#8592; Geri dön</button>
       </div>
     </div>
 
@@ -671,7 +670,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       </div>
       <div class="btn-row">
         <button class="btn-primary" id="btn4" onclick="goTo(6)">Devam Et</button>
-        <button class="btn-back" onclick="hasCriticalDetail()?goTo(3):goTo(2)">&#8592; Geri dön</button>
+        <button class="btn-back" onclick="backFromStep4()">&#8592; Geri dön</button>
       </div>
     </div>
 
@@ -788,9 +787,9 @@ fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats'
 const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, bloodCats:[], currentProducts:[], typedProducts:[], note:'' };
 
 // Detay sadece KRİTİK ihtiyaçlarda (ürünü gerçekten değiştirenler) sorulur
-// Detaylar artık 2. adımda konunun altında soruluyor; 3. adım yalnızca
-// cevaplanmamış detay kalırsa (ör. serbest metinden eklenen konu) devreye girer.
-function hasCriticalDetail(){ return (state.needs||[]).some(n=>n!=='diger' && typeof detailMap!=='undefined' && detailMap[n] && !state.details[n]); }
+// Detaylar 2. adımda DEĞİL, sonraki sayfalarda konu başına tek soru olarak sorulur.
+function hasCriticalDetail(){ return (state.needs||[]).some(n=>n!=='diger' && typeof detailMap!=='undefined' && detailMap[n]); }
+function _detailQueue(){ return (state.needs||[]).filter(n=>n!=='diger' && detailMap[n]); }
 function nextFromNeeds(){
   // "Diğer" serbest metnini çözümle: eşleşen konuları + detayları otomatik ekle
   // (kullanıcı "geceleri uyuyamıyorum" yazdıysa uyku konusu ve detayı plana girer)
@@ -805,7 +804,7 @@ function nextFromNeeds(){
       }
     }
   }catch(e){}
-  hasCriticalDetail() ? goTo(3) : goTo(4);
+  if(hasCriticalDetail()){ state._detailIdx=0; goTo(3); } else goTo(4);
 }
 
 // Şu an kullanılan yaygın ürünler (değer = iKAS kategori adı → çakışma kontrolü)
@@ -1189,57 +1188,6 @@ function _matchDetailOption(needKey, txt){
   return bestScore>0?best:null;
 }
 
-function removeInlineDetail(needKey){
-  const ex=document.getElementById('di_'+needKey);
-  if(ex) ex.remove();
-}
-
-// Seçilen konunun kartının hemen altında detay sorusu + serbest cevap alanı
-function renderInlineDetail(optionEl, needKey){
-  removeInlineDetail(needKey);
-  const dm=detailMap[needKey]; if(!dm) return;
-  const box=document.createElement('div');
-  box.className='detail-inline'; box.id='di_'+needKey;
-  box.onclick=function(e){e.stopPropagation();};
-  box.innerHTML='<div class="di-q">'+dm.icon+' '+dm.question+'</div>';
-  const opts=document.createElement('div'); opts.className='di-opts';
-  dm.options.forEach(o=>{
-    const b=document.createElement('div');
-    b.className='di-opt'+(state.details[needKey]===o.value?' selected':'');
-    b.dataset.value=o.value;
-    b.textContent=o.label;
-    b.onclick=function(e){
-      e.stopPropagation();
-      opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
-      b.classList.add('selected');
-      state.details[needKey]=o.value;
-      const f=box.querySelector('.di-free'); if(f) f.value='';
-      updateBtn2();
-    };
-    opts.appendChild(b);
-  });
-  box.appendChild(opts);
-  const free=document.createElement('input');
-  free.type='text'; free.className='di-free'; free.maxLength=200;
-  free.placeholder='ya da kendi cevabınızı yazın...';
-  if(state.details[needKey] && !dm.options.some(o=>o.value===state.details[needKey])) free.value=state.details[needKey];
-  free.onclick=function(e){e.stopPropagation();};
-  free.oninput=function(){
-    const txt=this.value.trim();
-    opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
-    if(txt){
-      const m=_matchDetailOption(needKey, txt);
-      if(m){ const hit=opts.querySelector('.di-opt[data-value="'+m+'"]'); if(hit) hit.classList.add('selected'); }
-      state.details[needKey]=m||txt;
-    } else {
-      delete state.details[needKey];
-    }
-    updateBtn2();
-  };
-  box.appendChild(free);
-  optionEl.insertAdjacentElement('afterend', box);
-}
-
 function selectMulti(el) {
   const val = el.dataset.value;
   el.classList.toggle('selected');
@@ -1247,11 +1195,8 @@ function selectMulti(el) {
   const idx = state.needs.indexOf(val);
   if(idx > -1) state.needs.splice(idx,1); else state.needs.push(val);
 
-  // Detay sorusu: konu seçilince kartın altında açılır, kaldırılınca kapanır
-  if(val!=='diger' && detailMap[val]){
-    if(state.needs.includes(val)) renderInlineDetail(el, val);
-    else { removeInlineDetail(val); delete state.details[val]; }
-  }
+  // Detay sorusu sonraki sayfada sorulur; konu seçimi kaldırılınca cevabı da sil
+  if(val!=='diger' && detailMap[val] && !state.needs.includes(val)) delete state.details[val];
 
   // Diğer input
   const wrap = document.getElementById('otherWrap');
@@ -1270,9 +1215,8 @@ function updateBtn2(){
   const hasNormal = state.needs.some(n=>n!=='diger');
   const hasDiger = state.needs.includes('diger');
   const digerOk = hasDiger ? !!document.getElementById('otherInput').value.trim() : true;
-  // Seçilen her konunun detay sorusu cevaplanmalı (seçenek veya serbest metin)
-  const detailsOk = state.needs.every(n=>n==='diger'||!detailMap[n]||!!state.details[n]);
-  document.getElementById('btn2').disabled = !((hasNormal || (hasDiger && digerOk)) && detailsOk);
+  // Detaylar sonraki sayfalarda sorulur — burada sadece konu seçimi yeterli
+  document.getElementById('btn2').disabled = !(hasNormal || (hasDiger && digerOk));
 }
 
 function startQuiz(){
@@ -1324,9 +1268,39 @@ function sendAnalizSubmit(){
       recommended_slugs:recSlugs,
       recommended_products:(window._quizProducts||[]).map(function(p){return {slug:p.slug,name:p.name,category:p._fromCat||p.category||'',price:p.discount_price||p.price||0};}),
       plan_tier:plan.tier||'',plan_total:plan.total||0,plan_kur:!!plan.kur,
+      sid:_quizSid(),
     })
   }).catch(function(){});
 }
+
+/* ===== Yarım-bırakma takibi: her adım geçişinde snapshot beacon'ı ===== */
+function _quizSid(){
+  if(!window._qSid){
+    try{ window._qSid=([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g,c=>(c^crypto.getRandomValues(new Uint8Array(1))[0]&15>>c/4).toString(16)); }
+    catch(e){ window._qSid='q'+Math.random().toString(36).slice(2)+Date.now().toString(36); }
+  }
+  return window._qSid;
+}
+function _sendProgress(step){
+  if(window._analizSubmitted) return;
+  try{
+    var snap=JSON.stringify({
+      sid:_quizSid(), step:step,
+      who:state.who, needs:state.needs, details:state.details,
+      current_products:(state.currentProducts||[]).concat(state.typedProducts||[]),
+      note:state.note||'', name:state.name||(document.getElementById('nameInput')||{}).value||'',
+      email:state.email||(document.getElementById('emailInput')||{}).value||''
+    });
+    if(navigator.sendBeacon) navigator.sendBeacon('/api/analiz/progress', new Blob([snap],{type:'text/plain'}));
+    else fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/progress',{method:'POST',body:snap,keepalive:true}).catch(function(){});
+  }catch(e){}
+}
+document.addEventListener('visibilitychange',function(){
+  if(document.visibilityState==='hidden' && window._qLastStep>=1) _sendProgress(window._qLastStep);
+});
+window.addEventListener('pagehide',function(){
+  if(window._qLastStep>=1) _sendProgress(window._qLastStep);
+});
 
 function goTo(n){
   document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
@@ -1337,68 +1311,100 @@ function goTo(n){
   const id = n===0?'stepIntro': n<=6?'step'+n:'stepResults';
   document.getElementById(id).classList.add('active');
   updateProgress(n);
+  if(n>=1){ window._qLastStep=n; _sendProgress(n); }
   window.scrollTo({top:0,behavior:'smooth'});
   try{if(window.parent&&window.parent!==window){window.parent.postMessage({type:'eeczaci:scrollTop'},'*');}}catch(e){}
 }
 
+// Seçilen konunun etiketi (adım başlığı için)
+function _needLabel(v){
+  for(const k in needMap){
+    const hit=(needMap[k]||[]).find(o=>o.value===v);
+    if(hit) return hit.label;
+  }
+  return 'Detay';
+}
+
+// Her konunun detay sorusu KENDİ sayfasında sorulur (state._detailIdx ile gezinilir)
 function buildDetailStep(){
   const c=document.getElementById('detailContainer');
   c.innerHTML='';
   // Seçili olmayan konuların detayını temizle
   Object.keys(state.details).forEach(k=>{ if(!state.needs.includes(k)) delete state.details[k]; });
-  // Sadece CEVAPLANMAMIŞ detaylar sorulur (2. adımda inline cevaplananlar tekrar sorulmaz)
-  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]&&!state.details[n]);
-  if(!activeNeeds.length){
+  const queue=_detailQueue();
+  if(!queue.length){
     setTimeout(()=>goTo(4),100);
     return;
   }
-  activeNeeds.forEach(needKey=>{
-    const dm=detailMap[needKey];
-    const box=document.createElement('div');
-    box.className='detail-inline';
-    box.style.marginBottom='12px';
-    box.innerHTML='<div class="di-q">'+dm.icon+' '+dm.question+'</div>';
-    const opts=document.createElement('div'); opts.className='di-opts';
-    dm.options.forEach(o=>{
-      const b=document.createElement('div');
-      b.className='di-opt'+(state.details[needKey]===o.value?' selected':'');
-      b.dataset.value=o.value;
-      b.textContent=o.label;
-      b.onclick=function(){
-        opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
-        b.classList.add('selected');
-        state.details[needKey]=o.value;
-        const f=box.querySelector('.di-free'); if(f) f.value='';
-        updateDetailBtn();
-      };
-      opts.appendChild(b);
-    });
-    box.appendChild(opts);
-    const free=document.createElement('input');
-    free.type='text'; free.className='di-free'; free.maxLength=200;
-    free.placeholder='ya da kendi cevabınızı yazın...';
-    free.oninput=function(){
-      const txt=this.value.trim();
+  if(typeof state._detailIdx!=='number'||state._detailIdx<0) state._detailIdx=0;
+  if(state._detailIdx>=queue.length) state._detailIdx=queue.length-1;
+  const needKey=queue[state._detailIdx];
+  const dm=detailMap[needKey];
+  document.querySelector('#step3 .step-title').textContent=_needLabel(needKey);
+  document.querySelector('#step3 .step-subtitle').textContent=
+    queue.length>1 ? 'Detay '+(state._detailIdx+1)+' / '+queue.length+' — size en doğru ürünleri önerebilmemiz için'
+                   : 'Size en doğru ürünleri önerebilmemiz için';
+  const box=document.createElement('div');
+  box.className='detail-inline';
+  box.style.marginBottom='12px';
+  box.innerHTML='<div class="di-q">'+dm.icon+' '+dm.question+'</div>';
+  const opts=document.createElement('div'); opts.className='di-opts';
+  dm.options.forEach(o=>{
+    const b=document.createElement('div');
+    b.className='di-opt'+(state.details[needKey]===o.value?' selected':'');
+    b.dataset.value=o.value;
+    b.textContent=o.label;
+    b.onclick=function(){
       opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
-      if(txt){
-        const m=_matchDetailOption(needKey, txt);
-        if(m){ const hit=opts.querySelector('.di-opt[data-value="'+m+'"]'); if(hit) hit.classList.add('selected'); }
-        state.details[needKey]=m||txt;
-      } else {
-        delete state.details[needKey];
-      }
+      b.classList.add('selected');
+      state.details[needKey]=o.value;
+      const f=box.querySelector('.di-free'); if(f) f.value='';
       updateDetailBtn();
     };
-    box.appendChild(free);
-    c.appendChild(box);
+    opts.appendChild(b);
   });
+  box.appendChild(opts);
+  const free=document.createElement('input');
+  free.type='text'; free.className='di-free'; free.maxLength=200;
+  free.placeholder='ya da kendi cevabınızı yazın...';
+  if(state.details[needKey] && !dm.options.some(o=>o.value===state.details[needKey])) free.value=state.details[needKey];
+  free.oninput=function(){
+    const txt=this.value.trim();
+    opts.querySelectorAll('.di-opt').forEach(x=>x.classList.remove('selected'));
+    if(txt){
+      const m=_matchDetailOption(needKey, txt);
+      if(m){ const hit=opts.querySelector('.di-opt[data-value="'+m+'"]'); if(hit) hit.classList.add('selected'); }
+      state.details[needKey]=m||txt;
+    } else {
+      delete state.details[needKey];
+    }
+    updateDetailBtn();
+  };
+  box.appendChild(free);
+  c.appendChild(box);
+  document.getElementById('btn3').textContent = state._detailIdx<queue.length-1 ? 'Devam Et' : 'Devam Et →';
   updateDetailBtn();
 }
 
 function updateDetailBtn(){
-  const activeNeeds=state.needs.filter(n=>n!=='diger'&&detailMap[n]);
-  const allAnswered=activeNeeds.every(n=>state.details[n]);
-  document.getElementById('btn3').disabled=!allAnswered;
+  const queue=_detailQueue();
+  const cur=queue[state._detailIdx];
+  document.getElementById('btn3').disabled=!(cur&&state.details[cur]);
+}
+
+function nextDetail(){
+  const queue=_detailQueue();
+  if(state._detailIdx<queue.length-1){ state._detailIdx++; goTo(3); }
+  else goTo(4);
+}
+function backDetail(){
+  if(state._detailIdx>0){ state._detailIdx--; goTo(3); }
+  else goTo(2);
+}
+function backFromStep4(){
+  const queue=_detailQueue();
+  if(queue.length){ state._detailIdx=queue.length-1; goTo(3); }
+  else goTo(2);
 }
 
 function buildLifestyleOptions(){
@@ -1435,11 +1441,6 @@ function buildNeedOptions(){
   dg.onclick=function(){selectMulti(this)};
   dg.innerHTML='<div class="check"></div><div class="opt-icon">&#128172;</div><div class="opt-content"><div class="opt-label">Diğer / Kendim anlatmak istiyorum</div><div class="opt-desc">İhtiyacınızı kendi cümlelerinizle yazın</div></div>';
   c.appendChild(dg);
-  // Seçili konuların detay soruları (geri dönüş / ön-doldurma sonrası) yeniden çizilir
-  c.querySelectorAll('.option').forEach(div=>{
-    const v=div.dataset.value;
-    if(v && v!=='diger' && state.needs.includes(v) && detailMap[v]) renderInlineDetail(div, v);
-  });
   if(!state.needs.includes('diger')) document.getElementById('otherWrap').classList.remove('visible');
   updateBtn2();
 }
@@ -2310,6 +2311,8 @@ function recomputePlan(){
         '<div style="text-align:right;flex-shrink:0;"><div style="font-size:21px;font-weight:800;color:#0a4c32;">'+fmt(total)+'</div><div style="font-size:10px;color:#6b7280;">'+kurTxt+'</div></div>'+
       '</div>'+
       '<div style="margin-top:10px;">'+f+'</div>'+
+      (function(){var _c=(key==='premium'&&total>=2600)?['ANALIZ250','250']:(total>=1500?['ANALIZ100','100']:null);
+        return _c?'<div style="margin-top:10px;background:#fff7e6;border:1px dashed #d97706;border-radius:10px;padding:8px 12px;font-size:12.5px;color:#92400e;font-weight:700;">&#127991;&#65039; Paket kuponu: <span style="letter-spacing:.5px;">'+_c[0]+'</span> &rarr; sepette '+_c[1]+' TL indirim</div>':'';})()+
       thumbsHTML(set)+
       (active
         ? '<div onclick="event.stopPropagation();buyNow(event);" style="margin-top:14px;text-align:center;padding:14px;border-radius:10px;font-weight:800;font-size:15px;background:#0a4c32;color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>Sat&#305;n Al &#8594;</div>'
@@ -2455,7 +2458,16 @@ function buyNow(ev){
   var orig = btn ? btn.innerHTML : '';
   if(btn) btn.innerHTML='Sepete ekleniyor...';
   trackEvent('buy_now',{tier:(window._plan||{}).tier, count:items.length});
-  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items})})
+  var _answers=[];
+  try{
+    _answers.push('Kim: '+(state.who||'-'));
+    _answers.push('İhtiyaçlar: '+((state.needs||[]).join(', ')||'-'));
+    if(state.details){for(var dk in state.details){if(state.details[dk])_answers.push(dk+': '+state.details[dk]);}}
+    if(state.brands&&state.brands.length)_answers.push('Marka: '+state.brands.join(', '));
+    if(state.budget)_answers.push('Bütçe: '+state.budget);
+    if(window._plan&&window._plan.tier)_answers.push('Plan: '+window._plan.tier);
+  }catch(e){}
+  fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/cart',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({items:items,source:'analiz_form',concerns:_answers})})
     .then(function(r){return r.json();})
     .then(function(j){
       if(j&&j.success&&j.url){ try{ window.top.location.href=j.url; }catch(e){ window.location.href=j.url; } }
