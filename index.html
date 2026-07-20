@@ -747,7 +747,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         </a>
         <div style="margin-top:10px;display:flex;align-items:center;justify-content:center;gap:6px;font-size:12px;color:#4b5563;">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="#0a4c32"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
-          Eczane güvencesiyle · lisanslı eczacı onaylı
+          Eczane güvencesiyle
         </div>
         <div style="margin-top:8px;font-size:11.5px;color:#6b7280;line-height:1.5;">Önerileriniz, 40 yılı aşkın deneyime sahip lisanslı eczacı ve uzman ekibimizce, ihtiyaçlarınıza göre hazırlanır.</div>
       </div>
@@ -1652,8 +1652,12 @@ const detailBias = {
 const BRAND_FAME_100=['solgar','supradyn','pharmaton','redoxon','centrum','bepanthol','la roche','bioderma','vichy','ocean ','orzax'];
 const BRAND_FAME_70=['avene','cerave','mustela','sebamed','eucerin','bioxcin','argivit','nutraxin','imuneks','zade vital','dynavit','wellcare','sudocrem','blistex','bioblas','otacı','otaci','uriage','nuxe','svr','caudalie'];
 const BRAND_FAME_40=['venatura','voonka','day2day','new life','easyvit','abdi ibrahim','avent','oral-b','listerine','rocs','strepsils','imunol','goodday','ddrops','sambucol','jamieson','nbl'];
+// Mass-market/market-rafı markalar — dermokozmetik güveni düşük, ASLA öne çıkmasın
+// (kullanıcı: "türkiyede en çok güvenilen ürünler olmalı", Nivea Soft önerilmesin)
+const BRAND_MASS_MARKET=['nivea','dove','fa ','hobby','blendax','palmolive','duru','sanino','elidor','clear ','head','ipek','komili','dalan','arko nem','arko krem','johnson','johnsons','pınar','tarım kredi'];
 function brandFame(p){
   const t=((p.brand||'')+' '+(p.name||'')).toLowerCase();
+  if(BRAND_MASS_MARKET.some(b=>t.includes(b)))return -60;
   if(BRAND_FAME_100.some(b=>t.includes(b)))return 100;
   if(BRAND_FAME_70.some(b=>t.includes(b)))return 70;
   if(BRAND_FAME_40.some(b=>t.includes(b)))return 40;
@@ -1720,12 +1724,9 @@ function renderProducts(){
       if(quizData.categories[cat]) needGroups.push({need:'kan', cats:[cat]});
     }
   }
-  // Düzenli kullandığınız + yenilemek istediğiniz ürünler → plana eklenir (renewal)
-  if(state.currentProducts && state.currentProducts.length){
-    for(const cat of state.currentProducts){
-      if(quizData.categories[cat]) needGroups.push({need:'yenileme', cats:[cat]});
-    }
-  }
+  // Kullanıcı: "kullandığı takviyeleri sepete eklemek yok" — hâlihazırda düzenli
+  // kullandığı ürünler plana OTOMATİK EKLENMEZ (yeniden önerme). Sadece yazarak
+  // açıkça istediği ürünler (typedProducts) pinlenir.
   // Yazarak eklenen ürünler → katalogda bulunursa TAM O ÜRÜN plana pinlenir
   if(state.typedProducts && state.typedProducts.length){
     for(const txt of state.typedProducts){
@@ -1776,13 +1777,22 @@ function renderProducts(){
       :(state.who==='cocuk'
         ?['50+','menopoz','prostat','yetişkinler için']
         :[]);
+    // Güneş koruma = TOPİKAL SPF (krem/losyon/sprey). Oral güneş HAPI (astaksantin,
+    // polipodium "suntab" gibi) önerilmez (kullanıcı: "güneş koruma hap olarak eklemesek").
+    const _isSunCat=/güneş|gunes|spf/i.test(catName);
     cands.forEach(p=>{
       const nl=p.name.toLowerCase();
       const bl=(p.brand||'').toLowerCase();
       p._nm=catWords.some(w=>nl.includes(w))?1:0;
       p._sup=supKw.some(kw=>nl.includes(kw))?1:0;
       p._black=(blackKw.some(kw=>nl.includes(kw))||ageBlackKw.some(kw=>nl.includes(kw)))?1:0;
+      if(_isSunCat && /tablet|kaps[üu]l/.test(nl) && !/spf|krem|losyon|sprey|jel|fluid|stick/.test(nl)) p._black=1;
       p._price=p.discount_price||p.price;
+      // Yetişkin/yaşlı takviyede ŞURUP/DAMLA (çocuk formu) değil TABLET/KAPSÜL tercih
+      // (kullanıcı: "multivitaminde Ocean şurup önermemeli"). Nötr=0.5, uygun=1, kötü=0.
+      if(state.who==='yetiskin'||state.who==='yasli'){
+        p._adultForm=/tablet|kaps[üu]l|softgel|kapl[ıi]|efervesan/.test(nl)?1:(/[şs]urup|damla|likit|liquid|gummy|[çc]i[ğg]ne|surup/.test(nl)?0:0.5);
+      }else{p._adultForm=0.5;}
       if(state.brands.length && !state.brands.includes('any')){
         p._brand=state.brands.some(b=>bl.includes(b.toLowerCase()))?1:0;
       }else{p._brand=0;}
@@ -1795,9 +1805,12 @@ function renderProducts(){
     cands.sort((a,b)=>{
       if(b._nm!==a._nm)return b._nm-a._nm;
       if(b._brand!==a._brand)return b._brand-a._brand;
-      if(b._sup!==a._sup)return b._sup-a._sup;
-      // Türkiye-geneli en çok tercih edilen marka ÖNCE (kullanıcı isteği), sonra stok bolluğu
+      // Yetişkinde uygun form (tablet/kapsül) çocuk formundan (şurup/damla) ÖNCE
+      if(b._adultForm!==a._adultForm)return b._adultForm-a._adultForm;
+      // Türkiye-geneli en çok GÜVENİLEN marka ÖNCE (kullanıcı isteği: dermokozmetik,
+      // Nivea gibi market markası değil) — _sup'tan ÖNCE karar versin
       if(brandFame(b)!==brandFame(a))return brandFame(b)-brandFame(a);
+      if(b._sup!==a._sup)return b._sup-a._sup;
       if(_sbk(b)!==_sbk(a))return _sbk(b)-_sbk(a);
       if(budgetMax<99999){return Math.abs(a._price-perSlotTarget)-Math.abs(b._price-perSlotTarget);}
       const ad=a.discount_price?1:0,bd=b.discount_price?1:0;
@@ -2324,7 +2337,7 @@ function recomputePlan(){
       '</div>'+
       '<div style="margin-top:10px;">'+f+'</div>'+
       (function(){var _c=(key==='premium'&&total>=2600)?'250':(total>=1500?'100':null);
-        return _c?'<div style="margin-top:10px;background:#fff7e6;border:1px dashed #d97706;border-radius:10px;padding:8px 12px;font-size:12.5px;color:#92400e;font-weight:700;">&#127991;&#65039; Sepette '+_c+' TL paket indirimi &mdash; Sat&#305;n Al&#39;da otomatik uygulan&#305;r</div>':'';})()+
+        return _c?'<div style="margin-top:10px;background:#fff7e6;border:1px dashed #d97706;border-radius:10px;padding:8px 12px;font-size:12.5px;color:#92400e;font-weight:700;">&#127991;&#65039; Sepette '+_c+' TL paket indirimi</div>':'';})()+
       thumbsHTML(set)+
       (active
         ? '<div onclick="event.stopPropagation();buyNow(event);" style="margin-top:14px;text-align:center;padding:14px;border-radius:10px;font-weight:800;font-size:15px;background:#0a4c32;color:#fff;cursor:pointer;display:flex;align-items:center;justify-content:center;gap:8px;"><svg width="18" height="18" viewBox="0 0 24 24" fill="#fff"><path d="M7 18c-1.1 0-1.99.9-1.99 2S5.9 22 7 22s2-.9 2-2-.9-2-2-2zM1 2v2h2l3.6 7.59-1.35 2.45c-.16.28-.25.61-.25.96 0 1.1.9 2 2 2h12v-2H7.42c-.14 0-.25-.11-.25-.25l.03-.12.9-1.63h7.45c.75 0 1.41-.41 1.75-1.03l3.58-6.49c.08-.14.12-.31.12-.48 0-.55-.45-1-1-1H5.21l-.94-2H1zm16 16c-1.1 0-1.99.9-1.99 2s.89 2 1.99 2 2-.9 2-2-.9-2-2-2z"/></svg>Sat&#305;n Al &#8594;</div>'
