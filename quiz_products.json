@@ -29695,6 +29695,19 @@
         "stock": 1
       },
       {
+        "name": "Oral-B Diş Fırçası Klasik Medium 40 Orta Sertlik",
+        "slug": "oral-b-dis-fircasi-klasik-medium-40-orta-sertlik",
+        "brand": "Oral-B",
+        "price": 330.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5c920413-f97f-4df6-b5a9-40eeabd312de/image_1950.webp",
+        "cats": [
+          "Orta Sertlik",
+          "Diş Fırçası"
+        ],
+        "stock": 2
+      },
+      {
         "name": "TePe T126 Fırça Select Medium",
         "slug": "tepe-t126-firca-select-medium",
         "brand": "TePe",
@@ -29747,6 +29760,19 @@
           "Hijyen"
         ],
         "stock": 6
+      },
+      {
+        "name": "Oral-B Diş Fırçası Klasik Medium 40 Orta Sertlik",
+        "slug": "oral-b-dis-fircasi-klasik-medium-40-orta-sertlik",
+        "brand": "Oral-B",
+        "price": 330.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5c920413-f97f-4df6-b5a9-40eeabd312de/image_1950.webp",
+        "cats": [
+          "Orta Sertlik",
+          "Diş Fırçası"
+        ],
+        "stock": 2
       },
       {
         "name": "Oral-B Ortodontik Diş Fırçası Diş Teli Kullananlar İçin",
@@ -33627,7 +33653,7 @@
           "Pudra",
           "Vücut Pudrası"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Pudra Talk Dermoes 100 GR",
@@ -33641,7 +33667,7 @@
           "Pudra",
           "Vücut Pudrası"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Utalk Pudra Pro",
@@ -34790,7 +34816,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 40
+        "stock": 39
       }
     ],
     "Göz Kapama Pedi": [
@@ -42752,7 +42778,7 @@
           "Pudra",
           "Vücut Pudrası"
         ],
-        "stock": 10
+        "stock": 9
       }
     ],
     "Uçan Haşere Spreyi": [
@@ -45086,9 +45112,9 @@
     ]
   },
   "stats": {
-    "total_products": 3048,
+    "total_products": 3050,
     "total_categories": 562,
-    "generated": "2026-07-23 11:00",
+    "generated": "2026-07-23 15:01",
     "source": "ikas_api_live"
   }
 }
