@@ -4678,7 +4678,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -17768,7 +17768,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -33825,7 +33825,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Etoile 300 mg Boric Acid + Hyal",
@@ -33837,7 +33837,7 @@
         "cats": [
           "İntim Bakım"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Etoile Intim Yıkama Boric Acid 200 ml",
@@ -33849,7 +33849,7 @@
         "cats": [
           "İntim Bakım"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Kadın Sağlığı": [
@@ -33867,7 +33867,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
@@ -34151,7 +34151,7 @@
           "Probiyotik",
           "Vajinal Probiyotik"
         ],
-        "stock": 3
+        "stock": 1
       }
     ],
     "Dil Basacağı": [
@@ -34816,7 +34816,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 39
+        "stock": 37
       }
     ],
     "Göz Kapama Pedi": [
@@ -45114,7 +45114,7 @@
   "stats": {
     "total_products": 3050,
     "total_categories": 562,
-    "generated": "2026-07-23 19:00",
+    "generated": "2026-07-24 10:39",
     "source": "ikas_api_live"
   }
 }
