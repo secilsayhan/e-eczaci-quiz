@@ -683,7 +683,7 @@
           "Renkli",
           "Çocuk"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Sensodyne Diş Macunu Promine Çocuk 6 Yeni",
@@ -13684,94 +13684,6 @@
         "stock": 1
       }
     ],
-    "Çok Satanlar": [
-      {
-        "name": "Artımed Erken Gebelik Testi Hızlı ve Güvenilir Sonuç",
-        "slug": "artimed-erken-gebelik-testi-hizli-ve-guvenilir-sonuc",
-        "brand": "Artımed",
-        "price": 35.0,
-        "discount_price": 32.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3cdc09ad-d1e1-4147-8037-d587892eaf70/image_1950.webp",
-        "cats": [
-          "Çok Satanlar",
-          "Gebelik Testi"
-        ],
-        "stock": 100
-      },
-      {
-        "name": "Orzax Ocean Bromelain Complex 60 Tablet",
-        "slug": "orzax-ocean-bromelain-complex-60-tablet",
-        "brand": "Orzax",
-        "price": 754.5,
-        "discount_price": 604.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/821c134b-ff67-455e-b5a0-744ff9f79ed6/image_1950.webp",
-        "cats": [
-          "Bromelain",
-          "Çok Satanlar",
-          "Bromelain"
-        ],
-        "stock": 86
-      },
-      {
-        "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
-        "slug": "orzax-ocean-microfer-demir-damla-cocuklar-icin-30-ml",
-        "brand": "Orzax",
-        "price": 674.5,
-        "discount_price": 608.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/498e40ec-6415-4f1c-ace7-e5c9f7a22b45/image_1950.webp",
-        "cats": [
-          "Demir",
-          "Çocuk Vitaminleri",
-          "Çok Satanlar",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 99
-      },
-      {
-        "name": "Vitacomplex Multivitamin Multimineral ve Kore Ginsengi Yumuşak Kapsül 30 Kapsül",
-        "slug": "vitacomplex-multivitamin-multimineral-kore-ginsengi-30-kapsul",
-        "brand": "Vitacomplex",
-        "price": 500.0,
-        "discount_price": 450.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb4ff06b-863c-4008-91af-96b2082e17ab/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Beyin ve Hafıza",
-          "Multivitamin",
-          "Çok Satanlar",
-          "Enerji ve Zindelik",
-          "Ginseng"
-        ],
-        "stock": 62
-      },
-      {
-        "name": "Youplus Vitamin C Efervesan Suda Eriyen Tablet (2. Ürün %50 İndirimli) (2x20 Adet)",
-        "slug": "youplus-vitamin-c-efervesan-suda-eriyen-tablet-2si-50-indirimli",
-        "brand": "",
-        "price": 825.0,
-        "discount_price": 660.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d79e9b80-aa9c-492f-b422-57c97feedff7/image_1950.webp",
-        "cats": [
-          "Çok Satanlar"
-        ],
-        "stock": 63
-      }
-    ],
-    "Gebelik Testi": [
-      {
-        "name": "Artımed Erken Gebelik Testi Hızlı ve Güvenilir Sonuç",
-        "slug": "artimed-erken-gebelik-testi-hizli-ve-guvenilir-sonuc",
-        "brand": "Artımed",
-        "price": 35.0,
-        "discount_price": 32.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3cdc09ad-d1e1-4147-8037-d587892eaf70/image_1950.webp",
-        "cats": [
-          "Çok Satanlar",
-          "Gebelik Testi"
-        ],
-        "stock": 100
-      }
-    ],
     "Kulak Tıkacı": [
       {
         "name": "Artımed Kulak Tıkacı Cam Tipi Sese Karşı",
@@ -22123,7 +22035,7 @@
           "Renkli",
           "Çocuk"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "TTO Göz Çevresi Şampuanı 125 ml",
@@ -32548,7 +32460,7 @@
           "Terleme Karşıtı",
           "Roll-on"
         ],
-        "stock": 18
+        "stock": 17
       }
     ],
     "Erkek Roll-On": [
@@ -33738,7 +33650,7 @@
           "Terleme Karşıtı",
           "Roll-on"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "TTO TRX Roll On 45 ml",
@@ -34960,7 +34872,7 @@
           "Renkli",
           "Çocuk"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Kolonya Sprey": [
@@ -39120,7 +39032,7 @@
           "Renkli",
           "Çocuk"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Antioksidan Serum": [
@@ -39134,7 +39046,7 @@
         "cats": [
           "Antioksidan Serum"
         ],
-        "stock": 47
+        "stock": 46
       }
     ],
     "Yaşlanma Karşıtı": [
@@ -39396,7 +39308,7 @@
           "Renkli",
           "Çocuk"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Renkli Güneş Kremi": [
@@ -40321,20 +40233,6 @@
           "Stres ve Uyku Düzeni"
         ],
         "stock": 15
-      }
-    ],
-    "Ovulasyon Testi": [
-      {
-        "name": "Miratech Ovulasyon Testi 5 Adet Yumurtlama Tespiti",
-        "slug": "miratech-ovulasyon-testi-5-adet-yumurtlama-tespiti",
-        "brand": "Miratech",
-        "price": 150.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/214dfb9e-3d53-477b-8450-3ea040578bd8/image_1950.webp",
-        "cats": [
-          "Ovulasyon Testi"
-        ],
-        "stock": 5
       }
     ],
     "Safran": [
@@ -41671,6 +41569,66 @@
           "Diş Bakımı"
         ],
         "stock": 1
+      }
+    ],
+    "Çok Satanlar": [
+      {
+        "name": "Orzax Ocean Bromelain Complex 60 Tablet",
+        "slug": "orzax-ocean-bromelain-complex-60-tablet",
+        "brand": "Orzax",
+        "price": 754.5,
+        "discount_price": 604.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/821c134b-ff67-455e-b5a0-744ff9f79ed6/image_1950.webp",
+        "cats": [
+          "Bromelain",
+          "Çok Satanlar",
+          "Bromelain"
+        ],
+        "stock": 86
+      },
+      {
+        "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
+        "slug": "orzax-ocean-microfer-demir-damla-cocuklar-icin-30-ml",
+        "brand": "Orzax",
+        "price": 674.5,
+        "discount_price": 608.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/498e40ec-6415-4f1c-ace7-e5c9f7a22b45/image_1950.webp",
+        "cats": [
+          "Demir",
+          "Çocuk Vitaminleri",
+          "Çok Satanlar",
+          "Çocuk Sağlığı"
+        ],
+        "stock": 99
+      },
+      {
+        "name": "Vitacomplex Multivitamin Multimineral ve Kore Ginsengi Yumuşak Kapsül 30 Kapsül",
+        "slug": "vitacomplex-multivitamin-multimineral-kore-ginsengi-30-kapsul",
+        "brand": "Vitacomplex",
+        "price": 500.0,
+        "discount_price": 450.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb4ff06b-863c-4008-91af-96b2082e17ab/image_1950.webp",
+        "cats": [
+          "Mineraller",
+          "Beyin ve Hafıza",
+          "Multivitamin",
+          "Çok Satanlar",
+          "Enerji ve Zindelik",
+          "Ginseng"
+        ],
+        "stock": 62
+      },
+      {
+        "name": "Youplus Vitamin C Efervesan Suda Eriyen Tablet (2. Ürün %50 İndirimli) (2x20 Adet)",
+        "slug": "youplus-vitamin-c-efervesan-suda-eriyen-tablet-2si-50-indirimli",
+        "brand": "",
+        "price": 825.0,
+        "discount_price": 660.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d79e9b80-aa9c-492f-b422-57c97feedff7/image_1950.webp",
+        "cats": [
+          "Çok Satanlar"
+        ],
+        "stock": 63
       }
     ],
     "Ürün Kombinasyonları": [
@@ -45112,9 +45070,9 @@
     ]
   },
   "stats": {
-    "total_products": 3050,
-    "total_categories": 562,
-    "generated": "2026-07-24 11:01",
+    "total_products": 3047,
+    "total_categories": 560,
+    "generated": "2026-07-24 17:38",
     "source": "ikas_api_live"
   }
 }
