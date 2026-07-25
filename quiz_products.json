@@ -38715,7 +38715,7 @@
         "cats": [
           "Kulak Temizleyici"
         ],
-        "stock": 95
+        "stock": 94
       }
     ],
     "Kulak Bakımı": [
@@ -45046,7 +45046,7 @@
   "stats": {
     "total_products": 3045,
     "total_categories": 560,
-    "generated": "2026-07-25 07:58",
+    "generated": "2026-07-25 11:06",
     "source": "ikas_api_live"
   }
 }
