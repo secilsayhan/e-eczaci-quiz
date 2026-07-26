@@ -7495,7 +7495,7 @@
         "name": "Akne ve Sivilce Bakım Seti",
         "slug": "akne-bakim-paketi",
         "brand": "",
-        "price": 6342.3,
+        "price": 6526.8,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d38ec993-b0d5-4aad-afb9-dda80727d8fc/image_1950.webp",
         "cats": [
@@ -7615,7 +7615,7 @@
         "name": "Leke ve Ton Eşitsizliği Bakım Seti",
         "slug": "leke-bakim-paketi",
         "brand": "",
-        "price": 6883.02,
+        "price": 7063.92,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/83d6739a-e43d-468f-9061-f5ed785367e3/image_1950.webp",
         "cats": [
@@ -58414,7 +58414,7 @@
   "stats": {
     "total_products": 4008,
     "total_categories": 569,
-    "generated": "2026-07-26 09:44",
+    "generated": "2026-07-26 11:18",
     "source": "ikas_api_live"
   }
 }
