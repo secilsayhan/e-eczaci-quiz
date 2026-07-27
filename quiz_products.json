@@ -47964,7 +47964,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 28
+        "stock": 27
       }
     ],
     "Kolonya Sprey": [
@@ -51676,7 +51676,7 @@
         "cats": [
           "Kulak Temizleyici"
         ],
-        "stock": 93
+        "stock": 92
       }
     ],
     "Kulak Bakımı": [
@@ -58300,7 +58300,7 @@
   "stats": {
     "total_products": 4000,
     "total_categories": 569,
-    "generated": "2026-07-27 13:41",
+    "generated": "2026-07-27 15:00",
     "source": "ikas_api_live"
   }
 }
