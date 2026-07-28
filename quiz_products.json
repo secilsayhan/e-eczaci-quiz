@@ -8592,7 +8592,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Capicade Saç Dökülmesine Karşı Şampuan 220 ml",
@@ -38457,7 +38457,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Cenesys Alfa Tablet Alfa Lipoik Asit ve Magnezyum Takviyesi 60 Adet",
@@ -38555,7 +38555,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "GoodDay Curcumin Kapsül Kurkumin ve Karabiber Ekstresi 30 Kapsül",
@@ -53466,6 +53466,18 @@
           "Hasta Bakımı ve Hijyen"
         ],
         "stock": 1
+      },
+      {
+        "name": "Sevi Bebe Sünnet Çamaşırı No:1 Çocuklar İçin",
+        "slug": "sevi-bebe-sunnet-camasiri-no-1-cocuklar-icin",
+        "brand": "Sevi Bebe",
+        "price": 82.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5e7a4c22-1122-484e-88b8-9b1ee01afd3c/image_1950.webp",
+        "cats": [
+          "Sünnet Külodu"
+        ],
+        "stock": 2
       }
     ],
     "Solunum Egzersiz Cihazı": [
@@ -58286,9 +58298,9 @@
     ]
   },
   "stats": {
-    "total_products": 3999,
+    "total_products": 4000,
     "total_categories": 569,
-    "generated": "2026-07-28 09:46",
+    "generated": "2026-07-28 11:00",
     "source": "ikas_api_live"
   }
 }
