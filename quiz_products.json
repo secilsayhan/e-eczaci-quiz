@@ -5168,18 +5168,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Choline Inositol Methionine Tablet 50 Tablet",
-        "slug": "solgar-choline-inositol-methionine-tablet-50-tablet",
-        "brand": "Solgar",
-        "price": 882.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc260931-2bfb-4a0b-baf8-38f3b45f07c3/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Cranberry with Vitamin C Kapsül 60 Kapsül",
         "slug": "solgar-cranberry-with-vitamin-c-kapsul-60-kapsul",
         "brand": "Solgar",
@@ -50077,20 +50065,6 @@
           "Enginar"
         ],
         "stock": 22
-      },
-      {
-        "name": "Solgar Deve Dikeni Karaciğer Sağlığı Antioksidan 50 Kapsül",
-        "slug": "solgar-deve-dikeni-karaciger-sagligi-antioksidan-50-kapsul",
-        "brand": "Solgar",
-        "price": 759.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/44f26c45-7221-416e-b8ac-5b01ab57e431/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Deve Dikeni (Milk Thistle)",
-          "Karaciğer Sağlığı"
-        ],
-        "stock": 1
       }
     ],
     "Karaciğer Sağlığı": [
@@ -50138,20 +50112,6 @@
           "Enginar"
         ],
         "stock": 22
-      },
-      {
-        "name": "Solgar Deve Dikeni Karaciğer Sağlığı Antioksidan 50 Kapsül",
-        "slug": "solgar-deve-dikeni-karaciger-sagligi-antioksidan-50-kapsul",
-        "brand": "Solgar",
-        "price": 759.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/44f26c45-7221-416e-b8ac-5b01ab57e431/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Deve Dikeni (Milk Thistle)",
-          "Karaciğer Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Viador Hindiba Ekstresi ve Manganez İçeren Sıvı Takviye Edici Gıda 150 ml",
@@ -51664,7 +51624,7 @@
         "cats": [
           "Kulak Temizleyici"
         ],
-        "stock": 92
+        "stock": 91
       }
     ],
     "Kulak Bakımı": [
@@ -55135,20 +55095,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Deve Dikeni Karaciğer Sağlığı Antioksidan 50 Kapsül",
-        "slug": "solgar-deve-dikeni-karaciger-sagligi-antioksidan-50-kapsul",
-        "brand": "Solgar",
-        "price": 759.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/44f26c45-7221-416e-b8ac-5b01ab57e431/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Deve Dikeni (Milk Thistle)",
-          "Karaciğer Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar E Vitamini 400 IU Antioksidan Cilt Sağlığı 50 Kapsül",
         "slug": "solgar-e-vitamini-400-iu-antioksidan-cilt-sagligi-50-kapsul",
         "brand": "Solgar",
@@ -58286,9 +58232,9 @@
     ]
   },
   "stats": {
-    "total_products": 3999,
+    "total_products": 3995,
     "total_categories": 569,
-    "generated": "2026-07-28 15:00",
+    "generated": "2026-07-28 19:00",
     "source": "ikas_api_live"
   }
 }
