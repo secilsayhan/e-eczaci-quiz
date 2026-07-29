@@ -4227,7 +4227,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nutrigen Üzüm Çekirdeği Ekstresi Sıvı, 200 ml",
@@ -10779,7 +10779,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nutraxin Vitals Women's Multi Vitamin Complex Tablet, 60 Tablet",
@@ -20296,7 +20296,7 @@
           "Onarıcı",
           "Onarıcı Krem"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Mustela Güneş K Stick 9 ml",
@@ -23205,7 +23205,7 @@
           "Onarıcı",
           "Onarıcı Krem"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nivea Lip Fruity Shine Böğürtlen 4,8 gr",
@@ -23378,7 +23378,7 @@
           "Onarıcı",
           "Onarıcı Krem"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Güneş Koruma": [
@@ -24059,7 +24059,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Capicade Leke Karşıtı Güneş Kremi SPF50+ 100 ml",
@@ -25083,7 +25083,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Capicade Leke Giderici Güneş Kremi SPF30 50 ml",
@@ -29894,7 +29894,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -36903,7 +36903,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean B Complex 60 Kapsül",
@@ -43361,7 +43361,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -47940,7 +47940,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 26
+        "stock": 24
       }
     ],
     "Kolonya Sprey": [
@@ -51624,7 +51624,7 @@
         "cats": [
           "Kulak Temizleyici"
         ],
-        "stock": 91
+        "stock": 89
       }
     ],
     "Kulak Bakımı": [
@@ -58234,7 +58234,7 @@
   "stats": {
     "total_products": 3995,
     "total_categories": 569,
-    "generated": "2026-07-28 19:00",
+    "generated": "2026-07-29 09:38",
     "source": "ikas_api_live"
   }
 }
