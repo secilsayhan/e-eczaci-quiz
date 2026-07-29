@@ -5420,7 +5420,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Vitamin C 500 mg with Rose Hips 100 Tablet",
@@ -33882,18 +33882,6 @@
         "stock": 4
       },
       {
-        "name": "Etoile Intim Duş (Borik Asit+Elma Sirkesi) 100 ml",
-        "slug": "etoile-intim-dus-borik-asit-pluselma-sirkesi-100-ml",
-        "brand": "Etoile",
-        "price": 923.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Kişisel Bakım"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Fixodent Complete Fresh Diş Protezi Yapıştırıcı Krem 47 G Tüp",
         "slug": "fixodent-complete-fresh-dis-protezi-yapistirici-krem-47-g-tup",
         "brand": "Fixodent",
@@ -58220,9 +58208,9 @@
     ]
   },
   "stats": {
-    "total_products": 3994,
+    "total_products": 3993,
     "total_categories": 569,
-    "generated": "2026-07-29 15:44",
+    "generated": "2026-07-29 19:00",
     "source": "ikas_api_live"
   }
 }
