@@ -974,7 +974,7 @@
         "cats": [
           "Şeker Ölçüm Aksesuarları"
         ],
-        "stock": 8
+        "stock": 5
       }
     ],
     "Temizleyici": [
@@ -52693,7 +52693,7 @@
         "cats": [
           "Gargara"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Stres ve Uyku": [
@@ -58184,7 +58184,7 @@
   "stats": {
     "total_products": 3991,
     "total_categories": 569,
-    "generated": "2026-07-30 15:00",
+    "generated": "2026-07-30 19:02",
     "source": "ikas_api_live"
   }
 }
