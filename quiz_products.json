@@ -3612,19 +3612,6 @@
         "stock": 5
       },
       {
-        "name": "MRCnatura Glukoflex Eklem Sağlığı Takviyesi 60 Tablet",
-        "slug": "mrcnatura-glukoflex-eklem-sagligi-takviyesi-60-tablet",
-        "brand": "MRCnatura",
-        "price": 1190.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db5f2a2-3d0e-4378-aa6e-b58af5769828/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Kemik ve Eklem Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Macufer Lutein ve Zeaxantin Kapsül Göz Sağlığı Takviyesi 30 Kapsül",
         "slug": "macufer-lutein-ve-zeaxantin-kapsul-goz-sagligi-takviyesi-30-kapsul",
         "brand": "Macufer",
@@ -11409,7 +11396,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Sitrat Tablet (P5P) 30 Tablet",
@@ -11656,7 +11643,7 @@
           "Enerji ve Zindelik",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -14714,7 +14701,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Sitrat Tablet (P5P) 30 Tablet",
@@ -15083,7 +15070,7 @@
           "Enerji ve Zindelik",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -20732,7 +20719,7 @@
           "Vücut Bakımı",
           "Vazelin"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vicks Babybalm 50 gr",
@@ -36712,7 +36699,7 @@
           "Vücut Bakımı",
           "Vazelin"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Vitaminler": [
@@ -39144,7 +39131,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Sitrat Tablet (P5P) 30 Tablet",
@@ -39374,7 +39361,7 @@
           "Enerji ve Zindelik",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -41240,7 +41227,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "GoodDay Vitamin D3K2 Oral Damla 20 ml",
@@ -43058,7 +43045,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Sitrat Tablet (P5P) 30 Tablet",
@@ -43164,19 +43151,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f108848c-3658-4173-96db-ac56300ab54d/image_1950.webp",
         "cats": [
           "İhtiyaca Göre",
-          "Kemik ve Eklem Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "MRCnatura Glukoflex Eklem Sağlığı Takviyesi 60 Tablet",
-        "slug": "mrcnatura-glukoflex-eklem-sagligi-takviyesi-60-tablet",
-        "brand": "MRCnatura",
-        "price": 1190.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db5f2a2-3d0e-4378-aa6e-b58af5769828/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
           "Kemik ve Eklem Sağlığı"
         ],
         "stock": 1
@@ -43321,7 +43295,7 @@
           "Enerji ve Zindelik",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
@@ -47916,7 +47890,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 24
+        "stock": 21
       }
     ],
     "Kolonya Sprey": [
@@ -50290,7 +50264,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -58208,9 +58182,9 @@
     ]
   },
   "stats": {
-    "total_products": 3993,
+    "total_products": 3991,
     "total_categories": 569,
-    "generated": "2026-07-29 19:00",
+    "generated": "2026-07-30 07:05",
     "source": "ikas_api_live"
   }
 }
