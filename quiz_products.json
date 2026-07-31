@@ -9411,7 +9411,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 49
+        "stock": 48
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -9906,7 +9906,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 49
+        "stock": 48
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -28317,7 +28317,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 49
+        "stock": 48
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -33098,20 +33098,6 @@
         "cats": [
           "Hacim Veren",
           "Dökülme Karşıtı"
-        ],
-        "stock": 1
-      }
-    ],
-    "Vücut ve Saç Yıkama Jeli": [
-      {
-        "name": "Bioderma Abc Derm Foaming Gel 1000 ml",
-        "slug": "bioderma-abc-derm-foaming-gel-1000-ml",
-        "brand": "Bioderma",
-        "price": 1799.0,
-        "discount_price": 1027.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5066e29b-0b7c-43d3-a64e-daeca402e8ce/image_1950.webp",
-        "cats": [
-          "Vücut ve Saç Yıkama Jeli"
         ],
         "stock": 1
       }
@@ -42010,7 +41996,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 49
+        "stock": 48
       },
       {
         "name": "NBTLIFE Cleanlife Kapsül, Kadın Tuzluğu, Pelinotu ve Bal Kabağı 60 Kapsül",
@@ -45952,7 +45938,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 49
+        "stock": 48
       },
       {
         "name": "NBT Life Cleanlife Kapsül Kadın Tuzluğu Pelinotu Balkabağı Takviyesi 60 Kapsül",
@@ -47890,7 +47876,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 21
+        "stock": 20
       }
     ],
     "Kolonya Sprey": [
@@ -50664,7 +50650,7 @@
           "Probiyotik",
           "Sindirim Sağlığı"
         ],
-        "stock": 49
+        "stock": 48
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -58182,9 +58168,9 @@
     ]
   },
   "stats": {
-    "total_products": 3991,
-    "total_categories": 569,
-    "generated": "2026-07-30 19:02",
+    "total_products": 3990,
+    "total_categories": 568,
+    "generated": "2026-07-31 07:18",
     "source": "ikas_api_live"
   }
 }
