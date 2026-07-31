@@ -639,105 +639,6 @@
         "stock": 3
       },
       {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3bb89b87-8dee-44a0-8ca6-01c0115d06cc/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89cc2bff-138e-4a77-8819-8eb292754d91/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5b18894-cce8-4b6b-b562-026a6682e0e9/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/434f9ea1-1c2f-4067-ae6c-d0038134cd64/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6117e508-b9bb-4c47-bf2c-5db5efb34745/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5506ba18-f9cc-4b7a-81d6-a13fca81f605/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Sensodyne Diş Macunu Promine Çocuk 6 Yeni",
         "slug": "sensodyne-dis-macunu-promine-cocuk-6-yeni",
         "brand": "Sensodyne",
@@ -975,6 +876,42 @@
           "Şeker Ölçüm Aksesuarları"
         ],
         "stock": 5
+      },
+      {
+        "name": "Contour TS Strip 50 Strip",
+        "slug": "contour-ts-strip-50-strip",
+        "brand": "Bayer",
+        "price": 492.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8ffc23f3-0e0d-4e4a-9759-66c9593b9008/image_1950.webp",
+        "cats": [
+          "Şeker Ölçüm Aksesuarları"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Lifechek Silver GH82 Kan Şekeri Ölçüm Stripi 50 Strip",
+        "slug": "lifechek-silver-gh82-kan-sekeri-olcum-stripi-50-strip",
+        "brand": "Lifechek",
+        "price": 281.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/98b473d8-00f7-462d-8028-bd9c3fc5c48d/image_1950.webp",
+        "cats": [
+          "Şeker Ölçüm Aksesuarları"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Lifechek Smart TD-4360 Kan Şekeri Ölçüm Stripi 50 Strip",
+        "slug": "lifechek-smart-td-4360-kan-sekeri-olcum-stripi-50-strip",
+        "brand": "Lifechek",
+        "price": 281.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ede1277a-994b-4911-b8bd-84b3b1832279/image_1950.webp",
+        "cats": [
+          "Şeker Ölçüm Aksesuarları"
+        ],
+        "stock": 1
       }
     ],
     "Temizleyici": [
@@ -20421,32 +20358,6 @@
         "stock": 2
       },
       {
-        "name": "Roll Termogel Isıtıcı ve Soğutucu Kompres Küçük Boy 11x11",
-        "slug": "roll-termogel-isitici-ve-sogutucu-kompres-kucuk-boy-11x11",
-        "brand": "Roll",
-        "price": 95.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/908a56f8-4fa8-437b-9706-db00f8883273/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Soğuk Sıcak Kompres"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "Roll Termogel Isıtıcı ve Soğutucu Kompres Orta Boy 13x28",
-        "slug": "roll-termogel-isitici-ve-sogutucu-kompres-orta-boy-13x28",
-        "brand": "Roll",
-        "price": 145.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9ae13583-4fbf-4335-8f84-73afd41c9752/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Soğuk Sıcak Kompres"
-        ],
-        "stock": 12
-      },
-      {
         "name": "Samila Gliserin Cilt Nemlendirici ve Bakım 20 ml",
         "slug": "samila-gliserin-cilt-nemlendirici-ve-bakim-20-ml",
         "brand": "Samila",
@@ -25870,57 +25781,6 @@
         "stock": 1
       },
       {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3bb89b87-8dee-44a0-8ca6-01c0115d06cc/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89cc2bff-138e-4a77-8819-8eb292754d91/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5b18894-cce8-4b6b-b562-026a6682e0e9/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Veet Tüy Dökücü 200 ml Krem Men",
         "slug": "veet-tuy-dokucu-200-ml-krem-men",
         "brand": "Veet",
@@ -31326,120 +31186,6 @@
         "stock": 1
       },
       {
-        "name": "Roll Göz Kapama Pedi Çocuk 5 Adet",
-        "slug": "roll-goz-kapama-pedi-cocuk-5-adet",
-        "brand": "Roll",
-        "price": 105.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ce7ced9-005e-44c4-b12c-d70707a5a6ae/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Göz Bandı ve Kapama Pedi"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3bb89b87-8dee-44a0-8ca6-01c0115d06cc/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89cc2bff-138e-4a77-8819-8eb292754d91/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5b18894-cce8-4b6b-b562-026a6682e0e9/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/434f9ea1-1c2f-4067-ae6c-d0038134cd64/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6117e508-b9bb-4c47-bf2c-5db5efb34745/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5506ba18-f9cc-4b7a-81d6-a13fca81f605/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
         "name": "TTO Göz Çevresi Şampuanı 125 ml",
         "slug": "tto-goz-cevresi-sampuani-125-ml",
         "brand": "TTO",
@@ -33056,6 +32802,20 @@
           "Dökülme Karşıtı"
         ],
         "stock": 1
+      }
+    ],
+    "Vücut ve Saç Yıkama Jeli": [
+      {
+        "name": "Bioderma Abc Derm Foaming Gel 1000 ml",
+        "slug": "bioderma-abc-derm-foaming-gel-1000-ml",
+        "brand": "Bioderma",
+        "price": 1799.0,
+        "discount_price": 1499.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5066e29b-0b7c-43d3-a64e-daeca402e8ce/image_1950.webp",
+        "cats": [
+          "Vücut ve Saç Yıkama Jeli"
+        ],
+        "stock": 2
       }
     ],
     "Vücut Yağı": [
@@ -36490,7 +36250,7 @@
           "Bit ve Sirke Bakımı",
           "Bit ve Sirke Bakımı"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Paranit Bit Spreyi 100 ml 2'li Paket",
@@ -36503,7 +36263,7 @@
           "Bit ve Sirke Bakımı",
           "Bit ve Sirke Bakımı"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Paranit Tedavi Spreyi 100ml Şişe",
@@ -47782,7 +47542,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 19
+        "stock": 18
       }
     ],
     "Kolonya Sprey": [
@@ -51513,120 +51273,6 @@
           "Çocuk"
         ],
         "stock": 1
-      },
-      {
-        "name": "Roll Göz Kapama Pedi Çocuk 5 Adet",
-        "slug": "roll-goz-kapama-pedi-cocuk-5-adet",
-        "brand": "Roll",
-        "price": 105.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ce7ced9-005e-44c4-b12c-d70707a5a6ae/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Göz Bandı ve Kapama Pedi"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3bb89b87-8dee-44a0-8ca6-01c0115d06cc/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89cc2bff-138e-4a77-8819-8eb292754d91/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5b18894-cce8-4b6b-b562-026a6682e0e9/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/434f9ea1-1c2f-4067-ae6c-d0038134cd64/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6117e508-b9bb-4c47-bf2c-5db5efb34745/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5506ba18-f9cc-4b7a-81d6-a13fca81f605/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
       }
     ],
     "Göz Kapama Pedi": [
@@ -51644,120 +51290,6 @@
           "Çocuk"
         ],
         "stock": 1
-      },
-      {
-        "name": "Roll Göz Kapama Pedi Çocuk 5 Adet",
-        "slug": "roll-goz-kapama-pedi-cocuk-5-adet",
-        "brand": "Roll",
-        "price": 105.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ce7ced9-005e-44c4-b12c-d70707a5a6ae/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Göz Bandı ve Kapama Pedi"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3bb89b87-8dee-44a0-8ca6-01c0115d06cc/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89cc2bff-138e-4a77-8819-8eb292754d91/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5b18894-cce8-4b6b-b562-026a6682e0e9/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/434f9ea1-1c2f-4067-ae6c-d0038134cd64/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6117e508-b9bb-4c47-bf2c-5db5efb34745/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5506ba18-f9cc-4b7a-81d6-a13fca81f605/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
       }
     ],
     "Antioksidan Serum": [
@@ -52087,105 +51619,6 @@
           "Renkli Bakım"
         ],
         "stock": 3
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3bb89b87-8dee-44a0-8ca6-01c0115d06cc/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89cc2bff-138e-4a77-8819-8eb292754d91/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Erkek Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-erkek-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5b18894-cce8-4b6b-b562-026a6682e0e9/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Erkek",
-          "Çocuk"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 100 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-100-adet",
-        "brand": "Roll",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/434f9ea1-1c2f-4067-ae6c-d0038134cd64/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 20 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-20-adet",
-        "brand": "Roll",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6117e508-b9bb-4c47-bf2c-5db5efb34745/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Roll Optik Renkli Göz Kapama Pedi Kız Çocuk 50 Adet",
-        "slug": "roll-optik-renkli-goz-kapama-pedi-kiz-cocuk-50-adet",
-        "brand": "Roll",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5506ba18-f9cc-4b7a-81d6-a13fca81f605/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Renkli",
-          "Çocuk"
-        ],
-        "stock": 2
       }
     ],
     "Renkli Güneş Kremi": [
@@ -52889,18 +52322,6 @@
           "Yüz Maskesi"
         ],
         "stock": 1
-      },
-      {
-        "name": "Roll Tekli Maske Hijyenik Yüz Koruyucu",
-        "slug": "roll-tekli-maske-hijyenik-yuz-koruyucu",
-        "brand": "Roll",
-        "price": 8.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/422ad033-4c5a-4bcb-a90e-3a4df7096fb1/image_1950.webp",
-        "cats": [
-          "Yüz Maskesi"
-        ],
-        "stock": 54
       }
     ],
     "Bariyer Krem": [
@@ -53554,34 +52975,6 @@
         "cats": [
           "Bakım Kremi",
           "Atopik Cilt Bakımı"
-        ],
-        "stock": 1
-      }
-    ],
-    "Nelson Boyunluk": [
-      {
-        "name": "Mymed Ers 110K Nelson Boyunluk Kılıflı (Orta Boy)",
-        "slug": "mymed-ers-110k-nelson-boyunluk-kilifli-orta-boy",
-        "brand": "Mymed",
-        "price": 650.0,
-        "discount_price": 585.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7aeb8946-1a08-4284-a5a1-5cad274934d4/image_1950.webp",
-        "cats": [
-          "Nelson Boyunluk"
-        ],
-        "stock": 2
-      }
-    ],
-    "Dizlikler": [
-      {
-        "name": "Mymed Ersa 200 Elastik Dizlik (Tek)",
-        "slug": "mymed-ersa-200-elastik-dizlik-tek",
-        "brand": "Mymed",
-        "price": 650.0,
-        "discount_price": 585.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/58e61cbe-b83d-44b2-9730-afb5c2c9fd8f/image_1950.webp",
-        "cats": [
-          "Dizlikler"
         ],
         "stock": 1
       }
@@ -55900,145 +55293,6 @@
         "stock": 1
       }
     ],
-    "Göz Bandı ve Kapama Pedi": [
-      {
-        "name": "Roll Göz Kapama Pedi Çocuk 5 Adet",
-        "slug": "roll-goz-kapama-pedi-cocuk-5-adet",
-        "brand": "Roll",
-        "price": 105.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ce7ced9-005e-44c4-b12c-d70707a5a6ae/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi",
-          "Göz Bandı ve Kapama Pedi"
-        ],
-        "stock": 12
-      }
-    ],
-    "Soğuk Sıcak Kompres": [
-      {
-        "name": "Roll Termogel Isıtıcı ve Soğutucu Dizlik",
-        "slug": "roll-termogel-isitici-ve-sogutucu-dizlik",
-        "brand": "Roll",
-        "price": 288.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1973f523-f3a2-41c1-bd95-43c5931d874b/image_1950.webp",
-        "cats": [
-          "Soğuk Sıcak Kompres"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Roll Termogel Isıtıcı ve Soğutucu Kompres Küçük Boy 11x11",
-        "slug": "roll-termogel-isitici-ve-sogutucu-kompres-kucuk-boy-11x11",
-        "brand": "Roll",
-        "price": 95.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/908a56f8-4fa8-437b-9706-db00f8883273/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Soğuk Sıcak Kompres"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "Roll Termogel Isıtıcı ve Soğutucu Kompres Orta Boy 13x28",
-        "slug": "roll-termogel-isitici-ve-sogutucu-kompres-orta-boy-13x28",
-        "brand": "Roll",
-        "price": 145.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9ae13583-4fbf-4335-8f84-73afd41c9752/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Soğuk Sıcak Kompres"
-        ],
-        "stock": 12
-      }
-    ],
-    "Gaz Kompres": [
-      {
-        "name": "Rollflex Gaz Kompres 100 lü",
-        "slug": "rollflex-gaz-kompres-100-lu",
-        "brand": "Roll",
-        "price": 317.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f64a0997-451e-4ab1-a827-faa54f355e4d/image_1950.webp",
-        "cats": [
-          "Gaz Kompres",
-          "Sargı Bezi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Rollflex Gaz Kompres 25 li",
-        "slug": "rollflex-gaz-kompres-25-li",
-        "brand": "Roll",
-        "price": 96.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e6d127a-83ee-49eb-b67a-3cefab4ed165/image_1950.webp",
-        "cats": [
-          "Gaz Kompres",
-          "Sargı Bezi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Rollflex Gaz Kompres 50 li",
-        "slug": "rollflex-gaz-kompres-50-li",
-        "brand": "Roll",
-        "price": 302.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e793a9eb-4988-4e38-8cde-0004581361cb/image_1950.webp",
-        "cats": [
-          "Gaz Kompres",
-          "Sargı Bezi"
-        ],
-        "stock": 2
-      }
-    ],
-    "Sargı Bezi": [
-      {
-        "name": "Rollflex Gaz Kompres 100 lü",
-        "slug": "rollflex-gaz-kompres-100-lu",
-        "brand": "Roll",
-        "price": 317.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f64a0997-451e-4ab1-a827-faa54f355e4d/image_1950.webp",
-        "cats": [
-          "Gaz Kompres",
-          "Sargı Bezi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Rollflex Gaz Kompres 25 li",
-        "slug": "rollflex-gaz-kompres-25-li",
-        "brand": "Roll",
-        "price": 96.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e6d127a-83ee-49eb-b67a-3cefab4ed165/image_1950.webp",
-        "cats": [
-          "Gaz Kompres",
-          "Sargı Bezi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Rollflex Gaz Kompres 50 li",
-        "slug": "rollflex-gaz-kompres-50-li",
-        "brand": "Roll",
-        "price": 302.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e793a9eb-4988-4e38-8cde-0004581361cb/image_1950.webp",
-        "cats": [
-          "Gaz Kompres",
-          "Sargı Bezi"
-        ],
-        "stock": 2
-      }
-    ],
     "Nemlendirici Yağ ve Serumlar": [
       {
         "name": "Samila Gliserin Cilt Nemlendirici ve Bakım 20 ml",
@@ -58062,9 +57316,9 @@
     ]
   },
   "stats": {
-    "total_products": 3983,
-    "total_categories": 567,
-    "generated": "2026-07-31 11:40",
+    "total_products": 3936,
+    "total_categories": 562,
+    "generated": "2026-07-31 15:00",
     "source": "ikas_api_live"
   }
 }
