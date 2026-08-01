@@ -36295,7 +36295,177 @@
         "stock": 5
       }
     ],
+    "Erkek Sağlığı": [
+      {
+        "name": "Black Berry Geciktirici Sprey ve Masaj Yağı 25 Ml",
+        "slug": "black-berry-geciktirici-sprey-ve-masaj-yagi-25-ml",
+        "brand": "",
+        "price": 610.0,
+        "discount_price": 550.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7c732c96-c814-4be0-8fd5-d0a20f0f3d0d/image_1950.webp",
+        "cats": [
+          "Erkek Sağlığı",
+          "Cinsel Sağlık ve Performans",
+          "Cinsel Sağlık"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "FEB Vit Man Saç Tırnak Cilt Vitamini 60 Kapsül",
+        "slug": "feb-vit-man-sac-tirnak-cilt-vitamini-60-kapsul",
+        "brand": "FEB",
+        "price": 885.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c83a20b5-8681-49fd-b6f9-222d55eef517/image_1950.webp",
+        "cats": [
+          "Erkek Sağlığı",
+          "Saç, Cilt ve Tırnak",
+          "Saç Cilt Tırnak"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "GoodDay Exclusive Prostar Kapsül Bitki Ekstreleri Vitamin Mineral 60 Kapsül",
+        "slug": "goodday-exclusive-prostar-kapsul-bitki-ekstreleri-vitamin-mineral-60",
+        "brand": "Goodday",
+        "price": 1749.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5bc9db8-7bf1-4e82-b1c4-3695a7672f8a/image_1950.webp",
+        "cats": [
+          "Isırgan Otu (Nettle)",
+          "Erkek Sağlığı",
+          "Saw Palmetto",
+          "Çinko",
+          "Likopen"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Hünnap Keçi Boynuzu Özü Doğal Tatlandırıcı 640 g",
+        "slug": "hunnap-keci-boynuzu-ozu-dogal-tatlandirici-640-g",
+        "brand": "Hünnap",
+        "price": 294.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/93ec0217-0029-4a01-a648-a3d79a4b4917/image_1950.webp",
+        "cats": [
+          "Keçiboynuzu",
+          "Erkek Sağlığı",
+          "Tatlandırıcılar",
+          "Enerji ve Zindelik"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Nutrafarm Medobyocomplex-M Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
+        "slug": "nutrafarm-medobyocomplex-m-kapsul-b-vitaminleri-biotin-60-kapsul",
+        "brand": "Nutrafarm",
+        "price": 849.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2a6fe2a1-228d-4bfc-9616-ac3fe7441dee/image_1950.webp",
+        "cats": [
+          "Erkek Sağlığı",
+          "Saç, Cilt ve Tırnak",
+          "B Kompleks",
+          "Enerji ve Zindelik",
+          "Biotin (B7 Vitamini)",
+          "B Vitaminleri"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
+        "slug": "proceive-m-sase-l-karnitin-l-arjinin-koenzim-q10-ginseng-30-sase",
+        "brand": "Orzax",
+        "price": 1949.5,
+        "discount_price": 1755.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1349b6b4-9d53-4050-bf9e-e7aa7b14c6b7/image_1950.webp",
+        "cats": [
+          "Koenzim Q10",
+          "Erkek Sağlığı",
+          "L-Arjinin",
+          "L-Karnitin",
+          "Ginseng"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Profolmix Men Saşe L-Karnitin Vitamin C L-Arjinin Ginseng Koenzim Q10 Vitamin Takviyesi 30 Saşe",
+        "slug": "profolmix-men-sase-l-karnitin-l-arjinin-ginseng-koenzim-q10-30-sase",
+        "brand": "Biowins Pharma",
+        "price": 2921.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/758491e2-9639-43f4-b1b2-91f2514ec1af/image_1950.webp",
+        "cats": [
+          "Koenzim Q10",
+          "Erkek Sağlığı",
+          "L-Arjinin",
+          "L-Karnitin",
+          "Bitkisel Takviyeler",
+          "Ginseng"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Promenk Saşe L-Karnitin L-Arjinin Vitamin Takviyesi 30 Saşe",
+        "slug": "promenk-sase-l-karnitin-l-arjinin-vitamin-takviyesi-30-sase",
+        "brand": "Neu Pharma",
+        "price": 2250.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e4fbf6f-b36d-4d05-8c53-9f954f895529/image_1950.webp",
+        "cats": [
+          "Erkek Sağlığı",
+          "L-Arjinin",
+          "L-Karnitin"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Tedafarma Vipros Kapsül Cüce Palmiye Isırgan Likopen Takviyesi 30 Kapsül",
+        "slug": "tedafarma-vipros-kapsul-cuce-palmiye-isirgan-likopen-30-kapsul",
+        "brand": "Tedafarma",
+        "price": 1626.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41e70ca6-9cd2-4b4b-b02a-777b03709d00/image_1950.webp",
+        "cats": [
+          "Isırgan Otu (Nettle)",
+          "Erkek Sağlığı",
+          "Saw Palmetto",
+          "Likopen"
+        ],
+        "stock": 2
+      }
+    ],
+    "Cinsel Sağlık ve Performans": [
+      {
+        "name": "Black Berry Geciktirici Sprey ve Masaj Yağı 25 Ml",
+        "slug": "black-berry-geciktirici-sprey-ve-masaj-yagi-25-ml",
+        "brand": "",
+        "price": 610.0,
+        "discount_price": 550.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7c732c96-c814-4be0-8fd5-d0a20f0f3d0d/image_1950.webp",
+        "cats": [
+          "Erkek Sağlığı",
+          "Cinsel Sağlık ve Performans",
+          "Cinsel Sağlık"
+        ],
+        "stock": 6
+      }
+    ],
     "Cinsel Sağlık": [
+      {
+        "name": "Black Berry Geciktirici Sprey ve Masaj Yağı 25 Ml",
+        "slug": "black-berry-geciktirici-sprey-ve-masaj-yagi-25-ml",
+        "brand": "",
+        "price": 610.0,
+        "discount_price": 550.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7c732c96-c814-4be0-8fd5-d0a20f0f3d0d/image_1950.webp",
+        "cats": [
+          "Erkek Sağlığı",
+          "Cinsel Sağlık ve Performans",
+          "Cinsel Sağlık"
+        ],
+        "stock": 6
+      },
       {
         "name": "Black Berry Kadınlara Özel Bitkisel Performans Damla 10 ml",
         "slug": "black-berry-kadinlara-ozel-bitkisel-performans-damla-10-ml",
@@ -47762,132 +47932,6 @@
         "stock": 1
       }
     ],
-    "Erkek Sağlığı": [
-      {
-        "name": "FEB Vit Man Saç Tırnak Cilt Vitamini 60 Kapsül",
-        "slug": "feb-vit-man-sac-tirnak-cilt-vitamini-60-kapsul",
-        "brand": "FEB",
-        "price": 885.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c83a20b5-8681-49fd-b6f9-222d55eef517/image_1950.webp",
-        "cats": [
-          "Erkek Sağlığı",
-          "Saç, Cilt ve Tırnak",
-          "Saç Cilt Tırnak"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "GoodDay Exclusive Prostar Kapsül Bitki Ekstreleri Vitamin Mineral 60 Kapsül",
-        "slug": "goodday-exclusive-prostar-kapsul-bitki-ekstreleri-vitamin-mineral-60",
-        "brand": "Goodday",
-        "price": 1749.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5bc9db8-7bf1-4e82-b1c4-3695a7672f8a/image_1950.webp",
-        "cats": [
-          "Isırgan Otu (Nettle)",
-          "Erkek Sağlığı",
-          "Saw Palmetto",
-          "Çinko",
-          "Likopen"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Hünnap Keçi Boynuzu Özü Doğal Tatlandırıcı 640 g",
-        "slug": "hunnap-keci-boynuzu-ozu-dogal-tatlandirici-640-g",
-        "brand": "Hünnap",
-        "price": 294.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/93ec0217-0029-4a01-a648-a3d79a4b4917/image_1950.webp",
-        "cats": [
-          "Keçiboynuzu",
-          "Erkek Sağlığı",
-          "Tatlandırıcılar",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Nutrafarm Medobyocomplex-M Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
-        "slug": "nutrafarm-medobyocomplex-m-kapsul-b-vitaminleri-biotin-60-kapsul",
-        "brand": "Nutrafarm",
-        "price": 849.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2a6fe2a1-228d-4bfc-9616-ac3fe7441dee/image_1950.webp",
-        "cats": [
-          "Erkek Sağlığı",
-          "Saç, Cilt ve Tırnak",
-          "B Kompleks",
-          "Enerji ve Zindelik",
-          "Biotin (B7 Vitamini)",
-          "B Vitaminleri"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
-        "slug": "proceive-m-sase-l-karnitin-l-arjinin-koenzim-q10-ginseng-30-sase",
-        "brand": "Orzax",
-        "price": 1949.5,
-        "discount_price": 1755.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1349b6b4-9d53-4050-bf9e-e7aa7b14c6b7/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Erkek Sağlığı",
-          "L-Arjinin",
-          "L-Karnitin",
-          "Ginseng"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Profolmix Men Saşe L-Karnitin Vitamin C L-Arjinin Ginseng Koenzim Q10 Vitamin Takviyesi 30 Saşe",
-        "slug": "profolmix-men-sase-l-karnitin-l-arjinin-ginseng-koenzim-q10-30-sase",
-        "brand": "Biowins Pharma",
-        "price": 2921.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/758491e2-9639-43f4-b1b2-91f2514ec1af/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Erkek Sağlığı",
-          "L-Arjinin",
-          "L-Karnitin",
-          "Bitkisel Takviyeler",
-          "Ginseng"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Promenk Saşe L-Karnitin L-Arjinin Vitamin Takviyesi 30 Saşe",
-        "slug": "promenk-sase-l-karnitin-l-arjinin-vitamin-takviyesi-30-sase",
-        "brand": "Neu Pharma",
-        "price": 2250.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e4fbf6f-b36d-4d05-8c53-9f954f895529/image_1950.webp",
-        "cats": [
-          "Erkek Sağlığı",
-          "L-Arjinin",
-          "L-Karnitin"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Tedafarma Vipros Kapsül Cüce Palmiye Isırgan Likopen Takviyesi 30 Kapsül",
-        "slug": "tedafarma-vipros-kapsul-cuce-palmiye-isirgan-likopen-30-kapsul",
-        "brand": "Tedafarma",
-        "price": 1626.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41e70ca6-9cd2-4b4b-b02a-777b03709d00/image_1950.webp",
-        "cats": [
-          "Isırgan Otu (Nettle)",
-          "Erkek Sağlığı",
-          "Saw Palmetto",
-          "Likopen"
-        ],
-        "stock": 2
-      }
-    ],
     "Saç Cilt Tırnak": [
       {
         "name": "FEB Vit Man Saç Tırnak Cilt Vitamini 60 Kapsül",
@@ -51027,6 +51071,105 @@
         "stock": 5
       }
     ],
+    "Gargara": [
+      {
+        "name": "Klorhex %0.2 Gargara Ağız ve Boğaz Bakım 200 ml",
+        "slug": "klorhex-yuzde-0-2-gargara-agiz-ve-bogaz-bakim-200-ml",
+        "brand": "Klorhex",
+        "price": 162.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/61bfd080-f562-4b9b-b251-03cedc434075/image_1950.webp",
+        "cats": [
+          "Gargara"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Listerine Cool Mint Hafif Tat Ağız Gargarası Ferahlatıcı 250 ml",
+        "slug": "listerine-cool-mint-hafif-tat-agiz-gargarasi-ferahlatici-250-ml",
+        "brand": "Listerine",
+        "price": 191.0,
+        "discount_price": 175.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5633848d-88f0-40a6-851b-c4bdceff9cad/image_1950.webp",
+        "cats": [
+          "Gargara"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Cool Mint Hafif Tat Ferahlatıcı Ağız Suyu 500 ml",
+        "slug": "listerine-cool-mint-hafif-tat-ferahlatici-agiz-suyu-500-ml",
+        "brand": "Listerine",
+        "price": 312.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/abcf4532-5b32-4e1f-8036-cfdb62f42840/image_1950.webp",
+        "cats": [
+          "Gargara"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 250 ml",
+        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-250-ml",
+        "brand": "Listerine",
+        "price": 130.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/255e2669-9749-4e29-99e6-d782ead462e0/image_1950.webp",
+        "cats": [
+          "Gargara"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 500 ml",
+        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-500-ml",
+        "brand": "Listerine",
+        "price": 312.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b27cb0d5-4fd8-428f-bf2e-44f35315af94/image_1950.webp",
+        "cats": [
+          "Gargara"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 250 ml",
+        "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-250-ml",
+        "brand": "Listerine",
+        "price": 140.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb89ac71-a608-48d7-80a2-af38ca170ea5/image_1950.webp",
+        "cats": [
+          "Gargara"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 500 ml",
+        "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-500-ml",
+        "brand": "Listerine",
+        "price": 245.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f35c0666-7a41-41f5-955f-1687a0e5f467/image_1950.webp",
+        "cats": [
+          "Gargara"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Total Care Alkolsüz Ağız Bakım Suyu 500 ml",
+        "slug": "listerine-total-care-alkolsuz-agiz-bakim-suyu-500-ml",
+        "brand": "Listerine",
+        "price": 267.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/09692f86-243a-490d-9dbe-35f5983f882d/image_1950.webp",
+        "cats": [
+          "Alkolsüz",
+          "Gargara"
+        ],
+        "stock": 1
+      }
+    ],
     "Kuersetin": [
       {
         "name": "Kondromin-S Efervesan Tablet Eklem Sağlığı Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
@@ -51863,93 +52006,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6cf7928e-e853-4eca-aeae-b7ca660d0f69/image_1950.webp",
         "cats": [
           "Alkolsüz"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Total Care Alkolsüz Ağız Bakım Suyu 500 ml",
-        "slug": "listerine-total-care-alkolsuz-agiz-bakim-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 267.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/09692f86-243a-490d-9dbe-35f5983f882d/image_1950.webp",
-        "cats": [
-          "Alkolsüz",
-          "Gargara"
-        ],
-        "stock": 1
-      }
-    ],
-    "Gargara": [
-      {
-        "name": "Listerine Cool Mint Hafif Tat Ağız Gargarası Ferahlatıcı 250 ml",
-        "slug": "listerine-cool-mint-hafif-tat-agiz-gargarasi-ferahlatici-250-ml",
-        "brand": "Listerine",
-        "price": 191.0,
-        "discount_price": 175.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5633848d-88f0-40a6-851b-c4bdceff9cad/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Cool Mint Hafif Tat Ferahlatıcı Ağız Suyu 500 ml",
-        "slug": "listerine-cool-mint-hafif-tat-ferahlatici-agiz-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 312.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/abcf4532-5b32-4e1f-8036-cfdb62f42840/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 250 ml",
-        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-250-ml",
-        "brand": "Listerine",
-        "price": 130.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/255e2669-9749-4e29-99e6-d782ead462e0/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 500 ml",
-        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 312.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b27cb0d5-4fd8-428f-bf2e-44f35315af94/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 250 ml",
-        "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-250-ml",
-        "brand": "Listerine",
-        "price": 140.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eb89ac71-a608-48d7-80a2-af38ca170ea5/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 500 ml",
-        "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 245.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f35c0666-7a41-41f5-955f-1687a0e5f467/image_1950.webp",
-        "cats": [
-          "Gargara"
         ],
         "stock": 1
       },
@@ -57274,9 +57330,9 @@
     ]
   },
   "stats": {
-    "total_products": 3933,
-    "total_categories": 562,
-    "generated": "2026-08-01 15:00",
+    "total_products": 3937,
+    "total_categories": 563,
+    "generated": "2026-08-01 19:00",
     "source": "ikas_api_live"
   }
 }
