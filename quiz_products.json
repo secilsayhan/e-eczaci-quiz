@@ -4217,7 +4217,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Capillus Men 60 Tablet",
@@ -5296,7 +5296,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Vitamin B-Complex \"50\" Kapsül, 50 Kapsül",
@@ -6977,7 +6977,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Capillus Men 60 Tablet",
@@ -9428,20 +9428,6 @@
         "stock": 4
       },
       {
-        "name": "Solgar Advanced 40+ Acidophilus Probiyotik Mikroorganizma Takviyesi 60 Kapsül",
-        "slug": "solgar-advanced-40-plus-acidophilus-probiyotik-mikroorganizma-60",
-        "brand": "Solgar",
-        "price": 1323.0,
-        "discount_price": 1075.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9b06386-e532-4da1-867c-0774d5655370/image_1950.webp",
-        "cats": [
-          "Probiyotik ve Prebiyotik",
-          "Probiyotik",
-          "Sindirim Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Trubiotic Plus Oral Damla 8 ml",
         "slug": "trubiotic-plus-oral-damla-8-ml",
         "brand": "Trubiotic",
@@ -10053,20 +10039,6 @@
         "cats": [
           "Laktaz (Lactase)",
           "Bebek Sağlık",
-          "Sindirim Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Advanced 40+ Acidophilus Probiyotik Mikroorganizma Takviyesi 60 Kapsül",
-        "slug": "solgar-advanced-40-plus-acidophilus-probiyotik-mikroorganizma-60",
-        "brand": "Solgar",
-        "price": 1323.0,
-        "discount_price": 1075.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9b06386-e532-4da1-867c-0774d5655370/image_1950.webp",
-        "cats": [
-          "Probiyotik ve Prebiyotik",
-          "Probiyotik",
           "Sindirim Sağlığı"
         ],
         "stock": 1
@@ -28256,20 +28228,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Advanced 40+ Acidophilus Probiyotik Mikroorganizma Takviyesi 60 Kapsül",
-        "slug": "solgar-advanced-40-plus-acidophilus-probiyotik-mikroorganizma-60",
-        "brand": "Solgar",
-        "price": 1323.0,
-        "discount_price": 1075.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9b06386-e532-4da1-867c-0774d5655370/image_1950.webp",
-        "cats": [
-          "Probiyotik ve Prebiyotik",
-          "Probiyotik",
-          "Sindirim Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Trubiotic Duo Oral Damla, Probiyotik 8ml",
         "slug": "trubiotic-duo-oral-damla-probiyotik-8ml",
         "brand": "Trubiotic",
@@ -31463,7 +31421,7 @@
         "cats": [
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 3
+        "stock": 1
       }
     ],
     "Dövme Bakımı": [
@@ -47542,7 +47500,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 18
+        "stock": 14
       }
     ],
     "Kolonya Sprey": [
@@ -51226,7 +51184,7 @@
         "cats": [
           "Kulak Temizleyici"
         ],
-        "stock": 89
+        "stock": 87
       }
     ],
     "Kulak Bakımı": [
@@ -57316,9 +57274,9 @@
     ]
   },
   "stats": {
-    "total_products": 3936,
+    "total_products": 3933,
     "total_categories": 562,
-    "generated": "2026-07-31 15:00",
+    "generated": "2026-08-01 08:40",
     "source": "ikas_api_live"
   }
 }
