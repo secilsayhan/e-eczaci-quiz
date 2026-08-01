@@ -1034,7 +1034,7 @@
           "Temizleyici",
           "Temizleme Jeli"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "CeraVe Akneye Eğilimli Cilt Temizleyici 236 ml",
@@ -25212,7 +25212,7 @@
           "Temizleyici",
           "Temizleme Jeli"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Capicade Hassas & Kuru Temizleme Jeli 150 ml",
@@ -57276,7 +57276,7 @@
   "stats": {
     "total_products": 3933,
     "total_categories": 562,
-    "generated": "2026-08-01 11:00",
+    "generated": "2026-08-01 15:00",
     "source": "ikas_api_live"
   }
 }
