@@ -42232,7 +42232,7 @@
           "Orta Sertlik",
           "Diş Fırçası"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "TePe T126 Fırça Select Medium",
@@ -42327,7 +42327,7 @@
           "Orta Sertlik",
           "Diş Fırçası"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Oral-B Fırça Orthodontic",
@@ -57348,7 +57348,7 @@
   "stats": {
     "total_products": 3938,
     "total_categories": 563,
-    "generated": "2026-08-02 15:00",
+    "generated": "2026-08-02 19:00",
     "source": "ikas_api_live"
   }
 }
