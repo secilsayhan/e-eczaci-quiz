@@ -9428,6 +9428,20 @@
         "stock": 4
       },
       {
+        "name": "Solgar Advanced 40+ Acidophilus Probiyotik Mikroorganizma Takviyesi 60 Kapsül",
+        "slug": "solgar-advanced-40-plus-acidophilus-probiyotik-mikroorganizma-60",
+        "brand": "Solgar",
+        "price": 1323.0,
+        "discount_price": 1075.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9b06386-e532-4da1-867c-0774d5655370/image_1950.webp",
+        "cats": [
+          "Probiyotik ve Prebiyotik",
+          "Probiyotik",
+          "Sindirim Sağlığı"
+        ],
+        "stock": 1
+      },
+      {
         "name": "Trubiotic Plus Oral Damla 8 ml",
         "slug": "trubiotic-plus-oral-damla-8-ml",
         "brand": "Trubiotic",
@@ -10039,6 +10053,20 @@
         "cats": [
           "Laktaz (Lactase)",
           "Bebek Sağlık",
+          "Sindirim Sağlığı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Advanced 40+ Acidophilus Probiyotik Mikroorganizma Takviyesi 60 Kapsül",
+        "slug": "solgar-advanced-40-plus-acidophilus-probiyotik-mikroorganizma-60",
+        "brand": "Solgar",
+        "price": 1323.0,
+        "discount_price": 1075.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9b06386-e532-4da1-867c-0774d5655370/image_1950.webp",
+        "cats": [
+          "Probiyotik ve Prebiyotik",
+          "Probiyotik",
           "Sindirim Sağlığı"
         ],
         "stock": 1
@@ -18461,7 +18489,7 @@
           "Bağışıklık Sistemi",
           "Pikolinat (Picolinate)"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Talya Kekik Yağı 20 ml Destekleyici",
@@ -28224,6 +28252,20 @@
           "0-6 Ay",
           "Bebek Sütü",
           "Bebek Sütü (0-6 Ay)"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Advanced 40+ Acidophilus Probiyotik Mikroorganizma Takviyesi 60 Kapsül",
+        "slug": "solgar-advanced-40-plus-acidophilus-probiyotik-mikroorganizma-60",
+        "brand": "Solgar",
+        "price": 1323.0,
+        "discount_price": 1075.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9b06386-e532-4da1-867c-0774d5655370/image_1950.webp",
+        "cats": [
+          "Probiyotik ve Prebiyotik",
+          "Probiyotik",
+          "Sindirim Sağlığı"
         ],
         "stock": 1
       },
@@ -40311,19 +40353,6 @@
         "stock": 1
       },
       {
-        "name": "New Life Efa One Omega 3 Balık Yağı 45 Kapsül",
-        "slug": "new-life-efa-one-omega-3-balik-yagi-45-kapsul",
-        "brand": "New Life",
-        "price": 1389.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/555983d3-aa4c-4127-93a7-1ace84aa9302/image_1950.webp",
-        "cats": [
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "New Life Efa S 1200 Yüksek EPA DHA Balık Yağı 45 Kapsül",
         "slug": "new-life-efa-s-1200-yuksek-epa-dha-balik-yagi-45-kapsul",
         "brand": "New Life",
@@ -41240,19 +41269,6 @@
         "price": 477.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/62f902cc-75f7-4204-84d0-20a71abd404f/image_1950.webp",
-        "cats": [
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "New Life Efa One Omega 3 Balık Yağı 45 Kapsül",
-        "slug": "new-life-efa-one-omega-3-balik-yagi-45-kapsul",
-        "brand": "New Life",
-        "price": 1389.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/555983d3-aa4c-4127-93a7-1ace84aa9302/image_1950.webp",
         "cats": [
           "Omega 3",
           "Kalp ve Damar Sağlığı"
@@ -55713,7 +55729,7 @@
           "Bağışıklık Sistemi",
           "Pikolinat (Picolinate)"
         ],
-        "stock": 10
+        "stock": 9
       }
     ],
     "Sigara Filtresi ve Ağızlık": [
@@ -57330,9 +57346,9 @@
     ]
   },
   "stats": {
-    "total_products": 3937,
+    "total_products": 3938,
     "total_categories": 563,
-    "generated": "2026-08-01 19:00",
+    "generated": "2026-08-02 07:06",
     "source": "ikas_api_live"
   }
 }
