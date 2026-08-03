@@ -8680,7 +8680,7 @@
           "Tablet Kolajen",
           "Hidrolize Kolajen"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "GoodDay Biotin 5000 mcg Tablet 60 Tablet",
@@ -13048,7 +13048,7 @@
           "Beyin ve Hafıza",
           "Enerji ve Zindelik"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Osende 2M Ağızda Dağılan Tablet Metilfolat Metilkobalamin Takviyesi 30 Tablet",
@@ -13579,7 +13579,7 @@
           "Beyin ve Hafıza",
           "Enerji ve Zindelik"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Orzax Ocean Saf Balık Yağı Omega 3 EPA DHA 500 mg 60 Kapsül",
@@ -15070,7 +15070,7 @@
           "Beyin ve Hafıza",
           "Enerji ve Zindelik"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Orzax Ocean Microfer Demir Tablet Yetişkinler İçin 30 Tablet",
@@ -17949,7 +17949,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -29822,7 +29822,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -37838,7 +37838,7 @@
           "Tablet Kolajen",
           "Hidrolize Kolajen"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Beauty Collagen Complex 5 Tip Kolajen 90 Tablet",
@@ -43197,7 +43197,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -45250,7 +45250,7 @@
           "Tablet Kolajen",
           "Hidrolize Kolajen"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Sıvı Kolajen": [
@@ -48526,7 +48526,7 @@
           "Tablet Kolajen",
           "Hidrolize Kolajen"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Sebamed Sun Care Çok Yönlü Güneş Kremi SPF50 50 ml",
@@ -48599,7 +48599,7 @@
           "Tablet Kolajen",
           "Hidrolize Kolajen"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Beauty Collagen Complex 5 Tip Kolajen 90 Tablet",
@@ -57388,7 +57388,7 @@
   "stats": {
     "total_products": 3941,
     "total_categories": 562,
-    "generated": "2026-08-03 15:00",
+    "generated": "2026-08-03 19:00",
     "source": "ikas_api_live"
   }
 }
