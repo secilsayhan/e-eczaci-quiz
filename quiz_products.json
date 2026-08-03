@@ -2034,7 +2034,7 @@
         "cats": [
           "Yüz Bakımı"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bioderma Sebium Kerato Krem 30 ml",
@@ -2154,7 +2154,7 @@
         "cats": [
           "Yüz Bakımı"
         ],
-        "stock": 50
+        "stock": 49
       },
       {
         "name": "Bioderma Sensibio H2O Micellar Su 500 ml İkiz Set",
@@ -23634,7 +23634,7 @@
           "SPF 50+",
           "Yüz Güneş Koruma"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Bioderma Photoderm Creme Spf50+ Çok Yüksek Korumalı Güneş Kremi",
@@ -26944,7 +26944,7 @@
           "SPF 50+",
           "Yüz Güneş Koruma"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Bioderma Photoderm Family Sprey SPF50+ 300 ml",
@@ -27486,7 +27486,7 @@
           "SPF 50+",
           "Yüz Güneş Koruma"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Bioderma Photoderm Family Sprey SPF50+ 300 ml",
@@ -53247,20 +53247,6 @@
         "stock": 4
       }
     ],
-    "Bileklik": [
-      {
-        "name": "Navxy Sivrisinek Bilekliği Yetişkinler İçin Doğal Kovucu",
-        "slug": "navxy-sivrisinek-bilekligi-yetiskinler-icin-dogal-kovucu",
-        "brand": "Navxy",
-        "price": 62.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b862bb4b-8312-4ecc-80c1-62625479b3d8/image_1950.webp",
-        "cats": [
-          "Bileklik"
-        ],
-        "stock": 2
-      }
-    ],
     "Bileklik (Çocuk)": [
       {
         "name": "Navxy Sivrisinek Bilekliği Çocuklar İçin Doğal Kovucu",
@@ -57346,9 +57332,9 @@
     ]
   },
   "stats": {
-    "total_products": 3938,
-    "total_categories": 563,
-    "generated": "2026-08-02 19:00",
+    "total_products": 3937,
+    "total_categories": 562,
+    "generated": "2026-08-03 11:08",
     "source": "ikas_api_live"
   }
 }
