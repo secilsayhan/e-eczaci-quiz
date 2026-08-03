@@ -2345,6 +2345,20 @@
         "stock": 2
       },
       {
+        "name": "La Roche Posay Cicaplast Baume B5 Çok Amaçlı Onarıcı Balsam 40 ml",
+        "slug": "la-roche-posay-cicaplast-baume-b5-cok-amacli-onarici-balsam-40-ml",
+        "brand": "La Roche-Posay",
+        "price": 908.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25274452-0cbc-4d4a-9690-176591715d00/image_1950.webp",
+        "cats": [
+          "Onarıcı",
+          "Balsam",
+          "Yüz Bakımı"
+        ],
+        "stock": 28
+      },
+      {
         "name": "La Roche Posay Effaclar A.Z. Gel Krem 40 ml",
         "slug": "la-roche-posay-effaclar-a-z-gel-krem-40-ml",
         "brand": "La Roche-Posay",
@@ -4177,7 +4191,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean B Complex 60 Kapsül",
@@ -4542,7 +4556,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Ocean Passiflora Sıvı, Pasiflora Ekstraktı, 150 ml",
@@ -5047,7 +5061,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Calcium Magnesium Plus Boron Tablet 100 Tablet",
@@ -6964,7 +6978,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Bromelain Kapsül, 60 Kapsül",
@@ -12097,7 +12111,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Calcium Magnesium Plus Boron Tablet 100 Tablet",
@@ -23036,7 +23050,21 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 20
+        "stock": 19
+      },
+      {
+        "name": "La Roche Posay Cicaplast Baume B5 Çok Amaçlı Onarıcı Balsam 40 ml",
+        "slug": "la-roche-posay-cicaplast-baume-b5-cok-amacli-onarici-balsam-40-ml",
+        "brand": "La Roche-Posay",
+        "price": 908.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25274452-0cbc-4d4a-9690-176591715d00/image_1950.webp",
+        "cats": [
+          "Onarıcı",
+          "Balsam",
+          "Yüz Bakımı"
+        ],
+        "stock": 28
       },
       {
         "name": "La Roche-Posay Cicaplast Baume B5+ Yatıştırıcı Onarıcı Krem 100 ml",
@@ -23209,7 +23237,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "La Roche-Posay Cicaplast Baume B5+ Yatıştırıcı Onarıcı Krem 100 ml",
@@ -30025,7 +30053,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Calcium Magnesium with Vitamin D3 Tablet 150 Tablet",
@@ -34542,6 +34570,20 @@
         "stock": 7
       },
       {
+        "name": "La Roche Posay Cicaplast Baume B5 Çok Amaçlı Onarıcı Balsam 40 ml",
+        "slug": "la-roche-posay-cicaplast-baume-b5-cok-amacli-onarici-balsam-40-ml",
+        "brand": "La Roche-Posay",
+        "price": 908.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25274452-0cbc-4d4a-9690-176591715d00/image_1950.webp",
+        "cats": [
+          "Onarıcı",
+          "Balsam",
+          "Yüz Bakımı"
+        ],
+        "stock": 28
+      },
+      {
         "name": "La Roche Posay Lipikar Baume Ap+ M Yatıştırıcı Balsam 400 ml",
         "slug": "la-roche-posay-lipikar-baume-ap-plus-m-yatistirici-balsam-400-ml",
         "brand": "La Roche-Posay",
@@ -36868,7 +36910,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Calcium Magnesium with Vitamin D3 Tablet 150 Tablet",
@@ -38681,7 +38723,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 20
+        "stock": 19
       }
     ],
     "Topuk Çatlak Kremi": [
@@ -47673,6 +47715,18 @@
           "İntim Bakım"
         ],
         "stock": 2
+      },
+      {
+        "name": "Etoile Intim Yıkama Boric Acid 200 ml",
+        "slug": "etoile-intim-yikama-boric-acid-200-ml",
+        "brand": "Etoile",
+        "price": 1107.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25847512-8d22-4617-83b9-b9047fb4ac94/image_1950.webp",
+        "cats": [
+          "İntim Bakım"
+        ],
+        "stock": 1
       }
     ],
     "İntim Temizleyiciler": [
@@ -47686,7 +47740,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 14
+        "stock": 15
       }
     ],
     "Kolonya Sprey": [
@@ -57332,9 +57386,9 @@
     ]
   },
   "stats": {
-    "total_products": 3937,
+    "total_products": 3941,
     "total_categories": 562,
-    "generated": "2026-08-03 11:08",
+    "generated": "2026-08-03 15:00",
     "source": "ikas_api_live"
   }
 }
