@@ -5134,7 +5134,7 @@
           "Vitamin ve Takviye",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Formula VM-2000 Multinutrient System Tablet 60 Tablet",
@@ -7172,7 +7172,7 @@
           "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Profolmix Men Saşe L-Karnitin Vitamin C L-Arjinin Ginseng Koenzim Q10 Vitamin Takviyesi 30 Saşe",
@@ -7524,7 +7524,7 @@
         "name": "Saç Dökülmesi Karşıtı Bakım Seti",
         "slug": "sac-dokulmesi-paketi",
         "brand": "",
-        "price": 3644.01,
+        "price": 3626.91,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c2e23d0-ec80-4829-aca2-3dc10b4a4725/image_1950.webp",
         "cats": [
@@ -8959,7 +8959,7 @@
           "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Sebamed Anti-Hairloss Saç Dökülmesine Karşı Şampuan",
@@ -16040,7 +16040,7 @@
           "Vitamin ve Takviye",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Formula VM-2000 Multinutrient System Tablet 60 Tablet",
@@ -36941,7 +36941,7 @@
           "Vitamin ve Takviye",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Formula VM-2000 Multinutrient System Tablet 60 Tablet",
@@ -51165,18 +51165,6 @@
         "stock": 1
       },
       {
-        "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 500 ml",
-        "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 312.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b27cb0d5-4fd8-428f-bf2e-44f35315af94/image_1950.webp",
-        "cats": [
-          "Gargara"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Listerine Total Care 6 Etki 1 Arada Ağız Bakım Suyu 250 ml",
         "slug": "listerine-total-care-6-etki-1-arada-agiz-bakim-suyu-250-ml",
         "brand": "Listerine",
@@ -52503,7 +52491,7 @@
           "Diş İpi",
           "Super Floss"
         ],
-        "stock": 8
+        "stock": 7
       }
     ],
     "K Vitamini": [
@@ -54048,7 +54036,7 @@
           "Diş İpi",
           "Super Floss"
         ],
-        "stock": 8
+        "stock": 7
       }
     ],
     "Çocuk Diş Bakımı": [
@@ -57360,9 +57348,9 @@
     ]
   },
   "stats": {
-    "total_products": 3939,
+    "total_products": 3938,
     "total_categories": 562,
-    "generated": "2026-08-04 20:35",
+    "generated": "2026-08-05 10:18",
     "source": "ikas_api_live"
   }
 }
