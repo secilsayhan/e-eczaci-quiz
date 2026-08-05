@@ -7452,7 +7452,7 @@
         "name": "Güneş Koruma ve Bronzlaşma Bakım Seti",
         "slug": "gunes-koruma-paketi",
         "brand": "",
-        "price": 4515.36,
+        "price": 4490.52,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30148e02-0578-4d75-9a22-3a8f472a3010/image_1950.webp",
         "cats": [
@@ -7464,7 +7464,7 @@
         "name": "Hassas ve Atopik Cilt Bakım Seti",
         "slug": "atopik-cilt-paketi",
         "brand": "",
-        "price": 4118.4,
+        "price": 4076.1,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/17d14c6c-9260-49e8-a1b8-990ddf7f9ecc/image_1950.webp",
         "cats": [
@@ -7476,7 +7476,7 @@
         "name": "Kuru Cilt Yoğun Nemlendirme Seti",
         "slug": "kuru-cilt-nem-paketi",
         "brand": "",
-        "price": 4903.2,
+        "price": 4863.6,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dab7a0a1-bf5d-4ea5-9340-fd664dbae2f2/image_1950.webp",
         "cats": [
@@ -7488,7 +7488,7 @@
         "name": "Kırışıklık Karşıtı Anti-Aging Bakım Seti",
         "slug": "yaslanma-karsiti-paketi",
         "brand": "",
-        "price": 9719.01,
+        "price": 9585.81,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/040cc3f2-1a42-4084-8da4-584f88ff96ed/image_1950.webp",
         "cats": [
@@ -7500,7 +7500,7 @@
         "name": "Leke ve Ton Eşitsizliği Bakım Seti",
         "slug": "leke-bakim-paketi",
         "brand": "",
-        "price": 7063.11,
+        "price": 6885.81,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/83d6739a-e43d-468f-9061-f5ed785367e3/image_1950.webp",
         "cats": [
@@ -38243,7 +38243,7 @@
         "cats": [
           "B5 Vitamini (Pantotenik Asit)"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
@@ -57350,7 +57350,7 @@
   "stats": {
     "total_products": 3938,
     "total_categories": 562,
-    "generated": "2026-08-05 10:18",
+    "generated": "2026-08-05 11:00",
     "source": "ikas_api_live"
   }
 }
