@@ -58,20 +58,6 @@
         "stock": 1
       },
       {
-        "name": "Art de Huile Nosemix Burun Çevresi Bakım Yağı 10 ml",
-        "slug": "art-de-huile-nosemix-burun-cevresi-bakim-yagi-10-ml",
-        "brand": "Art De Huile",
-        "price": 850.0,
-        "discount_price": 680.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/43bd1876-ed79-4f4b-b708-92e1aaaff0e9/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Vücut Bakımı",
-          "Burun Bakım Yağı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Baby-Vac Burun Aspiratörü",
         "slug": "baby-vac-burun-aspiratoru",
         "brand": "Baby-Vac",
@@ -19173,18 +19159,6 @@
         "stock": 1
       },
       {
-        "name": "Nutraxin Vitals Womens Multi Vitamin Complex Tablet 60 Tablet",
-        "slug": "nutraxin-vitals-womens-multi-vitamin-complex-tablet-60-tablet",
-        "brand": "Nutraxin",
-        "price": 791.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/80550ecb-f581-40c2-9472-8d6ab684366c/image_1950.webp",
-        "cats": [
-          "C Vitamini"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "ocean-microfer-kapsul-mikroenkapsule-demir-ve-c-vitamini-iceren",
         "brand": "Orzax",
@@ -19769,20 +19743,6 @@
           "El Kremi"
         ],
         "stock": 6
-      },
-      {
-        "name": "Art de Huile Nosemix Burun Çevresi Bakım Yağı 10 ml",
-        "slug": "art-de-huile-nosemix-burun-cevresi-bakim-yagi-10-ml",
-        "brand": "Art De Huile",
-        "price": 850.0,
-        "discount_price": 680.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/43bd1876-ed79-4f4b-b708-92e1aaaff0e9/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Vücut Bakımı",
-          "Burun Bakım Yağı"
-        ],
-        "stock": 1
       },
       {
         "name": "Art de Huile Terapi Nioli Uçucu Yağı %100 Saf 10 ml",
@@ -21591,22 +21551,6 @@
           "Arnika Bakımı"
         ],
         "stock": 3
-      }
-    ],
-    "Burun Bakım Yağı": [
-      {
-        "name": "Art de Huile Nosemix Burun Çevresi Bakım Yağı 10 ml",
-        "slug": "art-de-huile-nosemix-burun-cevresi-bakim-yagi-10-ml",
-        "brand": "Art De Huile",
-        "price": 850.0,
-        "discount_price": 680.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/43bd1876-ed79-4f4b-b708-92e1aaaff0e9/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Vücut Bakımı",
-          "Burun Bakım Yağı"
-        ],
-        "stock": 1
       }
     ],
     "Niaouli Yağı": [
@@ -23810,18 +23754,6 @@
           "SPF 50+"
         ],
         "stock": 19
-      },
-      {
-        "name": "Bioderma Sensibio AR BB Krem SPF30",
-        "slug": "bioderma-sensibio-ar-bb-krem-spf30",
-        "brand": "Bioderma",
-        "price": 2738.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/caf4eedc-722e-47c7-bf01-4359cee80c23/image_1950.webp",
-        "cats": [
-          "SPF 50+"
-        ],
-        "stock": 1
       },
       {
         "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
@@ -57348,9 +57280,9 @@
     ]
   },
   "stats": {
-    "total_products": 3938,
-    "total_categories": 562,
-    "generated": "2026-08-05 18:25",
+    "total_products": 3933,
+    "total_categories": 561,
+    "generated": "2026-08-05 19:50",
     "source": "ikas_api_live"
   }
 }
