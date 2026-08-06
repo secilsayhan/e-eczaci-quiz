@@ -32369,6 +32369,18 @@
         "stock": 3
       },
       {
+        "name": "Vichy Dercos Aminexil Regen Serum 90 ml",
+        "slug": "vichy-dercos-aminexil-regen-serum-90-ml",
+        "brand": "Vichy",
+        "price": 3997.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dfa9f969-d66d-46cf-9821-d0e10dac4979/image_1950.webp",
+        "cats": [
+          "Saç Bakımı"
+        ],
+        "stock": 1
+      },
+      {
         "name": "Vichy Dercos Anti Dandruff 390 ml",
         "slug": "vichy-dercos-anti-dandruff-390-ml",
         "brand": "Vichy",
@@ -47620,7 +47632,7 @@
         "cats": [
           "İntim Bakım"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Etoile Intim Yıkama Boric Acid 200 ml",
@@ -47646,7 +47658,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 11
+        "stock": 10
       }
     ],
     "Kolonya Sprey": [
@@ -57280,9 +57292,9 @@
     ]
   },
   "stats": {
-    "total_products": 3933,
+    "total_products": 3934,
     "total_categories": 561,
-    "generated": "2026-08-06 11:00",
+    "generated": "2026-08-06 15:00",
     "source": "ikas_api_live"
   }
 }
