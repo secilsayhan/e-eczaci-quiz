@@ -579,21 +579,6 @@
         "stock": 1
       },
       {
-        "name": "Oral-B Çocuk Şarjlı Diş Fırçası Frozen Karlar Ülkesi Temalı",
-        "slug": "oral-b-cocuk-sarjli-dis-fircasi-frozen-karlar-ulkesi-temali",
-        "brand": "Oral-B",
-        "price": 2150.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bd43bf7-d061-4d75-90a0-c4e2d4bd8b9c/image_1950.webp",
-        "cats": [
-          "Diş Fırçası",
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Oral-B Çocuk Şarjlı Diş Fırçası Star Wars Temalı",
         "slug": "oral-b-cocuk-sarjli-dis-fircasi-star-wars-temali",
         "brand": "Oral-B",
@@ -42369,21 +42354,6 @@
         "stock": 7
       },
       {
-        "name": "Oral-B Çocuk Şarjlı Diş Fırçası Frozen Karlar Ülkesi Temalı",
-        "slug": "oral-b-cocuk-sarjli-dis-fircasi-frozen-karlar-ulkesi-temali",
-        "brand": "Oral-B",
-        "price": 2150.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bd43bf7-d061-4d75-90a0-c4e2d4bd8b9c/image_1950.webp",
-        "cats": [
-          "Diş Fırçası",
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Oral-B Çocuk Şarjlı Diş Fırçası Star Wars Temalı",
         "slug": "oral-b-cocuk-sarjli-dis-fircasi-star-wars-temali",
         "brand": "Oral-B",
@@ -45387,21 +45357,6 @@
         "cats": [
           "Diş Bakımı",
           "Diş Jeli"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Oral-B Çocuk Şarjlı Diş Fırçası Frozen Karlar Ülkesi Temalı",
-        "slug": "oral-b-cocuk-sarjli-dis-fircasi-frozen-karlar-ulkesi-temali",
-        "brand": "Oral-B",
-        "price": 2150.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bd43bf7-d061-4d75-90a0-c4e2d4bd8b9c/image_1950.webp",
-        "cats": [
-          "Diş Fırçası",
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
         ],
         "stock": 1
       },
@@ -53985,21 +53940,6 @@
     ],
     "Çocuk Diş Bakımı": [
       {
-        "name": "Oral-B Çocuk Şarjlı Diş Fırçası Frozen Karlar Ülkesi Temalı",
-        "slug": "oral-b-cocuk-sarjli-dis-fircasi-frozen-karlar-ulkesi-temali",
-        "brand": "Oral-B",
-        "price": 2150.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bd43bf7-d061-4d75-90a0-c4e2d4bd8b9c/image_1950.webp",
-        "cats": [
-          "Diş Fırçası",
-          "Çocuk",
-          "Çocuk Diş Bakımı",
-          "Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Oral-B Çocuk Şarjlı Diş Fırçası Star Wars Temalı",
         "slug": "oral-b-cocuk-sarjli-dis-fircasi-star-wars-temali",
         "brand": "Oral-B",
@@ -55751,20 +55691,6 @@
         "stock": 24
       }
     ],
-    "Tırnak Solüsyonu": [
-      {
-        "name": "TTO Gold Nail Tırnak Solüsyonu 15 ml",
-        "slug": "tto-gold-nail-tirnak-solusyonu-15-ml",
-        "brand": "TTO",
-        "price": 785.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/20de78ae-602f-4e63-96cc-56ab15399b3a/image_1950.webp",
-        "cats": [
-          "Tırnak Solüsyonu"
-        ],
-        "stock": 1
-      }
-    ],
     "Göz Şampuanı": [
       {
         "name": "TTO Göz Çevresi Şampuanı 125 ml",
@@ -57292,9 +57218,9 @@
     ]
   },
   "stats": {
-    "total_products": 3934,
-    "total_categories": 561,
-    "generated": "2026-08-06 15:00",
+    "total_products": 3929,
+    "total_categories": 560,
+    "generated": "2026-08-06 19:00",
     "source": "ikas_api_live"
   }
 }
