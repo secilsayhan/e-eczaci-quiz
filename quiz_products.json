@@ -7366,7 +7366,7 @@
         "name": "Akne ve Sivilce Bakım Seti",
         "slug": "akne-bakim-paketi",
         "brand": "",
-        "price": 6539.4,
+        "price": 6498.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d38ec993-b0d5-4aad-afb9-dda80727d8fc/image_1950.webp",
         "cats": [
@@ -47646,7 +47646,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 12
+        "stock": 11
       }
     ],
     "Kolonya Sprey": [
@@ -57282,7 +57282,7 @@
   "stats": {
     "total_products": 3933,
     "total_categories": 561,
-    "generated": "2026-08-06 08:21",
+    "generated": "2026-08-06 11:00",
     "source": "ikas_api_live"
   }
 }
