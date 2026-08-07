@@ -5272,18 +5272,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Skin, Nails & Hair With MSM Tablet, 60 Tablet",
-        "slug": "solgar-skin-nails-ve-hair-with-msm-tablet-60-tablet",
-        "brand": "Solgar",
-        "price": 841.0,
-        "discount_price": 673.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5cb31e00-cba5-4c43-91d3-e721d668f9fc/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Vitamin B-Complex \"50\" Kapsül, 50 Kapsül",
         "slug": "solgar-vitamin-b-complex-50-kapsul-50-kapsul",
         "brand": "Solgar",
@@ -57218,9 +57206,9 @@
     ]
   },
   "stats": {
-    "total_products": 3929,
+    "total_products": 3928,
     "total_categories": 560,
-    "generated": "2026-08-06 19:00",
+    "generated": "2026-08-07 08:27",
     "source": "ikas_api_live"
   }
 }
