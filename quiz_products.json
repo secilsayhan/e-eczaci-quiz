@@ -8457,7 +8457,7 @@
         "name": "Capicade Capiligo Alfa Lipoik Asit 30 Tablet",
         "slug": "capicade-capiligo-alfa-lipoik-asit-30-tablet",
         "brand": "Capicade",
-        "price": 1203.0,
+        "price": 1350.0,
         "discount_price": 1143.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4c081ea-8ea8-47d1-8495-f8c3ced4a443/image_1950.webp",
         "cats": [
@@ -8465,7 +8465,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 3
+        "stock": 12
       },
       {
         "name": "Capicade Saç Dökülmesine Karşı Şampuan 220 ml",
@@ -11662,7 +11662,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 114
+        "stock": 113
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -13511,7 +13511,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 114
+        "stock": 113
       },
       {
         "name": "Orzax Ocean Metil B12 Dilaltı Sprey 1000 mcg",
@@ -20396,6 +20396,19 @@
           "Bebek Bakım"
         ],
         "stock": 8
+      },
+      {
+        "name": "Suvar Kurşun Suyu Eau de Goulard 1 Litre",
+        "slug": "suvar-kursun-suyu-eau-de-goulard-1-litre",
+        "brand": "Suvar Kimya",
+        "price": 150.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4178a7-0551-47cb-980a-707dc8471cbc/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Kurşun Suyu"
+        ],
+        "stock": 2
       },
       {
         "name": "TTO Kil Maskesi 12 gr Saşe",
@@ -33503,6 +33516,30 @@
         "stock": 4
       },
       {
+        "name": "Etoile Intim Duş (Borik Asit+Elma Sirkesi) 100 ml",
+        "slug": "etoile-intim-dus-borik-asit-pluselma-sirkesi-100-ml",
+        "brand": "Etoile",
+        "price": 923.0,
+        "discount_price": null,
+        "image": "",
+        "cats": [
+          "Kişisel Bakım"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
+        "slug": "etoile-intim-sprey-borik-asit-pluselma-sirkesi-100-ml",
+        "brand": "Etoile",
+        "price": 923.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4f14d4-1a90-4d4d-9d95-7aeedb227ac3/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım"
+        ],
+        "stock": 2
+      },
+      {
         "name": "Fixodent Complete Fresh Diş Protezi Yapıştırıcı Krem 47 G Tüp",
         "slug": "fixodent-complete-fresh-dis-protezi-yapistirici-krem-47-g-tup",
         "brand": "Fixodent",
@@ -38218,7 +38255,7 @@
         "name": "Capicade Capiligo Alfa Lipoik Asit 30 Tablet",
         "slug": "capicade-capiligo-alfa-lipoik-asit-30-tablet",
         "brand": "Capicade",
-        "price": 1203.0,
+        "price": 1350.0,
         "discount_price": 1143.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4c081ea-8ea8-47d1-8495-f8c3ced4a443/image_1950.webp",
         "cats": [
@@ -38226,7 +38263,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 3
+        "stock": 12
       },
       {
         "name": "Cenesys Alfa Tablet Alfa Lipoik Asit ve Magnezyum Takviyesi 60 Adet",
@@ -38316,7 +38353,7 @@
         "name": "Capicade Capiligo Alfa Lipoik Asit 30 Tablet",
         "slug": "capicade-capiligo-alfa-lipoik-asit-30-tablet",
         "brand": "Capicade",
-        "price": 1203.0,
+        "price": 1350.0,
         "discount_price": 1143.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4c081ea-8ea8-47d1-8495-f8c3ced4a443/image_1950.webp",
         "cats": [
@@ -38324,7 +38361,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 3
+        "stock": 12
       },
       {
         "name": "GoodDay Curcumin Kapsül Kurkumin ve Karabiber Ekstresi 30 Kapsül",
@@ -42073,7 +42110,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 114
+        "stock": 113
       }
     ],
     "Ginkgo Biloba": [
@@ -47601,7 +47638,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 10
+        "stock": 9
       }
     ],
     "Kolonya Sprey": [
@@ -55620,6 +55657,21 @@
         "stock": 4
       }
     ],
+    "Kurşun Suyu": [
+      {
+        "name": "Suvar Kurşun Suyu Eau de Goulard 1 Litre",
+        "slug": "suvar-kursun-suyu-eau-de-goulard-1-litre",
+        "brand": "Suvar Kimya",
+        "price": 150.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4178a7-0551-47cb-980a-707dc8471cbc/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Kurşun Suyu"
+        ],
+        "stock": 2
+      }
+    ],
     "Lugol Solüsyonu": [
       {
         "name": "Suvar Lugol Solüsyonu %2 İyot Çözeltisi 100 ml",
@@ -57206,9 +57258,9 @@
     ]
   },
   "stats": {
-    "total_products": 3928,
-    "total_categories": 560,
-    "generated": "2026-08-07 11:20",
+    "total_products": 3932,
+    "total_categories": 561,
+    "generated": "2026-08-07 15:00",
     "source": "ikas_api_live"
   }
 }
