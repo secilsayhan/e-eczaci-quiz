@@ -846,7 +846,7 @@
         "cats": [
           "Şeker Ölçüm Aksesuarları"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Contour TS Strip 50 Strip",
@@ -43826,7 +43826,7 @@
         "cats": [
           "Protez Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Temizleyici Tablet": [
@@ -47638,7 +47638,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 9
+        "stock": 7
       }
     ],
     "Kolonya Sprey": [
@@ -57260,7 +57260,7 @@
   "stats": {
     "total_products": 3932,
     "total_categories": 561,
-    "generated": "2026-08-07 15:00",
+    "generated": "2026-08-07 19:00",
     "source": "ikas_api_live"
   }
 }
