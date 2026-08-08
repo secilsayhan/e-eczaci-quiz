@@ -4554,7 +4554,7 @@
           "Vitamin ve Takviye",
           "Omega 3"
         ],
-        "stock": 34
+        "stock": 33
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -8465,7 +8465,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 12
+        "stock": 13
       },
       {
         "name": "Capicade Saç Dökülmesine Karşı Şampuan 220 ml",
@@ -9959,7 +9959,7 @@
         "cats": [
           "Sindirim Sağlığı"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Orzax Ocean Bromelain 500 mg Ananas Enzimi 30 Kapsül",
@@ -17999,7 +17999,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Selenyum 200 mcg Yüksek Doz 60 Tablet",
@@ -38263,7 +38263,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 12
+        "stock": 13
       },
       {
         "name": "Cenesys Alfa Tablet Alfa Lipoik Asit ve Magnezyum Takviyesi 60 Adet",
@@ -38361,7 +38361,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 12
+        "stock": 13
       },
       {
         "name": "GoodDay Curcumin Kapsül Kurkumin ve Karabiber Ekstresi 30 Kapsül",
@@ -40464,7 +40464,7 @@
           "Vitamin ve Takviye",
           "Omega 3"
         ],
-        "stock": 34
+        "stock": 33
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -47638,7 +47638,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Kolonya Sprey": [
@@ -51452,7 +51452,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Selenyum 200 mcg Yüksek Doz 60 Tablet",
@@ -52177,7 +52177,7 @@
           "Vitamin ve Takviye",
           "Omega 3"
         ],
-        "stock": 34
+        "stock": 33
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -52480,32 +52480,6 @@
           "Protez Bakımı",
           "Hasta Bakımı ve Hijyen",
           "Protez Saklama Kutusu"
-        ],
-        "stock": 1
-      }
-    ],
-    "Bunion (Halluks Valgus)": [
-      {
-        "name": "Minion Beş Parmak Bunyon Koruyucu (Tek)",
-        "slug": "minion-bes-parmak-bunyon-koruyucu-tek",
-        "brand": "Minion",
-        "price": 113.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cebc8c4c-6085-4480-88d0-cad10cd06f5c/image_1950.webp",
-        "cats": [
-          "Bunion (Halluks Valgus)"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Minion Çift Parmak Bunyon Koruyucu (Tek)",
-        "slug": "minion-cift-parmak-bunyon-koruyucu-tek",
-        "brand": "Minion",
-        "price": 141.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9a5ebbe0-d6fc-4d5c-bcea-bc018ba83bba/image_1950.webp",
-        "cats": [
-          "Bunion (Halluks Valgus)"
         ],
         "stock": 1
       }
@@ -53230,7 +53204,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Selenyum 200 mcg Yüksek Doz 60 Tablet",
@@ -54241,7 +54215,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Solgar Alfa Lipoik Asit Antioksidan Enerji Desteği 60 Kapsül",
@@ -54377,7 +54351,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Selenyum 200 mcg Yüksek Doz 60 Tablet",
@@ -57258,9 +57232,9 @@
     ]
   },
   "stats": {
-    "total_products": 3932,
-    "total_categories": 561,
-    "generated": "2026-08-07 19:00",
+    "total_products": 3930,
+    "total_categories": 560,
+    "generated": "2026-08-08 07:11",
     "source": "ikas_api_live"
   }
 }
