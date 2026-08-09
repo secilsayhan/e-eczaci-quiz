@@ -32068,18 +32068,6 @@
         "stock": 10
       },
       {
-        "name": "Ceradolin Şampuan 300 ml",
-        "slug": "ceradolin-sampuan-300-ml",
-        "brand": "Ceradolin",
-        "price": 1550.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a3284abe-cd24-494d-8635-b01d556c396d/image_1950.webp",
-        "cats": [
-          "Saç Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Dalin Care Atocure Şampuan 400 ml",
         "slug": "dalin-care-atocure-sampuan-400-ml",
         "brand": "Dalin",
@@ -47534,7 +47522,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 3
+        "stock": 1
       }
     ],
     "Kolonya Sprey": [
@@ -57128,9 +57116,9 @@
     ]
   },
   "stats": {
-    "total_products": 3923,
+    "total_products": 3922,
     "total_categories": 560,
-    "generated": "2026-08-08 20:31",
+    "generated": "2026-08-09 08:24",
     "source": "ikas_api_live"
   }
 }
