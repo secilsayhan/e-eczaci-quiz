@@ -5283,18 +5283,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Vitamin C 1000 Mg Tablet, 90 Tablet",
-        "slug": "solgar-vitamin-c-1000-mg-tablet-90-tablet",
-        "brand": "Solgar",
-        "price": 769.0,
-        "discount_price": 615.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5f60b3d2-03b4-4c27-ba4e-2a348b6a1801/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Vitamin C 500 mg with Rose Hips 100 Tablet",
         "slug": "solgar-vitamin-c-500-mg-with-rose-hips-100-tablet",
         "brand": "Solgar",
@@ -51141,7 +51129,7 @@
         "cats": [
           "Kulak Temizleyici"
         ],
-        "stock": 85
+        "stock": 84
       }
     ],
     "Kulak Bakımı": [
@@ -57090,9 +57078,9 @@
     ]
   },
   "stats": {
-    "total_products": 3920,
+    "total_products": 3919,
     "total_categories": 560,
-    "generated": "2026-08-09 15:00",
+    "generated": "2026-08-09 19:00",
     "source": "ikas_api_live"
   }
 }
