@@ -1352,7 +1352,7 @@
           "Aktif Asit",
           "Akne ve Sivilce Bakımı"
         ],
-        "stock": 10
+        "stock": 4
       },
       {
         "name": "Avène Cleanance Anti-Blemishes SPF50 50 ml",
@@ -11453,7 +11453,7 @@
           "B6 Vitamini",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -12379,18 +12379,6 @@
           "Bebek Banyo"
         ],
         "stock": 3
-      },
-      {
-        "name": "Sebamed Baby Kompakt Temizleme Sabunu 100 g",
-        "slug": "sebamed-baby-kompakt-temizleme-sabunu-100-g",
-        "brand": "Sebamed",
-        "price": 362.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5854f892-f620-48e1-aaa3-b757e72e66d1/image_1950.webp",
-        "cats": [
-          "Anne ve Bebek"
-        ],
-        "stock": 1
       },
       {
         "name": "Sebamed Yenidoğan Şampuanı 500 ml",
@@ -14800,7 +14788,7 @@
           "B6 Vitamini",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -20986,7 +20974,7 @@
           "Diş Macunu",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -22058,7 +22046,7 @@
           "Aktif Asit",
           "Akne ve Sivilce Bakımı"
         ],
-        "stock": 10
+        "stock": 4
       }
     ],
     "Hasta Sürgüsü": [
@@ -33304,7 +33292,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Fırçası"
         ],
-        "stock": 19
+        "stock": 17
       },
       {
         "name": "Dentiste Diş Macunu Travel Pack",
@@ -33503,7 +33491,7 @@
           "Diş Macunu",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Nivea Lip Fruity Shine Böğürtlen 4,8 gr",
@@ -39028,7 +39016,7 @@
           "B6 Vitamini",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -42115,7 +42103,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Fırçası"
         ],
-        "stock": 19
+        "stock": 17
       },
       {
         "name": "Difas Dis Fircasi Kabi 4 Lu",
@@ -42863,7 +42851,7 @@
           "B6 Vitamini",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "New Life Mena K2+D3 Yumuşak Jelatin Kapsül 30 Kapsül",
@@ -43805,7 +43793,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Fırçası"
         ],
-        "stock": 19
+        "stock": 17
       },
       {
         "name": "Curaprox Arayüz Fırçası 09 Primeplus 5'li",
@@ -43994,7 +43982,7 @@
           "Diş Macunu",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -47484,7 +47472,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 50
+        "stock": 49
       }
     ],
     "Kolonya Sprey": [
@@ -48165,7 +48153,7 @@
           "B6 Vitamini",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -57078,9 +57066,9 @@
     ]
   },
   "stats": {
-    "total_products": 3919,
+    "total_products": 3918,
     "total_categories": 560,
-    "generated": "2026-08-09 19:00",
+    "generated": "2026-08-10 07:01",
     "source": "ikas_api_live"
   }
 }
