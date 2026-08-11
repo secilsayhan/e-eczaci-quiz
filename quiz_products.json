@@ -63,7 +63,7 @@
         "brand": "Baby-Vac",
         "price": 812.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8bb44e93-a99a-47b3-bf78-06b06245503d/image_1950.webp",
         "cats": [
           "Burun ve Sinüs Sağlığı",
           "Medikal Ürünler"
@@ -1334,7 +1334,7 @@
         "brand": "Acleane",
         "price": 419.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/61bf5f0f-e38a-4d81-925b-b5daefe80976/image_1950.webp",
         "cats": [
           "Akne ve Sivilce Bakımı",
           "Yüz Bakımı"
@@ -1650,7 +1650,7 @@
         "brand": "Acleane",
         "price": 419.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/61bf5f0f-e38a-4d81-925b-b5daefe80976/image_1950.webp",
         "cats": [
           "Akne ve Sivilce Bakımı",
           "Yüz Bakımı"
@@ -3010,7 +3010,7 @@
         "brand": "Bee'o Up",
         "price": 413.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3b64fb26-2116-4907-ab04-62e7cabab1cb/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -3025,7 +3025,7 @@
         "brand": "Bonocare",
         "price": 687.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4f54d9d-e307-43df-bc37-b83600b7a1ff/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "D Vitamini",
@@ -3135,7 +3135,7 @@
         "brand": "Talya",
         "price": 455.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/656428dd-6880-457e-8bc9-8aae78af621f/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
@@ -3174,7 +3174,7 @@
         "brand": "İmunol",
         "price": 797.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f89c588e-7228-4b63-963e-7d6ccd91419a/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -3291,7 +3291,7 @@
         "brand": "Hematab",
         "price": 492.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/547e679c-8c06-41bd-9229-a97e4587cf51/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -3344,7 +3344,7 @@
         "brand": "Hünnap",
         "price": 332.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ec23ec98-e1ff-4c7f-bc39-4c27bd93af3f/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
@@ -5858,7 +5858,7 @@
           "Vitamin ve Takviye",
           "En Yeniler"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "İmunol Sambucus Sıvı Form, Kara Mürver, C Vitamini, Çinko ve Üzüm Çekirdeği 150 ml",
@@ -6587,7 +6587,7 @@
         "brand": "Bee'o Up",
         "price": 413.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3b64fb26-2116-4907-ab04-62e7cabab1cb/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -6630,7 +6630,7 @@
         "brand": "Talya",
         "price": 455.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/656428dd-6880-457e-8bc9-8aae78af621f/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
@@ -6742,7 +6742,7 @@
         "brand": "Hematab",
         "price": 492.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/547e679c-8c06-41bd-9229-a97e4587cf51/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -6769,7 +6769,7 @@
         "brand": "Hünnap",
         "price": 332.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ec23ec98-e1ff-4c7f-bc39-4c27bd93af3f/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
@@ -7536,7 +7536,7 @@
         "brand": "Curaprox",
         "price": 675.0,
         "discount_price": 608.0,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/701fa261-0f06-4b36-898d-fa90ac60a55a/image_1950.webp",
         "cats": [
           "Arayüz Fırçası",
           "Ağız ve Diş Bakımı"
@@ -10239,7 +10239,7 @@
         "brand": "Bee'o Up",
         "price": 413.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3b64fb26-2116-4907-ab04-62e7cabab1cb/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -10387,7 +10387,7 @@
         "brand": "İmunol",
         "price": 797.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f89c588e-7228-4b63-963e-7d6ccd91419a/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -10440,7 +10440,7 @@
         "brand": "Hematab",
         "price": 492.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/547e679c-8c06-41bd-9229-a97e4587cf51/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -12262,7 +12262,7 @@
         "brand": "Aptamil",
         "price": 653.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/54a5bf8e-5254-4530-afe3-65678b3bb7c4/image_1950.webp",
         "cats": [
           "Anne ve Bebek",
           "Biberon",
@@ -12276,7 +12276,7 @@
         "brand": "Babyjem",
         "price": 259.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d32e1aae-7ee2-4f46-9401-380952032b0c/image_1950.webp",
         "cats": [
           "Anne ve Bebek"
         ],
@@ -12437,7 +12437,7 @@
         "brand": "Weebib",
         "price": 199.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c3e1bde9-0130-466a-823a-c8a389139f73/image_1950.webp",
         "cats": [
           "Anne ve Bebek"
         ],
@@ -12451,7 +12451,7 @@
         "brand": "Aptamil",
         "price": 653.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/54a5bf8e-5254-4530-afe3-65678b3bb7c4/image_1950.webp",
         "cats": [
           "Anne ve Bebek",
           "Biberon",
@@ -12669,7 +12669,7 @@
         "brand": "Aptamil",
         "price": 653.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/54a5bf8e-5254-4530-afe3-65678b3bb7c4/image_1950.webp",
         "cats": [
           "Anne ve Bebek",
           "Biberon",
@@ -17243,7 +17243,7 @@
         "brand": "Bee'o Up",
         "price": 413.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3b64fb26-2116-4907-ab04-62e7cabab1cb/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -17435,7 +17435,7 @@
         "brand": "İmunol",
         "price": 797.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f89c588e-7228-4b63-963e-7d6ccd91419a/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -17568,7 +17568,7 @@
         "brand": "Hematab",
         "price": 492.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/547e679c-8c06-41bd-9229-a97e4587cf51/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
@@ -18612,7 +18612,7 @@
           "D Vitamini",
           "C Vitamini"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Zade Vital Black Cumin Oil Cam Şişe 150 ml",
@@ -19409,7 +19409,7 @@
           "D Vitamini",
           "C Vitamini"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Zinco-C Film Tablet 15 mg 30 Tablet",
@@ -20877,7 +20877,7 @@
         "brand": "EST",
         "price": 250.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/940b4ca0-0a3d-4f4e-bab3-1994b78cc49a/image_1950.webp",
         "cats": [
           "Kişisel Bakım",
           "Diş Macunu",
@@ -21535,7 +21535,7 @@
         "brand": "Artımed",
         "price": 473.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c3a8851e-0991-48a2-be4d-508a96806a27/image_1950.webp",
         "cats": [
           "Medikal Ürünler"
         ],
@@ -21547,7 +21547,7 @@
         "brand": "Baby-Vac",
         "price": 812.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8bb44e93-a99a-47b3-bf78-06b06245503d/image_1950.webp",
         "cats": [
           "Burun ve Sinüs Sağlığı",
           "Medikal Ürünler"
@@ -21560,7 +21560,7 @@
         "brand": "Biokadin",
         "price": 1100.0,
         "discount_price": 990.0,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0b828f3c-f8ed-4eb2-b825-5c487ddd2962/image_1950.webp",
         "cats": [
           "Medikal Ürünler"
         ],
@@ -21572,7 +21572,7 @@
         "brand": "Bit Rozeti",
         "price": 142.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ebf70d5d-2688-47df-83fc-e098ee2efd71/image_1950.webp",
         "cats": [
           "Medikal Ürünler"
         ],
@@ -21584,7 +21584,7 @@
         "brand": "Boriclean",
         "price": 389.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d16d51dc-ebd9-4412-ab3c-af4407652e87/image_1950.webp",
         "cats": [
           "Kulak Sağlığı",
           "Medikal Ürünler"
@@ -21597,7 +21597,7 @@
         "brand": "İmumax",
         "price": 647.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a1bf8221-e0b0-4a11-9435-6854c7f1828d/image_1950.webp",
         "cats": [
           "Medikal Ürünler"
         ],
@@ -21609,7 +21609,7 @@
         "brand": "Buyot",
         "price": 214.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e82e18ac-870a-4c16-9915-7d39a0ae26d9/image_1950.webp",
         "cats": [
           "Medikal Ürünler"
         ],
@@ -23973,7 +23973,7 @@
         "cats": [
           "SPF 50+"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "La Roche Posay Hyalu B5 Suractivated Cream SPF30 50 ml",
@@ -29268,7 +29268,7 @@
         "brand": "Bonocare",
         "price": 687.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4f54d9d-e307-43df-bc37-b83600b7a1ff/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "D Vitamini",
@@ -29983,7 +29983,7 @@
           "D Vitamini",
           "C Vitamini"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Pişik Kremi": [
@@ -33367,7 +33367,7 @@
         "brand": "EST",
         "price": 250.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/940b4ca0-0a3d-4f4e-bab3-1994b78cc49a/image_1950.webp",
         "cats": [
           "Kişisel Bakım",
           "Diş Macunu",
@@ -33381,7 +33381,7 @@
         "brand": "Etoile",
         "price": 923.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82bf7d1a-9a1b-4e26-814b-b5cfa57bb03e/image_1950.webp",
         "cats": [
           "Kişisel Bakım"
         ],
@@ -36193,7 +36193,7 @@
           "Cinsel Sağlık ve Performans",
           "Cinsel Sağlık"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "FEB Vit Man Saç Tırnak Cilt Vitamini 60 Kapsül",
@@ -36333,7 +36333,7 @@
           "Cinsel Sağlık ve Performans",
           "Cinsel Sağlık"
         ],
-        "stock": 6
+        "stock": 5
       }
     ],
     "Cinsel Sağlık": [
@@ -36349,7 +36349,7 @@
           "Cinsel Sağlık ve Performans",
           "Cinsel Sağlık"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Black Berry Kadınlara Özel Bitkisel Performans Damla 10 ml",
@@ -36424,7 +36424,7 @@
         "brand": "Bonocare",
         "price": 687.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4f54d9d-e307-43df-bc37-b83600b7a1ff/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "D Vitamini",
@@ -36921,7 +36921,7 @@
         "brand": "Boriclean",
         "price": 389.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d16d51dc-ebd9-4412-ab3c-af4407652e87/image_1950.webp",
         "cats": [
           "Kulak Sağlığı",
           "Medikal Ürünler"
@@ -43812,7 +43812,7 @@
         "brand": "Curaprox",
         "price": 675.0,
         "discount_price": 608.0,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/701fa261-0f06-4b36-898d-fa90ac60a55a/image_1950.webp",
         "cats": [
           "Arayüz Fırçası",
           "Ağız ve Diş Bakımı"
@@ -43880,7 +43880,7 @@
         "brand": "EST",
         "price": 250.0,
         "discount_price": null,
-        "image": "",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/940b4ca0-0a3d-4f4e-bab3-1994b78cc49a/image_1950.webp",
         "cats": [
           "Kişisel Bakım",
           "Diş Macunu",
@@ -47453,7 +47453,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 48
+        "stock": 47
       }
     ],
     "Kolonya Sprey": [
@@ -56922,7 +56922,7 @@
           "Vitamin ve Takviye",
           "En Yeniler"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "İmunol Kapsül Beta Glukan C Vitamini Takviyesi 40 Kapsül",
@@ -57032,7 +57032,7 @@
   "stats": {
     "total_products": 3916,
     "total_categories": 559,
-    "generated": "2026-08-11 15:00",
+    "generated": "2026-08-11 19:00",
     "source": "ikas_api_live"
   }
 }
