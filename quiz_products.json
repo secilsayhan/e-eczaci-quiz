@@ -5062,7 +5062,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Cranberry with Vitamin C Kapsül 60 Kapsül",
@@ -12075,7 +12075,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Supradyn Daily Multivitamin Mineral Koenzim Q10 30 Tablet",
@@ -14945,7 +14945,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Extramag P5P B6 Magnezyum Saşe 30 Poşet",
@@ -17785,7 +17785,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Ocean Vitamin C-SR 30 Tablet",
@@ -19076,7 +19076,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Ocean Vitamin C-SR 30 Tablet",
@@ -29861,7 +29861,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Vitamin D3 1000 IU (25 mcg) 100 Kapsül",
@@ -31409,7 +31409,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
@@ -36726,7 +36726,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Cranberry with Vitamin C Kapsül 60 Kapsül",
@@ -38092,7 +38092,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Sambuvit Plus Sprey Kara Mürver Ekstresi B5 Vitamini Takviyesi 25 ml Şişe",
@@ -39427,21 +39427,6 @@
           "İnositol",
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
-        "slug": "solgar-folate-as-metafolin-400-mcg-tablet-folat-takviyesi-50-tablet",
-        "brand": "Solgar",
-        "price": 540.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06742538-1da4-43ce-9cfe-c7948fdd388f/image_1950.webp",
-        "cats": [
-          "Folik Asit (B9 Vitamini)",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Folat (B9 Vitamini)"
         ],
         "stock": 1
       },
@@ -46355,21 +46340,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
-        "slug": "solgar-folate-as-metafolin-400-mcg-tablet-folat-takviyesi-50-tablet",
-        "brand": "Solgar",
-        "price": 540.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06742538-1da4-43ce-9cfe-c7948fdd388f/image_1950.webp",
-        "cats": [
-          "Folik Asit (B9 Vitamini)",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Folat (B9 Vitamini)"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vifolic Folik Asit Omega 3 Vitamin ve Mineral İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "vifolic-folik-asit-omega-3-vitamin-mineral-30-kapsul",
         "brand": "Tedafarma",
@@ -46573,21 +46543,6 @@
           "İnositol",
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
-        "slug": "solgar-folate-as-metafolin-400-mcg-tablet-folat-takviyesi-50-tablet",
-        "brand": "Solgar",
-        "price": 540.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06742538-1da4-43ce-9cfe-c7948fdd388f/image_1950.webp",
-        "cats": [
-          "Folik Asit (B9 Vitamini)",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Folat (B9 Vitamini)"
         ],
         "stock": 1
       },
@@ -47498,7 +47453,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 49
+        "stock": 48
       }
     ],
     "Kolonya Sprey": [
@@ -51143,7 +51098,7 @@
         "cats": [
           "Kulak Temizleyici"
         ],
-        "stock": 83
+        "stock": 81
       }
     ],
     "Kulak Bakımı": [
@@ -53175,7 +53130,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 9
+        "stock": 8
       }
     ],
     "Kolesterol": [
@@ -53638,7 +53593,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Solgar B2 Vitamini Riboflavin Enerji Metabolizması 100 Kapsül",
@@ -53688,7 +53643,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Solgar No Flush Niasin B3 Vitamini 500 mg 50 Kapsül",
@@ -55392,23 +55347,6 @@
         "stock": 1
       }
     ],
-    "Folat (B9 Vitamini)": [
-      {
-        "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
-        "slug": "solgar-folate-as-metafolin-400-mcg-tablet-folat-takviyesi-50-tablet",
-        "brand": "Solgar",
-        "price": 540.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06742538-1da4-43ce-9cfe-c7948fdd388f/image_1950.webp",
-        "cats": [
-          "Folik Asit (B9 Vitamini)",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Folat (B9 Vitamini)"
-        ],
-        "stock": 1
-      }
-    ],
     "Enzimler": [
       {
         "name": "Solgar Kuersetin Kompleks Antioksidan Bağışıklık 50 Kapsül",
@@ -57092,9 +57030,9 @@
     ]
   },
   "stats": {
-    "total_products": 3920,
-    "total_categories": 560,
-    "generated": "2026-08-10 19:00",
+    "total_products": 3916,
+    "total_categories": 559,
+    "generated": "2026-08-11 10:34",
     "source": "ikas_api_live"
   }
 }
