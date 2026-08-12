@@ -3074,7 +3074,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Creapharm Kreatin 250 g Aromasız",
@@ -5100,20 +5100,6 @@
         "price": 781.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/eaa060f7-c443-4d2c-8d8f-4a8647bc03e5/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Vitamin ve Takviye",
-          "Vitaminler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Formula VM-2000 Multinutrient System Tablet 60 Tablet",
-        "slug": "solgar-formula-vm-2000-multinutrient-system-tablet-60-tablet",
-        "brand": "Solgar",
-        "price": 1322.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/39888e64-4828-4195-820b-7dc44c02a11f/image_1950.webp",
         "cats": [
           "Multivitamin",
           "Vitamin ve Takviye",
@@ -15946,20 +15932,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Formula VM-2000 Multinutrient System Tablet 60 Tablet",
-        "slug": "solgar-formula-vm-2000-multinutrient-system-tablet-60-tablet",
-        "brand": "Solgar",
-        "price": 1322.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/39888e64-4828-4195-820b-7dc44c02a11f/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Vitamin ve Takviye",
-          "Vitaminler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Kangavites Multivitamin & Mineral 60 Tablet",
         "slug": "solgar-kangavites-multivitamin-mineral-60-tablet",
         "brand": "Solgar",
@@ -23627,7 +23599,7 @@
         "cats": [
           "SPF 50+"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
@@ -36758,20 +36730,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Formula VM-2000 Multinutrient System Tablet 60 Tablet",
-        "slug": "solgar-formula-vm-2000-multinutrient-system-tablet-60-tablet",
-        "brand": "Solgar",
-        "price": 1322.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/39888e64-4828-4195-820b-7dc44c02a11f/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Vitamin ve Takviye",
-          "Vitaminler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
         "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
         "brand": "Solgar",
@@ -38504,8 +38462,8 @@
         "name": "Capicade Molex Dermal Solüsyon 3 gr",
         "slug": "capicade-molex-dermal-solusyon-3-gr",
         "brand": "Capicade",
-        "price": 1233.0,
-        "discount_price": null,
+        "price": 1690.0,
+        "discount_price": 1233.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/74559085-cde1-4fe8-86ad-c341992e1191/image_1950.webp",
         "cats": [
           "Onarıcı Kremler"
@@ -47453,7 +47411,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 46
+        "stock": 45
       }
     ],
     "Kolonya Sprey": [
@@ -57030,9 +56988,9 @@
     ]
   },
   "stats": {
-    "total_products": 3916,
+    "total_products": 3913,
     "total_categories": 559,
-    "generated": "2026-08-12 11:05",
+    "generated": "2026-08-12 15:00",
     "source": "ikas_api_live"
   }
 }
