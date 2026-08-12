@@ -1780,7 +1780,7 @@
           "Duş Jeli",
           "Yüz Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Bioderma Atoderm Intensive Köpük Jel 200 ml",
@@ -33945,7 +33945,7 @@
           "Duş Jeli",
           "Yüz Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Bioderma Atoderm Temizleme Barı 150 gr",
@@ -56990,7 +56990,7 @@
   "stats": {
     "total_products": 3913,
     "total_categories": 559,
-    "generated": "2026-08-12 15:00",
+    "generated": "2026-08-12 19:00",
     "source": "ikas_api_live"
   }
 }
