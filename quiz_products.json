@@ -47386,18 +47386,6 @@
           "İntim Bakım"
         ],
         "stock": 1
-      },
-      {
-        "name": "Etoile Intim Yıkama Boric Acid 200 ml",
-        "slug": "etoile-intim-yikama-boric-acid-200-ml",
-        "brand": "Etoile",
-        "price": 1107.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25847512-8d22-4617-83b9-b9047fb4ac94/image_1950.webp",
-        "cats": [
-          "İntim Bakım"
-        ],
-        "stock": 1
       }
     ],
     "İntim Temizleyiciler": [
@@ -47411,7 +47399,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 45
+        "stock": 44
       }
     ],
     "Kolonya Sprey": [
@@ -56988,9 +56976,9 @@
     ]
   },
   "stats": {
-    "total_products": 3913,
+    "total_products": 3912,
     "total_categories": 559,
-    "generated": "2026-08-12 19:00",
+    "generated": "2026-08-13 08:25",
     "source": "ikas_api_live"
   }
 }
