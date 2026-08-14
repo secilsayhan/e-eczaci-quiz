@@ -899,7 +899,7 @@
           "Akne ve Sivilce Bakımı",
           "Temizleyici Sprey"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Bioderma Pigmentbio Foaming Cream 200 ml",
@@ -1218,7 +1218,7 @@
           "Akne ve Sivilce Bakımı",
           "Temizleyici Sprey"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Bioderma Sebium Kerato Akne Karşıtı Bakım Kremi",
@@ -1326,7 +1326,7 @@
           "Akne ve Sivilce Bakımı",
           "Temizleyici Sprey"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Acleane Sprey",
@@ -1498,7 +1498,7 @@
           "Akne ve Sivilce Bakımı",
           "Yüz Bakımı"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Capicade Gündüz Bakım Kremi 30 ml",
@@ -1640,7 +1640,7 @@
           "Akne ve Sivilce Bakımı",
           "Temizleyici Sprey"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Yüz Bakımı": [
@@ -2181,7 +2181,7 @@
           "Akne ve Sivilce Bakımı",
           "Yüz Bakımı"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Capicade Gece Bakım Serumu 30 ml",
@@ -4340,7 +4340,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -24375,19 +24375,6 @@
         "stock": 8
       },
       {
-        "name": "La Roche Posay Mela B3 Leke Karşıtı Niasinamid Serum",
-        "slug": "la-roche-posay-mela-b3-leke-karsiti-niasinamid-serum",
-        "brand": "La Roche-Posay",
-        "price": 3599.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/375d4a1d-9f96-4e56-8b74-b7c0179e8737/image_1950.webp",
-        "cats": [
-          "Serum",
-          "Leke Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "La Roche Posay Mela B3 Leke Karşıtı Temizleyici Krem 200 ml",
         "slug": "la-roche-posay-mela-b3-leke-karsiti-temizleyici-krem-200-ml",
         "brand": "La Roche-Posay",
@@ -25945,7 +25932,7 @@
           "Akne ve Sivilce Bakımı",
           "Yüz Bakımı"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Capicade Cilt Beyazlatıcı Leke Karşıtı Krem 50 ml",
@@ -35366,7 +35353,7 @@
           "İyot",
           "Povidon İyot"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nbtlife Lifeguard Kapsül, Selenyum, Çinko, Bakir ve İyot İçeren Takviye Edici Gıda 30 Kapsül",
@@ -35448,7 +35435,7 @@
           "İyot",
           "Povidon İyot"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Karınca İlacı (Tebeşir)": [
@@ -38270,7 +38257,7 @@
         "cats": [
           "Onarıcı Kremler"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "La Roche Posay Cicaplast Baume B5 Onarıcı Krem 40 ml",
@@ -47092,7 +47079,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 43
+        "stock": 42
       }
     ],
     "Kolonya Sprey": [
@@ -48044,7 +48031,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 86
+        "stock": 85
       },
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
@@ -48058,7 +48045,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 86
+        "stock": 85
       },
       {
         "name": "Solgar Bromelain 150 mg Ananas Enzimi 60 Kapsül",
@@ -51178,33 +51165,6 @@
         "stock": 1
       }
     ],
-    "Serum": [
-      {
-        "name": "La Roche Posay Mela B3 Leke Karşıtı Niasinamid Serum",
-        "slug": "la-roche-posay-mela-b3-leke-karsiti-niasinamid-serum",
-        "brand": "La Roche-Posay",
-        "price": 3599.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/375d4a1d-9f96-4e56-8b74-b7c0179e8737/image_1950.webp",
-        "cats": [
-          "Serum",
-          "Leke Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vichy Liftactiv B3 Leke Karşıtı Niasinamid Serum 30 ml",
-        "slug": "vichy-liftactiv-b3-leke-karsiti-niasinamid-serum-30-ml",
-        "brand": "Vichy",
-        "price": 3802.0,
-        "discount_price": 2281.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41f6bc36-06a0-46c6-98d4-c15f252db48c/image_1950.webp",
-        "cats": [
-          "Serum"
-        ],
-        "stock": 1
-      }
-    ],
     "Serumlar": [
       {
         "name": "La Roche Posay Retinol Serum Yaşlanma Karşıtı",
@@ -53475,7 +53435,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 86
+        "stock": 85
       },
       {
         "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
@@ -55786,6 +55746,20 @@
         "stock": 1
       }
     ],
+    "Serum": [
+      {
+        "name": "Vichy Liftactiv B3 Leke Karşıtı Niasinamid Serum 30 ml",
+        "slug": "vichy-liftactiv-b3-leke-karsiti-niasinamid-serum-30-ml",
+        "brand": "Vichy",
+        "price": 3802.0,
+        "discount_price": 2281.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41f6bc36-06a0-46c6-98d4-c15f252db48c/image_1950.webp",
+        "cats": [
+          "Serum"
+        ],
+        "stock": 1
+      }
+    ],
     "Gündüz Kremi": [
       {
         "name": "Vichy Liftactiv B3 Leke Karşıtı Spf 50 Gündüz Kremi",
@@ -56632,9 +56606,9 @@
     ]
   },
   "stats": {
-    "total_products": 3892,
+    "total_products": 3890,
     "total_categories": 558,
-    "generated": "2026-08-14 08:56",
+    "generated": "2026-08-14 12:20",
     "source": "ikas_api_live"
   }
 }
