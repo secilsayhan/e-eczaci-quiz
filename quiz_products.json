@@ -28568,7 +28568,7 @@
         "discount_price": 1406.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/50f5b5f4-0e96-4f66-b9bf-2b337a566bf0/image_1950.webp",
         "cats": [],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "La Roche-Posay Effaclar Duo+M Patch 22 Adet",
@@ -56596,7 +56596,7 @@
   "stats": {
     "total_products": 3889,
     "total_categories": 558,
-    "generated": "2026-08-14 15:56",
+    "generated": "2026-08-14 19:39",
     "source": "ikas_api_live"
   }
 }
