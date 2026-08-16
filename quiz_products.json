@@ -8447,7 +8447,7 @@
         "cats": [
           "Sindirim Sağlığı"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
@@ -28110,19 +28110,6 @@
         "stock": 1
       },
       {
-        "name": "Rohto Dry Aid Göz Damlası Kuru Gözler İçin 10 ml Şişe",
-        "slug": "rohto-dry-aid-goz-damlasi-kuru-gozler-icin-10-ml-sise",
-        "brand": "Jaso Pharma",
-        "price": 899.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbed008a-4145-4316-bff2-8f2bea70f1a8/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Damlası"
-        ],
-        "stock": 1
-      },
-      {
         "name": "TTO Göz Çevresi Şampuanı 125 ml",
         "slug": "tto-goz-cevresi-sampuani-125-ml",
         "brand": "TTO",
@@ -28191,19 +28178,6 @@
           "Göz Damlası"
         ],
         "stock": 2
-      },
-      {
-        "name": "Rohto Dry Aid Göz Damlası Kuru Gözler İçin 10 ml Şişe",
-        "slug": "rohto-dry-aid-goz-damlasi-kuru-gozler-icin-10-ml-sise",
-        "brand": "Jaso Pharma",
-        "price": 899.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbed008a-4145-4316-bff2-8f2bea70f1a8/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Göz Damlası"
-        ],
-        "stock": 1
       }
     ],
     "Dudak Bakımı": [
@@ -53404,9 +53378,9 @@
     ]
   },
   "stats": {
-    "total_products": 3698,
+    "total_products": 3696,
     "total_categories": 553,
-    "generated": "2026-08-16 11:23",
+    "generated": "2026-08-16 15:00",
     "source": "ikas_api_live"
   }
 }
