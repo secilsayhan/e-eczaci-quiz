@@ -7265,7 +7265,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Capicade Capicade Loykot + Astaksantin 30 Kapsül",
@@ -13464,7 +13464,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Extramag P5P B6 Magnezyum Saşe 30 Poşet",
@@ -16142,7 +16142,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Ocean Vitamin C-SR 30 Tablet",
@@ -17420,7 +17420,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Ocean Vitamin C-SR 30 Tablet",
@@ -28480,7 +28480,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
@@ -34465,7 +34465,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Day2Day The Collagen All Body Takviye Edici Gıda 450 gr",
@@ -34604,7 +34604,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "FEB Biotin Tablet Saç Tırnak Cilt Desteği 60 Kapsül",
@@ -35024,7 +35024,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Sambuvit Plus Sprey Kara Mürver Ekstresi B5 Vitamini Takviyesi 25 ml Şişe",
@@ -49555,7 +49555,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 8
+        "stock": 4
       }
     ],
     "Kolesterol": [
@@ -50003,7 +50003,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Solgar B2 Vitamini Riboflavin Enerji Metabolizması 100 Kapsül",
@@ -50053,7 +50053,7 @@
           "Demir",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Solgar No Flush Niasin B3 Vitamini 500 mg 50 Kapsül",
@@ -53380,7 +53380,7 @@
   "stats": {
     "total_products": 3696,
     "total_categories": 553,
-    "generated": "2026-08-16 15:00",
+    "generated": "2026-08-16 20:49",
     "source": "ikas_api_live"
   }
 }
