@@ -17008,7 +17008,7 @@
           "Sindirim Enzimleri",
           "Sindirim Sağlığı"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Extramag Fibra Tablet, Magnezyum ve B Vitaminleri, 60 Tablet",
@@ -17965,7 +17965,7 @@
           "Sindirim Enzimleri",
           "Sindirim Sağlığı"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Mood Kapsül 30 Adet",
@@ -76664,7 +76664,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 28
+        "stock": 26
       },
       {
         "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
@@ -86332,7 +86332,7 @@
           "Sindirim Enzimleri",
           "Sindirim Sağlığı"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Orzax Ocean Enzymes Sindirim Enzimleri 60 Kapsül",
@@ -90548,7 +90548,7 @@
   "stats": {
     "total_products": 5762,
     "total_categories": 675,
-    "generated": "2026-08-19 09:54",
+    "generated": "2026-08-19 12:24",
     "source": "ikas_api_live"
   }
 }
