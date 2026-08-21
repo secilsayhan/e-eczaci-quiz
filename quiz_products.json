@@ -72699,7 +72699,7 @@
         "brand": "",
         "price": 497.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2eff2911-1273-45f6-9ee7-cfe7f00528c0/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bf337382-13dc-47e0-a253-a51f97034d19/image_1950.webp",
         "cats": [],
         "stock": 9999
       },
@@ -76541,7 +76541,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
@@ -90406,7 +90406,7 @@
   "stats": {
     "total_products": 5755,
     "total_categories": 675,
-    "generated": "2026-08-21 11:57",
+    "generated": "2026-08-21 15:00",
     "source": "ikas_api_live"
   }
 }
