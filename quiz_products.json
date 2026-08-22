@@ -9875,7 +9875,7 @@
           "Hamilelik ve Emzirme",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Ocean Milk Thistle 30 Kapsül",
@@ -15162,7 +15162,7 @@
           "Enerji ve Zindelik",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "Nutrafarm Medobyo Complex W Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
@@ -21571,7 +21571,7 @@
           "Enerji ve Zindelik",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "New Life B12 Plus Methylcobalamin Dilaltı 30 Tablet",
@@ -21616,7 +21616,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
@@ -22435,7 +22435,7 @@
           "Enerji ve Zindelik",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "New Life B12 Plus Methylcobalamin Dilaltı 30 Tablet",
@@ -24816,7 +24816,7 @@
           "Enerji ve Zindelik",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "New Life B12 Plus Methylcobalamin Dilaltı 30 Tablet",
@@ -25151,7 +25151,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
@@ -26326,7 +26326,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
@@ -50318,7 +50318,7 @@
           "Saç Dökülmesi",
           "Dökülme Karşıtı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ducray Creastim Reactiv Losyon 60 ml",
@@ -50798,7 +50798,7 @@
           "Saç Dökülmesi",
           "Dökülme Karşıtı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ducray Creastim Reactiv Losyon 60 ml",
@@ -61169,7 +61169,7 @@
           "Enerji ve Zindelik",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "Nutrafarm Medobyo Complex W Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
@@ -63909,7 +63909,7 @@
           "Enerji ve Zindelik",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "Nutraxin Vitals Folik Asit Tablet 100 Tablet",
@@ -74051,7 +74051,7 @@
           "Hamilelik ve Emzirme",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Profolmix Women Saşe Myo-İnositol L-Arjinin Vitamin C Koenzim Q10 Folik Asit Takviyesi 30 Saşe",
@@ -74412,7 +74412,7 @@
           "Enerji ve Zindelik",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 28
+        "stock": 27
       },
       {
         "name": "Nutraxin Vitals Folik Asit Tablet 100 Tablet",
@@ -74442,7 +74442,7 @@
           "Hamilelik ve Emzirme",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Ocean Methyl Folat Tablet 30 Tablet",
@@ -74458,7 +74458,7 @@
           "Hamilelik ve Emzirme",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Ocean Mummy Yumuşak Kapsül 30 Adet",
@@ -76461,7 +76461,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 21
+        "stock": 22
       },
       {
         "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
@@ -86285,7 +86285,7 @@
           "Hamilelik ve Emzirme",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Osende 2M Ağızda Dağılan Tablet Metilfolat Metilkobalamin Takviyesi 30 Tablet",
@@ -90326,7 +90326,7 @@
   "stats": {
     "total_products": 5750,
     "total_categories": 675,
-    "generated": "2026-08-22 15:00",
+    "generated": "2026-08-22 19:44",
     "source": "ikas_api_live"
   }
 }
