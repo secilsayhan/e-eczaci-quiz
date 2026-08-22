@@ -15614,7 +15614,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 27
+        "stock": 26
       },
       {
         "name": "Vichy Dercos Kepek Karşıtı Saç Kremi",
@@ -29981,7 +29981,7 @@
           "Vücut Bakımı",
           "Bariyer Krem"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Mustela Bebek Yağı Nemlendirici ve Masaj Yağı 100 ml",
@@ -33527,7 +33527,7 @@
           "Vücut Bakımı",
           "Bariyer Krem"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Med-Cover Bariyer Krem 100 ml",
@@ -33541,7 +33541,7 @@
           "Vücut Bakımı",
           "Bariyer Krem"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Med-Cover Bariyer Krem Cilt Koruyucu 120 gr",
@@ -50940,7 +50940,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 27
+        "stock": 26
       },
       {
         "name": "Vichy Dercos Neogenic Saç Yoğunlaştırıcı Şampuan 400 ml",
@@ -72617,7 +72617,7 @@
         "name": "Takviyelerin Tam Rehberi — 260+ Sayfa Bilimsel E-Kitap",
         "slug": "takviyelerin-tam-rehberi-e-kitap",
         "brand": "",
-        "price": 297.0,
+        "price": 497.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c30418ef-e4cd-4fe9-a1f6-df8d3a89e897/image_1950.webp",
         "cats": [],
@@ -90326,7 +90326,7 @@
   "stats": {
     "total_products": 5750,
     "total_categories": 675,
-    "generated": "2026-08-22 13:10",
+    "generated": "2026-08-22 15:00",
     "source": "ikas_api_live"
   }
 }
