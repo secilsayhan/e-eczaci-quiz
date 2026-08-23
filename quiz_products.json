@@ -6704,7 +6704,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 36
+        "stock": 35
       },
       {
         "name": "Orzax Ocean C Vitamini 1000 mg Takviyesi 30 Tablet",
@@ -19091,7 +19091,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 112
+        "stock": 111
       },
       {
         "name": "Orzax Ocean Magnezyum Complex, Magnezyum, Vitamin B6 60 Tablet",
@@ -22885,7 +22885,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 112
+        "stock": 111
       },
       {
         "name": "Orzax Ocean Metil B12 Dilaltı Sprey 1000 mcg",
@@ -26947,7 +26947,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 36
+        "stock": 35
       },
       {
         "name": "Orzax Ocean Gummies Multivitamin Çocuklar İçin 64 Adet",
@@ -42859,7 +42859,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 36
+        "stock": 35
       },
       {
         "name": "Orzax Ocean D3K2 Damla 2'li Avantaj Paketi",
@@ -43413,7 +43413,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 36
+        "stock": 35
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -43430,7 +43430,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 36
+        "stock": 35
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -44597,7 +44597,7 @@
           "D Vitamini",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 36
+        "stock": 35
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -58635,23 +58635,6 @@
         "stock": 2
       },
       {
-        "name": "Duobalance BV Kapsül Vajinal Probiyotik Takviyesi 14 Adet",
-        "slug": "duobalance-bv-kapsul-vajinal-probiyotik-takviyesi-14-adet",
-        "brand": "NBT İlaç",
-        "price": 1403.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c917a82-51b6-4204-8fc3-21bbd153a1af/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Vajinal Flora",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 1
-      },
-      {
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
         "slug": "feb-vit-women-kadinlara-ozel-vitamin-takviyesi-60-kapsul",
         "brand": "FEB",
@@ -67619,7 +67602,7 @@
           "Beyin ve Hafıza",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 112
+        "stock": 111
       }
     ],
     "Ginkgo Biloba": [
@@ -75021,204 +75004,6 @@
         "stock": 19
       }
     ],
-    "İntim Bakım": [
-      {
-        "name": "Duobalance BV Kapsül Vajinal Probiyotik Takviyesi 14 Adet",
-        "slug": "duobalance-bv-kapsul-vajinal-probiyotik-takviyesi-14-adet",
-        "brand": "NBT İlaç",
-        "price": 1403.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c917a82-51b6-4204-8fc3-21bbd153a1af/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Vajinal Flora",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 1
-      }
-    ],
-    "Kadın Probiyotikleri": [
-      {
-        "name": "Duobalance BV Kapsül Vajinal Probiyotik Takviyesi 14 Adet",
-        "slug": "duobalance-bv-kapsul-vajinal-probiyotik-takviyesi-14-adet",
-        "brand": "NBT İlaç",
-        "price": 1403.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c917a82-51b6-4204-8fc3-21bbd153a1af/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Vajinal Flora",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
-        "slug": "nbl-gynobiotic-kadin-probiyotik-lif-ve-bitki-ekstresi-10-kapsul",
-        "brand": "NBL",
-        "price": 960.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d44bab30-1a55-40d5-a4f9-8fd221d855c3/image_1950.webp",
-        "cats": [
-          "Probiyotik ve Prebiyotik",
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Sindirim Sağlığı",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 45
-      },
-      {
-        "name": "Vimesa Kapsül 30 Kapsül",
-        "slug": "vimesa-kapsul-30-kapsul",
-        "brand": "Tedafarma",
-        "price": 745.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25e3b388-3cd8-4383-9ed8-6aa5159b443d/image_1950.webp",
-        "cats": [
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Synbiyotik",
-          "Sindirim Sağlığı"
-        ],
-        "stock": 1
-      }
-    ],
-    "Vajinal Sağlık": [
-      {
-        "name": "Duobalance BV Kapsül Vajinal Probiyotik Takviyesi 14 Adet",
-        "slug": "duobalance-bv-kapsul-vajinal-probiyotik-takviyesi-14-adet",
-        "brand": "NBT İlaç",
-        "price": 1403.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c917a82-51b6-4204-8fc3-21bbd153a1af/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Vajinal Flora",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
-        "slug": "nbl-gynobiotic-kadin-probiyotik-lif-ve-bitki-ekstresi-10-kapsul",
-        "brand": "NBL",
-        "price": 960.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d44bab30-1a55-40d5-a4f9-8fd221d855c3/image_1950.webp",
-        "cats": [
-          "Probiyotik ve Prebiyotik",
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Sindirim Sağlığı",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 45
-      },
-      {
-        "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
-        "slug": "orzax-shiniq-intim-yikama-jeli-ph-35",
-        "brand": "Orzax",
-        "price": 749.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/19f862e9-bbae-4488-a391-a2aa6d965eb1/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "İntim Temizleyiciler",
-          "Vajinal Sağlık",
-          "Lansmana Özel"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vimesa Kapsül 30 Kapsül",
-        "slug": "vimesa-kapsul-30-kapsul",
-        "brand": "Tedafarma",
-        "price": 745.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25e3b388-3cd8-4383-9ed8-6aa5159b443d/image_1950.webp",
-        "cats": [
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Synbiyotik",
-          "Sindirim Sağlığı"
-        ],
-        "stock": 1
-      }
-    ],
-    "Vajinal Flora": [
-      {
-        "name": "Duobalance BV Kapsül Vajinal Probiyotik Takviyesi 14 Adet",
-        "slug": "duobalance-bv-kapsul-vajinal-probiyotik-takviyesi-14-adet",
-        "brand": "NBT İlaç",
-        "price": 1403.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c917a82-51b6-4204-8fc3-21bbd153a1af/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Vajinal Flora",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 1
-      }
-    ],
-    "Vajinal Probiyotik": [
-      {
-        "name": "Duobalance BV Kapsül Vajinal Probiyotik Takviyesi 14 Adet",
-        "slug": "duobalance-bv-kapsul-vajinal-probiyotik-takviyesi-14-adet",
-        "brand": "NBT İlaç",
-        "price": 1403.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c917a82-51b6-4204-8fc3-21bbd153a1af/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Vajinal Flora",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
-        "slug": "nbl-gynobiotic-kadin-probiyotik-lif-ve-bitki-ekstresi-10-kapsul",
-        "brand": "NBL",
-        "price": 960.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d44bab30-1a55-40d5-a4f9-8fd221d855c3/image_1950.webp",
-        "cats": [
-          "Probiyotik ve Prebiyotik",
-          "Turna Yemişi (Cranberry)",
-          "Kadın Sağlığı",
-          "Kadın Probiyotikleri",
-          "Vajinal Sağlık",
-          "Sindirim Sağlığı",
-          "Vajinal Probiyotik"
-        ],
-        "stock": 45
-      }
-    ],
     "Yağ Asitleri": [
       {
         "name": "Duobalance Butyrate 30 Kapsül",
@@ -76461,7 +76246,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
@@ -84572,6 +84357,115 @@
         "stock": 2
       }
     ],
+    "Kadın Probiyotikleri": [
+      {
+        "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
+        "slug": "nbl-gynobiotic-kadin-probiyotik-lif-ve-bitki-ekstresi-10-kapsul",
+        "brand": "NBL",
+        "price": 960.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d44bab30-1a55-40d5-a4f9-8fd221d855c3/image_1950.webp",
+        "cats": [
+          "Probiyotik ve Prebiyotik",
+          "Turna Yemişi (Cranberry)",
+          "Kadın Sağlığı",
+          "Kadın Probiyotikleri",
+          "Vajinal Sağlık",
+          "Sindirim Sağlığı",
+          "Vajinal Probiyotik"
+        ],
+        "stock": 45
+      },
+      {
+        "name": "Vimesa Kapsül 30 Kapsül",
+        "slug": "vimesa-kapsul-30-kapsul",
+        "brand": "Tedafarma",
+        "price": 745.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25e3b388-3cd8-4383-9ed8-6aa5159b443d/image_1950.webp",
+        "cats": [
+          "Turna Yemişi (Cranberry)",
+          "Kadın Sağlığı",
+          "Kadın Probiyotikleri",
+          "Vajinal Sağlık",
+          "Synbiyotik",
+          "Sindirim Sağlığı"
+        ],
+        "stock": 1
+      }
+    ],
+    "Vajinal Sağlık": [
+      {
+        "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
+        "slug": "nbl-gynobiotic-kadin-probiyotik-lif-ve-bitki-ekstresi-10-kapsul",
+        "brand": "NBL",
+        "price": 960.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d44bab30-1a55-40d5-a4f9-8fd221d855c3/image_1950.webp",
+        "cats": [
+          "Probiyotik ve Prebiyotik",
+          "Turna Yemişi (Cranberry)",
+          "Kadın Sağlığı",
+          "Kadın Probiyotikleri",
+          "Vajinal Sağlık",
+          "Sindirim Sağlığı",
+          "Vajinal Probiyotik"
+        ],
+        "stock": 45
+      },
+      {
+        "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
+        "slug": "orzax-shiniq-intim-yikama-jeli-ph-35",
+        "brand": "Orzax",
+        "price": 749.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/19f862e9-bbae-4488-a391-a2aa6d965eb1/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "İntim Temizleyiciler",
+          "Vajinal Sağlık",
+          "Lansmana Özel"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Vimesa Kapsül 30 Kapsül",
+        "slug": "vimesa-kapsul-30-kapsul",
+        "brand": "Tedafarma",
+        "price": 745.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25e3b388-3cd8-4383-9ed8-6aa5159b443d/image_1950.webp",
+        "cats": [
+          "Turna Yemişi (Cranberry)",
+          "Kadın Sağlığı",
+          "Kadın Probiyotikleri",
+          "Vajinal Sağlık",
+          "Synbiyotik",
+          "Sindirim Sağlığı"
+        ],
+        "stock": 1
+      }
+    ],
+    "Vajinal Probiyotik": [
+      {
+        "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
+        "slug": "nbl-gynobiotic-kadin-probiyotik-lif-ve-bitki-ekstresi-10-kapsul",
+        "brand": "NBL",
+        "price": 960.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d44bab30-1a55-40d5-a4f9-8fd221d855c3/image_1950.webp",
+        "cats": [
+          "Probiyotik ve Prebiyotik",
+          "Turna Yemişi (Cranberry)",
+          "Kadın Sağlığı",
+          "Kadın Probiyotikleri",
+          "Vajinal Sağlık",
+          "Sindirim Sağlığı",
+          "Vajinal Probiyotik"
+        ],
+        "stock": 45
+      }
+    ],
     "Synbiyotik": [
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -90324,9 +90218,9 @@
     ]
   },
   "stats": {
-    "total_products": 5750,
-    "total_categories": 675,
-    "generated": "2026-08-23 13:41",
+    "total_products": 5744,
+    "total_categories": 673,
+    "generated": "2026-08-23 19:00",
     "source": "ikas_api_live"
   }
 }
