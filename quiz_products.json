@@ -424,20 +424,6 @@
         "stock": 1
       },
       {
-        "name": "Art de Huile Terapi Nioli Uçucu Yağı %100 Saf 10 ml",
-        "slug": "art-de-huile-terapi-nioli-ucucu-yagi-100-saf-10-ml",
-        "brand": "Art De Huile",
-        "price": 800.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/16d4a769-8fc3-47b5-8372-791e206e85c6/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Soğuk Algınlığı ve Grip",
-          "Niaouli Yağı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Aspi Natura Kids Çocuk Boğaz Spreyi Doğal İçerikli 20 ml",
         "slug": "aspi-natura-kids-cocuk-bogaz-spreyi-dogal-icerikli-20-ml",
         "brand": "Aspi Natura",
@@ -15614,7 +15600,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Vichy Dercos Kepek Karşıtı Saç Kremi",
@@ -29598,20 +29584,6 @@
         "stock": 6
       },
       {
-        "name": "Art de Huile Terapi Nioli Uçucu Yağı %100 Saf 10 ml",
-        "slug": "art-de-huile-terapi-nioli-ucucu-yagi-100-saf-10-ml",
-        "brand": "Art De Huile",
-        "price": 800.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/16d4a769-8fc3-47b5-8372-791e206e85c6/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Soğuk Algınlığı ve Grip",
-          "Niaouli Yağı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Avène Cicalfate Restorative Crème 40 ml",
         "slug": "avene-cicalfate-restorative-creme-40-ml",
         "brand": "Avene",
@@ -31914,22 +31886,6 @@
           "Arnika Bakımı"
         ],
         "stock": 3
-      }
-    ],
-    "Niaouli Yağı": [
-      {
-        "name": "Art de Huile Terapi Nioli Uçucu Yağı %100 Saf 10 ml",
-        "slug": "art-de-huile-terapi-nioli-ucucu-yagi-100-saf-10-ml",
-        "brand": "Art De Huile",
-        "price": 800.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/16d4a769-8fc3-47b5-8372-791e206e85c6/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Soğuk Algınlığı ve Grip",
-          "Niaouli Yağı"
-        ],
-        "stock": 1
       }
     ],
     "İlaç Kutusu ve Aksesuarlar": [
@@ -36532,7 +36488,7 @@
           "SPF 50+",
           "Stick SPF 50+"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "La Roche-Posay Mela B3 Serum 30 ml + Anti-Dark Spots SPF50+ 50 ml Set",
@@ -50940,20 +50896,7 @@
           "Saç, Cilt ve Tırnak",
           "Dökülme Karşıtı"
         ],
-        "stock": 26
-      },
-      {
-        "name": "Vichy Dercos Neogenic Saç Yoğunlaştırıcı Şampuan 400 ml",
-        "slug": "vichy-dercos-neogenic-sac-yogunlastirici-sampuan-400-ml",
-        "brand": "Vichy",
-        "price": 1893.0,
-        "discount_price": 1704.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8daf3419-a1a0-4081-92ea-cc1d9141f5ac/image_1950.webp",
-        "cats": [
-          "Hacim Veren",
-          "Dökülme Karşıtı"
-        ],
-        "stock": 1
+        "stock": 25
       }
     ],
     "Nemlendirici": [
@@ -55829,7 +55772,7 @@
           "SPF 50+",
           "Stick SPF 50+"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Gündüz Kremi SPF": [
@@ -73340,7 +73283,7 @@
         "cats": [
           "Terleme Karşıtı"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Nivea Roll On Powder Touch Kadın Pudralı Deodorant 50 ml",
@@ -89231,19 +89174,6 @@
           "Hacim Veren"
         ],
         "stock": 4
-      },
-      {
-        "name": "Vichy Dercos Neogenic Saç Yoğunlaştırıcı Şampuan 400 ml",
-        "slug": "vichy-dercos-neogenic-sac-yogunlastirici-sampuan-400-ml",
-        "brand": "Vichy",
-        "price": 1893.0,
-        "discount_price": 1704.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8daf3419-a1a0-4081-92ea-cc1d9141f5ac/image_1950.webp",
-        "cats": [
-          "Hacim Veren",
-          "Dökülme Karşıtı"
-        ],
-        "stock": 1
       }
     ],
     "Bebek Pamuğu/Ped": [
@@ -90218,9 +90148,9 @@
     ]
   },
   "stats": {
-    "total_products": 5744,
-    "total_categories": 673,
-    "generated": "2026-08-23 19:00",
+    "total_products": 5739,
+    "total_categories": 672,
+    "generated": "2026-08-24 08:47",
     "source": "ikas_api_live"
   }
 }
