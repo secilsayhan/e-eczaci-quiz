@@ -15038,7 +15038,7 @@
         "name": "Akne ve Sivilce Bakım Seti",
         "slug": "akne-bakim-paketi",
         "brand": "",
-        "price": 6802.54,
+        "price": 6803.1,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d38ec993-b0d5-4aad-afb9-dda80727d8fc/image_1950.webp",
         "cats": [
@@ -15050,7 +15050,7 @@
         "name": "Ağız ve Diş Bakım Seti",
         "slug": "agiz-bakim-paketi",
         "brand": "",
-        "price": 784.39,
+        "price": 784.76,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73b92dea-2121-4c2b-8842-41db1823790c/image_1950.webp",
         "cats": [
@@ -15062,7 +15062,7 @@
         "name": "Bağışıklık Güçlendirme Seti",
         "slug": "bagisiklik-paketi",
         "brand": "",
-        "price": 2180.46,
+        "price": 2181.52,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/afb53817-b6c8-48cd-9a1f-592cd84c520e/image_1950.webp",
         "cats": [
@@ -15086,7 +15086,7 @@
         "name": "Eklem ve Kemik Sağlığı Seti",
         "slug": "eklem-kemik-paketi",
         "brand": "",
-        "price": 3264.66,
+        "price": 3265.2,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2a27576-bb0b-4f25-9ef4-a6ff4025582c/image_1950.webp",
         "cats": [
@@ -15098,7 +15098,7 @@
         "name": "Enerji ve Performans Seti",
         "slug": "enerji-paketi",
         "brand": "",
-        "price": 1480.32,
+        "price": 1480.5,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d8a583f6-92f6-475a-94ba-b99bd12e1287/image_1950.webp",
         "cats": [
@@ -15110,7 +15110,7 @@
         "name": "Güneş Koruma ve Bronzlaşma Bakım Seti",
         "slug": "gunes-koruma-paketi",
         "brand": "",
-        "price": 4263.9,
+        "price": 4265.12,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30148e02-0578-4d75-9a22-3a8f472a3010/image_1950.webp",
         "cats": [
@@ -15122,7 +15122,7 @@
         "name": "Hassas ve Atopik Cilt Bakım Seti",
         "slug": "atopik-cilt-paketi",
         "brand": "",
-        "price": 3904.56,
+        "price": 3881.7,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/17d14c6c-9260-49e8-a1b8-990ddf7f9ecc/image_1950.webp",
         "cats": [
@@ -15146,7 +15146,7 @@
         "name": "Kırışıklık Karşıtı Anti-Aging Bakım Seti",
         "slug": "yaslanma-karsiti-paketi",
         "brand": "",
-        "price": 9719.73,
+        "price": 9720.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/040cc3f2-1a42-4084-8da4-584f88ff96ed/image_1950.webp",
         "cats": [
@@ -15158,7 +15158,7 @@
         "name": "Leke ve Ton Eşitsizliği Bakım Seti",
         "slug": "leke-bakim-paketi",
         "brand": "",
-        "price": 5323.59,
+        "price": 7064.1,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/83d6739a-e43d-468f-9061-f5ed785367e3/image_1950.webp",
         "cats": [
@@ -15182,7 +15182,7 @@
         "name": "Saç Dökülmesi Karşıtı Bakım Seti",
         "slug": "sac-dokulmesi-paketi",
         "brand": "",
-        "price": 3582.36,
+        "price": 3582.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c2e23d0-ec80-4829-aca2-3dc10b4a4725/image_1950.webp",
         "cats": [
@@ -15194,7 +15194,7 @@
         "name": "Sindirim Sağlığı Seti",
         "slug": "sindirim-sagligi-paketi",
         "brand": "",
-        "price": 1459.84,
+        "price": 1460.7,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/45a5e6b1-a528-47b9-8ad8-811fea21290d/image_1950.webp",
         "cats": [
@@ -101956,7 +101956,7 @@
   "stats": {
     "total_products": 6513,
     "total_categories": 701,
-    "generated": "2026-08-26 08:07",
+    "generated": "2026-08-26 11:37",
     "source": "ikas_api_live"
   }
 }
