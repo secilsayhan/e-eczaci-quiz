@@ -15788,20 +15788,6 @@
         "stock": 1
       },
       {
-        "name": "Oral-B Pro-Expert Clinic Floss Diş İpi",
-        "slug": "oral-b-pro-expert-clinic-floss-dis-ipi",
-        "brand": "Oral-B",
-        "price": 249.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d0f908b-ee4e-4cdc-b5e0-19239fe90d82/image_1950.webp",
-        "cats": [
-          "Diş İpi",
-          "Diş İpi",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Oral-B Pro-Sensitive Advanced Hassas Temizlik Diş Fırçası",
         "slug": "oral-b-pro-sensitive-advanced-hassas-temizlik-dis-fircasi",
         "brand": "Oral-B",
@@ -48786,6 +48772,21 @@
         "stock": 69
       },
       {
+        "name": "Ocean Glucosamine Complex 60 Tablet (1+1 Paket)",
+        "slug": "ocean-glucosamine-complex-60-tablet-1-alana-1-hediye",
+        "brand": "Orzax",
+        "price": 1119.0,
+        "discount_price": 919.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c02f6e9b-3b5f-45d0-a305-9abf54d126f8/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Glukozamin",
+          "Eklem ve Kıkırdak",
+          "Kemik ve Eklem Sağlığı"
+        ],
+        "stock": 50
+      },
+      {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
         "slug": "ocean-pulse-yumusak-jelatin-kapsul-balik-yagi-k2-d-vitamini-ve-koenzim",
         "brand": "Ocean",
@@ -79172,6 +79173,36 @@
         "stock": 2
       },
       {
+        "name": "Ocean Glucosamine Complex 60 Tablet (1+1 Paket)",
+        "slug": "ocean-glucosamine-complex-60-tablet-1-alana-1-hediye",
+        "brand": "Orzax",
+        "price": 1119.0,
+        "discount_price": 919.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c02f6e9b-3b5f-45d0-a305-9abf54d126f8/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Glukozamin",
+          "Eklem ve Kıkırdak",
+          "Kemik ve Eklem Sağlığı"
+        ],
+        "stock": 50
+      },
+      {
+        "name": "Ocean Glucosamine Complex 60 Tablet (1+1 Paket)",
+        "slug": "ocean-glucosamine-complex-60-tablet-1-alana-1-hediye",
+        "brand": "Orzax",
+        "price": 1119.0,
+        "discount_price": 919.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c02f6e9b-3b5f-45d0-a305-9abf54d126f8/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Glukozamin",
+          "Eklem ve Kıkırdak",
+          "Kemik ve Eklem Sağlığı"
+        ],
+        "stock": 50
+      },
+      {
         "name": "Osteo Bi-Flex 5-Loxin Advanced Tablet Glukozamin Kondroitin MSM Boswellia Ekstresi İçeren Takviye Edici Gıda 120 Tablet",
         "slug": "osteo-bi-flex-5-loxin-advanced-glukozamin-kondroitin-msm-120-tablet",
         "brand": "Osteo Bi-Flex",
@@ -79573,6 +79604,21 @@
           "MSM"
         ],
         "stock": 2
+      },
+      {
+        "name": "Ocean Glucosamine Complex 60 Tablet (1+1 Paket)",
+        "slug": "ocean-glucosamine-complex-60-tablet-1-alana-1-hediye",
+        "brand": "Orzax",
+        "price": 1119.0,
+        "discount_price": 919.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c02f6e9b-3b5f-45d0-a305-9abf54d126f8/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Glukozamin",
+          "Eklem ve Kıkırdak",
+          "Kemik ve Eklem Sağlığı"
+        ],
+        "stock": 50
       },
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
@@ -87281,7 +87327,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Etoile Intim Duş (Borik Asit+Elma Sirkesi) 100 ml",
@@ -95332,34 +95378,6 @@
         "stock": 5
       },
       {
-        "name": "Oral-B Pro-Expert Clinic Floss Diş İpi",
-        "slug": "oral-b-pro-expert-clinic-floss-dis-ipi",
-        "brand": "Oral-B",
-        "price": 249.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d0f908b-ee4e-4cdc-b5e0-19239fe90d82/image_1950.webp",
-        "cats": [
-          "Diş İpi",
-          "Diş İpi",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Oral-B Pro-Expert Clinic Floss Diş İpi",
-        "slug": "oral-b-pro-expert-clinic-floss-dis-ipi",
-        "brand": "Oral-B",
-        "price": 249.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d0f908b-ee4e-4cdc-b5e0-19239fe90d82/image_1950.webp",
-        "cats": [
-          "Diş İpi",
-          "Diş İpi",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Oral-B Satin Tape Mint Naneli Diş İpi",
         "slug": "oral-b-satin-tape-mint-naneli-dis-ipi",
         "brand": "Oral-B",
@@ -101974,9 +101992,9 @@
     ]
   },
   "stats": {
-    "total_products": 6508,
+    "total_products": 6509,
     "total_categories": 701,
-    "generated": "2026-08-28 08:35",
+    "generated": "2026-08-28 11:04",
     "source": "ikas_api_live"
   }
 }
