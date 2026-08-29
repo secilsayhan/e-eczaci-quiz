@@ -3251,7 +3251,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 30
+        "stock": 20
       },
       {
         "name": "Paranit Bit Spreyi 100 ml 2'li Paket",
@@ -4770,7 +4770,7 @@
           "Akne ve Sivilce Bakımı",
           "Temizleme Jeli"
         ],
-        "stock": 38
+        "stock": 37
       },
       {
         "name": "La Roche-Posay Effaclar Duo+ Renkli SPF30 40 ml",
@@ -5797,20 +5797,6 @@
         "stock": 3
       },
       {
-        "name": "Bioderma Sensibio Gel Mousse 500 ml",
-        "slug": "bioderma-sensibio-gel-mousse-500-ml",
-        "brand": "Bioderma",
-        "price": 1619.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d61d78b4-e174-4f36-a28c-02738ea70af2/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Yüz Bakımı"
-        ],
-        "stock": 36
-      },
-      {
         "name": "Bioderma Sensibio H2O 500 ml",
         "slug": "bioderma-sensibio-h2o-500-ml",
         "brand": "Bioderma",
@@ -6203,20 +6189,6 @@
           "Yüz Bakımı"
         ],
         "stock": 2
-      },
-      {
-        "name": "La Roche Posay Toleriane Creme Cleansing 400 ml",
-        "slug": "la-roche-posay-toleriane-creme-cleansing-400-ml",
-        "brand": "Anti Bovelax",
-        "price": 1164.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e063d4a7-ab82-4aa6-9c19-307ee053a6dd/image_1950.webp",
-        "cats": [
-          "Temizleme Kremi",
-          "Temizleyiciler",
-          "Yüz Bakımı"
-        ],
-        "stock": 38
       },
       {
         "name": "La Roche Posay Vitamin C Yüz Temizleme Jeli",
@@ -6859,19 +6831,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 1
-      },
-      {
-        "name": "Bağışıklık Sistemi Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "bagisiklik-sistemi-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da5216e4-b1dd-48bc-b322-67289ea5a6b8/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Bağışıklık"
-        ],
-        "stock": 999
       },
       {
         "name": "Bee & You Phenolix-S Şurup Propolis Takviyesi 150 ml Şişe",
@@ -8679,22 +8638,6 @@
         "stock": 5
       },
       {
-        "name": "Sidefer Kapsül Sukrozomiyal Demir C Vitamini B12 Vitamini Takviyesi 30 Kapsül",
-        "slug": "sidefer-kapsul-sukrozomiyal-demir-c-vitamini-b12-vitamini-30-kapsul",
-        "brand": "SideFER",
-        "price": 891.83,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/040d8212-65d2-4c6e-af13-affe71112ee6/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Bağışıklık Sistemi",
-          "C Vitamini",
-          "Enerji ve Zindelik",
-          "Demir"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
         "slug": "sjomann-s-vitamin-d3-k2-cignenebilir-jel-30-adet",
         "brand": "EasyVit",
@@ -10423,7 +10366,7 @@
           "Temizleme Köpüğü",
           "Vitamin ve Takviye"
         ],
-        "stock": 38
+        "stock": 2
       },
       {
         "name": "Ligone Vitamin B Complex 30 Kapsül",
@@ -10873,21 +10816,6 @@
           "Saç Cilt Tırnak"
         ],
         "stock": 2
-      },
-      {
-        "name": "Nbtlife Berliv Kapsül Lipozomal Berberis Vulgaris Silybum Marianum ve Fosfotidilkolin İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "nbtlife-berliv-lipozomal-berberis-vulgaris-silybum-marianum-30-kapsul",
-        "brand": "NBT Life",
-        "price": 919.0,
-        "discount_price": 780.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08f7baf0-2aef-4aae-9de7-ca70ec577ac2/image_1950.webp",
-        "cats": [
-          "Deve Dikeni (Milk Thistle)",
-          "Vitamin ve Takviye",
-          "Karaciğer Sağlığı",
-          "Berberin"
-        ],
-        "stock": 33
       },
       {
         "name": "Nbtlife Narla Kapsül Alfa Lipoik Asit İçeren Takviye Edici Gıda 30 Kapsül",
@@ -11436,7 +11364,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Gummies Kids Multivitamin Çiğnenebilir Form, Multivitamin ve Multimineral, 60 Adet",
@@ -12526,21 +12454,6 @@
           "Sinir Sistemi"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Vitamin B1 Thiamin 100 mg Kapsül 100 Kapsül",
-        "slug": "solgar-vitamin-b1-thiamin-100-mg-kapsul-100-kapsul",
-        "brand": "Solgar",
-        "price": 943.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/59ffe0f0-33c0-4d3d-bdec-03da04fb55c2/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "B1 Vitamini",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Vitamin C 1000 Mg Tablet, 90 Tablet",
@@ -18909,7 +18822,7 @@
           "Balkabağı Çekirdeği",
           "Sindirim Sağlığı"
         ],
-        "stock": 33
+        "stock": 25
       },
       {
         "name": "NBT Life Enzymlife Kapsül Betain Pepsin İçeren Takviye Edici Gıda 60 Kapsül",
@@ -20514,18 +20427,6 @@
         "stock": 6
       },
       {
-        "name": "Derin Uyku Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "derin-uyku-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fb8f0bb-e53f-42f7-a7a1-291e07d7dee8/image_1950.webp",
-        "cats": [
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1000
-      },
-      {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
         "slug": "duobalance-mood-kapsul-ruh-hali-destekleyici-probiyotik-30-adet",
         "brand": "NBT İlaç",
@@ -21147,7 +21048,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -24285,22 +24186,6 @@
         "stock": 15
       },
       {
-        "name": "Sidefer Kapsül Sukrozomiyal Demir C Vitamini B12 Vitamini Takviyesi 30 Kapsül",
-        "slug": "sidefer-kapsul-sukrozomiyal-demir-c-vitamini-b12-vitamini-30-kapsul",
-        "brand": "SideFER",
-        "price": 891.83,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/040d8212-65d2-4c6e-af13-affe71112ee6/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Bağışıklık Sistemi",
-          "C Vitamini",
-          "Enerji ve Zindelik",
-          "Demir"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Sjømann’s Vitamin B12 Çiğnenebilir Jel 30 Adet",
         "slug": "sjomann-s-vitamin-b12-cignenebilir-jel-30-adet",
         "brand": "EasyVit",
@@ -25660,7 +25545,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 30
+        "stock": 20
       },
       {
         "name": "Orzax Ocean Saf Balık Yağı Omega 3 EPA DHA 500 mg 60 Kapsül",
@@ -26681,7 +26566,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 30
+        "stock": 20
       },
       {
         "name": "Plus Kids Sprey, 20ml Şişe",
@@ -28553,22 +28438,6 @@
         "stock": 19
       },
       {
-        "name": "Sidefer Kapsül Sukrozomiyal Demir C Vitamini B12 Vitamini Takviyesi 30 Kapsül",
-        "slug": "sidefer-kapsul-sukrozomiyal-demir-c-vitamini-b12-vitamini-30-kapsul",
-        "brand": "SideFER",
-        "price": 891.83,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/040d8212-65d2-4c6e-af13-affe71112ee6/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Bağışıklık Sistemi",
-          "C Vitamini",
-          "Enerji ve Zindelik",
-          "Demir"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Sidefer Toz Paket Sukrozomiyal Demir Vitamin Takviyesi 20 Saşe",
         "slug": "sidefer-toz-paket-sukrozomiyal-demir-vitamin-takviyesi-20-sase",
         "brand": "SideFER",
@@ -28889,21 +28758,6 @@
           "Sinir Sistemi"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Vitamin B1 Thiamin 100 mg Kapsül 100 Kapsül",
-        "slug": "solgar-vitamin-b1-thiamin-100-mg-kapsul-100-kapsul",
-        "brand": "Solgar",
-        "price": 943.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/59ffe0f0-33c0-4d3d-bdec-03da04fb55c2/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "B1 Vitamini",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi"
-        ],
-        "stock": 1
       },
       {
         "name": "Sorvagen Magnezyum Malat Taurin B6 Vitamini PSP 60 Tablet",
@@ -29687,21 +29541,6 @@
           "Sinir Sistemi"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Vitamin B1 Thiamin 100 mg Kapsül 100 Kapsül",
-        "slug": "solgar-vitamin-b1-thiamin-100-mg-kapsul-100-kapsul",
-        "brand": "Solgar",
-        "price": 943.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/59ffe0f0-33c0-4d3d-bdec-03da04fb55c2/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "B1 Vitamini",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi"
-        ],
-        "stock": 1
       },
       {
         "name": "Venatura B-Trio ODT Tablet, B12, Folat ve B6 30 Tablet",
@@ -32352,22 +32191,6 @@
         "stock": 4
       },
       {
-        "name": "Sidefer Kapsül Sukrozomiyal Demir C Vitamini B12 Vitamini Takviyesi 30 Kapsül",
-        "slug": "sidefer-kapsul-sukrozomiyal-demir-c-vitamini-b12-vitamini-30-kapsul",
-        "brand": "SideFER",
-        "price": 891.83,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/040d8212-65d2-4c6e-af13-affe71112ee6/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Bağışıklık Sistemi",
-          "C Vitamini",
-          "Enerji ve Zindelik",
-          "Demir"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar C Vitamini 1000 mg Bağışıklık Desteği 90 Tablet",
         "slug": "solgar-c-vitamini-1000-mg-bagisiklik-destegi-90-tablet",
         "brand": "Solgar",
@@ -33472,7 +33295,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 30
+        "stock": 24
       },
       {
         "name": "Bebak Acıbadem Süt Büyük 215 g",
@@ -39400,45 +39223,43 @@
         "brand": "La Roche-Posay",
         "price": 1273.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0fb0bc25-4299-4dbc-9492-858605ddea70/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8eda0c75-c29f-40ee-bc32-93916e208e09/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
-          "Yüz Güneş Koruma",
           "SPF 50+"
         ],
         "stock": 26
       },
       {
-        "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Yağsız Güneş Kremi",
+        "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
         "slug": "la-roche-posay-anthelios-dry-touch-spf-50-plus-yagsiz-gunes-kremi",
         "brand": "La Roche-Posay",
         "price": 1346.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc35cbf5-aecb-4ca9-a82e-815e7c9e20ea/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/70a9d17c-2c57-4c80-9c96-e97dcbe47360/image_1950.webp",
         "cats": [
           "Güneş Koruma",
           "Güneş Koruma",
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 6
+        "stock": 2
       },
       {
-        "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Yağsız Güneş Kremi",
+        "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
         "slug": "la-roche-posay-anthelios-dry-touch-spf-50-plus-yagsiz-gunes-kremi",
         "brand": "La Roche-Posay",
         "price": 1346.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc35cbf5-aecb-4ca9-a82e-815e7c9e20ea/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/70a9d17c-2c57-4c80-9c96-e97dcbe47360/image_1950.webp",
         "cats": [
           "Güneş Koruma",
           "Güneş Koruma",
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 6
+        "stock": 2
       },
       {
         "name": "La Roche Posay Anthelios Family Sprey Vücut Güneş Kremi SPF50+ 300 ml",
@@ -39579,7 +39400,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 26
+        "stock": 1
       },
       {
         "name": "La Roche Posay Anthelios Tinted Oil Control Spf 50 Renkli Yağlı Cilt Güneş Kremi 50 ml",
@@ -39595,7 +39416,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 26
+        "stock": 1
       },
       {
         "name": "La Roche Posay Anthelios Tinted UVmune 400 Nemlendirici Renkli Güneş Kremi",
@@ -39630,17 +39451,15 @@
         "stock": 3
       },
       {
-        "name": "La Roche Posay Anthelios UV Air Serum Solaire 50 Ml",
+        "name": "La Roche Posay Anthelios UV Air Serum Tinted 50 Ml",
         "slug": "la-roche-posay-anthelios-uv-air-serum-solaire-50-ml",
         "brand": "La Roche-Posay",
         "price": 1220.0,
         "discount_price": 1014.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8d7add26-590d-4aef-bb06-d0d91e9e8ec9/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7d6e3661-5def-45bb-ab2f-cd5c7f3e1dc8/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
-          "Yüz Güneş Koruma",
           "SPF 50+"
         ],
         "stock": 3
@@ -39649,7 +39468,7 @@
         "name": "La Roche Posay Anthelios UVMune 400 Face Body Hydrating Milk 150 ml",
         "slug": "la-roche-posay-anthelios-uvmune-400-face-body-hydrating-milk-150-ml",
         "brand": "La Roche-Posay",
-        "price": 1170.0,
+        "price": 1299.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad8fd853-f596-433b-966a-546dfac81e07/image_1950.webp",
         "cats": [
@@ -39658,7 +39477,7 @@
           "Vücut Güneş Koruma",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "La Roche Posay Anthelios UVmune 400 Anti-Dark Spots Fluid SPF50+ Melasyl İçeren Güneş Kremi 50 ml",
@@ -39678,7 +39497,7 @@
         "name": "La Roche Posay Anthelios UVmune 400 Invisible Fluid Spf 50 ml",
         "slug": "la-roche-posay-anthelios-uvmune-400-invisible-fluid-spf-50-ml",
         "brand": "La Roche-Posay",
-        "price": 1169.71,
+        "price": 1169.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25570479-71fd-4082-8ac7-14beeb46fcc1/image_1950.webp",
         "cats": [
@@ -41285,7 +41104,7 @@
           "Anti-Age SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -41293,12 +41112,10 @@
         "brand": "La Roche-Posay",
         "price": 1273.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0fb0bc25-4299-4dbc-9492-858605ddea70/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8eda0c75-c29f-40ee-bc32-93916e208e09/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
-          "Yüz Güneş Koruma",
           "SPF 50+"
         ],
         "stock": 26
@@ -41309,30 +41126,28 @@
         "brand": "La Roche-Posay",
         "price": 1273.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0fb0bc25-4299-4dbc-9492-858605ddea70/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8eda0c75-c29f-40ee-bc32-93916e208e09/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
-          "Yüz Güneş Koruma",
           "SPF 50+"
         ],
         "stock": 26
       },
       {
-        "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Yağsız Güneş Kremi",
+        "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
         "slug": "la-roche-posay-anthelios-dry-touch-spf-50-plus-yagsiz-gunes-kremi",
         "brand": "La Roche-Posay",
         "price": 1346.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc35cbf5-aecb-4ca9-a82e-815e7c9e20ea/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/70a9d17c-2c57-4c80-9c96-e97dcbe47360/image_1950.webp",
         "cats": [
           "Güneş Koruma",
           "Güneş Koruma",
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 6
+        "stock": 2
       },
       {
         "name": "La Roche Posay Anthelios Family Sprey Vücut Güneş Kremi SPF50+ 300 ml",
@@ -41426,7 +41241,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 26
+        "stock": 1
       },
       {
         "name": "La Roche Posay Anthelios Tinted UVmune 400 Nemlendirici Renkli Güneş Kremi",
@@ -41461,33 +41276,29 @@
         "stock": 3
       },
       {
-        "name": "La Roche Posay Anthelios UV Air Serum Solaire 50 Ml",
+        "name": "La Roche Posay Anthelios UV Air Serum Tinted 50 Ml",
         "slug": "la-roche-posay-anthelios-uv-air-serum-solaire-50-ml",
         "brand": "La Roche-Posay",
         "price": 1220.0,
         "discount_price": 1014.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8d7add26-590d-4aef-bb06-d0d91e9e8ec9/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7d6e3661-5def-45bb-ab2f-cd5c7f3e1dc8/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
-          "Yüz Güneş Koruma",
           "SPF 50+"
         ],
         "stock": 3
       },
       {
-        "name": "La Roche Posay Anthelios UV Air Serum Solaire 50 Ml",
+        "name": "La Roche Posay Anthelios UV Air Serum Tinted 50 Ml",
         "slug": "la-roche-posay-anthelios-uv-air-serum-solaire-50-ml",
         "brand": "La Roche-Posay",
         "price": 1220.0,
         "discount_price": 1014.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8d7add26-590d-4aef-bb06-d0d91e9e8ec9/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7d6e3661-5def-45bb-ab2f-cd5c7f3e1dc8/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
-          "Yüz Güneş Koruma",
           "SPF 50+"
         ],
         "stock": 3
@@ -41522,7 +41333,7 @@
         "name": "La Roche Posay Anthelios UVmune 400 Invisible Fluid Spf 50 ml",
         "slug": "la-roche-posay-anthelios-uvmune-400-invisible-fluid-spf-50-ml",
         "brand": "La Roche-Posay",
-        "price": 1169.71,
+        "price": 1169.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25570479-71fd-4082-8ac7-14beeb46fcc1/image_1950.webp",
         "cats": [
@@ -43084,22 +42895,22 @@
           "Anti-Age SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
-        "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Yağsız Güneş Kremi",
+        "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
         "slug": "la-roche-posay-anthelios-dry-touch-spf-50-plus-yagsiz-gunes-kremi",
         "brand": "La Roche-Posay",
         "price": 1346.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc35cbf5-aecb-4ca9-a82e-815e7c9e20ea/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/70a9d17c-2c57-4c80-9c96-e97dcbe47360/image_1950.webp",
         "cats": [
           "Güneş Koruma",
           "Güneş Koruma",
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 6
+        "stock": 2
       },
       {
         "name": "La Roche Posay Anthelios Family Sprey Vücut Güneş Kremi SPF50+ 300 ml",
@@ -43177,7 +42988,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 26
+        "stock": 1
       },
       {
         "name": "La Roche Posay Anthelios Tinted UVmune 400 Nemlendirici Renkli Güneş Kremi",
@@ -43215,7 +43026,7 @@
         "name": "La Roche Posay Anthelios UVMune 400 Face Body Hydrating Milk 150 ml",
         "slug": "la-roche-posay-anthelios-uvmune-400-face-body-hydrating-milk-150-ml",
         "brand": "La Roche-Posay",
-        "price": 1170.0,
+        "price": 1299.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad8fd853-f596-433b-966a-546dfac81e07/image_1950.webp",
         "cats": [
@@ -43224,7 +43035,7 @@
           "Vücut Güneş Koruma",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "La Roche Posay Anthelios XL Ultra Light Sprey Güneş Kremi SPF50+ 200 ml",
@@ -43652,7 +43463,7 @@
           "Akne ve Sivilce Bakımı",
           "Temizleme Jeli"
         ],
-        "stock": 38
+        "stock": 37
       },
       {
         "name": "La Roche Posay Vitamin C Yüz Temizleme Jeli",
@@ -43678,7 +43489,7 @@
           "Temizleyiciler",
           "Temizleme Jeli"
         ],
-        "stock": 38
+        "stock": 2
       },
       {
         "name": "Neutrogena Deep Clean Yüz Temizleme Jeli 200 ml",
@@ -45920,22 +45731,6 @@
         "stock": 2
       },
       {
-        "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
-        "slug": "la-roche-posay-anthelios-dry-touch-gel-cream-50-plus",
-        "brand": "La Roche-Posay",
-        "price": 1273.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0fb0bc25-4299-4dbc-9492-858605ddea70/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 26
-      },
-      {
         "name": "La Roche Posay Anthelios Tinted Dry Touch Gel Cream SPF 50+",
         "slug": "la-roche-posay-anthelios-tinted-dry-touch-gel-cream-spf-50-plus",
         "brand": "La Roche-Posay",
@@ -45950,22 +45745,6 @@
           "Yüz Güneş Koruma"
         ],
         "stock": 2
-      },
-      {
-        "name": "La Roche Posay Anthelios UV Air Serum Solaire 50 Ml",
-        "slug": "la-roche-posay-anthelios-uv-air-serum-solaire-50-ml",
-        "brand": "La Roche-Posay",
-        "price": 1220.0,
-        "discount_price": 1014.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8d7add26-590d-4aef-bb06-d0d91e9e8ec9/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 3
       },
       {
         "name": "La Roche-Posay Mela B3 Serum 30 ml + Anti-Dark Spots SPF50+ 50 ml Set",
@@ -46523,22 +46302,6 @@
         "stock": 2
       },
       {
-        "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
-        "slug": "la-roche-posay-anthelios-dry-touch-gel-cream-50-plus",
-        "brand": "La Roche-Posay",
-        "price": 1273.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0fb0bc25-4299-4dbc-9492-858605ddea70/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 26
-      },
-      {
         "name": "La Roche Posay Anthelios Tinted Dry Touch Gel Cream SPF 50+",
         "slug": "la-roche-posay-anthelios-tinted-dry-touch-gel-cream-spf-50-plus",
         "brand": "La Roche-Posay",
@@ -46555,26 +46318,10 @@
         "stock": 2
       },
       {
-        "name": "La Roche Posay Anthelios UV Air Serum Solaire 50 Ml",
-        "slug": "la-roche-posay-anthelios-uv-air-serum-solaire-50-ml",
-        "brand": "La Roche-Posay",
-        "price": 1220.0,
-        "discount_price": 1014.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8d7add26-590d-4aef-bb06-d0d91e9e8ec9/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 3
-      },
-      {
         "name": "La Roche Posay Anthelios UVMune 400 Face Body Hydrating Milk 150 ml",
         "slug": "la-roche-posay-anthelios-uvmune-400-face-body-hydrating-milk-150-ml",
         "brand": "La Roche-Posay",
-        "price": 1170.0,
+        "price": 1299.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad8fd853-f596-433b-966a-546dfac81e07/image_1950.webp",
         "cats": [
@@ -46583,7 +46330,7 @@
           "Vücut Güneş Koruma",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "La Roche-Posay Mela B3 Serum 30 ml + Anti-Dark Spots SPF50+ 50 ml Set",
@@ -46856,7 +46603,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 30
+        "stock": 24
       },
       {
         "name": "Dolce Vera Pudra Ayakkabı Koku Önleyici 10 gr",
@@ -46876,7 +46623,7 @@
         "name": "Duransol Ayak Spreyi Koku ve Terleme Önleyici 50 ml",
         "slug": "duransol-ayak-spreyi-koku-ve-terleme-onleyici-50-ml",
         "brand": "Duransol",
-        "price": 361.18,
+        "price": 362.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89c9b5be-df5b-426d-8ca4-2c949ef3c7d9/image_1950.webp",
         "cats": [
@@ -46898,7 +46645,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 30
+        "stock": 24
       },
       {
         "name": "Dolce Vera Pudra Ayakkabı Koku Önleyici 10 gr",
@@ -47241,18 +46988,6 @@
         "stock": 3
       },
       {
-        "name": "Magnezyum Uzman Rehberi — e-Eczacı",
-        "slug": "magnezyum-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/31a3271d-87ed-493e-8ca6-4f71270ceaf4/image_1950.webp",
-        "cats": [
-          "Magnezyum"
-        ],
-        "stock": 1000
-      },
-      {
         "name": "Magnimore Plus Ata Tablet Magnezyum Takviyesi 60 Adet",
         "slug": "magnimore-plus-ata-tablet-magnezyum-takviyesi-60-adet",
         "brand": "Magnimore",
@@ -47496,7 +47231,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -48755,7 +48490,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -50064,7 +49799,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -51133,7 +50868,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08f7baf0-2aef-4aae-9de7-ca70ec577ac2/image_1950.webp",
         "cats": [
           "Deve Dikeni (Milk Thistle)",
-          "Vitamin ve Takviye",
           "Karaciğer Sağlığı",
           "Berberin"
         ],
@@ -51536,19 +51270,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 1
-      },
-      {
-        "name": "Bağışıklık Sistemi Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "bagisiklik-sistemi-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da5216e4-b1dd-48bc-b322-67289ea5a6b8/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Bağışıklık"
-        ],
-        "stock": 999
       },
       {
         "name": "Bee ve You Phenolix-Kids Oral Sprey Kara Mürver ve Propolis 30 ml",
@@ -52013,19 +51734,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 1
-      },
-      {
-        "name": "Çocuk Bağışıklık Rehberi — e-Eczacı Uzman Rehberi",
-        "slug": "cocuk-bagisiklik-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5e149e76-6c86-4590-ba5b-fd2b9c42d2cb/image_1950.webp",
-        "cats": [
-          "Çocuk Bağışıklık",
-          "Bağışıklık"
-        ],
-        "stock": 1000
       }
     ],
     "Bebek Sağlık": [
@@ -52119,53 +51827,6 @@
           "Ihlamur",
           "Kediotu (Valerian)",
           "Melisa",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      }
-    ],
-    "Sindirim ve Bağırsak": [
-      {
-        "name": "Bağırsak & Mikrobiyom Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "bagirsak-mikrobiyom-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/369086ab-368a-408d-bc25-ebf51c6fe869/image_1950.webp",
-        "cats": [
-          "Sindirim ve Bağırsak"
-        ],
-        "stock": 1000
-      },
-      {
-        "name": "Duobalance Butyrate 30 Kapsül",
-        "slug": "duobalance-butyrate-30-kapsul",
-        "brand": "Duobalance",
-        "price": 949.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f59ad20c-91c3-4b42-aa96-eec7d34d226c/image_1950.webp",
-        "cats": [
-          "İhtiyaca Göre",
-          "Yağ Asitleri",
-          "Sindirim ve Bağırsak",
-          "Sindirim Sağlığı"
-        ],
-        "stock": 24
-      },
-      {
-        "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
-        "slug": "duobalance-mood-kapsul-ruh-hali-destekleyici-probiyotik-30-adet",
-        "brand": "NBT İlaç",
-        "price": 1217.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/88d9b3d0-fad8-4e96-a10c-1b9822dabe96/image_1950.webp",
-        "cats": [
-          "Sindirim Probiyotikleri",
-          "Bağışıklık Sistemi",
-          "Probiyotik ve Prebiyotik",
-          "Beyin ve Hafıza",
-          "Sindirim ve Bağırsak",
-          "Sindirim Sağlığı",
           "Stres ve Uyku Düzeni"
         ],
         "stock": 1
@@ -52831,18 +52492,6 @@
           "Vitaminler"
         ],
         "stock": 1
-      },
-      {
-        "name": "D Vitamini Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "d-vitamini-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fd94e6e-886f-40b4-b153-4e8e726c303a/image_1950.webp",
-        "cats": [
-          "D Vitamini"
-        ],
-        "stock": 1000
       },
       {
         "name": "Diofol L-Methylfolat Tablet Folik Asit ve D3 Vitamini Takviyesi 30 Adet",
@@ -57634,22 +57283,6 @@
         "stock": 19
       },
       {
-        "name": "Sidefer Kapsül Sukrozomiyal Demir C Vitamini B12 Vitamini Takviyesi 30 Kapsül",
-        "slug": "sidefer-kapsul-sukrozomiyal-demir-c-vitamini-b12-vitamini-30-kapsul",
-        "brand": "SideFER",
-        "price": 891.83,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/040d8212-65d2-4c6e-af13-affe71112ee6/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Bağışıklık Sistemi",
-          "C Vitamini",
-          "Enerji ve Zindelik",
-          "Demir"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Sidefer Toz Paket Sukrozomiyal Demir Vitamin Takviyesi 20 Saşe",
         "slug": "sidefer-toz-paket-sukrozomiyal-demir-vitamin-takviyesi-20-sase",
         "brand": "SideFER",
@@ -59267,18 +58900,6 @@
         "stock": 20
       },
       {
-        "name": "Saç Dökülmesi Kök Neden Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "sac-dokulmesi-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/174e628e-99f9-43d9-8567-98f8c7156cda/image_1950.webp",
-        "cats": [
-          "Saç Dökülmesi"
-        ],
-        "stock": 1000
-      },
-      {
         "name": "TTO Clinic Saç Losyonu 30 ml",
         "slug": "tto-clinic-sac-losyonu-30-ml",
         "brand": "TTO",
@@ -59912,8 +59533,8 @@
         "name": "La Roche Posay Hyalu B5 Göz Çevresi Kremi 15 ml",
         "slug": "la-roche-posay-hyalu-b5-goz-cevresi-kremi-15-ml",
         "brand": "La Roche-Posay",
-        "price": 3599.9,
-        "discount_price": 1799.95,
+        "price": 2999.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7163c9cb-c589-4045-88b8-8294915a56f6/image_1950.webp",
         "cats": [
           "Yaşlanma Karşıtı",
@@ -62401,7 +62022,7 @@
           "Akne ve Sivilce Bakımı",
           "Temizleme Jeli"
         ],
-        "stock": 38
+        "stock": 37
       },
       {
         "name": "La Roche Posay Lipikar Syndet AP+ Temizleyici Jel 400 ml",
@@ -62567,8 +62188,7 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d61d78b4-e174-4f36-a28c-02738ea70af2/image_1950.webp",
         "cats": [
           "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Yüz Bakımı"
+          "Temizleme Köpüğü"
         ],
         "stock": 36
       },
@@ -62872,10 +62492,9 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e063d4a7-ab82-4aa6-9c19-307ee053a6dd/image_1950.webp",
         "cats": [
           "Temizleme Kremi",
-          "Temizleyiciler",
-          "Yüz Bakımı"
+          "Temizleyiciler"
         ],
-        "stock": 38
+        "stock": 2
       },
       {
         "name": "La Roche Posay Toleriane Dermo Temizleyici Süt Hassas Cilt",
@@ -62901,7 +62520,7 @@
           "Temizleme Köpüğü",
           "Vitamin ve Takviye"
         ],
-        "stock": 38
+        "stock": 2
       },
       {
         "name": "La Roche Posay Toleriane Hassas Cilt Temizleyici Krem 400 ml",
@@ -62957,7 +62576,7 @@
           "Temizleyiciler",
           "Temizleme Jeli"
         ],
-        "stock": 38
+        "stock": 2
       },
       {
         "name": "Orzax SHINIQ Hassas Ciltler için Temizleyici Krem Köpük",
@@ -63666,10 +63285,9 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e063d4a7-ab82-4aa6-9c19-307ee053a6dd/image_1950.webp",
         "cats": [
           "Temizleme Kremi",
-          "Temizleyiciler",
-          "Yüz Bakımı"
+          "Temizleyiciler"
         ],
-        "stock": 38
+        "stock": 2
       },
       {
         "name": "La Roche Posay Toleriane Hassas Cilt Temizleyici Krem 400 ml",
@@ -64146,8 +63764,8 @@
         "name": "La Roche Posay Hyalu B5 Göz Çevresi Kremi 15 ml",
         "slug": "la-roche-posay-hyalu-b5-goz-cevresi-kremi-15-ml",
         "brand": "La Roche-Posay",
-        "price": 3599.9,
-        "discount_price": 1799.95,
+        "price": 2999.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7163c9cb-c589-4045-88b8-8294915a56f6/image_1950.webp",
         "cats": [
           "Yaşlanma Karşıtı",
@@ -65526,7 +65144,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 26
+        "stock": 1
       },
       {
         "name": "La Roche Posay Anthelios Tinted UVmune 400 Nemlendirici Renkli Güneş Kremi",
@@ -66122,7 +65740,7 @@
           "Anti-Age SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Capital Soleil UV Age Daily SPF50+ 40 ml",
@@ -66584,8 +66202,7 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d61d78b4-e174-4f36-a28c-02738ea70af2/image_1950.webp",
         "cats": [
           "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Yüz Bakımı"
+          "Temizleme Köpüğü"
         ],
         "stock": 36
       },
@@ -66692,7 +66309,7 @@
           "Temizleme Köpüğü",
           "Vitamin ve Takviye"
         ],
-        "stock": 38
+        "stock": 2
       },
       {
         "name": "La Roche Posay Toleriane Hassas Ciltler İçin Köpük Temizleyici",
@@ -69218,18 +68835,6 @@
         "stock": 1
       },
       {
-        "name": "Menopoz Geçiş Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "menopoz-gecis-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c71c7ef9-2181-47fd-807f-bfbf77a24156/image_1950.webp",
-        "cats": [
-          "Kadın Sağlığı"
-        ],
-        "stock": 1000
-      },
-      {
         "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
         "slug": "nbl-gynobiotic-kadin-probiyotik-lif-ve-bitki-ekstresi-10-kapsul",
         "brand": "NBL",
@@ -70978,7 +70583,7 @@
           "Toz Kolajen",
           "Tip 2 Kolajen"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Day2Day The Collagen Beauty Core",
@@ -72143,7 +71748,7 @@
           "Toz Kolajen",
           "Tip 2 Kolajen"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
@@ -72780,8 +72385,8 @@
         "name": "La Roche Posay Hyalu B5 Göz Çevresi Kremi 15 ml",
         "slug": "la-roche-posay-hyalu-b5-goz-cevresi-kremi-15-ml",
         "brand": "La Roche-Posay",
-        "price": 3599.9,
-        "discount_price": 1799.95,
+        "price": 2999.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7163c9cb-c589-4045-88b8-8294915a56f6/image_1950.webp",
         "cats": [
           "Yaşlanma Karşıtı",
@@ -75857,7 +75462,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 30
+        "stock": 20
       },
       {
         "name": "Orzax Ocean Pulse Kalp Sağlığı Takviyesi 30 Kapsül",
@@ -79395,7 +79000,7 @@
           "Toz Kolajen",
           "Tip 2 Kolajen"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "GoodDay Exclusive Curomega Kapsül Omega 3 ve Kurkumin ve Piperin 30 Kapsül",
@@ -79615,7 +79220,7 @@
           "Toz Kolajen",
           "Tip 2 Kolajen"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Kondromin-S Efervesan Tablet Eklem Sağlığı Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
@@ -80226,19 +79831,6 @@
         "stock": 19
       },
       {
-        "name": "Corega Süper Tat İçermeyen Diş Protezi Yapıştırıcı Krem 40 gr",
-        "slug": "corega-super-tat-icermeyen-dis-protezi-yapistirici-krem-40-gr",
-        "brand": "Corega",
-        "price": 220.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/edca665e-85ff-48e3-a5a9-da07ea59f5b1/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Protez Yapıştırıcı Krem"
-        ],
-        "stock": 34
-      },
-      {
         "name": "Corega Temizleyici Tablet 30 Tablet",
         "slug": "corega-temizleyici-tablet-30-tablet",
         "brand": "Corega",
@@ -80592,19 +80184,6 @@
           "Protez Yapıştırıcı Krem"
         ],
         "stock": 19
-      },
-      {
-        "name": "Corega Süper Tat İçermeyen Diş Protezi Yapıştırıcı Krem 40 gr",
-        "slug": "corega-super-tat-icermeyen-dis-protezi-yapistirici-krem-40-gr",
-        "brand": "Corega",
-        "price": 220.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/edca665e-85ff-48e3-a5a9-da07ea59f5b1/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Protez Yapıştırıcı Krem"
-        ],
-        "stock": 34
       },
       {
         "name": "Fixodent Complete Fresh Diş Protezi Yapıştırıcı Krem 47 G Tüp",
@@ -82752,7 +82331,7 @@
           "Toz Kolajen",
           "Tip 2 Kolajen"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Day2day The Collagen Multi Toz",
@@ -82804,7 +82383,7 @@
           "Toz Kolajen",
           "Tip 2 Kolajen"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
@@ -83190,98 +82769,6 @@
           "Aromaterapi Yağları"
         ],
         "stock": 1
-      }
-    ],
-    "Genel": [
-      {
-        "name": "Demir & Ferritin Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "demir-ferritin-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5de37ede-95d3-4e21-84cb-1798c707b294/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Hormonal Akne Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "hormonal-akne-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b737539f-ae09-46aa-b389-599bbabcf033/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Longevity & NMN Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "longevity-nmn-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ce40fc9-ed7f-47ac-9e4c-fde428c852e3/image_1950.webp",
-        "cats": [],
-        "stock": 999
-      },
-      {
-        "name": "PCOS Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "pcos-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1a29e516-71af-4843-b96b-eb8e36621b75/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "PMS Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "pms-protokol-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/74122bce-11d3-47fb-937e-6e3ef4e7b983/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Takviyelerin Tam Rehberi — 260+ Sayfa Bilimsel E-Kitap",
-        "slug": "takviyelerin-tam-rehberi-e-kitap",
-        "brand": "",
-        "price": 497.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c30418ef-e4cd-4fe9-a1f6-df8d3a89e897/image_1950.webp",
-        "cats": [],
-        "stock": 9999
-      },
-      {
-        "name": "Tüm Uzman Rehberler Paketi — 15 Rehber",
-        "slug": "tum-uzman-rehberler-paketi",
-        "brand": "e-Eczacı",
-        "price": 1990.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/609a6d9e-c664-4019-b4c7-43b891a073ec/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "Vajinal pH & Enfeksiyon Protokol Rehberi",
-        "slug": "vajinal-ph-protokol-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3808dee3-0000-0000-0000-000000000000/image_1950.webp",
-        "cats": [],
-        "stock": 1000
-      },
-      {
-        "name": "İnsülin Direnci Kırma Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "insulin-direnci-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/348f6e4d-e770-40c1-afcf-f608d4f98c89/image_1950.webp",
-        "cats": [],
-        "stock": 1000
       }
     ],
     "Göz Şampuanı": [
@@ -85922,6 +85409,41 @@
         "stock": 2
       }
     ],
+    "Sindirim ve Bağırsak": [
+      {
+        "name": "Duobalance Butyrate 30 Kapsül",
+        "slug": "duobalance-butyrate-30-kapsul",
+        "brand": "Duobalance",
+        "price": 949.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f59ad20c-91c3-4b42-aa96-eec7d34d226c/image_1950.webp",
+        "cats": [
+          "İhtiyaca Göre",
+          "Yağ Asitleri",
+          "Sindirim ve Bağırsak",
+          "Sindirim Sağlığı"
+        ],
+        "stock": 24
+      },
+      {
+        "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
+        "slug": "duobalance-mood-kapsul-ruh-hali-destekleyici-probiyotik-30-adet",
+        "brand": "NBT İlaç",
+        "price": 1217.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/88d9b3d0-fad8-4e96-a10c-1b9822dabe96/image_1950.webp",
+        "cats": [
+          "Sindirim Probiyotikleri",
+          "Bağışıklık Sistemi",
+          "Probiyotik ve Prebiyotik",
+          "Beyin ve Hafıza",
+          "Sindirim ve Bağırsak",
+          "Sindirim Sağlığı",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      }
+    ],
     "Dil Basacağı": [
       {
         "name": "Duramed Abeslang Tek Kullanımlık Dil Basacağı 100 Adet",
@@ -86224,7 +85746,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 30
+        "stock": 20
       }
     ],
     "Beta Glukan": [
@@ -89516,7 +89038,7 @@
           "Balkabağı Çekirdeği",
           "Sindirim Sağlığı"
         ],
-        "stock": 33
+        "stock": 25
       },
       {
         "name": "Nbtlife Berliv Kapsül Lipozomal Berberis Vulgaris Silybum Marianum ve Fosfotidilkolin İçeren Takviye Edici Gıda 30 Kapsül",
@@ -89527,7 +89049,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08f7baf0-2aef-4aae-9de7-ca70ec577ac2/image_1950.webp",
         "cats": [
           "Deve Dikeni (Milk Thistle)",
-          "Vitamin ve Takviye",
           "Karaciğer Sağlığı",
           "Berberin"
         ],
@@ -89709,7 +89230,7 @@
           "Balkabağı Çekirdeği",
           "Sindirim Sağlığı"
         ],
-        "stock": 33
+        "stock": 25
       }
     ],
     "Resveratrol": [
@@ -90858,7 +90379,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08f7baf0-2aef-4aae-9de7-ca70ec577ac2/image_1950.webp",
         "cats": [
           "Deve Dikeni (Milk Thistle)",
-          "Vitamin ve Takviye",
           "Karaciğer Sağlığı",
           "Berberin"
         ],
@@ -92912,141 +92432,6 @@
         "stock": 1
       }
     ],
-    "Tiroid Sağlığı": [
-      {
-        "name": "Hashimoto & Tiroid Protokolü — e-Eczacı Uzman Rehberi",
-        "slug": "hashimoto-tiroid-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2b6e1f33-d817-4fc6-a4fb-43ca06f80a66/image_1950.webp",
-        "cats": [
-          "Tiroid Sağlığı"
-        ],
-        "stock": 1000
-      },
-      {
-        "name": "Orzax Ocean Selenyum 100 mcg Antioksidan Takviye 30 Tablet",
-        "slug": "orzax-ocean-selenyum-100-mcg-antioksidan-takviye-30-tablet",
-        "brand": "Orzax",
-        "price": 275.2,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0a5bb40-2288-455d-bd19-040bf345f002/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Selenyum",
-          "Tiroid Sağlığı",
-          "Antioksidanlar"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Orzax Ocean Selenyum 200 mcg Yüksek Doz 60 Tablet",
-        "slug": "orzax-ocean-selenyum-200-mcg-yuksek-doz-60-tablet",
-        "brand": "Orzax",
-        "price": 407.88,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/935185c3-68d3-4dd6-809c-7c418397e23e/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Selenyum",
-          "Tiroid Sağlığı",
-          "Antioksidanlar"
-        ],
-        "stock": 15
-      },
-      {
-        "name": "Solgar Selenium 100 Mcg Tablet, 100 Tablet",
-        "slug": "solgar-selenium-100-mcg-tablet-100-tablet",
-        "brand": "Solgar",
-        "price": 589.77,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc7d6f3a-e8b5-4b30-9b5a-f0b2eed3135c/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "Selenyum",
-          "Tiroid Sağlığı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Selenyum 100 mcg Antioksidan Bağışıklık 100 Tablet",
-        "slug": "solgar-selenyum-100-mcg-antioksidan-bagisiklik-100-tablet",
-        "brand": "Solgar",
-        "price": 558.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc05ed94-c757-4dd1-b27d-8bf04a774b61/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Selenyum",
-          "Tiroid Sağlığı",
-          "Antioksidanlar",
-          "Antioksidan Destek"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Suvar Lugol Solüsyonu %2 İyot Çözeltisi 100 ml",
-        "slug": "suvar-lugol-solusyonu-2-iyot-cozeltisi-100-ml",
-        "brand": "Suvar Kimya",
-        "price": 431.43,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5c275aec-d184-497a-9496-674ca3a6a025/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Tiroid Sağlığı",
-          "Lugol Solüsyonu"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Suvar Lugol Solüsyonu %5 İyot Çözeltisi 100 ml",
-        "slug": "suvar-lugol-solusyonu-5-iyot-cozeltisi-100-ml",
-        "brand": "Suvar Kimya",
-        "price": 470.16,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1348b846-8388-4f7c-84dc-98aba6301f8f/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Vitamin ve Takviye",
-          "Tiroid Sağlığı",
-          "Lugol Solüsyonu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "VeNatura İyot Damla 150 mcg Tiroid Sağlığı 25 ml",
-        "slug": "venatura-iyot-damla-150-mcg-tiroid-sagligi-25-ml",
-        "brand": "VeNatura",
-        "price": 340.81,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1a8ddb8-619a-497b-a705-cedde8ce8772/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Tiroid Sağlığı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Venatura İyot Selenyum Damla 30 ml",
-        "slug": "venatura-iyot-selenyum-damla-30-ml",
-        "brand": "VeNatura",
-        "price": 309.82,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/138018c8-c34e-49f9-9c45-5b0df4edc7d3/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Selenyum",
-          "Tiroid Sağlığı"
-        ],
-        "stock": 2
-      }
-    ],
     "Burun Merhemi": [
       {
         "name": "Hylonem Burun Merhemi Burun Kuruluğu ve Bakım 10 gr Tüp",
@@ -93120,7 +92505,7 @@
           "Balkabağı Çekirdeği",
           "Sindirim Sağlığı"
         ],
-        "stock": 33
+        "stock": 25
       },
       {
         "name": "NBTLIFE Cleanlife Kapsül, Kadın Tuzluğu, Pelinotu ve Bal Kabağı 60 Kapsül",
@@ -94028,7 +93413,7 @@
         "name": "La Roche Posay Anthelios UVMune 400 Face Body Hydrating Milk 150 ml",
         "slug": "la-roche-posay-anthelios-uvmune-400-face-body-hydrating-milk-150-ml",
         "brand": "La Roche-Posay",
-        "price": 1170.0,
+        "price": 1299.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad8fd853-f596-433b-966a-546dfac81e07/image_1950.webp",
         "cats": [
@@ -94037,7 +93422,7 @@
           "Vücut Güneş Koruma",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 1
       }
     ],
     "Sivilce Bandı": [
@@ -96441,7 +95826,7 @@
           "Balkabağı Çekirdeği",
           "Sindirim Sağlığı"
         ],
-        "stock": 33
+        "stock": 25
       }
     ],
     "Pelinotu": [
@@ -96460,7 +95845,7 @@
           "Balkabağı Çekirdeği",
           "Sindirim Sağlığı"
         ],
-        "stock": 33
+        "stock": 25
       },
       {
         "name": "NBTLIFE Cleanlife Kapsül, Kadın Tuzluğu, Pelinotu ve Bal Kabağı 60 Kapsül",
@@ -98424,19 +97809,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 4
-      },
-      {
-        "name": "Çocuk Bağışıklık Rehberi — e-Eczacı Uzman Rehberi",
-        "slug": "cocuk-bagisiklik-uzman-rehberi",
-        "brand": "e-Eczacı",
-        "price": 297.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5e149e76-6c86-4590-ba5b-fd2b9c42d2cb/image_1950.webp",
-        "cats": [
-          "Çocuk Bağışıklık",
-          "Bağışıklık"
-        ],
-        "stock": 1000
       }
     ],
     "Regl Dönemi": [
@@ -98490,6 +97862,129 @@
           "Glutatyon"
         ],
         "stock": 6
+      }
+    ],
+    "Tiroid Sağlığı": [
+      {
+        "name": "Orzax Ocean Selenyum 100 mcg Antioksidan Takviye 30 Tablet",
+        "slug": "orzax-ocean-selenyum-100-mcg-antioksidan-takviye-30-tablet",
+        "brand": "Orzax",
+        "price": 275.2,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0a5bb40-2288-455d-bd19-040bf345f002/image_1950.webp",
+        "cats": [
+          "Antioksidan",
+          "Bağışıklık Sistemi",
+          "Selenyum",
+          "Tiroid Sağlığı",
+          "Antioksidanlar"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "Orzax Ocean Selenyum 200 mcg Yüksek Doz 60 Tablet",
+        "slug": "orzax-ocean-selenyum-200-mcg-yuksek-doz-60-tablet",
+        "brand": "Orzax",
+        "price": 407.88,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/935185c3-68d3-4dd6-809c-7c418397e23e/image_1950.webp",
+        "cats": [
+          "Antioksidan",
+          "Bağışıklık Sistemi",
+          "Selenyum",
+          "Tiroid Sağlığı",
+          "Antioksidanlar"
+        ],
+        "stock": 15
+      },
+      {
+        "name": "Solgar Selenium 100 Mcg Tablet, 100 Tablet",
+        "slug": "solgar-selenium-100-mcg-tablet-100-tablet",
+        "brand": "Solgar",
+        "price": 589.77,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc7d6f3a-e8b5-4b30-9b5a-f0b2eed3135c/image_1950.webp",
+        "cats": [
+          "Antioksidan",
+          "Bağışıklık Sistemi",
+          "Vitamin ve Takviye",
+          "Selenyum",
+          "Tiroid Sağlığı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Solgar Selenyum 100 mcg Antioksidan Bağışıklık 100 Tablet",
+        "slug": "solgar-selenyum-100-mcg-antioksidan-bagisiklik-100-tablet",
+        "brand": "Solgar",
+        "price": 558.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc05ed94-c757-4dd1-b27d-8bf04a774b61/image_1950.webp",
+        "cats": [
+          "Antioksidan",
+          "Bağışıklık Sistemi",
+          "Selenyum",
+          "Tiroid Sağlığı",
+          "Antioksidanlar",
+          "Antioksidan Destek"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Suvar Lugol Solüsyonu %2 İyot Çözeltisi 100 ml",
+        "slug": "suvar-lugol-solusyonu-2-iyot-cozeltisi-100-ml",
+        "brand": "Suvar Kimya",
+        "price": 431.43,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5c275aec-d184-497a-9496-674ca3a6a025/image_1950.webp",
+        "cats": [
+          "İyot",
+          "Tiroid Sağlığı",
+          "Lugol Solüsyonu"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Suvar Lugol Solüsyonu %5 İyot Çözeltisi 100 ml",
+        "slug": "suvar-lugol-solusyonu-5-iyot-cozeltisi-100-ml",
+        "brand": "Suvar Kimya",
+        "price": 470.16,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1348b846-8388-4f7c-84dc-98aba6301f8f/image_1950.webp",
+        "cats": [
+          "İyot",
+          "Vitamin ve Takviye",
+          "Tiroid Sağlığı",
+          "Lugol Solüsyonu"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "VeNatura İyot Damla 150 mcg Tiroid Sağlığı 25 ml",
+        "slug": "venatura-iyot-damla-150-mcg-tiroid-sagligi-25-ml",
+        "brand": "VeNatura",
+        "price": 340.81,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1a8ddb8-619a-497b-a705-cedde8ce8772/image_1950.webp",
+        "cats": [
+          "İyot",
+          "Tiroid Sağlığı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Venatura İyot Selenyum Damla 30 ml",
+        "slug": "venatura-iyot-selenyum-damla-30-ml",
+        "brand": "VeNatura",
+        "price": 309.82,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/138018c8-c34e-49f9-9c45-5b0df4edc7d3/image_1950.webp",
+        "cats": [
+          "İyot",
+          "Selenyum",
+          "Tiroid Sağlığı"
+        ],
+        "stock": 2
       }
     ],
     "Lansmana Özel": [
@@ -100070,23 +99565,6 @@
         "stock": 1
       }
     ],
-    "B1 Vitamini": [
-      {
-        "name": "Solgar Vitamin B1 Thiamin 100 mg Kapsül 100 Kapsül",
-        "slug": "solgar-vitamin-b1-thiamin-100-mg-kapsul-100-kapsul",
-        "brand": "Solgar",
-        "price": 943.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/59ffe0f0-33c0-4d3d-bdec-03da04fb55c2/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "B1 Vitamini",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi"
-        ],
-        "stock": 1
-      }
-    ],
     "Sigara Filtresi ve Ağızlık": [
       {
         "name": "Super Süzen 92 Ağızlık 718 Filtreli 30'lu",
@@ -100254,6 +99732,18 @@
           "Ağız Spreyleri"
         ],
         "stock": 2
+      }
+    ],
+    "Genel": [
+      {
+        "name": "Takviyelerin Tam Rehberi — 260+ Sayfa Bilimsel E-Kitap",
+        "slug": "takviyelerin-tam-rehberi-e-kitap",
+        "brand": "",
+        "price": 497.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c30418ef-e4cd-4fe9-a1f6-df8d3a89e897/image_1950.webp",
+        "cats": [],
+        "stock": 9999
       }
     ],
     "Elma Yağı": [
@@ -101818,9 +101308,9 @@
     ]
   },
   "stats": {
-    "total_products": 6501,
-    "total_categories": 699,
-    "generated": "2026-08-28 19:00",
+    "total_products": 6464,
+    "total_categories": 698,
+    "generated": "2026-08-29 07:27",
     "source": "ikas_api_live"
   }
 }
