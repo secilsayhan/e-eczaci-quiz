@@ -939,21 +939,6 @@
         "stock": 1
       },
       {
-        "name": "Bruno Baby Nazal Burun Aspiratörü Manuel",
-        "slug": "bruno-baby-nazal-burun-aspiratoru-manuel",
-        "brand": "Bruno Baby",
-        "price": 365.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd51a2d2-2c73-42af-8e09-1eb00545df42/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Burun Aspiratörü",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 24
-      },
-      {
         "name": "Bruno Baby Nazal Burun Aspiratörü Yedek Uç 10 Adet",
         "slug": "bruno-baby-nazal-burun-aspiratoru-yedek-uc-10-adet",
         "brand": "Bruno Baby",
@@ -2072,21 +2057,6 @@
         "stock": 1
       },
       {
-        "name": "Bruno Baby Nazal Burun Aspiratörü Manuel",
-        "slug": "bruno-baby-nazal-burun-aspiratoru-manuel",
-        "brand": "Bruno Baby",
-        "price": 365.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd51a2d2-2c73-42af-8e09-1eb00545df42/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Burun Aspiratörü",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 24
-      },
-      {
         "name": "Bruno Baby Nazal Burun Aspiratörü Yedek Uç 10 Adet",
         "slug": "bruno-baby-nazal-burun-aspiratoru-yedek-uc-10-adet",
         "brand": "Bruno Baby",
@@ -2446,21 +2416,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 1
-      },
-      {
-        "name": "Bruno Baby Nazal Burun Aspiratörü Manuel",
-        "slug": "bruno-baby-nazal-burun-aspiratoru-manuel",
-        "brand": "Bruno Baby",
-        "price": 365.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd51a2d2-2c73-42af-8e09-1eb00545df42/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Burun Aspiratörü",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 24
       },
       {
         "name": "Bruno Baby Nazal Burun Aspiratörü Yedek Uç 10 Adet",
@@ -11699,7 +11654,7 @@
           "Bitkisel Takviyeler",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 12
+        "stock": 10
       },
       {
         "name": "Ocean Ultimate 39 Kapsül",
@@ -12534,19 +12489,6 @@
         "stock": 1
       },
       {
-        "name": "Splenda Tablet Plastik Tetikleyici Ambalaj 300 Tablet",
-        "slug": "splenda-tablet-plastik-tetikleyici-ambalaj-300-tablet",
-        "brand": "Splenda",
-        "price": 479.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f647c200-b591-439a-b457-2829b0c241e0/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Tablet Tatlandırıcı"
-        ],
-        "stock": 24
-      },
-      {
         "name": "Splenda Tablet Plastik Tetikleyici Ambalaj 500 Tablet",
         "slug": "splenda-tablet-plastik-tetikleyici-ambalaj-500-tablet",
         "brand": "Splenda",
@@ -12574,20 +12516,6 @@
           "Lugol Solüsyonu"
         ],
         "stock": 1
-      },
-      {
-        "name": "Tabvitamins Feritinol Direct Saşe, Mikroenkapsüle Demir 30 Saşe",
-        "slug": "tabvitamins-feritinol-direct-sase-mikroenkapsule-demir-30-sase",
-        "brand": "TabVitamins",
-        "price": 799.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/93366ec2-0cd9-4269-a229-dd386b3990bf/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Vitamin ve Takviye",
-          "Demir"
-        ],
-        "stock": 24
       },
       {
         "name": "Trubiotic Duo Oral Damla, Probiyotik 8ml",
@@ -14637,7 +14565,7 @@
           "Bitkisel Takviyeler",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 12
+        "stock": 10
       },
       {
         "name": "Ocean Çörek Otu Yağı 1000mg 60 Kapsül",
@@ -16694,7 +16622,7 @@
           "Kemik ve Eklem Sağlığı",
           "Tip 2 Kolajen"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
@@ -16756,7 +16684,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -18387,12 +18315,11 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f59ad20c-91c3-4b42-aa96-eec7d34d226c/image_1950.webp",
         "cats": [
-          "İhtiyaca Göre",
           "Yağ Asitleri",
           "Sindirim ve Bağırsak",
           "Sindirim Sağlığı"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -19519,21 +19446,6 @@
           "Sindirim Sağlığı"
         ],
         "stock": 5
-      },
-      {
-        "name": "Duobalance Butyrate 30 Kapsül",
-        "slug": "duobalance-butyrate-30-kapsul",
-        "brand": "Duobalance",
-        "price": 949.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f59ad20c-91c3-4b42-aa96-eec7d34d226c/image_1950.webp",
-        "cats": [
-          "İhtiyaca Göre",
-          "Yağ Asitleri",
-          "Sindirim ve Bağırsak",
-          "Sindirim Sağlığı"
-        ],
-        "stock": 24
       },
       {
         "name": "Efervit Defence 20 Efervesan Tablet",
@@ -20807,8 +20719,8 @@
         "stock": 18
       },
       {
-        "name": "NBT Life Time Magnezyum Kapsül 30+30 Kapsül",
-        "slug": "nbt-life-time-magnezyum-kapsul-30-30-kapsul",
+        "name": "NBT Life Time Magnezyum Kapsül 60 Kapsül",
+        "slug": "nbt-life-time-magnezyum-60-kapsul",
         "brand": "NBT Life",
         "price": 949.0,
         "discount_price": null,
@@ -20819,7 +20731,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 24
+        "stock": 16
       },
       {
         "name": "NaturalNest Magnezyum Plus 30 Tablet",
@@ -21920,20 +21832,6 @@
           "Ginseng"
         ],
         "stock": 2
-      },
-      {
-        "name": "Tabvitamins Feritinol Direct Saşe, Mikroenkapsüle Demir 30 Saşe",
-        "slug": "tabvitamins-feritinol-direct-sase-mikroenkapsule-demir-30-sase",
-        "brand": "TabVitamins",
-        "price": 799.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/93366ec2-0cd9-4269-a229-dd386b3990bf/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Vitamin ve Takviye",
-          "Demir"
-        ],
-        "stock": 24
       },
       {
         "name": "Velavit V-Selenium 200 Tablet 60 Tablet",
@@ -47054,8 +46952,8 @@
         "stock": 18
       },
       {
-        "name": "NBT Life Time Magnezyum Kapsül 30+30 Kapsül",
-        "slug": "nbt-life-time-magnezyum-kapsul-30-30-kapsul",
+        "name": "NBT Life Time Magnezyum Kapsül 60 Kapsül",
+        "slug": "nbt-life-time-magnezyum-60-kapsul",
         "brand": "NBT Life",
         "price": 949.0,
         "discount_price": null,
@@ -47066,7 +46964,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 24
+        "stock": 16
       },
       {
         "name": "NaturalNest Magnezyum Plus 30 Tablet",
@@ -47754,7 +47652,7 @@
           "Kemik ve Eklem Sağlığı",
           "Tip 2 Kolajen"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Collart Tablet (Glukozamin, Kondroitin, Kolajen, C Vitamini) 30 Tablet",
@@ -48229,8 +48127,8 @@
         "stock": 18
       },
       {
-        "name": "NBT Life Time Magnezyum Kapsül 30+30 Kapsül",
-        "slug": "nbt-life-time-magnezyum-kapsul-30-30-kapsul",
+        "name": "NBT Life Time Magnezyum Kapsül 60 Kapsül",
+        "slug": "nbt-life-time-magnezyum-60-kapsul",
         "brand": "NBT Life",
         "price": 949.0,
         "discount_price": null,
@@ -48241,7 +48139,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 24
+        "stock": 16
       },
       {
         "name": "NBTLife D3K2 Damla, D3 ve K2 Vitamini, 20 ml",
@@ -49636,8 +49534,8 @@
         "stock": 18
       },
       {
-        "name": "NBT Life Time Magnezyum Kapsül 30+30 Kapsül",
-        "slug": "nbt-life-time-magnezyum-kapsul-30-30-kapsul",
+        "name": "NBT Life Time Magnezyum Kapsül 60 Kapsül",
+        "slug": "nbt-life-time-magnezyum-60-kapsul",
         "brand": "NBT Life",
         "price": 949.0,
         "discount_price": null,
@@ -49648,7 +49546,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 24
+        "stock": 16
       },
       {
         "name": "NaturalNest Magnezyum Plus 30 Tablet",
@@ -50145,21 +50043,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 1
-      },
-      {
-        "name": "Bruno Baby Nazal Burun Aspiratörü Manuel",
-        "slug": "bruno-baby-nazal-burun-aspiratoru-manuel",
-        "brand": "Bruno Baby",
-        "price": 365.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd51a2d2-2c73-42af-8e09-1eb00545df42/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Burun Aspiratörü",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 24
       },
       {
         "name": "Otribebe Yumuşak Uçlu Nazal Bebek Aspiratörü 1 Araç Burun Temizleyici",
@@ -57303,11 +57186,9 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/93366ec2-0cd9-4269-a229-dd386b3990bf/image_1950.webp",
         "cats": [
-          "Mineraller",
-          "Vitamin ve Takviye",
           "Demir"
         ],
-        "stock": 24
+        "stock": 12
       },
       {
         "name": "Velavit V-Iron C Vitamini Demir Eksikliği Takviyesi 30 Tablet",
@@ -67738,7 +67619,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -68376,7 +68257,7 @@
           "Bitkisel Takviyeler",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 12
+        "stock": 10
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -68524,7 +68405,7 @@
           "Bitkisel Takviyeler",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 12
+        "stock": 10
       },
       {
         "name": "Proxeed Plus Saşe Karnitin Vitamin Mineral Takviyesi 30 Saşe",
@@ -71660,19 +71541,6 @@
         "stock": 1
       },
       {
-        "name": "Splenda Tablet Plastik Tetikleyici Ambalaj 300 Tablet",
-        "slug": "splenda-tablet-plastik-tetikleyici-ambalaj-300-tablet",
-        "brand": "Splenda",
-        "price": 479.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f647c200-b591-439a-b457-2829b0c241e0/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Tablet Tatlandırıcı"
-        ],
-        "stock": 24
-      },
-      {
         "name": "Splenda Tablet Plastik Tetikleyici Ambalaj 500 Tablet",
         "slug": "splenda-tablet-plastik-tetikleyici-ambalaj-500-tablet",
         "brand": "Splenda",
@@ -71810,7 +71678,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -78433,7 +78301,7 @@
           "Kemik ve Eklem Sağlığı",
           "Tip 2 Kolajen"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Collart Glukozamin Kondroitin Kolajen Takviyesi 30 Tablet",
@@ -78452,7 +78320,7 @@
           "Kemik ve Eklem Sağlığı",
           "Tip 2 Kolajen"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Collart Tablet (Glukozamin, Kondroitin, Kolajen, C Vitamini) 30 Tablet",
@@ -78753,7 +78621,7 @@
           "Kemik ve Eklem Sağlığı",
           "Tip 2 Kolajen"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Collart Glukozamin Kondroitin Kolajen Takviyesi 30 Tablet",
@@ -78772,7 +78640,7 @@
           "Kemik ve Eklem Sağlığı",
           "Tip 2 Kolajen"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Collart Tablet (Glukozamin, Kondroitin, Kolajen, C Vitamini) 30 Tablet",
@@ -78983,7 +78851,7 @@
           "Kemik ve Eklem Sağlığı",
           "Tip 2 Kolajen"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Day2Day The Collagen All Body Takviye Edici Gıda 450 gr",
@@ -79203,7 +79071,7 @@
           "Kemik ve Eklem Sağlığı",
           "Tip 2 Kolajen"
         ],
-        "stock": 23
+        "stock": 21
       },
       {
         "name": "Day2Day The Collagen All Body Takviye Edici Gıda 450 gr",
@@ -82399,7 +82267,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Day2day The Collagen Mag Plus Magnezyumlu Kolajen 30 Poşet",
@@ -82503,7 +82371,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -85384,12 +85252,11 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f59ad20c-91c3-4b42-aa96-eec7d34d226c/image_1950.webp",
         "cats": [
-          "İhtiyaca Göre",
           "Yağ Asitleri",
           "Sindirim ve Bağırsak",
           "Sindirim Sağlığı"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "Solgar EFA Omega 3 6 9 Dengeli Yağ Asitleri 60 Kapsül",
@@ -85418,12 +85285,11 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f59ad20c-91c3-4b42-aa96-eec7d34d226c/image_1950.webp",
         "cats": [
-          "İhtiyaca Göre",
           "Yağ Asitleri",
           "Sindirim ve Bağırsak",
           "Sindirim Sağlığı"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "Duobalance Mood Kapsül Ruh Hali Destekleyici Probiyotik 30 Adet",
@@ -97448,7 +97314,7 @@
           "Bitkisel Takviyeler",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 12
+        "stock": 10
       }
     ],
     "Prezervatif": [
@@ -101308,9 +101174,9 @@
     ]
   },
   "stats": {
-    "total_products": 6464,
+    "total_products": 6455,
     "total_categories": 698,
-    "generated": "2026-08-29 07:27",
+    "generated": "2026-08-29 15:00",
     "source": "ikas_api_live"
   }
 }
