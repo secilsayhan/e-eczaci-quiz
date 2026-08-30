@@ -939,21 +939,6 @@
         "stock": 1
       },
       {
-        "name": "Bruno Baby Nazal Burun Aspiratörü Yedek Uç 10 Adet",
-        "slug": "bruno-baby-nazal-burun-aspiratoru-yedek-uc-10-adet",
-        "brand": "Bruno Baby",
-        "price": 282.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e495dcbf-77be-4466-9df5-9f90b314fa8a/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Çocuk Sağlığı",
-          "Burun Aspiratörü Yedek Uç"
-        ],
-        "stock": 20
-      },
-      {
         "name": "Bruno Baby Serum Fizyolojik Burun Damlası %0.9 20x5 ml",
         "slug": "bruno-baby-serum-fizyolojik-burun-damlasi-yuzde-0-9-20x5-ml",
         "brand": "Bruno Baby",
@@ -2057,21 +2042,6 @@
         "stock": 1
       },
       {
-        "name": "Bruno Baby Nazal Burun Aspiratörü Yedek Uç 10 Adet",
-        "slug": "bruno-baby-nazal-burun-aspiratoru-yedek-uc-10-adet",
-        "brand": "Bruno Baby",
-        "price": 282.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e495dcbf-77be-4466-9df5-9f90b314fa8a/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Çocuk Sağlığı",
-          "Burun Aspiratörü Yedek Uç"
-        ],
-        "stock": 20
-      },
-      {
         "name": "Otribebe Monodoz %100 Doğal Deniz Suyu Burun Damlası 20x5ml Flakon",
         "slug": "otribebe-monodoz-100-dogal-deniz-suyu-burun-damlasi-20x5ml-flakon",
         "brand": "Otribebe",
@@ -2399,21 +2369,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 2
-      },
-      {
-        "name": "Bruno Baby Nazal Burun Aspiratörü Yedek Uç 10 Adet",
-        "slug": "bruno-baby-nazal-burun-aspiratoru-yedek-uc-10-adet",
-        "brand": "Bruno Baby",
-        "price": 282.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e495dcbf-77be-4466-9df5-9f90b314fa8a/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Çocuk Sağlığı",
-          "Burun Aspiratörü Yedek Uç"
-        ],
-        "stock": 20
       },
       {
         "name": "Bruno Baby Serum Fizyolojik Burun Damlası %0.9 20x5 ml",
@@ -3374,7 +3329,7 @@
         "name": "Sorvagen Smart For Kids Sıvı Sitikolin DHA Omega 3 B12 Vitamini 150 ml",
         "slug": "sorvagen-smart-for-kids-sivi-sitikolin-dha-omega-3-b12-vitamini-150-ml",
         "brand": "Sorvagen",
-        "price": 926.5,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d7f1a08-912a-41d4-938c-1d8210f52d33/image_1950.webp",
         "cats": [
@@ -3386,7 +3341,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 3
       },
       {
         "name": "Supradyn Kids Çiğnenebilir Multivitamin ve Mineral 60 Adet",
@@ -8026,20 +7981,6 @@
         "stock": 9
       },
       {
-        "name": "Ocean Çinko Bisglisinat Kalemlik Hediyeli Yüksek Emilimli Çinko",
-        "slug": "ocean-cinko-bisglisinat-kalemlik-hediyeli-yuksek-emilimli-cinko",
-        "brand": "Orzax",
-        "price": 393.78,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ec0ac48-50bd-41ce-95b1-3fbef0c9155b/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Saç, Cilt ve Tırnak",
-          "Çinko"
-        ],
-        "stock": 20
-      },
-      {
         "name": "Ocean Çinko Bisglisinat Sıvı 150 ml",
         "slug": "ocean-cinko-bisglisinat-sivi-150-ml",
         "brand": "Orzax",
@@ -8051,7 +7992,7 @@
           "Saç, Cilt ve Tırnak",
           "Çinko"
         ],
-        "stock": 22
+        "stock": 20
       },
       {
         "name": "Orzax Efervit Vit C 20 Efervesan Tablet",
@@ -8248,7 +8189,7 @@
           "Cilt, Saç ve Tırnak",
           "Çinko"
         ],
-        "stock": 22
+        "stock": 20
       },
       {
         "name": "Orzax Ocean Çörek Otu Yağı 1000 mg Bağışıklık Desteği 60 Kapsül",
@@ -11860,21 +11801,6 @@
         "stock": 3
       },
       {
-        "name": "Priorin Intense Avantaj Pak 120Kap+60Kap",
-        "slug": "priorin-intense-avantaj-pak-120kap-plus60kap",
-        "brand": "Priorin",
-        "price": 3699.9,
-        "discount_price": 3185.94,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca365a5b-95ba-4bd2-bde8-5765211c2df5/image_1950.webp",
-        "cats": [
-          "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
-          "Bitkisel Takviyeler",
-          "Saç Dökülmesi"
-        ],
-        "stock": 11
-      },
-      {
         "name": "ProteinOcean L-Carnitine 150 gr Limonata Aromalı",
         "slug": "proteinocean-l-carnitine-150-gr-limonata-aromali",
         "brand": "Proteinocean",
@@ -13458,20 +13384,6 @@
         "stock": 69
       },
       {
-        "name": "Ocean Çinko Bisglisinat Kalemlik Hediyeli Yüksek Emilimli Çinko",
-        "slug": "ocean-cinko-bisglisinat-kalemlik-hediyeli-yuksek-emilimli-cinko",
-        "brand": "Orzax",
-        "price": 393.78,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ec0ac48-50bd-41ce-95b1-3fbef0c9155b/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Saç, Cilt ve Tırnak",
-          "Çinko"
-        ],
-        "stock": 20
-      },
-      {
         "name": "Ocean Çinko Bisglisinat Sıvı 150 ml",
         "slug": "ocean-cinko-bisglisinat-sivi-150-ml",
         "brand": "Orzax",
@@ -13483,7 +13395,7 @@
           "Saç, Cilt ve Tırnak",
           "Çinko"
         ],
-        "stock": 22
+        "stock": 20
       },
       {
         "name": "Orzax Ocean Picozinc Çinko Takviyesi Yüksek Emilim 30 Tablet",
@@ -13511,7 +13423,7 @@
           "Cilt, Saç ve Tırnak",
           "Çinko"
         ],
-        "stock": 22
+        "stock": 20
       },
       {
         "name": "Phytopharma Servi Kozalaği Sivi CAM Kavanoz, Sakiz, Çinko ve D Vitamini İçeren Takviye Edici Gıda 240ml Şişe",
@@ -14626,11 +14538,10 @@
         "slug": "priorin-intense-avantaj-pak-120kap-plus60kap",
         "brand": "Priorin",
         "price": 3699.9,
-        "discount_price": 3185.94,
+        "discount_price": 3300.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca365a5b-95ba-4bd2-bde8-5765211c2df5/image_1950.webp",
         "cats": [
           "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
           "Bitkisel Takviyeler",
           "Saç Dökülmesi"
         ],
@@ -14640,16 +14551,15 @@
         "name": "Priorin Intense Kapsül Vitamin ve Bitki Ekstraktı Saç Takviyesi 60 Kapsül",
         "slug": "priorin-intense-kapsul-vitamin-ve-bitki-ekstrakti-sac-60-kapsul",
         "brand": "Bayer",
-        "price": 2021.0,
+        "price": 1700.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a3ea56a9-4985-4ae7-93d4-65b8508bc8cb/image_1950.webp",
         "cats": [
           "Cilt, Saç ve Tırnak",
-          "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler",
           "Saç Dökülmesi"
         ],
-        "stock": 20
+        "stock": 15
       },
       {
         "name": "Profolmix Men Saşe L-Karnitin Vitamin C L-Arjinin Ginseng Koenzim Q10 Vitamin Takviyesi 30 Saşe",
@@ -17089,20 +16999,6 @@
         "stock": 9
       },
       {
-        "name": "Ocean Çinko Bisglisinat Kalemlik Hediyeli Yüksek Emilimli Çinko",
-        "slug": "ocean-cinko-bisglisinat-kalemlik-hediyeli-yuksek-emilimli-cinko",
-        "brand": "Orzax",
-        "price": 393.78,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ec0ac48-50bd-41ce-95b1-3fbef0c9155b/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Saç, Cilt ve Tırnak",
-          "Çinko"
-        ],
-        "stock": 20
-      },
-      {
         "name": "Ocean Çinko Bisglisinat Sıvı 150 ml",
         "slug": "ocean-cinko-bisglisinat-sivi-150-ml",
         "brand": "Orzax",
@@ -17113,21 +17009,6 @@
           "Bağışıklık Sistemi",
           "Saç, Cilt ve Tırnak",
           "Çinko"
-        ],
-        "stock": 22
-      },
-      {
-        "name": "Priorin Intense Kapsül Vitamin ve Bitki Ekstraktı Saç Takviyesi 60 Kapsül",
-        "slug": "priorin-intense-kapsul-vitamin-ve-bitki-ekstrakti-sac-60-kapsul",
-        "brand": "Bayer",
-        "price": 2021.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a3ea56a9-4985-4ae7-93d4-65b8508bc8cb/image_1950.webp",
-        "cats": [
-          "Cilt, Saç ve Tırnak",
-          "Saç, Cilt ve Tırnak",
-          "Bitkisel Takviyeler",
-          "Saç Dökülmesi"
         ],
         "stock": 20
       },
@@ -21872,7 +21753,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 50
+        "stock": 49
       },
       {
         "name": "Vitasanol Şurup Multivitamin ve Multimineral İçeren Takviye Edici Gıda",
@@ -24207,7 +24088,7 @@
         "name": "Sorvagen Smart For Kids Sıvı Sitikolin DHA Omega 3 B12 Vitamini 150 ml",
         "slug": "sorvagen-smart-for-kids-sivi-sitikolin-dha-omega-3-b12-vitamini-150-ml",
         "brand": "Sorvagen",
-        "price": 926.5,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d7f1a08-912a-41d4-938c-1d8210f52d33/image_1950.webp",
         "cats": [
@@ -24219,7 +24100,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 3
       },
       {
         "name": "Sorvagen Smart-Mini Kapsül Sitikolin DHA Omega 3 B12 Vitamini 60 Kapsül",
@@ -25914,7 +25795,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 50
+        "stock": 49
       },
       {
         "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
@@ -26562,7 +26443,7 @@
         "name": "Sorvagen Smart For Kids Sıvı Sitikolin DHA Omega 3 B12 Vitamini 150 ml",
         "slug": "sorvagen-smart-for-kids-sivi-sitikolin-dha-omega-3-b12-vitamini-150-ml",
         "brand": "Sorvagen",
-        "price": 926.5,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d7f1a08-912a-41d4-938c-1d8210f52d33/image_1950.webp",
         "cats": [
@@ -26574,7 +26455,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 3
       },
       {
         "name": "Supradyn Kids Çiğnenebilir Multivitamin ve Mineral 60 Adet",
@@ -28936,7 +28817,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 50
+        "stock": 49
       },
       {
         "name": "Vitapure Fermix Oral Damla Ferrous Sulfate 2 Demir İçeren Damla Takviye Edici Gıda 30 ml",
@@ -30317,7 +30198,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 50
+        "stock": 49
       },
       {
         "name": "Vitasanol Şurup Multivitamin ve Multimineral İçeren Takviye Edici Gıda",
@@ -58652,11 +58533,10 @@
         "slug": "priorin-intense-avantaj-pak-120kap-plus60kap",
         "brand": "Priorin",
         "price": 3699.9,
-        "discount_price": 3185.94,
+        "discount_price": 3300.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca365a5b-95ba-4bd2-bde8-5765211c2df5/image_1950.webp",
         "cats": [
           "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
           "Bitkisel Takviyeler",
           "Saç Dökülmesi"
         ],
@@ -58666,16 +58546,15 @@
         "name": "Priorin Intense Kapsül Vitamin ve Bitki Ekstraktı Saç Takviyesi 60 Kapsül",
         "slug": "priorin-intense-kapsul-vitamin-ve-bitki-ekstrakti-sac-60-kapsul",
         "brand": "Bayer",
-        "price": 2021.0,
+        "price": 1700.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a3ea56a9-4985-4ae7-93d4-65b8508bc8cb/image_1950.webp",
         "cats": [
           "Cilt, Saç ve Tırnak",
-          "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler",
           "Saç Dökülmesi"
         ],
-        "stock": 20
+        "stock": 15
       },
       {
         "name": "TTO Clinic Saç Losyonu 30 ml",
@@ -70017,36 +69896,6 @@
         "stock": 13
       }
     ],
-    "Burun Aspiratörü Yedek Uç": [
-      {
-        "name": "Bruno Baby Nazal Burun Aspiratörü Yedek Uç 10 Adet",
-        "slug": "bruno-baby-nazal-burun-aspiratoru-yedek-uc-10-adet",
-        "brand": "Bruno Baby",
-        "price": 282.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e495dcbf-77be-4466-9df5-9f90b314fa8a/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Çocuk Sağlığı",
-          "Burun Aspiratörü Yedek Uç"
-        ],
-        "stock": 20
-      },
-      {
-        "name": "Otribebe Yumuşak Uçlu Nazal Bebek Aspiratörü Yedek Uç 10 Adet",
-        "slug": "otribebe-yumusak-uclu-nazal-bebek-aspiratoru-yedek-uc-10-adet",
-        "brand": "Otribebe",
-        "price": 220.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7a24893c-e3ab-4891-957f-a8f0dceb86c0/image_1950.webp",
-        "cats": [
-          "Burun Bakımı",
-          "Burun Aspiratörü Yedek Uç"
-        ],
-        "stock": 4
-      }
-    ],
     "Serum Fizyolojik": [
       {
         "name": "Bruno Baby Serum Fizyolojik Burun Damlası %0.9 20x5 ml",
@@ -70420,7 +70269,7 @@
           "Cilt, Saç ve Tırnak",
           "Çinko"
         ],
-        "stock": 22
+        "stock": 20
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -70445,11 +70294,10 @@
         "slug": "priorin-intense-avantaj-pak-120kap-plus60kap",
         "brand": "Priorin",
         "price": 3699.9,
-        "discount_price": 3185.94,
+        "discount_price": 3300.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca365a5b-95ba-4bd2-bde8-5765211c2df5/image_1950.webp",
         "cats": [
           "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
           "Bitkisel Takviyeler",
           "Saç Dökülmesi"
         ],
@@ -70459,16 +70307,15 @@
         "name": "Priorin Intense Kapsül Vitamin ve Bitki Ekstraktı Saç Takviyesi 60 Kapsül",
         "slug": "priorin-intense-kapsul-vitamin-ve-bitki-ekstrakti-sac-60-kapsul",
         "brand": "Bayer",
-        "price": 2021.0,
+        "price": 1700.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a3ea56a9-4985-4ae7-93d4-65b8508bc8cb/image_1950.webp",
         "cats": [
           "Cilt, Saç ve Tırnak",
-          "Saç, Cilt ve Tırnak",
           "Bitkisel Takviyeler",
           "Saç Dökülmesi"
         ],
-        "stock": 20
+        "stock": 15
       },
       {
         "name": "Solgar Biotin 1000 Mcg Kapsül 50 Kapsül",
@@ -72638,7 +72485,7 @@
         "name": "Sorvagen Smart For Kids Sıvı Sitikolin DHA Omega 3 B12 Vitamini 150 ml",
         "slug": "sorvagen-smart-for-kids-sivi-sitikolin-dha-omega-3-b12-vitamini-150-ml",
         "brand": "Sorvagen",
-        "price": 926.5,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d7f1a08-912a-41d4-938c-1d8210f52d33/image_1950.webp",
         "cats": [
@@ -72650,7 +72497,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 3
       },
       {
         "name": "Sorvagen Smart-Mini Kapsül Sitikolin DHA Omega 3 B12 Vitamini 60 Kapsül",
@@ -75479,7 +75326,7 @@
         "name": "Sorvagen Smart For Kids Sıvı Sitikolin DHA Omega 3 B12 Vitamini 150 ml",
         "slug": "sorvagen-smart-for-kids-sivi-sitikolin-dha-omega-3-b12-vitamini-150-ml",
         "brand": "Sorvagen",
-        "price": 926.5,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d7f1a08-912a-41d4-938c-1d8210f52d33/image_1950.webp",
         "cats": [
@@ -75491,13 +75338,13 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 3
       },
       {
         "name": "Sorvagen Smart For Kids Sıvı Sitikolin DHA Omega 3 B12 Vitamini 150 ml",
         "slug": "sorvagen-smart-for-kids-sivi-sitikolin-dha-omega-3-b12-vitamini-150-ml",
         "brand": "Sorvagen",
-        "price": 926.5,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d7f1a08-912a-41d4-938c-1d8210f52d33/image_1950.webp",
         "cats": [
@@ -75509,7 +75356,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 3
       },
       {
         "name": "Sorvagen Smart-Mini Kapsül Sitikolin DHA Omega 3 B12 Vitamini 60 Kapsül",
@@ -77001,7 +76848,7 @@
         "name": "Sorvagen Smart For Kids Sıvı Sitikolin DHA Omega 3 B12 Vitamini 150 ml",
         "slug": "sorvagen-smart-for-kids-sivi-sitikolin-dha-omega-3-b12-vitamini-150-ml",
         "brand": "Sorvagen",
-        "price": 926.5,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0d7f1a08-912a-41d4-938c-1d8210f52d33/image_1950.webp",
         "cats": [
@@ -77013,7 +76860,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 3
       },
       {
         "name": "Sorvagen Smart-Mini Kapsül Sitikolin DHA Omega 3 B12 Vitamini 60 Kapsül",
@@ -79434,7 +79281,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 50
+        "stock": 49
       }
     ],
     "Şeker Ölçüm Aksesuarları": [
@@ -79549,19 +79396,6 @@
           "Protez Temizleyici Tablet"
         ],
         "stock": 2
-      },
-      {
-        "name": "Corega Süper Güçlü Diş Protezi Yapıştırıcı Krem 40 gr",
-        "slug": "corega-super-guclu-dis-protezi-yapistirici-krem-40-gr",
-        "brand": "Corega",
-        "price": 282.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/976d661a-04ae-49a6-9fb1-a7b3a1059725/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Protez Yapıştırıcı Krem"
-        ],
-        "stock": 19
       },
       {
         "name": "Corega Temizleyici Tablet 30 Tablet",
@@ -79888,19 +79722,6 @@
           "Protez Yapıştırıcı Krem"
         ],
         "stock": 6
-      },
-      {
-        "name": "Corega Süper Güçlü Diş Protezi Yapıştırıcı Krem 40 gr",
-        "slug": "corega-super-guclu-dis-protezi-yapistirici-krem-40-gr",
-        "brand": "Corega",
-        "price": 282.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/976d661a-04ae-49a6-9fb1-a7b3a1059725/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Protez Yapıştırıcı Krem"
-        ],
-        "stock": 19
       },
       {
         "name": "Fixodent Complete Fresh Diş Protezi Yapıştırıcı Krem 47 G Tüp",
@@ -81660,10 +81481,9 @@
         "cats": [
           "Kolonya",
           "Kolonya",
-          "Dezenfektan ve Kolonya",
           "Kolonya Sprey"
         ],
-        "stock": 19
+        "stock": 16
       },
       {
         "name": "Kolonya Rebul Sprey 50 ml",
@@ -81675,10 +81495,9 @@
         "cats": [
           "Kolonya",
           "Kolonya",
-          "Dezenfektan ve Kolonya",
           "Kolonya Sprey"
         ],
-        "stock": 19
+        "stock": 16
       },
       {
         "name": "Rebul Kolonya Sprey 50 ml",
@@ -81889,21 +81708,6 @@
           "Kolonya Sprey"
         ],
         "stock": 1
-      },
-      {
-        "name": "Kolonya Rebul Sprey 50 ml",
-        "slug": "kolonya-rebul-sprey-50-ml",
-        "brand": "Rebul",
-        "price": 190.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3d012721-346a-4ed1-ad84-56f162f1860d/image_1950.webp",
-        "cats": [
-          "Kolonya",
-          "Kolonya",
-          "Dezenfektan ve Kolonya",
-          "Kolonya Sprey"
-        ],
-        "stock": 19
       },
       {
         "name": "Rebul Kolonya Sprey 50 ml",
@@ -85450,10 +85254,9 @@
         "cats": [
           "Kolonya",
           "Kolonya",
-          "Dezenfektan ve Kolonya",
           "Kolonya Sprey"
         ],
-        "stock": 19
+        "stock": 16
       },
       {
         "name": "Rebul Kolonya Sprey 50 ml",
@@ -97565,7 +97368,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 50
+        "stock": 49
       },
       {
         "name": "Youplus Vitamin C Efervesan Suda Eriyen Tablet (2. Ürün %50 İndirimli) (2x20 Adet)",
@@ -98419,6 +98222,21 @@
           "Medikal Ürünler"
         ],
         "stock": 5
+      }
+    ],
+    "Burun Aspiratörü Yedek Uç": [
+      {
+        "name": "Otribebe Yumuşak Uçlu Nazal Bebek Aspiratörü Yedek Uç 10 Adet",
+        "slug": "otribebe-yumusak-uclu-nazal-bebek-aspiratoru-yedek-uc-10-adet",
+        "brand": "Otribebe",
+        "price": 220.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7a24893c-e3ab-4891-957f-a8f0dceb86c0/image_1950.webp",
+        "cats": [
+          "Burun Bakımı",
+          "Burun Aspiratörü Yedek Uç"
+        ],
+        "stock": 4
       }
     ],
     "Oturma Simidi": [
@@ -101252,9 +101070,9 @@
     ]
   },
   "stats": {
-    "total_products": 6461,
+    "total_products": 6449,
     "total_categories": 699,
-    "generated": "2026-08-30 11:55",
+    "generated": "2026-08-30 15:00",
     "source": "ikas_api_live"
   }
 }
