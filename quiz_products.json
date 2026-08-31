@@ -9401,20 +9401,6 @@
         "stock": 1
       },
       {
-        "name": "İmuneks Farma Imuneks 10 mg Tablet Beta Glukan Takviyesi 40 Kapsül",
-        "slug": "imuneks-farma-imuneks-10-mg-tablet-beta-glukan-takviyesi-40-kapsul",
-        "brand": "İmuneks",
-        "price": 695.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/baa6f896-f8cf-4c86-9895-ef2d538f5766/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "En Yeniler",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
         "name": "İmuneks Farma Inflamax Kapsül Optimize Zerdeçal Ekstresi Takviyesi 60 Kapsül",
         "slug": "imuneks-farma-inflamax-kapsul-optimize-zerdecop-ekstresi-60-kapsul",
         "brand": "İmuneks",
@@ -23879,7 +23865,7 @@
           "Beyin ve Hafıza",
           "Enerji ve Zindelik"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Orzax Ocean Metil B12 Dilaltı Sprey 500 mcg",
@@ -25208,7 +25194,7 @@
           "Beyin ve Hafıza",
           "Enerji ve Zindelik"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Orzax Ocean Metil B12 Dilaltı Sprey 500 mcg",
@@ -27855,7 +27841,7 @@
           "Beyin ve Hafıza",
           "Enerji ve Zindelik"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Orzax Ocean Metil B12 Dilaltı Sprey 500 mcg",
@@ -39014,7 +39000,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -40903,7 +40889,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -40917,7 +40903,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -43419,7 +43405,7 @@
         "cats": [
           "Temizleme Jeli"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Vichy Normaderm Jel 400 ml",
@@ -85384,20 +85370,6 @@
         "stock": 1
       },
       {
-        "name": "İmuneks Farma Imuneks 10 mg Tablet Beta Glukan Takviyesi 40 Kapsül",
-        "slug": "imuneks-farma-imuneks-10-mg-tablet-beta-glukan-takviyesi-40-kapsul",
-        "brand": "İmuneks",
-        "price": 695.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/baa6f896-f8cf-4c86-9895-ef2d538f5766/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "En Yeniler",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
         "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
         "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
         "brand": "İmuneks",
@@ -100686,20 +100658,6 @@
         "stock": 2
       },
       {
-        "name": "İmuneks Farma Imuneks 10 mg Tablet Beta Glukan Takviyesi 40 Kapsül",
-        "slug": "imuneks-farma-imuneks-10-mg-tablet-beta-glukan-takviyesi-40-kapsul",
-        "brand": "İmuneks",
-        "price": 695.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/baa6f896-f8cf-4c86-9895-ef2d538f5766/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "En Yeniler",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
         "name": "İmuneks Farma Imuneks Kids Sıvı Multivitamin Takviyesi 150 ml",
         "slug": "imuneks-farma-imuneks-kids-sivi-beta-glukan-multivitamin-150-ml",
         "brand": "İmuneks",
@@ -100836,9 +100794,9 @@
     ]
   },
   "stats": {
-    "total_products": 6435,
+    "total_products": 6432,
     "total_categories": 698,
-    "generated": "2026-08-31 11:11",
+    "generated": "2026-08-31 15:00",
     "source": "ikas_api_live"
   }
 }
