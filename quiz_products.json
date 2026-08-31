@@ -96,7 +96,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 100 gr",
@@ -110,7 +110,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 30 gr",
@@ -2321,7 +2321,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 30 gr",
@@ -18311,7 +18311,7 @@
           "Sindirim Sağlığı",
           "Hatmi Çiçeği"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "GoodDay Exclusive Dispepta Sıvı Kapsül Tıbbi Nane ve Frenk Kimyonu Yağı 30 Kapsül",
@@ -23436,20 +23436,6 @@
           "PP Biberon"
         ],
         "stock": 2
-      },
-      {
-        "name": "Lansinoh Natural Wave Biberon 240 ml",
-        "slug": "lansinoh-natural-wave-biberon-240-ml",
-        "brand": "Lansinoh",
-        "price": 629.99,
-        "discount_price": 405.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/867d061f-8a68-415b-8521-82a577c682a5/image_1950.webp",
-        "cats": [
-          "PP Biberon",
-          "Biberon",
-          "PP Biberon"
-        ],
-        "stock": 1
       },
       {
         "name": "Wee Biberon Cam 125 ml 877",
@@ -43585,34 +43571,6 @@
           "PP Biberon"
         ],
         "stock": 2
-      },
-      {
-        "name": "Lansinoh Natural Wave Biberon 240 ml",
-        "slug": "lansinoh-natural-wave-biberon-240-ml",
-        "brand": "Lansinoh",
-        "price": 629.99,
-        "discount_price": 405.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/867d061f-8a68-415b-8521-82a577c682a5/image_1950.webp",
-        "cats": [
-          "PP Biberon",
-          "Biberon",
-          "PP Biberon"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Lansinoh Natural Wave Biberon 240 ml",
-        "slug": "lansinoh-natural-wave-biberon-240-ml",
-        "brand": "Lansinoh",
-        "price": 629.99,
-        "discount_price": 405.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/867d061f-8a68-415b-8521-82a577c682a5/image_1950.webp",
-        "cats": [
-          "PP Biberon",
-          "Biberon",
-          "PP Biberon"
-        ],
-        "stock": 1
       },
       {
         "name": "Wee Biberon PP 125 ml 851",
@@ -68273,7 +68231,7 @@
           "Vajinal Flora",
           "Vajinal Probiyotik"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
@@ -69724,7 +69682,7 @@
           "Vajinal Flora",
           "Vajinal Probiyotik"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Etoile Intim Yıkama Boric Acid 200 ml",
@@ -84726,7 +84684,7 @@
           "Vajinal Flora",
           "Vajinal Probiyotik"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
@@ -84780,7 +84738,7 @@
           "Vajinal Flora",
           "Vajinal Probiyotik"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Etoile Intim Duş (Borik Asit+Elma Sirkesi) 100 ml",
@@ -84906,7 +84864,7 @@
           "Vajinal Flora",
           "Vajinal Probiyotik"
         ],
-        "stock": 11
+        "stock": 10
       }
     ],
     "Vajinal Probiyotik": [
@@ -84925,7 +84883,7 @@
           "Vajinal Flora",
           "Vajinal Probiyotik"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
@@ -86277,7 +86235,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Etoile Intim Duş (Borik Asit+Elma Sirkesi) 100 ml",
@@ -88374,7 +88332,7 @@
           "Sindirim Sağlığı",
           "Hatmi Çiçeği"
         ],
-        "stock": 9
+        "stock": 7
       }
     ],
     "Meyan Kökü": [
@@ -88391,7 +88349,7 @@
           "Sindirim Sağlığı",
           "Hatmi Çiçeği"
         ],
-        "stock": 9
+        "stock": 7
       }
     ],
     "Hatmi Çiçeği": [
@@ -88408,7 +88366,7 @@
           "Sindirim Sağlığı",
           "Hatmi Çiçeği"
         ],
-        "stock": 9
+        "stock": 7
       }
     ],
     "Detoks ve Arınma": [
@@ -100878,9 +100836,9 @@
     ]
   },
   "stats": {
-    "total_products": 6438,
+    "total_products": 6435,
     "total_categories": 698,
-    "generated": "2026-08-31 08:04",
+    "generated": "2026-08-31 11:11",
     "source": "ikas_api_live"
   }
 }
