@@ -11300,7 +11300,7 @@
           "Antioksidanlar",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Krill Oil 30 Kapsül (%50 Daha Fazla)",
@@ -11802,7 +11802,7 @@
           "Enerji ve Zindelik",
           "Yağ Yakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Meyve Aromalı",
@@ -19301,7 +19301,7 @@
           "İhtiyaca Göre",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 18
+        "stock": 11
       },
       {
         "name": "Cliagyn Kapsül (Çemen Tohumu, Turnera, L-Arjinin) 30 Kapsül",
@@ -19857,7 +19857,7 @@
           "Enerji ve Zindelik",
           "Yağ Yakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Meyve Aromalı",
@@ -27856,7 +27856,7 @@
           "Antioksidanlar",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 10 ml Şişe",
@@ -28194,7 +28194,7 @@
           "Enerji ve Zindelik",
           "Yağ Yakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Meyve Aromalı",
@@ -34599,7 +34599,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Bepanthol Cilt Bakım Kremi 30 gr",
@@ -37885,7 +37885,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Bepanthol Cilt Bakım Kremi 30 gr",
@@ -44289,7 +44289,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Bepanthol Cilt Bakım Kremi 30 gr",
@@ -44578,7 +44578,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Bepanthol Cilt Bakım Kremi 30 gr",
@@ -44861,7 +44861,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Bepanthol Cilt Bakım Kremi 30 gr",
@@ -54051,7 +54051,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Bepanthol Cilt Bakım Kremi 30 gr",
@@ -70855,7 +70855,7 @@
           "İhtiyaca Göre",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 18
+        "stock": 11
       },
       {
         "name": "Glikoz Sıvı Havan 100 G",
@@ -71119,7 +71119,7 @@
           "Enerji ve Zindelik",
           "Yağ Yakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Meyve Aromalı",
@@ -71348,7 +71348,7 @@
           "İhtiyaca Göre",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 18
+        "stock": 11
       },
       {
         "name": "Hermesetas Original Tablet Tatlandırıcı 300 Tablet",
@@ -76263,7 +76263,7 @@
           "Antioksidanlar",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Krill Oil 30 Kapsül (%50 Daha Fazla)",
@@ -77811,20 +77811,6 @@
           "Diş Bakımı"
         ],
         "stock": 1
-      },
-      {
-        "name": "Sensodyne Promine Gentle Soft Asit Aşınmasına Karşı Diş Fırçası Yumuşak",
-        "slug": "sensodyne-promine-gentle-soft-asit-asinmasina-karsi-dis-fircasi",
-        "brand": "Sensodyne",
-        "price": 230.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/676d36d5-59aa-4ea0-abeb-d355aa831eba/image_1950.webp",
-        "cats": [
-          "Yumuşak",
-          "Yumuşak",
-          "Diş Fırçası"
-        ],
-        "stock": 3
       },
       {
         "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
@@ -81224,34 +81210,6 @@
           "Yumuşak"
         ],
         "stock": 1
-      },
-      {
-        "name": "Sensodyne Promine Gentle Soft Asit Aşınmasına Karşı Diş Fırçası Yumuşak",
-        "slug": "sensodyne-promine-gentle-soft-asit-asinmasina-karsi-dis-fircasi",
-        "brand": "Sensodyne",
-        "price": 230.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/676d36d5-59aa-4ea0-abeb-d355aa831eba/image_1950.webp",
-        "cats": [
-          "Yumuşak",
-          "Yumuşak",
-          "Diş Fırçası"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Sensodyne Promine Gentle Soft Asit Aşınmasına Karşı Diş Fırçası Yumuşak",
-        "slug": "sensodyne-promine-gentle-soft-asit-asinmasina-karsi-dis-fircasi",
-        "brand": "Sensodyne",
-        "price": 230.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/676d36d5-59aa-4ea0-abeb-d355aa831eba/image_1950.webp",
-        "cats": [
-          "Yumuşak",
-          "Yumuşak",
-          "Diş Fırçası"
-        ],
-        "stock": 3
       },
       {
         "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
@@ -86527,7 +86485,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 63
+        "stock": 61
       },
       {
         "name": "Etoile Intim Duş (Borik Asit+Elma Sirkesi) 100 ml",
@@ -89071,7 +89029,7 @@
           "Antioksidanlar",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -91149,7 +91107,7 @@
           "Antioksidanlar",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -95969,7 +95927,7 @@
           "Enerji ve Zindelik",
           "Yağ Yakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Limonata Aromalı",
@@ -95987,7 +95945,7 @@
           "Enerji ve Zindelik",
           "Yağ Yakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Meyve Aromalı",
@@ -97515,7 +97473,7 @@
           "Enerji ve Zindelik",
           "Yağ Yakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Meyve Aromalı",
@@ -101132,9 +101090,9 @@
     ]
   },
   "stats": {
-    "total_products": 6455,
+    "total_products": 6452,
     "total_categories": 698,
-    "generated": "2026-09-01 11:27",
+    "generated": "2026-09-01 15:00",
     "source": "ikas_api_live"
   }
 }
