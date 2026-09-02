@@ -8022,7 +8022,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -9973,19 +9973,6 @@
         "stock": 1
       },
       {
-        "name": "Hermesetas Original Tablet Tatlandırıcı 300 Tablet",
-        "slug": "hermesetas-original-tablet-tatlandirici-300-tablet",
-        "brand": "Hermesetas",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f44719f1-1fd8-42c7-a82c-dc786cfd6792/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Tablet Tatlandırıcı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "hpwash-kapsul-aktif-heksoz-korele-bilesik-ve-dim-iceren-takviye-edici",
         "brand": "HPWash",
@@ -11576,7 +11563,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 13
+        "stock": 8
       },
       {
         "name": "Ocean VM Şurup Portakal Aromalı 150 ml Şişe",
@@ -13230,7 +13217,7 @@
           "Çinko",
           "Likopen"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "MaxDefendC C Vitamini D Vitamini Çinko İçeren Takviye Edici Gıda 30 Saşe",
@@ -20141,6 +20128,26 @@
         "stock": 1
       },
       {
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
+        "brand": "Abdi İbrahim",
+        "price": 1430.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
+        "cats": [
+          "Astaksantin",
+          "Göz Sağlığı",
+          "Cilt Sağlığı",
+          "Beyin ve Hafıza",
+          "Omega 3",
+          "Safran",
+          "Resveratrol",
+          "Antioksidan Destek",
+          "Kalp ve Damar Sağlığı"
+        ],
+        "stock": 3
+      },
+      {
         "name": "Moodify Safran Kapsül Safran Magnezyum Valerian B6 Vitamini Takviye Edici Gıda 30 Kapsül",
         "slug": "moodify-safran-kapsul-safran-magnezyum-valerian-b6-vitamini-30-kapsul",
         "brand": "Moodify",
@@ -21019,7 +21026,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 62
+        "stock": 61
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -21121,7 +21128,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -22525,6 +22532,26 @@
           "Nemlendirici",
           "Hassas Göz Çevresi",
           "Cilt Sağlığı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
+        "brand": "Abdi İbrahim",
+        "price": 1430.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
+        "cats": [
+          "Astaksantin",
+          "Göz Sağlığı",
+          "Cilt Sağlığı",
+          "Beyin ve Hafıza",
+          "Omega 3",
+          "Safran",
+          "Resveratrol",
+          "Antioksidan Destek",
+          "Kalp ve Damar Sağlığı"
         ],
         "stock": 3
       },
@@ -24047,7 +24074,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Solgar Bira Mayası B12 Vitamini İçeren 250 Tablet",
@@ -24629,22 +24656,24 @@
         "stock": 6
       },
       {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
         "brand": "Abdi İbrahim",
-        "price": 1091.0,
+        "price": 1430.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
         "cats": [
+          "Astaksantin",
           "Göz Sağlığı",
+          "Cilt Sağlığı",
           "Beyin ve Hafıza",
           "Omega 3",
-          "Lutein ve Zeaksantin",
+          "Safran",
           "Resveratrol",
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Marincor Yumuşak Kapsül, Omega-3 (EPA ve DHA) Balık Yağı, 60 Kapsül",
@@ -25477,7 +25506,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Solgar Cellular Energy Kapsül Nikotinamid Ribosid Vitamin Takviyesi 28 Kapsül",
@@ -28091,7 +28120,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -28393,7 +28422,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Solgar B2 Vitamini Riboflavin Enerji Metabolizması 100 Kapsül",
@@ -28562,7 +28591,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -29408,7 +29437,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Solgar B2 Vitamini Riboflavin Enerji Metabolizması 100 Kapsül",
@@ -29917,7 +29946,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 13
+        "stock": 8
       },
       {
         "name": "Ocean Ultimate 39 Kapsül",
@@ -29932,7 +29961,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 13
+        "stock": 8
       },
       {
         "name": "Ocean VM Şurup Portakal Aromalı 150 ml Şişe",
@@ -30025,7 +30054,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -31973,7 +32002,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -39916,19 +39945,6 @@
         "stock": 1
       },
       {
-        "name": "Vichy Capital Soleil Velvety SPF50 50 ml",
-        "slug": "vichy-capital-soleil-velvety-spf50-50-ml",
-        "brand": "Vichy",
-        "price": 1199.9,
-        "discount_price": 636.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7b0c945b-66b1-4742-ba8e-9d2dad06c5c6/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vichy Capital Soleil Yağlı Cilt SPF 50",
         "slug": "vichy-capital-soleil-yagli-cilt-spf-50",
         "brand": "Vichy",
@@ -41954,19 +41970,6 @@
           "Sağlıklı Yaş Alma",
           "SPF 50+",
           "Anti-Age SPF 50+"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vichy Capital Soleil Velvety SPF50 50 ml",
-        "slug": "vichy-capital-soleil-velvety-spf50-50-ml",
-        "brand": "Vichy",
-        "price": 1199.9,
-        "discount_price": 636.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7b0c945b-66b1-4742-ba8e-9d2dad06c5c6/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 50+"
         ],
         "stock": 1
       },
@@ -47157,7 +47160,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 62
+        "stock": 61
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -48827,7 +48830,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -49767,7 +49770,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 62
+        "stock": 61
       },
       {
         "name": "Potasyum Sitrat 250 Gr Suvar",
@@ -49871,7 +49874,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -53549,22 +53552,24 @@
         "stock": 3
       },
       {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
         "brand": "Abdi İbrahim",
-        "price": 1091.0,
+        "price": 1430.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
         "cats": [
+          "Astaksantin",
           "Göz Sağlığı",
+          "Cilt Sağlığı",
           "Beyin ve Hafıza",
           "Omega 3",
-          "Lutein ve Zeaksantin",
+          "Safran",
           "Resveratrol",
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Nbtlife Lifeguard Kapsül, Selenyum, Çinko, Bakir ve İyot İçeren Takviye Edici Gıda 30 Kapsül",
@@ -56475,22 +56480,24 @@
         "stock": 1
       },
       {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
         "brand": "Abdi İbrahim",
-        "price": 1091.0,
+        "price": 1430.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
         "cats": [
+          "Astaksantin",
           "Göz Sağlığı",
+          "Cilt Sağlığı",
           "Beyin ve Hafıza",
           "Omega 3",
-          "Lutein ve Zeaksantin",
+          "Safran",
           "Resveratrol",
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Macufer Lutein ve Zeaxantin Kapsül Göz Sağlığı Takviyesi 30 Kapsül",
@@ -60167,21 +60174,6 @@
         "stock": 2
       },
       {
-        "name": "La Roche Posay Toleriane Hassas Ciltler İçin Köpük Temizleyici",
-        "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-kopuk-temizleyici",
-        "brand": "La Roche-Posay",
-        "price": 1398.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/44cbd092-48eb-4e31-b876-85a314b06f01/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler"
-        ],
-        "stock": 4
-      },
-      {
         "name": "La Roche Posay Toleriane Hassas Ciltler İçin Temizleyici Krem 200 ml",
         "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-temizleyici-krem-200-ml",
         "brand": "La Roche-Posay",
@@ -60436,21 +60428,6 @@
           "Hassas Cilt"
         ],
         "stock": 2
-      },
-      {
-        "name": "La Roche Posay Toleriane Hassas Ciltler İçin Köpük Temizleyici",
-        "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-kopuk-temizleyici",
-        "brand": "La Roche-Posay",
-        "price": 1398.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/44cbd092-48eb-4e31-b876-85a314b06f01/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler"
-        ],
-        "stock": 4
       },
       {
         "name": "La Roche Posay Toleriane Hassas Ciltler İçin Temizleyici Krem 200 ml",
@@ -62205,21 +62182,6 @@
           "Temizleyiciler"
         ],
         "stock": 2
-      },
-      {
-        "name": "La Roche Posay Toleriane Hassas Ciltler İçin Köpük Temizleyici",
-        "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-kopuk-temizleyici",
-        "brand": "La Roche-Posay",
-        "price": 1398.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/44cbd092-48eb-4e31-b876-85a314b06f01/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler"
-        ],
-        "stock": 4
       },
       {
         "name": "La Roche Posay Toleriane Hassas Ciltler İçin Temizleyici Krem 200 ml",
@@ -65983,21 +65945,6 @@
         "stock": 2
       },
       {
-        "name": "La Roche Posay Toleriane Hassas Ciltler İçin Köpük Temizleyici",
-        "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-kopuk-temizleyici",
-        "brand": "La Roche-Posay",
-        "price": 1398.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/44cbd092-48eb-4e31-b876-85a314b06f01/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler"
-        ],
-        "stock": 4
-      },
-      {
         "name": "Orzax SHINIQ Tüm Ciltler İçin Dengeleyici Temizleme Köpüğü",
         "slug": "orzax-shiniq-tum-ciltler-icin-dengeleyici-temizleme-kopugu",
         "brand": "Orzax",
@@ -67907,7 +67854,7 @@
           "Çinko",
           "Likopen"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Hünnap Keçi Boynuzu Özü Doğal Tatlandırıcı 640 g",
@@ -69357,7 +69304,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 13
+        "stock": 8
       },
       {
         "name": "Ocean Vitamin D 1000 IU Sprey",
@@ -71271,19 +71218,6 @@
         "stock": 11
       },
       {
-        "name": "Hermesetas Original Tablet Tatlandırıcı 300 Tablet",
-        "slug": "hermesetas-original-tablet-tatlandirici-300-tablet",
-        "brand": "Hermesetas",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f44719f1-1fd8-42c7-a82c-dc786cfd6792/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Tablet Tatlandırıcı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Splenda Stevia Tablet Plastik Tetikleyici Ambalaj 80 Tablet",
         "slug": "splenda-stevia-tablet-plastik-tetikleyici-ambalaj-80-tablet",
         "brand": "Splenda",
@@ -71600,6 +71534,26 @@
           "Polypodium (Eğrelti)"
         ],
         "stock": 10
+      },
+      {
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
+        "brand": "Abdi İbrahim",
+        "price": 1430.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
+        "cats": [
+          "Astaksantin",
+          "Göz Sağlığı",
+          "Cilt Sağlığı",
+          "Beyin ve Hafıza",
+          "Omega 3",
+          "Safran",
+          "Resveratrol",
+          "Antioksidan Destek",
+          "Kalp ve Damar Sağlığı"
+        ],
+        "stock": 3
       },
       {
         "name": "NBT Life Boost Krill Yağı Omega 3 Fosfolipid İçeren 30 Kapsül",
@@ -74380,22 +74334,24 @@
         "stock": 1
       },
       {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
         "brand": "Abdi İbrahim",
-        "price": 1091.0,
+        "price": 1430.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
         "cats": [
+          "Astaksantin",
           "Göz Sağlığı",
+          "Cilt Sağlığı",
           "Beyin ve Hafıza",
           "Omega 3",
-          "Lutein ve Zeaksantin",
+          "Safran",
           "Resveratrol",
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Marincor Yumuşak Kapsül, Omega-3 (EPA ve DHA) Balık Yağı, 60 Kapsül",
@@ -75805,22 +75761,24 @@
         "stock": 1
       },
       {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
         "brand": "Abdi İbrahim",
-        "price": 1091.0,
+        "price": 1430.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
         "cats": [
+          "Astaksantin",
           "Göz Sağlığı",
+          "Cilt Sağlığı",
           "Beyin ve Hafıza",
           "Omega 3",
-          "Lutein ve Zeaksantin",
+          "Safran",
           "Resveratrol",
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Magnimore Plus Ata Tablet Magnezyum Takviyesi 60 Adet",
@@ -79253,7 +79211,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -86849,7 +86807,7 @@
           "Çinko",
           "Likopen"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Erkek": [
@@ -87765,7 +87723,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 62
+        "stock": 61
       },
       {
         "name": "Solgar Magnezyum B6 Vitamini Sinir Kas Sağlığı 100 Tablet",
@@ -88578,22 +88536,24 @@
         "stock": 34
       },
       {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
+        "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
+        "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
         "brand": "Abdi İbrahim",
-        "price": 1091.0,
+        "price": 1430.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dbc8f1cd-b43c-4bff-a91f-888b2089dff2/image_1950.webp",
         "cats": [
+          "Astaksantin",
           "Göz Sağlığı",
+          "Cilt Sağlığı",
           "Beyin ve Hafıza",
           "Omega 3",
-          "Lutein ve Zeaksantin",
+          "Safran",
           "Resveratrol",
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -89107,24 +89067,6 @@
         "stock": 1
       },
       {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
-        "brand": "Abdi İbrahim",
-        "price": 1091.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
-        "cats": [
-          "Göz Sağlığı",
-          "Beyin ve Hafıza",
-          "Omega 3",
-          "Lutein ve Zeaksantin",
-          "Resveratrol",
-          "Antioksidan Destek",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Macufer Lutein ve Zeaxantin Kapsül Göz Sağlığı Takviyesi 30 Kapsül",
         "slug": "macufer-lutein-ve-zeaxantin-kapsul-goz-sagligi-takviyesi-30-kapsul",
         "brand": "Macufer",
@@ -89210,7 +89152,7 @@
           "Çinko",
           "Likopen"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Tedafarma Vipros Kapsül Cüce Palmiye Isırgan Likopen Takviyesi 30 Kapsül",
@@ -89246,7 +89188,7 @@
           "Çinko",
           "Likopen"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Mx Pecia Tablet Saw Palmetto Biotin Çinko Keratin Saç Takviyesi 60 Tablet",
@@ -89342,7 +89284,7 @@
           "Çinko",
           "Likopen"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Tedafarma Vipros Kapsül Cüce Palmiye Isırgan Likopen Takviyesi 30 Kapsül",
@@ -89955,7 +89897,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Magnezyum Malat": [
@@ -101010,9 +100952,9 @@
     ]
   },
   "stats": {
-    "total_products": 6447,
+    "total_products": 6441,
     "total_categories": 698,
-    "generated": "2026-09-02 11:17",
+    "generated": "2026-09-02 15:00",
     "source": "ikas_api_live"
   }
 }
