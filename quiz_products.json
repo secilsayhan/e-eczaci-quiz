@@ -7934,7 +7934,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Ocean Vitamin D 1000 IU Sprey",
@@ -8189,7 +8189,7 @@
           "Çörek Otu Yağı",
           "Çörek Otu (Black Cumin)"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Orzax İmunol Complex Bağışıklık Güçlendirici 30 Kapsül",
@@ -21019,7 +21019,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 64
+        "stock": 62
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -25390,7 +25390,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Pharmaton 50+ Multivitamin ve Mineral Omega 3 Takviyesi 30 Kapsül",
@@ -31946,7 +31946,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Orzax Efervit Vit C 20 Efervesan Tablet",
@@ -47157,7 +47157,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 64
+        "stock": 62
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -49767,7 +49767,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 64
+        "stock": 62
       },
       {
         "name": "Potasyum Sitrat 250 Gr Suvar",
@@ -50664,7 +50664,7 @@
           "Enginar",
           "Detoks ve Karaciğer Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "GoodDay Lipozomal Berberis Tablet Lipozomal Milk Thistle ve Enginar 30 Tablet",
@@ -50910,7 +50910,7 @@
           "Enginar",
           "Detoks ve Karaciğer Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "GoodDay Lipozomal Berberis Tablet Lipozomal Milk Thistle ve Enginar 30 Tablet",
@@ -51002,7 +51002,7 @@
           "Enginar",
           "Detoks ve Karaciğer Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "LIFEXTRA Onhepa Yumuşak Kapsül, 30 Kapsül",
@@ -75114,7 +75114,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -76562,7 +76562,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -86405,7 +86405,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 58
+        "stock": 56
       },
       {
         "name": "Etoile Intim Duş (Borik Asit+Elma Sirkesi) 100 ml",
@@ -87765,7 +87765,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 64
+        "stock": 62
       },
       {
         "name": "Solgar Magnezyum B6 Vitamini Sinir Kas Sağlığı 100 Tablet",
@@ -91323,7 +91323,7 @@
           "Çörek Otu Yağı",
           "Çörek Otu (Black Cumin)"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Velavit V-Black Cumin Oil 60 Kapsül",
@@ -91395,7 +91395,7 @@
           "Çörek Otu Yağı",
           "Çörek Otu (Black Cumin)"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Zade Vital Black Cumin Oil Cam Şişe 150 ml",
@@ -101012,7 +101012,7 @@
   "stats": {
     "total_products": 6447,
     "total_categories": 698,
-    "generated": "2026-09-02 09:26",
+    "generated": "2026-09-02 11:17",
     "source": "ikas_api_live"
   }
 }
