@@ -124,7 +124,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 30 gr",
@@ -138,7 +138,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 50 gr",
@@ -2307,7 +2307,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 50 gr",
@@ -8835,7 +8835,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Talya Kekik Yağı 20 ml Destekleyici",
@@ -13997,7 +13997,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Grintuss Pediatrik Öksürük Şurubu 128g şişe",
@@ -15488,7 +15488,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Miaday Kürdanlı Diş İpi Pratik Kullanım 40 Adet",
@@ -18518,7 +18518,7 @@
           "Sindirim Sağlığı",
           "Vajinal Probiyotik"
         ],
-        "stock": 37
+        "stock": 36
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -20843,7 +20843,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 229
+        "stock": 227
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -21729,7 +21729,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -22956,36 +22956,6 @@
           "Yüz Bakımı"
         ],
         "stock": 1
-      }
-    ],
-    "Anal ve Rektal Sağlık": [
-      {
-        "name": "Anuflex Pomad Hemoroid ve Anal Rahatsızlıklar İçin 30 gr",
-        "slug": "anuflex-pomad-hemoroid-ve-anal-rahatsizliklar-icin-30-gr",
-        "brand": "Anuflex",
-        "price": 670.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/efb4b7ff-cbe8-42c8-961d-66838ec17629/image_1950.webp",
-        "cats": [
-          "Anal ve Rektal Sağlık",
-          "Hemoroid Kremi"
-        ],
-        "stock": 10
-      }
-    ],
-    "Hemoroid Kremi": [
-      {
-        "name": "Anuflex Pomad Hemoroid ve Anal Rahatsızlıklar İçin 30 gr",
-        "slug": "anuflex-pomad-hemoroid-ve-anal-rahatsizliklar-icin-30-gr",
-        "brand": "Anuflex",
-        "price": 670.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/efb4b7ff-cbe8-42c8-961d-66838ec17629/image_1950.webp",
-        "cats": [
-          "Anal ve Rektal Sağlık",
-          "Hemoroid Kremi"
-        ],
-        "stock": 10
       }
     ],
     "Başlangıç (0-6 Ay)": [
@@ -27763,7 +27733,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 229
+        "stock": 227
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -28676,7 +28646,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -30156,7 +30126,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -35178,7 +35148,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -46987,7 +46957,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 229
+        "stock": 227
       },
       {
         "name": "Ocean Extramag Fibra Tablet, Magnezyum ve B Vitaminleri, 60 Tablet",
@@ -48274,7 +48244,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 229
+        "stock": 227
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -49613,7 +49583,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 229
+        "stock": 227
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -50309,7 +50279,7 @@
           "Sindirim Sağlığı",
           "Vajinal Probiyotik"
         ],
-        "stock": 37
+        "stock": 36
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -50608,7 +50578,7 @@
           "Enginar",
           "Berberin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "LIFEXTRA Onhepa Yumuşak Kapsül, 30 Kapsül",
@@ -50854,7 +50824,7 @@
           "Enginar",
           "Berberin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Goodday Exclusive Lipozomal Berberis Tablet Lipozomal Berberis Vulgaris Lipozomal Milk Thistle Lipozomal Artichoke Ekstreleri İçeren Takviye Edici Gıda 60 Tablet",
@@ -51469,7 +51439,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Talya Kudret Narı Ekstreli Ballı Karışım Bağışıklık Desteği",
@@ -55494,19 +55464,6 @@
         "cats": [
           "Vücut Losyonu",
           "Atopik ve Kuru Cilt"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm After Sun Güneş Sonrası Losyon 200 ml",
-        "slug": "bioderma-photoderm-after-sun-gunes-sonrasi-losyon-200-ml",
-        "brand": "Bioderma",
-        "price": 970.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0c3fe4a7-f488-40c2-9073-6d9c0802a8a1/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Losyon"
         ],
         "stock": 2
       },
@@ -64262,35 +64219,6 @@
         "stock": 1
       }
     ],
-    "Losyon": [
-      {
-        "name": "Bioderma Photoderm After Sun Güneş Sonrası Losyon 200 ml",
-        "slug": "bioderma-photoderm-after-sun-gunes-sonrasi-losyon-200-ml",
-        "brand": "Bioderma",
-        "price": 970.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0c3fe4a7-f488-40c2-9073-6d9c0802a8a1/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Losyon"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Detan Defans Protect Bitkisel Sinek Kovucu Losyon 100 ml",
-        "slug": "detan-defans-protect-bitkisel-sinek-kovucu-losyon-100-ml",
-        "brand": "Defans",
-        "price": 179.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0abd2820-fb71-4618-8bc4-cf5f47b7a421/image_1950.webp",
-        "cats": [
-          "Sinek Kovucu",
-          "Sinek Kovucu",
-          "Losyon"
-        ],
-        "stock": 4
-      }
-    ],
     "Hassas ve Kızarık Cilt": [
       {
         "name": "Bioderma Photoderm Ar Kızarıklık Karşıtı Güneş Kremi Spf50+ 30 ml",
@@ -68350,7 +68278,7 @@
           "Sindirim Sağlığı",
           "Vajinal Probiyotik"
         ],
-        "stock": 37
+        "stock": 36
       },
       {
         "name": "NBTLIFE Cleanlife Kapsül, Kadın Tuzluğu, Pelinotu ve Bal Kabağı 60 Kapsül",
@@ -70711,7 +70639,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "GoodDay Glukomannan Max Saşe Konjak Glukomannan ve Vitamin Kompleksi 30 Saşe",
@@ -77849,7 +77777,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Parodontax Diş Macunu Ferah Tam Koruma 75 ml",
@@ -83474,6 +83402,22 @@
         "stock": 1
       }
     ],
+    "Losyon": [
+      {
+        "name": "Detan Defans Protect Bitkisel Sinek Kovucu Losyon 100 ml",
+        "slug": "detan-defans-protect-bitkisel-sinek-kovucu-losyon-100-ml",
+        "brand": "Defans",
+        "price": 179.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0abd2820-fb71-4618-8bc4-cf5f47b7a421/image_1950.webp",
+        "cats": [
+          "Sinek Kovucu",
+          "Sinek Kovucu",
+          "Losyon"
+        ],
+        "stock": 4
+      }
+    ],
     "El Dezenfektanı": [
       {
         "name": "Dezenfektan El Spreyi Hijyenik Temizlik 100 ml",
@@ -84673,7 +84617,7 @@
           "Sindirim Sağlığı",
           "Vajinal Probiyotik"
         ],
-        "stock": 37
+        "stock": 36
       },
       {
         "name": "Vimesa Kapsül 30 Kapsül",
@@ -84755,7 +84699,7 @@
           "Sindirim Sağlığı",
           "Vajinal Probiyotik"
         ],
-        "stock": 37
+        "stock": 36
       },
       {
         "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
@@ -84858,7 +84802,7 @@
           "Sindirim Sağlığı",
           "Vajinal Probiyotik"
         ],
-        "stock": 37
+        "stock": 36
       }
     ],
     "Yağ Asitleri": [
@@ -86205,7 +86149,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 56
+        "stock": 55
       },
       {
         "name": "Etoile Intim Duş (Borik Asit+Elma Sirkesi) 100 ml",
@@ -88018,7 +87962,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "NBTLIFE Lifecose Çiğnenebilir Form, Dut Ekstresi ve Krom 60 Adet",
@@ -88135,7 +88079,7 @@
           "Enginar",
           "Berberin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ligone Berberis Vulgaris Kapsül Kadın Tuzluğu Takviyesi 60 Kapsül",
@@ -89178,7 +89122,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "NBTLIFE Lifecose Çiğnenebilir Form, Dut Ekstresi ve Krom 60 Adet",
@@ -89258,7 +89202,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -89318,7 +89262,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Orzax Ocean Polysitol Miyoinositol D-Kiroinositol Takviye 30 Saşe",
@@ -89432,7 +89376,7 @@
           "Enginar",
           "Berberin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Goodday Exclusive Lipozomal Berberis Tablet Lipozomal Berberis Vulgaris Lipozomal Milk Thistle Lipozomal Artichoke Ekstreleri İçeren Takviye Edici Gıda 60 Tablet",
@@ -90506,7 +90450,7 @@
           "Sindirim Sağlığı",
           "Vajinal Probiyotik"
         ],
-        "stock": 37
+        "stock": 36
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -90993,7 +90937,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Venatura PQQ+ALA+CoQ10 Kapsül 30 Kapsül",
@@ -100778,9 +100722,9 @@
     ]
   },
   "stats": {
-    "total_products": 6429,
-    "total_categories": 697,
-    "generated": "2026-09-03 07:00",
+    "total_products": 6425,
+    "total_categories": 695,
+    "generated": "2026-09-03 11:11",
     "source": "ikas_api_live"
   }
 }
