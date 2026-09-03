@@ -1350,20 +1350,6 @@
         "stock": 5
       },
       {
-        "name": "Bee Garden Çam Kozalağı Şurubu Cam Şişe 500 ml",
-        "slug": "bee-garden-cam-kozalagi-surubu-cam-sise-500-ml",
-        "brand": "Bee Garden",
-        "price": 445.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/53a177ce-7aa7-4525-ba2f-6ced9d5c4bb3/image_1950.webp",
-        "cats": [
-          "Çam Kozalağı",
-          "Bağışıklık Sistemi",
-          "Soğuk Algınlığı ve Grip"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bisolnatur Doğal Öksürük Şurubu 128 g",
         "slug": "bisolnatur-dogal-oksuruk-surubu-128-g",
         "brand": "Bisolnatur",
@@ -6723,20 +6709,6 @@
           "Soğuk Algınlığı ve Grip"
         ],
         "stock": 5
-      },
-      {
-        "name": "Bee Garden Çam Kozalağı Şurubu Cam Şişe 500 ml",
-        "slug": "bee-garden-cam-kozalagi-surubu-cam-sise-500-ml",
-        "brand": "Bee Garden",
-        "price": 445.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/53a177ce-7aa7-4525-ba2f-6ced9d5c4bb3/image_1950.webp",
-        "cats": [
-          "Çam Kozalağı",
-          "Bağışıklık Sistemi",
-          "Soğuk Algınlığı ve Grip"
-        ],
-        "stock": 1
       },
       {
         "name": "Bee ve You Phenolix-B Oral Sprey Propolis Takviyesi 30 ml",
@@ -33452,7 +33424,7 @@
           "Vücut Bakımı",
           "Tırnak Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "FE Dizayn Altın Kaplama Düz Uç Cımbız Hassas İşlemler İçin",
@@ -44321,7 +44293,7 @@
           "Vücut Bakımı",
           "Tırnak Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Hünnap Sarı Kantaron Yağı Soğuk Pres Doğal 100 ml",
@@ -51922,20 +51894,6 @@
           "Soğuk Algınlığı ve Grip"
         ],
         "stock": 5
-      },
-      {
-        "name": "Bee Garden Çam Kozalağı Şurubu Cam Şişe 500 ml",
-        "slug": "bee-garden-cam-kozalagi-surubu-cam-sise-500-ml",
-        "brand": "Bee Garden",
-        "price": 445.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/53a177ce-7aa7-4525-ba2f-6ced9d5c4bb3/image_1950.webp",
-        "cats": [
-          "Çam Kozalağı",
-          "Bağışıklık Sistemi",
-          "Soğuk Algınlığı ve Grip"
-        ],
-        "stock": 1
       }
     ],
     "K2 Vitamini": [
@@ -62099,18 +62057,6 @@
         "stock": 2
       },
       {
-        "name": "La Roche Posay Toleriane Dermo Temizleyici Süt Hassas Cilt",
-        "slug": "la-roche-posay-toleriane-dermo-temizleyici-sut-hassas-cilt",
-        "brand": "La Roche-Posay",
-        "price": 1398.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6a08dd42-7eba-4af7-be75-a443ec8f718e/image_1950.webp",
-        "cats": [
-          "Temizleyiciler"
-        ],
-        "stock": 5
-      },
-      {
         "name": "La Roche Posay Toleriane Foam Cleansing 400 ml",
         "slug": "la-roche-posay-toleriane-foam-cleansing-400-ml",
         "brand": "La Roche-Posay",
@@ -64147,7 +64093,7 @@
         "stock": 25
       },
       {
-        "name": "Vichy Dercos Psolution Kepeğe Karşı Soyucu Etkili Şampuan 200 ml",
+        "name": "Vichy Dercos Psolution Pullanmaya Karşı Etkili Şampuan 200 ml",
         "slug": "vichy-dercos-psolution-kepege-karsi-soyucu-etkili-sampuan-200-ml",
         "brand": "Vichy",
         "price": 1463.0,
@@ -79464,19 +79410,6 @@
           "Medikal Ürünler"
         ],
         "stock": 1
-      },
-      {
-        "name": "Protefix Yapıştırıcı Yastık 30 Adet Alt Çene",
-        "slug": "protefix-yapistirici-yastik-30-adet-alt-cene",
-        "brand": "Protefix",
-        "price": 624.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/33f7952d-8195-40b6-8ac2-7916decea395/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Protez Yapıştırıcı"
-        ],
-        "stock": 1
       }
     ],
     "Temizleyici Tablet": [
@@ -79773,19 +79706,6 @@
           "Protez Bakımı",
           "Protez Yapıştırıcı",
           "Medikal Ürünler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Protefix Yapıştırıcı Yastık 30 Adet Alt Çene",
-        "slug": "protefix-yapistirici-yastik-30-adet-alt-cene",
-        "brand": "Protefix",
-        "price": 624.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/33f7952d-8195-40b6-8ac2-7916decea395/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Protez Yapıştırıcı"
         ],
         "stock": 1
       }
@@ -83493,7 +83413,7 @@
           "Vücut Bakımı",
           "Tırnak Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Dermoskin N-Balsam Tırnak Bakım Kremi 10 ml",
@@ -100858,9 +100778,9 @@
     ]
   },
   "stats": {
-    "total_products": 6435,
+    "total_products": 6429,
     "total_categories": 697,
-    "generated": "2026-09-02 19:00",
+    "generated": "2026-09-03 07:00",
     "source": "ikas_api_live"
   }
 }
