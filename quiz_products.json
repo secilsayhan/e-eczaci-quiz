@@ -96,7 +96,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 100 gr",
@@ -110,7 +110,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 30 gr",
@@ -2293,7 +2293,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 30 gr",
@@ -8835,7 +8835,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Talya Kekik Yağı 20 ml Destekleyici",
@@ -21729,7 +21729,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -28165,7 +28165,7 @@
           "Enerji ve Zindelik",
           "Kadın Multivitamin"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Redoxon Pro Efervesan Tablet Vitamin Mineral Takviyesi 15 Tablet",
@@ -28646,7 +28646,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -30126,7 +30126,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -51439,7 +51439,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Talya Kudret Narı Ekstreli Ballı Karışım Bağışıklık Desteği",
@@ -68528,7 +68528,7 @@
           "Enerji ve Zindelik",
           "Kadın Multivitamin"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Shiniq Dy Intim Jel pH 3.5 200 ml",
@@ -86853,7 +86853,7 @@
           "Enerji ve Zindelik",
           "Kadın Multivitamin"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Velavit V-Women's Daily Kadın Multivitamin ve Mineral 30 Tablet",
@@ -86952,7 +86952,7 @@
           "Enerji ve Zindelik",
           "Kadın Multivitamin"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Velavit V-Women's Daily Kadın Multivitamin ve Mineral 30 Tablet",
@@ -90937,7 +90937,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Venatura PQQ+ALA+CoQ10 Kapsül 30 Kapsül",
@@ -100724,7 +100724,7 @@
   "stats": {
     "total_products": 6425,
     "total_categories": 695,
-    "generated": "2026-09-03 11:11",
+    "generated": "2026-09-03 15:00",
     "source": "ikas_api_live"
   }
 }
