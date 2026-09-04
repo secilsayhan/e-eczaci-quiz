@@ -89,7 +89,7 @@
         "slug": "bepanthol-baby-pisik-merhemi-100-gr",
         "brand": "Bepanthol",
         "price": 649.9,
-        "discount_price": 350.0,
+        "discount_price": 450.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18932627-3a86-4e52-808d-ac2b1a6661a4/image_1950.webp",
         "cats": [
           "Pişik Kremi",
@@ -103,7 +103,7 @@
         "slug": "bepanthol-baby-pisik-merhemi-100-gr",
         "brand": "Bepanthol",
         "price": 649.9,
-        "discount_price": 350.0,
+        "discount_price": 450.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18932627-3a86-4e52-808d-ac2b1a6661a4/image_1950.webp",
         "cats": [
           "Pişik Kremi",
@@ -2256,7 +2256,7 @@
         "slug": "bepanthol-baby-pisik-merhemi-100-gr",
         "brand": "Bepanthol",
         "price": 649.9,
-        "discount_price": 350.0,
+        "discount_price": 450.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18932627-3a86-4e52-808d-ac2b1a6661a4/image_1950.webp",
         "cats": [
           "Pişik Kremi",
@@ -7762,7 +7762,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Ocean Daily One Energy (1+1 Paket)",
@@ -11228,7 +11228,7 @@
           "Vitamin ve Takviye",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 11
+        "stock": 7
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -19314,51 +19314,6 @@
         "stock": 1
       },
       {
-        "name": "Glikoz Sıvı Havan 100 G",
-        "slug": "glikoz-sivi-havan-100-g",
-        "brand": "",
-        "price": 172.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Glikoz Sıvı Havan 50 G",
-        "slug": "glikoz-sivi-havan-50-g",
-        "brand": "",
-        "price": 144.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Glikoz Sıvı Havan 75 G",
-        "slug": "glikoz-sivi-havan-75-g",
-        "brand": "",
-        "price": 144.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Hematab 48 Tablet At Kestanesi, Mürver, Melisa ve Bitkisel Ekstreler",
         "slug": "hematab-48-tablet-at-kestanesi-murver-melisa-ve-bitkisel-ekstreler",
         "brand": "Hematab",
@@ -20678,7 +20633,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 8
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -24905,7 +24860,7 @@
           "Vitamin ve Takviye",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 11
+        "stock": 7
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -26728,51 +26683,6 @@
         "stock": 6
       },
       {
-        "name": "Glikoz Sıvı Havan 100 G",
-        "slug": "glikoz-sivi-havan-100-g",
-        "brand": "",
-        "price": 172.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Glikoz Sıvı Havan 50 G",
-        "slug": "glikoz-sivi-havan-50-g",
-        "brand": "",
-        "price": 144.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Glikoz Sıvı Havan 75 G",
-        "slug": "glikoz-sivi-havan-75-g",
-        "brand": "",
-        "price": 144.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 3
-      },
-      {
         "name": "GoodDay ALA 300 Kapsül Alfa Lipoik Asit 60 Kapsül",
         "slug": "goodday-ala-300-kapsul-alfa-lipoik-asit-60-kapsul",
         "brand": "Goodday",
@@ -27426,7 +27336,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 8
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -27689,7 +27599,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 20
+        "stock": 16
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -37068,51 +36978,6 @@
           "Glikoz"
         ],
         "stock": 1
-      },
-      {
-        "name": "Glikoz Sıvı Havan 100 G",
-        "slug": "glikoz-sivi-havan-100-g",
-        "brand": "",
-        "price": 172.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Glikoz Sıvı Havan 50 G",
-        "slug": "glikoz-sivi-havan-50-g",
-        "brand": "",
-        "price": 144.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Glikoz Sıvı Havan 75 G",
-        "slug": "glikoz-sivi-havan-75-g",
-        "brand": "",
-        "price": 144.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 3
       }
     ],
     "İdrar Kollektörü": [
@@ -38984,36 +38849,6 @@
         "stock": 3
       },
       {
-        "name": "La Roche Posay Anthelios Oil Control Fluid Spf 50+ Yağlı Cilt Güneş Kremi",
-        "slug": "la-roche-posay-anthelios-oil-control-fluid-spf50-plus-yagli-cilt",
-        "brand": "La Roche-Posay",
-        "price": 1273.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0acb81b7-d70a-4f02-a73e-986cbb89688a/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 25
-      },
-      {
-        "name": "La Roche Posay Anthelios Oil Control Fluid Spf 50+ Yağlı Cilt Güneş Kremi",
-        "slug": "la-roche-posay-anthelios-oil-control-fluid-spf50-plus-yagli-cilt",
-        "brand": "La Roche-Posay",
-        "price": 1273.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0acb81b7-d70a-4f02-a73e-986cbb89688a/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 25
-      },
-      {
         "name": "La Roche Posay Anthelios Oil Correct Spf 50 Yağlı Cilt Güneş Kremi",
         "slug": "la-roche-posay-anthelios-oil-correct-spf-50-yagli-cilt-gunes-kremi",
         "brand": "La Roche-Posay",
@@ -40845,21 +40680,6 @@
         "stock": 3
       },
       {
-        "name": "La Roche Posay Anthelios Oil Control Fluid Spf 50+ Yağlı Cilt Güneş Kremi",
-        "slug": "la-roche-posay-anthelios-oil-control-fluid-spf50-plus-yagli-cilt",
-        "brand": "La Roche-Posay",
-        "price": 1273.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0acb81b7-d70a-4f02-a73e-986cbb89688a/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 25
-      },
-      {
         "name": "La Roche Posay Anthelios Oil Correct Spf 50 Yağlı Cilt Güneş Kremi",
         "slug": "la-roche-posay-anthelios-oil-correct-spf-50-yagli-cilt-gunes-kremi",
         "brand": "La Roche-Posay",
@@ -42579,21 +42399,6 @@
           "Güneş Kremi"
         ],
         "stock": 3
-      },
-      {
-        "name": "La Roche Posay Anthelios Oil Control Fluid Spf 50+ Yağlı Cilt Güneş Kremi",
-        "slug": "la-roche-posay-anthelios-oil-control-fluid-spf50-plus-yagli-cilt",
-        "brand": "La Roche-Posay",
-        "price": 1273.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0acb81b7-d70a-4f02-a73e-986cbb89688a/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 25
       },
       {
         "name": "La Roche Posay Anthelios Oil Correct Spf 50 Yağlı Cilt Güneş Kremi",
@@ -46727,7 +46532,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 8
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -47948,7 +47753,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 8
       },
       {
         "name": "New Life Mena K2+D3 Yumuşak Jelatin Kapsül 30 Kapsül",
@@ -48068,7 +47873,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -49353,7 +49158,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 8
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -51892,7 +51697,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -52443,7 +52248,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -52461,7 +52266,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
@@ -69970,51 +69775,6 @@
         "stock": 11
       },
       {
-        "name": "Glikoz Sıvı Havan 100 G",
-        "slug": "glikoz-sivi-havan-100-g",
-        "brand": "",
-        "price": 172.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Glikoz Sıvı Havan 50 G",
-        "slug": "glikoz-sivi-havan-50-g",
-        "brand": "",
-        "price": 144.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Glikoz Sıvı Havan 75 G",
-        "slug": "glikoz-sivi-havan-75-g",
-        "brand": "",
-        "price": 144.0,
-        "discount_price": null,
-        "image": "",
-        "cats": [
-          "Metabolizma ve Kilo Yönetimi",
-          "İhtiyaca Göre",
-          "Enerji ve Zindelik",
-          "Glikoz"
-        ],
-        "stock": 3
-      },
-      {
         "name": "GoodDay ALA 300 Kapsül Alfa Lipoik Asit 60 Kapsül",
         "slug": "goodday-ala-300-kapsul-alfa-lipoik-asit-60-kapsul",
         "brand": "Goodday",
@@ -75683,7 +75443,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 20
+        "stock": 16
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -75714,7 +75474,7 @@
           "Vitamin ve Takviye",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 11
+        "stock": 7
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -87172,7 +86932,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 8
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -90473,7 +90233,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 20
+        "stock": 16
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -93664,7 +93424,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 4
       }
     ],
     "Ağız Bakım Seti": [
@@ -94575,7 +94335,7 @@
           "Vitamin ve Takviye",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 11
+        "stock": 7
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -95909,7 +95669,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 4
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -100456,9 +100216,9 @@
     ]
   },
   "stats": {
-    "total_products": 6407,
+    "total_products": 6391,
     "total_categories": 695,
-    "generated": "2026-09-04 07:50",
+    "generated": "2026-09-04 11:03",
     "source": "ikas_api_live"
   }
 }
