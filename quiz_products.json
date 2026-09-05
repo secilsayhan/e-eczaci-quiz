@@ -7468,7 +7468,7 @@
           "Enerji ve Zindelik",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 9
       },
       {
         "name": "MaxDefendC C Vitamini D Vitamini Çinko İçeren Takviye Edici Gıda 30 Saşe",
@@ -11276,7 +11276,7 @@
           "Sinir Sistemi",
           "B Vitaminleri"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Ocean Methyl Folat Tablet 30 Tablet",
@@ -21454,7 +21454,7 @@
           "Enerji ve Zindelik",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 9
       },
       {
         "name": "NBTLIFE Endofer Kids Damla, Demir 30ml Şişe",
@@ -23687,7 +23687,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "NaturalNest Vitamin B12 Metilkobalamin 60 Tablet",
@@ -23842,7 +23842,7 @@
           "Sinir Sistemi",
           "B Vitaminleri"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
@@ -24983,7 +24983,7 @@
           "Sinir Sistemi",
           "B Vitaminleri"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
@@ -26603,7 +26603,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "NBT Life HC12 Sprey 10 ml Şişe",
@@ -27135,7 +27135,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Ligone Multivitamin Multimineral Kapsül Beta Glukan Takviyesi 30 Kapsül",
@@ -27152,7 +27152,7 @@
           "Enerji ve Zindelik",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 9
       },
       {
         "name": "Ligone Vitamin B Complex 30 Kapsül",
@@ -27767,7 +27767,7 @@
           "Sinir Sistemi",
           "B Vitaminleri"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
@@ -29072,7 +29072,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Ligone Vitamin B Complex 30 Kapsül",
@@ -29226,7 +29226,7 @@
           "Sinir Sistemi",
           "B Vitaminleri"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
@@ -29519,24 +29519,6 @@
         "stock": 1
       },
       {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 600.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın Sağlığı",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Kiperin Lipozomal Multivitamin ve Mineral 30 Kapsül",
         "slug": "kiperin-lipozomal-multivitamin-ve-mineral-30-kapsul",
         "brand": "Kiperin",
@@ -29613,7 +29595,7 @@
           "Enerji ve Zindelik",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 9
       },
       {
         "name": "Multivitamin Ve Multimineral Şurup 150 Ml",
@@ -51044,7 +51026,7 @@
           "Enerji ve Zindelik",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 9
       },
       {
         "name": "Naturalnest Immy Kara Mürver Beta Glukan C Vitamini Çinko Şurup 150 ml",
@@ -55677,7 +55659,7 @@
           "Vücut Losyonu",
           "Vücut Losyonu"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Xabion Pediatrik Cilt Bakım Losyonu 250 ml",
@@ -55691,7 +55673,7 @@
           "Vücut Losyonu",
           "Vücut Losyonu"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Xabion Yetişkin Cilt Bakım Losyonu 250 ml",
@@ -67594,24 +67576,6 @@
         "stock": 2
       },
       {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 600.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın Sağlığı",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Lacmix Kapsül Vitamin Mineral Omega 3 Bitki Ekstresi Takviyesi 60 Kapsül",
         "slug": "lacmix-kapsul-vitamin-mineral-omega-3-bitki-ekstresi-60-kapsul",
         "brand": "Lacmix",
@@ -68430,7 +68394,7 @@
           "Sinir Sistemi",
           "B Vitaminleri"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
@@ -73742,24 +73706,6 @@
         "stock": 4
       },
       {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 600.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın Sağlığı",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Lacmix Kapsül Vitamin Mineral Omega 3 Bitki Ekstresi Takviyesi 60 Kapsül",
         "slug": "lacmix-kapsul-vitamin-mineral-omega-3-bitki-ekstresi-60-kapsul",
         "brand": "Lacmix",
@@ -75167,24 +75113,6 @@
           "Kalp ve Damar Sağlığı"
         ],
         "stock": 4
-      },
-      {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 600.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın Sağlığı",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Lacmix Kapsül Vitamin Mineral Omega 3 Bitki Ekstresi Takviyesi 60 Kapsül",
@@ -81300,7 +81228,7 @@
           "Vücut Losyonu",
           "Vücut Losyonu"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Bebek Yağı": [
@@ -83476,42 +83404,6 @@
         "stock": 4
       },
       {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 600.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın Sağlığı",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 600.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın Sağlığı",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Mustela Çatlak Göğüs Ucu Kremi Emzirme Dönemi İçin 30 ml",
         "slug": "mustela-catlak-gogus-ucu-kremi-emzirme-donemi-icin-30-ml",
         "brand": "Mustela",
@@ -83916,24 +83808,6 @@
           "Kalp ve Damar Sağlığı"
         ],
         "stock": 4
-      },
-      {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 600.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın Sağlığı",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "NBL Pregna Omega 3 Multivitamin Hamilelik Takviyesi 30 Kapsül",
@@ -84784,7 +84658,7 @@
           "Enerji ve Zindelik",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 9
       },
       {
         "name": "Naturalnest Immy Kara Mürver Beta Glukan C Vitamini Çinko Şurup 150 ml",
@@ -90063,7 +89937,7 @@
           "Sinir Sistemi",
           "B Vitaminleri"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Rinex B Vitamini, Mineral ve Bitkisel Ekstre Kapsül 60 Kapsül",
@@ -100320,9 +100194,9 @@
     ]
   },
   "stats": {
-    "total_products": 6398,
+    "total_products": 6391,
     "total_categories": 695,
-    "generated": "2026-09-05 11:02",
+    "generated": "2026-09-05 15:00",
     "source": "ikas_api_live"
   }
 }
