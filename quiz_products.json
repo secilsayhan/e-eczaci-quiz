@@ -11518,7 +11518,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Ocean VM Şurup Portakal Aromalı 150 ml Şişe",
@@ -15945,7 +15945,7 @@
         "name": "The Organic Pharmacy Double Rose Ultra Face Cream 50 ml",
         "slug": "the-organic-pharmacy-double-rose-ultra-face-cream-50-ml",
         "brand": "The Organic Pharmacy",
-        "price": 4121.26,
+        "price": 4225.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9dda193-1c31-4eeb-8c16-8d7d94c1d903/image_1950.webp",
         "cats": [
@@ -25269,7 +25269,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 18
+        "stock": 16
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -27644,7 +27644,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -28376,7 +28376,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar L-Carnitine 500 Mg Tablet 30 Tablet",
@@ -29751,7 +29751,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Ocean Gummies Kids Multivitamin Çiğnenebilir Form, Multivitamin ve Multimineral, 60 Adet",
@@ -29781,7 +29781,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Ocean Ultimate 39 Kapsül",
@@ -29796,7 +29796,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Ocean VM Şurup Portakal Aromalı 150 ml Şişe",
@@ -30323,7 +30323,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
@@ -39694,8 +39694,8 @@
         "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
         "slug": "vichy-mineral-89-spf-50-plus-nemlendirici-ve-koruyucu-gunduz-kremi",
         "brand": "Vichy",
-        "price": 2749.9,
-        "discount_price": 1437.0,
+        "price": 2949.9,
+        "discount_price": 1475.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67daf432-d2aa-430a-bfa9-b5d05375e6b9/image_1950.webp",
         "cats": [
           "Güneş Koruma",
@@ -41739,8 +41739,8 @@
         "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
         "slug": "vichy-mineral-89-spf-50-plus-nemlendirici-ve-koruyucu-gunduz-kremi",
         "brand": "Vichy",
-        "price": 2749.9,
-        "discount_price": 1437.0,
+        "price": 2949.9,
+        "discount_price": 1475.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67daf432-d2aa-430a-bfa9-b5d05375e6b9/image_1950.webp",
         "cats": [
           "Güneş Koruma",
@@ -43184,13 +43184,13 @@
         "name": "TTO Yüz Temizleme Jeli 200 ml",
         "slug": "tto-yuz-temizleme-jeli-150-ml",
         "brand": "TTO",
-        "price": 818.0,
+        "price": 865.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2a140a4f-a1ad-4223-a5f6-90024b877c88/image_1950.webp",
         "cats": [
           "Temizleme Jeli"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Vichy Normaderm Jel 400 ml",
@@ -48726,20 +48726,6 @@
         "stock": 3
       },
       {
-        "name": "Venatura Vitamin K2 (Menakuinon 7) Kapsül 60 Kapsül",
-        "slug": "venatura-vitamin-k2-menakuinon-7-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 550.0,
-        "discount_price": 359.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fb1d124-c7dd-4556-af19-5b18451dbed0/image_1950.webp",
-        "cats": [
-          "K2 Vitamini",
-          "Kemik ve Eklem Sağlığı",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vitabiotics Osteocare Original Tablet 30 Tablet",
         "slug": "vitabiotics-osteocare-original-tablet-30-tablet",
         "brand": "Vitabiotics",
@@ -51965,20 +51951,6 @@
         "stock": 3
       },
       {
-        "name": "Venatura Vitamin K2 (Menakuinon 7) Kapsül 60 Kapsül",
-        "slug": "venatura-vitamin-k2-menakuinon-7-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 550.0,
-        "discount_price": 359.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fb1d124-c7dd-4556-af19-5b18451dbed0/image_1950.webp",
-        "cats": [
-          "K2 Vitamini",
-          "Kemik ve Eklem Sağlığı",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Yılbaşı Özel - Orzax Vitamin C Tablet + D3K2 (%25 İndirimli)",
         "slug": "yilbasi-ozel-orzax-vitamin-c-tablet-d3k2-25-indirimli",
         "brand": "Orzax",
@@ -54291,8 +54263,8 @@
         "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
         "slug": "vichy-mineral-89-spf-50-plus-nemlendirici-ve-koruyucu-gunduz-kremi",
         "brand": "Vichy",
-        "price": 2749.9,
-        "discount_price": 1437.0,
+        "price": 2949.9,
+        "discount_price": 1475.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67daf432-d2aa-430a-bfa9-b5d05375e6b9/image_1950.webp",
         "cats": [
           "Güneş Koruma",
@@ -55159,8 +55131,8 @@
         "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
         "slug": "vichy-mineral-89-spf-50-plus-nemlendirici-ve-koruyucu-gunduz-kremi",
         "brand": "Vichy",
-        "price": 2749.9,
-        "discount_price": 1437.0,
+        "price": 2949.9,
+        "discount_price": 1475.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67daf432-d2aa-430a-bfa9-b5d05375e6b9/image_1950.webp",
         "cats": [
           "Güneş Koruma",
@@ -57723,7 +57695,7 @@
         "name": "Vichy Dercos Aminexil Regen Serum 90 ml",
         "slug": "vichy-dercos-aminexil-regen-serum-90-ml",
         "brand": "Vichy",
-        "price": 3919.9,
+        "price": 4299.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dfa9f969-d66d-46cf-9821-d0e10dac4979/image_1950.webp",
         "cats": [
@@ -58220,7 +58192,7 @@
         "name": "Vichy Dercos Aminexil Regen Serum 90 ml",
         "slug": "vichy-dercos-aminexil-regen-serum-90-ml",
         "brand": "Vichy",
-        "price": 3919.9,
+        "price": 4299.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dfa9f969-d66d-46cf-9821-d0e10dac4979/image_1950.webp",
         "cats": [
@@ -58631,7 +58603,7 @@
         "name": "Vichy Dercos Aminexil Regen Serum 90 ml",
         "slug": "vichy-dercos-aminexil-regen-serum-90-ml",
         "brand": "Vichy",
-        "price": 3919.9,
+        "price": 4299.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dfa9f969-d66d-46cf-9821-d0e10dac4979/image_1950.webp",
         "cats": [
@@ -67330,7 +67302,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Cinsel Sağlık": [
@@ -68429,7 +68401,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Ocean Vitamin D 1000 IU Sprey",
@@ -71534,7 +71506,7 @@
         "name": "Vichy Dercos Güclendirici Sac Kremi 200 ML",
         "slug": "vichy-dercos-guclendirici-sac-kremi-200-ml",
         "brand": "Vichy",
-        "price": 1564.0,
+        "price": 1599.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9019a5ca-2f2c-4df1-b88d-f8afef47aaf6/image_1950.webp",
         "cats": [
@@ -71579,7 +71551,7 @@
         "name": "Vichy Dercos Güclendirici Sac Kremi 200 ML",
         "slug": "vichy-dercos-guclendirici-sac-kremi-200-ml",
         "brand": "Vichy",
-        "price": 1564.0,
+        "price": 1599.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9019a5ca-2f2c-4df1-b88d-f8afef47aaf6/image_1950.webp",
         "cats": [
@@ -74414,7 +74386,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 18
+        "stock": 16
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -75862,7 +75834,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 18
+        "stock": 16
       },
       {
         "name": "Orzax Ocean Pulse Kalp Sağlığı Takviyesi 30 Kapsül",
@@ -76054,7 +76026,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar No Flush Niasin B3 Vitamini 500 mg 50 Kapsül",
@@ -76452,20 +76424,6 @@
           "Beyin ve Hafıza",
           "Vitamin ve Takviye",
           "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura Vitamin K2 (Menakuinon 7) Kapsül 60 Kapsül",
-        "slug": "venatura-vitamin-k2-menakuinon-7-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 550.0,
-        "discount_price": 359.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fb1d124-c7dd-4556-af19-5b18451dbed0/image_1950.webp",
-        "cats": [
-          "K2 Vitamini",
-          "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
         "stock": 1
@@ -78553,7 +78511,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Ocean Panax Ginseng İçeren Takviye Edici Gıda 60 Kapsül",
@@ -85580,7 +85538,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 46
+        "stock": 45
       },
       {
         "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
@@ -95134,7 +95092,7 @@
           "Kolesterol",
           "Bergamot"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
@@ -95166,7 +95124,7 @@
           "Kolesterol",
           "Bergamot"
         ],
-        "stock": 25
+        "stock": 24
       }
     ],
     "Yeşil Çay Ekstresi": [
@@ -100194,9 +100152,9 @@
     ]
   },
   "stats": {
-    "total_products": 6391,
+    "total_products": 6388,
     "total_categories": 695,
-    "generated": "2026-09-05 15:00",
+    "generated": "2026-09-05 19:00",
     "source": "ikas_api_live"
   }
 }
