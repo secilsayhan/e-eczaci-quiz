@@ -15471,7 +15471,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Miaday Kürdanlı Diş İpi Pratik Kullanım 40 Adet",
@@ -19225,7 +19225,7 @@
           "İhtiyaca Göre",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 11
+        "stock": 8
       },
       {
         "name": "Cliagyn Kapsül (Çemen Tohumu, Turnera, L-Arjinin) 30 Kapsül",
@@ -35075,7 +35075,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -69917,7 +69917,7 @@
           "İhtiyaca Göre",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 11
+        "stock": 8
       },
       {
         "name": "GoodDay ALA 300 Kapsül Alfa Lipoik Asit 60 Kapsül",
@@ -70365,7 +70365,7 @@
           "İhtiyaca Göre",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 11
+        "stock": 8
       },
       {
         "name": "Hermesetas Original Tablet Tatlandırıcı 300 Tablet",
@@ -77457,7 +77457,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Parodontax Diş Macunu Ferah Tam Koruma 75 ml",
@@ -85847,7 +85847,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 47
+        "stock": 46
       },
       {
         "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
@@ -100510,7 +100510,7 @@
   "stats": {
     "total_products": 6410,
     "total_categories": 695,
-    "generated": "2026-09-04 19:02",
+    "generated": "2026-09-05 09:00",
     "source": "ikas_api_live"
   }
 }
