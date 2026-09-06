@@ -41655,22 +41655,6 @@
         "stock": 1
       },
       {
-        "name": "Vichy Liftactiv B3 Leke Karşıtı Spf 50 Gündüz Kremi",
-        "slug": "vichy-liftactiv-b3-leke-karsiti-spf-50-gunduz-kremi",
-        "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2c30135b-f19e-4075-b9ee-64e15bcc547f/image_1950.webp",
-        "cats": [
-          "Niasinamid İçeren Ürünler",
-          "Gündüz Kremi",
-          "SPF 50+",
-          "Leke Karşıtı",
-          "SPF’li Nemlendirici"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
         "slug": "vichy-mineral-89-spf-50-plus-nemlendirici-ve-koruyucu-gunduz-kremi",
         "brand": "Vichy",
@@ -42093,22 +42077,6 @@
           "Yüz Güneş Koruma",
           "SPF 50+",
           "Leke Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vichy Liftactiv B3 Leke Karşıtı Spf 50 Gündüz Kremi",
-        "slug": "vichy-liftactiv-b3-leke-karsiti-spf-50-gunduz-kremi",
-        "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2c30135b-f19e-4075-b9ee-64e15bcc547f/image_1950.webp",
-        "cats": [
-          "Niasinamid İçeren Ürünler",
-          "Gündüz Kremi",
-          "SPF 50+",
-          "Leke Karşıtı",
-          "SPF’li Nemlendirici"
         ],
         "stock": 1
       }
@@ -55039,22 +55007,6 @@
           "SPF’li Nemlendirici"
         ],
         "stock": 3
-      },
-      {
-        "name": "Vichy Liftactiv B3 Leke Karşıtı Spf 50 Gündüz Kremi",
-        "slug": "vichy-liftactiv-b3-leke-karsiti-spf-50-gunduz-kremi",
-        "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2c30135b-f19e-4075-b9ee-64e15bcc547f/image_1950.webp",
-        "cats": [
-          "Niasinamid İçeren Ürünler",
-          "Gündüz Kremi",
-          "SPF 50+",
-          "Leke Karşıtı",
-          "SPF’li Nemlendirici"
-        ],
-        "stock": 1
       },
       {
         "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
@@ -72595,22 +72547,6 @@
         "cats": [
           "Niasinamid İçeren Ürünler",
           "Serum"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vichy Liftactiv B3 Leke Karşıtı Spf 50 Gündüz Kremi",
-        "slug": "vichy-liftactiv-b3-leke-karsiti-spf-50-gunduz-kremi",
-        "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2c30135b-f19e-4075-b9ee-64e15bcc547f/image_1950.webp",
-        "cats": [
-          "Niasinamid İçeren Ürünler",
-          "Gündüz Kremi",
-          "SPF 50+",
-          "Leke Karşıtı",
-          "SPF’li Nemlendirici"
         ],
         "stock": 1
       }
@@ -99138,22 +99074,6 @@
     ],
     "Gündüz Kremi": [
       {
-        "name": "Vichy Liftactiv B3 Leke Karşıtı Spf 50 Gündüz Kremi",
-        "slug": "vichy-liftactiv-b3-leke-karsiti-spf-50-gunduz-kremi",
-        "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2c30135b-f19e-4075-b9ee-64e15bcc547f/image_1950.webp",
-        "cats": [
-          "Niasinamid İçeren Ürünler",
-          "Gündüz Kremi",
-          "SPF 50+",
-          "Leke Karşıtı",
-          "SPF’li Nemlendirici"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vichy Liftactiv Supreme Normal ve Karma Ciltler İçin Bakım Kremi",
         "slug": "vichy-liftactiv-supreme-normal-ve-karma-ciltler-icin-bakim-kremi",
         "brand": "Vichy",
@@ -100050,9 +99970,9 @@
     ]
   },
   "stats": {
-    "total_products": 6382,
+    "total_products": 6377,
     "total_categories": 695,
-    "generated": "2026-09-06 07:18",
+    "generated": "2026-09-06 11:04",
     "source": "ikas_api_live"
   }
 }
