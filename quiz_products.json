@@ -7765,7 +7765,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -10847,7 +10847,7 @@
           "Enerji ve Zindelik",
           "Demir"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Nutraxin Milk Thistle Tablet 60 Tablet",
@@ -10919,7 +10919,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
@@ -10937,7 +10937,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutrigen Üzüm Çekirdeği Ekstresi Sıvı, 200 ml",
@@ -12678,22 +12678,6 @@
           "Deve Dikeni (Milk Thistle)",
           "Vitamin ve Takviye",
           "Karaciğer Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 855.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
         ],
         "stock": 1
       },
@@ -16221,7 +16205,7 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Bioxcin Siyah Sarımsaklı Saç Dökülmesine Karşı Şampuan (3 Al 2 Öde)",
@@ -16435,21 +16419,6 @@
           "Kolajen İçeren Ürünler"
         ],
         "stock": 8
-      },
-      {
-        "name": "Day2day The Collagen Beauty Elastin Cilt Bakım 30 Tablet",
-        "slug": "day2day-the-collagen-beauty-elastin-cilt-bakim-30-tablet",
-        "brand": "Day2Day",
-        "price": 950.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8ecd3911-9b2d-4722-846a-55c9ba4cbc8f/image_1950.webp",
-        "cats": [
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Tablet Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 10
       },
       {
         "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
@@ -17138,19 +17107,6 @@
           "Saç Dökülmesi",
           "Dökülme Karşıtı",
           "Dökülme Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "VeNatura Biotin 5000 mcg Saç Cilt Tırnak Vitamini 90 Tablet",
-        "slug": "venatura-biotin-5000-mcg-sac-cilt-tirnak-vitamini-90-tablet",
-        "brand": "VeNatura",
-        "price": 600.0,
-        "discount_price": 409.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/29695c85-556f-4fec-85fd-ec76845aee68/image_1950.webp",
-        "cats": [
-          "Saç, Cilt ve Tırnak",
-          "Biotin (B7 Vitamini)"
         ],
         "stock": 1
       },
@@ -19449,7 +19405,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutraxin Vitals Women's Multi Vitamin Complex Tablet, 60 Tablet",
@@ -21100,7 +21056,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit V-Triple Magnesium Complex Tablet 60 Tablet",
@@ -25657,22 +25613,6 @@
         "stock": 2
       },
       {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 855.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Venatura Vitamin B6 P-5-P Kapsül 30 Kapsül",
         "slug": "venatura-vitamin-b6-p-5-p-kapsul-30-kapsul",
         "brand": "VeNatura",
@@ -27406,7 +27346,7 @@
           "Enerji ve Zindelik",
           "Demir"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Nutraxin Magnezyum Kompleks Farklı Magnezyum Formları 60 Tablet",
@@ -27464,7 +27404,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean B Complex 60 Kapsül",
@@ -28523,7 +28463,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit V-Iron C Vitamini Demir Eksikliği Takviyesi 30 Tablet",
@@ -29556,7 +29496,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Multivitamin Mineral Energy Tablet, 60 Tablet",
@@ -29572,7 +29512,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean B Complex 60 Kapsül",
@@ -30690,7 +30630,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Selenyum 100 mcg Antioksidan Takviye 30 Tablet",
@@ -31596,7 +31536,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Mens Multi Vitamin Complex Tablet 60 Tablet",
@@ -46605,7 +46545,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit V-Triple Magnesium Complex Tablet 60 Tablet",
@@ -47545,7 +47485,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -48169,7 +48109,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Vitamin K2 MK-7 100 mcg Kemik Sağlığı 60 Kapsül",
@@ -49143,7 +49083,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit V-Triple Magnesium Complex Tablet 60 Tablet",
@@ -51280,7 +51220,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -51776,7 +51716,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -56160,7 +56100,7 @@
           "Enerji ve Zindelik",
           "Demir"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -57298,7 +57238,7 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Bioxcin Genesis Karma Normal Saçlar Şampuan 3 Al 2 Öde",
@@ -57766,7 +57706,7 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Bioxcin Genesis Karma Normal Saçlar Şampuan 3 Al 2 Öde",
@@ -65637,7 +65577,7 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Bioxcin Genesis Karma Normal Saçlar Şampuan 3 Al 2 Öde",
@@ -66251,21 +66191,6 @@
           "Kolajen İçeren Ürünler"
         ],
         "stock": 8
-      },
-      {
-        "name": "Day2day The Collagen Beauty Elastin Cilt Bakım 30 Tablet",
-        "slug": "day2day-the-collagen-beauty-elastin-cilt-bakim-30-tablet",
-        "brand": "Day2Day",
-        "price": 950.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8ecd3911-9b2d-4722-846a-55c9ba4cbc8f/image_1950.webp",
-        "cats": [
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Tablet Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 10
       },
       {
         "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
@@ -68060,7 +67985,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
@@ -68078,7 +68003,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Ocean B Complex 60 Kapsül",
@@ -69382,19 +69307,6 @@
         "stock": 2
       },
       {
-        "name": "VeNatura Biotin 5000 mcg Saç Cilt Tırnak Vitamini 90 Tablet",
-        "slug": "venatura-biotin-5000-mcg-sac-cilt-tirnak-vitamini-90-tablet",
-        "brand": "VeNatura",
-        "price": 600.0,
-        "discount_price": 409.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/29695c85-556f-4fec-85fd-ec76845aee68/image_1950.webp",
-        "cats": [
-          "Saç, Cilt ve Tırnak",
-          "Biotin (B7 Vitamini)"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Velavit V-Biotin Plus Saç Cilt Tırnak Vitamini Çinko Selenyum 60 Tablet",
         "slug": "velavit-v-biotin-plus-sac-cilt-tirnak-vitamini-cinko-selenyum-60",
         "brand": "Velavit",
@@ -70106,21 +70018,6 @@
         "stock": 8
       },
       {
-        "name": "Day2day The Collagen Beauty Elastin Cilt Bakım 30 Tablet",
-        "slug": "day2day-the-collagen-beauty-elastin-cilt-bakim-30-tablet",
-        "brand": "Day2Day",
-        "price": 950.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8ecd3911-9b2d-4722-846a-55c9ba4cbc8f/image_1950.webp",
-        "cats": [
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Tablet Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 10
-      },
-      {
         "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
         "slug": "day2day-the-collagen-beauty-intense-kollajen-sase-30-poset",
         "brand": "Day2Day",
@@ -70218,21 +70115,6 @@
           "Biotin (B7 Vitamini)"
         ],
         "stock": 1
-      },
-      {
-        "name": "Day2day The Collagen Beauty Elastin Cilt Bakım 30 Tablet",
-        "slug": "day2day-the-collagen-beauty-elastin-cilt-bakim-30-tablet",
-        "brand": "Day2Day",
-        "price": 950.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8ecd3911-9b2d-4722-846a-55c9ba4cbc8f/image_1950.webp",
-        "cats": [
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Tablet Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 10
       },
       {
         "name": "GoodDay Beauty Collagen Max Tablet Hidrolize Kollajen ve Hyaluronik Asit 30 Tablet",
@@ -74136,22 +74018,6 @@
         "stock": 2
       },
       {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 855.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vifolic Folik Asit Omega 3 Vitamin ve Mineral İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "vifolic-folik-asit-omega-3-vitamin-mineral-30-kapsul",
         "brand": "Tedafarma",
@@ -74807,7 +74673,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -75812,22 +75678,6 @@
           "Kalp ve Damar Sağlığı"
         ],
         "stock": 2
-      },
-      {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 855.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Venatura Vitamin K2 (Menakuinon 7) Kapsül 60 Kapsül",
@@ -84992,7 +84842,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
@@ -86328,7 +86178,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Venatura B-Trio ODT Tablet, B12, Folat ve B6 30 Tablet",
@@ -87132,7 +86982,7 @@
           "Kan Şekeri Dengesi",
           "Berberin"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Berberin": [
@@ -87220,7 +87070,7 @@
           "Kan Şekeri Dengesi",
           "Berberin"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Betain HCl & Pepsin": [
@@ -89089,7 +88939,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "SAM-e": [
@@ -92538,22 +92388,6 @@
           "Kalp ve Damar Sağlığı"
         ],
         "stock": 2
-      },
-      {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 855.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
       }
     ],
     "Yüz Maskesi": [
@@ -99332,9 +99166,9 @@
     ]
   },
   "stats": {
-    "total_products": 6338,
+    "total_products": 6327,
     "total_categories": 694,
-    "generated": "2026-09-12 11:06",
+    "generated": "2026-09-12 15:00",
     "source": "ikas_api_live"
   }
 }
