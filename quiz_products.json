@@ -9957,19 +9957,6 @@
         "stock": 1
       },
       {
-        "name": "Hermesetas Original Tablet Tatlandırıcı 300 Tablet",
-        "slug": "hermesetas-original-tablet-tatlandirici-300-tablet",
-        "brand": "Hermesetas",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f44719f1-1fd8-42c7-a82c-dc786cfd6792/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Tablet Tatlandırıcı"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "hpwash-kapsul-aktif-heksoz-korele-bilesik-ve-dim-iceren-takviye-edici",
         "brand": "HPWash",
@@ -69893,19 +69880,6 @@
         "stock": 2
       },
       {
-        "name": "Hermesetas Original Tablet Tatlandırıcı 300 Tablet",
-        "slug": "hermesetas-original-tablet-tatlandirici-300-tablet",
-        "brand": "Hermesetas",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f44719f1-1fd8-42c7-a82c-dc786cfd6792/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Tablet Tatlandırıcı"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Splenda Stevia Tablet Plastik Tetikleyici Ambalaj 80 Tablet",
         "slug": "splenda-stevia-tablet-plastik-tetikleyici-ambalaj-80-tablet",
         "brand": "Splenda",
@@ -99342,9 +99316,9 @@
     ]
   },
   "stats": {
-    "total_products": 6337,
+    "total_products": 6335,
     "total_categories": 695,
-    "generated": "2026-09-13 12:13",
+    "generated": "2026-09-13 15:00",
     "source": "ikas_api_live"
   }
 }
