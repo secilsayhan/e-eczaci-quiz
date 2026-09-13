@@ -9336,7 +9336,7 @@
           "Kudret Narı",
           "Sindirim Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Zinco Bitkisel Yağlar + Çinko Damla 30 ml",
@@ -15176,19 +15176,6 @@
         "stock": 1
       },
       {
-        "name": "Dentiste Diş Macunu Tüp 100 gr",
-        "slug": "dentiste-dis-macunu-tup-100-gr",
-        "brand": "Dentiste",
-        "price": 460.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/828954d7-eadd-4b60-be8f-09ff7e2cdbc6/image_1950.webp",
-        "cats": [
-          "Diş Macunu",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Dentiste Seyahat Boyu Diş Macunu",
         "slug": "dentiste-seyahat-boyu-dis-macunu",
         "brand": "Dentiste",
@@ -19047,7 +19034,7 @@
           "Kudret Narı",
           "Sindirim Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       }
     ],
     "İhtiyaca Göre": [
@@ -22806,7 +22793,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 20
+        "stock": 19
       }
     ],
     "Hemoroid Kremi": [
@@ -22821,7 +22808,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 20
+        "stock": 19
       }
     ],
     "Başlangıç (0-6 Ay)": [
@@ -25180,7 +25167,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -33024,19 +33011,6 @@
         "stock": 13
       },
       {
-        "name": "Canbebe Bez Fırsat Paketi No:1 64 Lü",
-        "slug": "canbebe-bez-firsat-paketi-no-1-64-lu",
-        "brand": "Canbebe",
-        "price": 272.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06e6adfe-5588-423f-b4b6-cd2819682d1d/image_1950.webp",
-        "cats": [
-          "Yenidoğan",
-          "Vücut Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Capicade Nemlendirici Yüz & Vücut Losyonu",
         "slug": "capicade-nemlendirici-yuz-ve-vucut-losyonu",
         "brand": "Capicade",
@@ -34612,19 +34586,6 @@
           "Ağız ve Diş Bakımı",
           "Ağız ve Diş Sağlığı",
           "Seyahat Boy"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Dentiste Diş Macunu Tüp 100 gr",
-        "slug": "dentiste-dis-macunu-tup-100-gr",
-        "brand": "Dentiste",
-        "price": 460.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/828954d7-eadd-4b60-be8f-09ff7e2cdbc6/image_1950.webp",
-        "cats": [
-          "Diş Macunu",
-          "Ağız ve Diş Sağlığı"
         ],
         "stock": 1
       },
@@ -69454,21 +69415,6 @@
         "stock": 1
       }
     ],
-    "Yenidoğan": [
-      {
-        "name": "Canbebe Bez Fırsat Paketi No:1 64 Lü",
-        "slug": "canbebe-bez-firsat-paketi-no-1-64-lu",
-        "brand": "Canbebe",
-        "price": 272.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06e6adfe-5588-423f-b4b6-cd2819682d1d/image_1950.webp",
-        "cats": [
-          "Yenidoğan",
-          "Vücut Bakımı"
-        ],
-        "stock": 1
-      }
-    ],
     "Metabolizma ve Kilo Yönetimi": [
       {
         "name": "Canderel Tablet 100 Tablet",
@@ -69914,7 +69860,7 @@
           "Kudret Narı",
           "Sindirim Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       }
     ],
     "Tablet Tatlandırıcı": [
@@ -73703,7 +73649,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -75167,7 +75113,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Pulse Kalp Sağlığı Takviyesi 30 Kapsül",
@@ -98065,7 +98011,7 @@
           "Kudret Narı",
           "Sindirim Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       }
     ],
     "Lavanta Yağı": [
@@ -99396,9 +99342,9 @@
     ]
   },
   "stats": {
-    "total_products": 6341,
-    "total_categories": 696,
-    "generated": "2026-09-13 10:53",
+    "total_products": 6337,
+    "total_categories": 695,
+    "generated": "2026-09-13 12:13",
     "source": "ikas_api_live"
   }
 }
