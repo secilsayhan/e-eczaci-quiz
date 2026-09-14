@@ -16,19 +16,6 @@
         "stock": 5
       },
       {
-        "name": "Aloe-Nem Nemlendirici ve Yenileyici Pomad 10 gr",
-        "slug": "aloe-nem-nemlendirici-ve-yenileyici-pomad-10-gr",
-        "brand": "",
-        "price": 310.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30aaabcc-ffed-4010-b8b5-4496639bd791/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Cicabio Yatıştırıcı Onarıcı Pomad 40 ml",
         "slug": "bioderma-cicabio-yatistirici-onarici-pomad-40-ml",
         "brand": "Bioderma",
@@ -10114,7 +10101,7 @@
           "Vitamin ve Takviye",
           "Lutein ve Zeaksantin"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Magnesium Plus Duo Tablet, 30+30 Tablet",
@@ -15418,267 +15405,6 @@
         "stock": 1
       }
     ],
-    "Nemlendiriciler": [
-      {
-        "name": "Aloe-Nem Nemlendirici ve Yenileyici Pomad 10 gr",
-        "slug": "aloe-nem-nemlendirici-ve-yenileyici-pomad-10-gr",
-        "brand": "",
-        "price": 310.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30aaabcc-ffed-4010-b8b5-4496639bd791/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Cicabio El Kremi 50 ml",
-        "slug": "bioderma-cicabio-el-kremi-50-ml",
-        "brand": "Bioderma",
-        "price": 799.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72c8b182-1299-4da3-bc0e-6eb5cc389d04/image_1950.webp",
-        "cats": [
-          "El Kremi",
-          "Vücut Bakımı",
-          "Vücut Kremi",
-          "Nemlendiriciler",
-          "El Kremi",
-          "El Kremi"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Bioderma Sebium Hydra Nemlendirici Krem 40 ml",
-        "slug": "bioderma-sebium-hydra-nemlendirici-krem-40-ml",
-        "brand": "Bioderma",
-        "price": 1649.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4710fd08-fd12-407f-90ea-028290db9a9d/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Yağlı ve Akne Cilt",
-          "Akne ve Sivilce Bakımı",
-          "Nemlendiriciler",
-          "Yüz Bakımı"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "Bioderma Sensibio Defensive Cream",
-        "slug": "bioderma-sensibio-defensive-cream",
-        "brand": "Bioderma",
-        "price": 1649.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f96402b2-db1b-4720-9de8-85da499cef07/image_1950.webp",
-        "cats": [
-          "Bakım Kremi",
-          "Nemlendiriciler",
-          "Yüz Bakımı",
-          "Hassas Cilt"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Bioderma Sensibio Defensive Rich Yoğun Nemlendirici Krem 40 ml",
-        "slug": "bioderma-sensibio-defensive-rich-yogun-nemlendirici-krem-40-ml",
-        "brand": "Bioderma",
-        "price": 1696.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd5da8f2-c483-4d25-9c8f-446ce6f29eaa/image_1950.webp",
-        "cats": [
-          "Nemlendirici Krem",
-          "Kuru Cilt",
-          "Nemlendiriciler",
-          "Hassas Cilt"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Capicade Nemlendirici Yüz & Vücut Losyonu",
-        "slug": "capicade-nemlendirici-yuz-ve-vucut-losyonu",
-        "brand": "Capicade",
-        "price": 1100.0,
-        "discount_price": 797.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e39ddfd-4aa9-4db5-909b-6c732cb8b7c0/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Vücut Losyonu",
-          "Atopik ve Kuru Cilt",
-          "Kuru Cilt",
-          "Nemlendiriciler"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Dalin Care Atocure Losyon 500 ml",
-        "slug": "dalin-care-atocure-losyon-500-ml",
-        "brand": "Dalin",
-        "price": 999.0,
-        "discount_price": 644.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd27ba45-3132-4019-b31c-fc88f2cd6b54/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Vücut Losyonu",
-          "Atopik ve Kuru Cilt",
-          "Vücut Losyonu",
-          "Nemlendiriciler"
-        ],
-        "stock": 13
-      },
-      {
-        "name": "La Roche Posay Hyalu B5 Suractivated Cream 50 ml",
-        "slug": "la-roche-posay-hyalu-b5-suractivated-cream-50-ml",
-        "brand": "La Roche-Posay",
-        "price": 2899.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c8a11a29-552c-4e6f-b2a5-0e5fddc5b36e/image_1950.webp",
-        "cats": [
-          "Nemlendiriciler",
-          "Yaşlanma Karşıtı",
-          "Hyalüronik Asit İçeren Ürünler",
-          "Yüz Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "La Roche Posay Toleriane Dermallergo Fluid Hassas Ciltler İçin Nemlendirici",
-        "slug": "la-roche-posay-toleriane-dermallergo-fluid-hassas-cilt-nemlendirici",
-        "brand": "La Roche-Posay",
-        "price": 2020.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cb250259-bef4-4d73-8265-e02e944dd836/image_1950.webp",
-        "cats": [
-          "Cilt Sağlığı",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Nemlendiriciler",
-          "Hassas Cilt"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "La Roche Posay Toleriane Sensitive Krem Hassas Ciltler İçin",
-        "slug": "la-roche-posay-toleriane-sensitive-krem-hassas-ciltler-icin",
-        "brand": "La Roche-Posay",
-        "price": 1423.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06301515-fc7b-4099-a3c8-e3f94e26ad83/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Nemlendiriciler",
-          "Hassas Cilt"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Mustela Hydra Bebe Nemlendirici Yüz Kremi Bebekler İçin 40 ml",
-        "slug": "mustela-hydra-bebe-nemlendirici-yuz-kremi-bebekler-icin-40-ml",
-        "brand": "Mustela",
-        "price": 700.0,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f56e86f-9f21-4837-9f88-2b31db3548be/image_1950.webp",
-        "cats": [
-          "Yüz Kremi",
-          "Nemlendirici Yüz Kremi",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mustela Soothing Moisturizing Cream 40 ml",
-        "slug": "mustela-soothing-moisturizing-cream-40-ml",
-        "brand": "Mustela",
-        "price": 799.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/79d524b2-bd8b-4b9d-a929-b957c3ccbfbf/image_1950.webp",
-        "cats": [
-          "Yüz Kremi",
-          "Vücut Bakımı",
-          "Vücut Losyonu",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mustela Soothing Moisturizing Lotion 200 ml",
-        "slug": "mustela-soothing-moisturizing-lotion-200-ml",
-        "brand": "Mustela",
-        "price": 1029.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/14f9ff8a-ab13-4ea1-8832-b093a623d322/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Cilt Sağlığı",
-          "Vücut Losyonu",
-          "Vücut Losyonu",
-          "Nemlendiriciler",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Samila Gliserin Cilt Nemlendirici ve Bakım 20 ml",
-        "slug": "samila-gliserin-cilt-nemlendirici-ve-bakim-20-ml",
-        "brand": "Samila",
-        "price": 68.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b479d5b6-499e-4c82-8e21-4383fc8e728a/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Nemlendirici Yağ ve Serumlar",
-          "Nemlendiriciler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Vazelin Sancak Aloe Vera",
-        "slug": "vazelin-sancak-aloe-vera",
-        "brand": "Sancak",
-        "price": 80.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/38f5b7d2-51f0-4543-b287-13e2f1d8ed52/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vazelin Sancak Gül Kokulu",
-        "slug": "vazelin-sancak-gul-kokulu",
-        "brand": "Sancak",
-        "price": 84.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/36241eea-da95-45c8-bbad-28b8891df0cd/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 95.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 2
-      }
-    ],
     "Vücut Yağı": [
       {
         "name": "Alvin Avokado Yağı %100 Doğal 20 cc",
@@ -20312,7 +20038,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -24880,7 +24606,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -27092,7 +26818,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -38103,7 +37829,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -39888,7 +39614,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -39902,7 +39628,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -45735,7 +45461,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -46950,7 +46676,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -48257,7 +47983,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -54985,7 +54711,7 @@
           "Vitamin ve Takviye",
           "Lutein ve Zeaksantin"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -61336,6 +61062,254 @@
           "Temizleyiciler",
           "Hassas Ciltler İçin",
           "Hassas Ciltler"
+        ],
+        "stock": 2
+      }
+    ],
+    "Nemlendiriciler": [
+      {
+        "name": "Bioderma Cicabio El Kremi 50 ml",
+        "slug": "bioderma-cicabio-el-kremi-50-ml",
+        "brand": "Bioderma",
+        "price": 799.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72c8b182-1299-4da3-bc0e-6eb5cc389d04/image_1950.webp",
+        "cats": [
+          "El Kremi",
+          "Vücut Bakımı",
+          "Vücut Kremi",
+          "Nemlendiriciler",
+          "El Kremi",
+          "El Kremi"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Bioderma Sebium Hydra Nemlendirici Krem 40 ml",
+        "slug": "bioderma-sebium-hydra-nemlendirici-krem-40-ml",
+        "brand": "Bioderma",
+        "price": 1649.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4710fd08-fd12-407f-90ea-028290db9a9d/image_1950.webp",
+        "cats": [
+          "Nemlendirici",
+          "Yağlı ve Akne Cilt",
+          "Akne ve Sivilce Bakımı",
+          "Nemlendiriciler",
+          "Yüz Bakımı"
+        ],
+        "stock": 12
+      },
+      {
+        "name": "Bioderma Sensibio Defensive Cream",
+        "slug": "bioderma-sensibio-defensive-cream",
+        "brand": "Bioderma",
+        "price": 1649.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f96402b2-db1b-4720-9de8-85da499cef07/image_1950.webp",
+        "cats": [
+          "Bakım Kremi",
+          "Nemlendiriciler",
+          "Yüz Bakımı",
+          "Hassas Cilt"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Bioderma Sensibio Defensive Rich Yoğun Nemlendirici Krem 40 ml",
+        "slug": "bioderma-sensibio-defensive-rich-yogun-nemlendirici-krem-40-ml",
+        "brand": "Bioderma",
+        "price": 1696.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd5da8f2-c483-4d25-9c8f-446ce6f29eaa/image_1950.webp",
+        "cats": [
+          "Nemlendirici Krem",
+          "Kuru Cilt",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Capicade Nemlendirici Yüz & Vücut Losyonu",
+        "slug": "capicade-nemlendirici-yuz-ve-vucut-losyonu",
+        "brand": "Capicade",
+        "price": 1100.0,
+        "discount_price": 797.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e39ddfd-4aa9-4db5-909b-6c732cb8b7c0/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Vücut Losyonu",
+          "Atopik ve Kuru Cilt",
+          "Kuru Cilt",
+          "Nemlendiriciler"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "Dalin Care Atocure Losyon 500 ml",
+        "slug": "dalin-care-atocure-losyon-500-ml",
+        "brand": "Dalin",
+        "price": 999.0,
+        "discount_price": 644.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd27ba45-3132-4019-b31c-fc88f2cd6b54/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Vücut Losyonu",
+          "Atopik ve Kuru Cilt",
+          "Vücut Losyonu",
+          "Nemlendiriciler"
+        ],
+        "stock": 13
+      },
+      {
+        "name": "La Roche Posay Hyalu B5 Suractivated Cream 50 ml",
+        "slug": "la-roche-posay-hyalu-b5-suractivated-cream-50-ml",
+        "brand": "La Roche-Posay",
+        "price": 2899.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c8a11a29-552c-4e6f-b2a5-0e5fddc5b36e/image_1950.webp",
+        "cats": [
+          "Nemlendiriciler",
+          "Yaşlanma Karşıtı",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Yüz Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "La Roche Posay Toleriane Dermallergo Fluid Hassas Ciltler İçin Nemlendirici",
+        "slug": "la-roche-posay-toleriane-dermallergo-fluid-hassas-cilt-nemlendirici",
+        "brand": "La Roche-Posay",
+        "price": 2020.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cb250259-bef4-4d73-8265-e02e944dd836/image_1950.webp",
+        "cats": [
+          "Cilt Sağlığı",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "La Roche Posay Toleriane Sensitive Krem Hassas Ciltler İçin",
+        "slug": "la-roche-posay-toleriane-sensitive-krem-hassas-ciltler-icin",
+        "brand": "La Roche-Posay",
+        "price": 1423.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06301515-fc7b-4099-a3c8-e3f94e26ad83/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Mustela Hydra Bebe Nemlendirici Yüz Kremi Bebekler İçin 40 ml",
+        "slug": "mustela-hydra-bebe-nemlendirici-yuz-kremi-bebekler-icin-40-ml",
+        "brand": "Mustela",
+        "price": 700.0,
+        "discount_price": 511.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f56e86f-9f21-4837-9f88-2b31db3548be/image_1950.webp",
+        "cats": [
+          "Yüz Kremi",
+          "Nemlendirici Yüz Kremi",
+          "Nemlendiriciler"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Mustela Soothing Moisturizing Cream 40 ml",
+        "slug": "mustela-soothing-moisturizing-cream-40-ml",
+        "brand": "Mustela",
+        "price": 799.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/79d524b2-bd8b-4b9d-a929-b957c3ccbfbf/image_1950.webp",
+        "cats": [
+          "Yüz Kremi",
+          "Vücut Bakımı",
+          "Vücut Losyonu",
+          "Nemlendiriciler"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Mustela Soothing Moisturizing Lotion 200 ml",
+        "slug": "mustela-soothing-moisturizing-lotion-200-ml",
+        "brand": "Mustela",
+        "price": 1029.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/14f9ff8a-ab13-4ea1-8832-b093a623d322/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Cilt Sağlığı",
+          "Vücut Losyonu",
+          "Vücut Losyonu",
+          "Nemlendiriciler",
+          "Çocuk Sağlığı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Samila Gliserin Cilt Nemlendirici ve Bakım 20 ml",
+        "slug": "samila-gliserin-cilt-nemlendirici-ve-bakim-20-ml",
+        "brand": "Samila",
+        "price": 68.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b479d5b6-499e-4c82-8e21-4383fc8e728a/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Nemlendirici Yağ ve Serumlar",
+          "Nemlendiriciler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Vazelin Sancak Aloe Vera",
+        "slug": "vazelin-sancak-aloe-vera",
+        "brand": "Sancak",
+        "price": 80.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/38f5b7d2-51f0-4543-b287-13e2f1d8ed52/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Atopik ve Kuru Cilt",
+          "Vazelin",
+          "Nemlendiriciler"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Vazelin Sancak Gül Kokulu",
+        "slug": "vazelin-sancak-gul-kokulu",
+        "brand": "Sancak",
+        "price": 84.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/36241eea-da95-45c8-bbad-28b8891df0cd/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Atopik ve Kuru Cilt",
+          "Vazelin",
+          "Nemlendiriciler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Vazelin Sancak Pure 20 gr",
+        "slug": "vazelin-sancak-pure-20-gr",
+        "brand": "Sancak",
+        "price": 95.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Atopik ve Kuru Cilt",
+          "Vazelin",
+          "Nemlendiriciler"
         ],
         "stock": 2
       }
@@ -73050,7 +73024,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -74514,7 +74488,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Orzax Ocean Pulse Kalp Sağlığı Takviyesi 30 Kapsül",
@@ -87208,7 +87182,7 @@
           "Vitamin ve Takviye",
           "Lutein ve Zeaksantin"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -98620,9 +98594,9 @@
     ]
   },
   "stats": {
-    "total_products": 6291,
+    "total_products": 6289,
     "total_categories": 693,
-    "generated": "2026-09-14 11:06",
+    "generated": "2026-09-14 15:04",
     "source": "ikas_api_live"
   }
 }
