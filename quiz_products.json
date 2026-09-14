@@ -1745,22 +1745,6 @@
         "stock": 1
       },
       {
-        "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
-        "brand": "İmuneks",
-        "price": 715.0,
-        "discount_price": 579.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/627a1e90-fb2e-4d94-967c-4a922d715e35/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Soğuk Algınlığı ve Grip",
-          "Aserola",
-          "En Yeniler",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
         "name": "İmunol Kapsül Beta Glukan C Vitamini Takviyesi 40 Kapsül",
         "slug": "imunol-kapsul-beta-glukan-c-vitamini-takviyesi-40-kapsul",
         "brand": "İmunol",
@@ -2917,7 +2901,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ocean VM Şurup Portakal Aromalı 150 ml Şişe",
@@ -9286,22 +9270,6 @@
         "stock": 1
       },
       {
-        "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
-        "brand": "İmuneks",
-        "price": 715.0,
-        "discount_price": 579.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/627a1e90-fb2e-4d94-967c-4a922d715e35/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Soğuk Algınlığı ve Grip",
-          "Aserola",
-          "En Yeniler",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
         "name": "İmunol Complex 45 Kapsül",
         "slug": "imunol-complex-45-kapsul",
         "brand": "Orzax",
@@ -10381,7 +10349,7 @@
           "İhtiyaca Göre",
           "Bitkisel Takviyeler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBTLife Bromelain Plus CR Kapsül 30 Kapsül",
@@ -10396,7 +10364,7 @@
           "Bitkisel Takviyeler",
           "Sindirim Sağlığı"
         ],
-        "stock": 27
+        "stock": 26
       },
       {
         "name": "NBTLife Duobalance Damla 20 ml",
@@ -13940,7 +13908,7 @@
           "İhtiyaca Göre",
           "Bitkisel Takviyeler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBTLife Bromelain Plus CR Kapsül 30 Kapsül",
@@ -13955,7 +13923,7 @@
           "Bitkisel Takviyeler",
           "Sindirim Sağlığı"
         ],
-        "stock": 27
+        "stock": 26
       },
       {
         "name": "New Life Ginvit LC Ginseng, L-Karnitin, Yeşil Çay, Guarana 30 Tablet",
@@ -17964,7 +17932,7 @@
           "Bitkisel Takviyeler",
           "Sindirim Sağlığı"
         ],
-        "stock": 27
+        "stock": 26
       },
       {
         "name": "NaturalNest Bromelain Plus 60 Kapsül",
@@ -18797,7 +18765,7 @@
           "İhtiyaca Göre",
           "Bitkisel Takviyeler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "New Life AlgoSte K2 Tablet, K2 Vitamini ve Mineral 60 Tablet",
@@ -65828,36 +65796,6 @@
         "stock": 13
       },
       {
-        "name": "Bit Tokası Doğal Bit Kovucu Saç Tokası",
-        "slug": "bit-tokasi-dogal-bit-kovucu-sac-tokasi",
-        "brand": "Headlice",
-        "price": 37.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c5600a6b-0fcd-448e-a226-33f39e9c0b6a/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Bit Kovucu"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Bit Tokası Doğal Bit Kovucu Saç Tokası",
-        "slug": "bit-tokasi-dogal-bit-kovucu-sac-tokasi",
-        "brand": "Headlice",
-        "price": 37.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c5600a6b-0fcd-448e-a226-33f39e9c0b6a/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Bit Kovucu"
-        ],
-        "stock": 5
-      },
-      {
         "name": "Paranit Baş Biti ve Sirke Tedavisi İçin Şampuan 100 ml Şişe",
         "slug": "paranit-bas-biti-ve-sirke-tedavisi-icin-sampuan-100-ml-sise",
         "brand": "Paranit",
@@ -65959,53 +65897,6 @@
           "Bit Kovucu"
         ],
         "stock": 13
-      },
-      {
-        "name": "Bit Tokası Doğal Bit Kovucu Saç Tokası",
-        "slug": "bit-tokasi-dogal-bit-kovucu-sac-tokasi",
-        "brand": "Headlice",
-        "price": 37.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c5600a6b-0fcd-448e-a226-33f39e9c0b6a/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Bit Kovucu"
-        ],
-        "stock": 5
-      }
-    ],
-    "Bit ve Sirke Karşıtı": [
-      {
-        "name": "Bit Tokası Doğal Bit Kovucu Saç Tokası",
-        "slug": "bit-tokasi-dogal-bit-kovucu-sac-tokasi",
-        "brand": "Headlice",
-        "price": 37.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c5600a6b-0fcd-448e-a226-33f39e9c0b6a/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Bit Kovucu"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Paranit Baş Biti ve Sirke Tedavisi İçin Şampuan 100 ml Şişe",
-        "slug": "paranit-bas-biti-ve-sirke-tedavisi-icin-sampuan-100-ml-sise",
-        "brand": "Paranit",
-        "price": 946.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82a33788-df6e-4566-bbcf-e4432495c125/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Şampuan"
-        ],
-        "stock": 5
       }
     ],
     "Cinsel Sağlık Ürünleri": [
@@ -68979,7 +68870,7 @@
           "İhtiyaca Göre",
           "Bitkisel Takviyeler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "New Life Ginvit LC Ginseng, L-Karnitin, Yeşil Çay, Guarana 30 Tablet",
@@ -72766,7 +72657,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ocean Multi Balık Yağı Şurup 150 ml (1+1 Paket)",
@@ -72782,7 +72673,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -74199,7 +74090,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -83263,7 +83154,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -83399,22 +83290,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/baa6f896-f8cf-4c86-9895-ef2d538f5766/image_1950.webp",
         "cats": [
           "Bağışıklık Sistemi",
-          "En Yeniler",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
-        "brand": "İmuneks",
-        "price": 715.0,
-        "discount_price": 579.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/627a1e90-fb2e-4d94-967c-4a922d715e35/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Soğuk Algınlığı ve Grip",
-          "Aserola",
           "En Yeniler",
           "Beta Glukan"
         ],
@@ -83625,7 +83500,7 @@
           "Bitkisel Takviyeler",
           "Sindirim Sağlığı"
         ],
-        "stock": 27
+        "stock": 26
       },
       {
         "name": "NaturalNest Bromelain Plus 60 Kapsül",
@@ -86297,7 +86172,7 @@
           "İhtiyaca Göre",
           "Bitkisel Takviyeler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Orzax Ocean Krom Pikolinat Kan Şekeri Dengeleyici 90 Kapsül",
@@ -87457,7 +87332,7 @@
           "İhtiyaca Göre",
           "Bitkisel Takviyeler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Orzax Ocean Krom Pikolinat Kan Şekeri Dengeleyici 90 Kapsül",
@@ -95828,6 +95703,23 @@
         "stock": 1
       }
     ],
+    "Bit ve Sirke Karşıtı": [
+      {
+        "name": "Paranit Baş Biti ve Sirke Tedavisi İçin Şampuan 100 ml Şişe",
+        "slug": "paranit-bas-biti-ve-sirke-tedavisi-icin-sampuan-100-ml-sise",
+        "brand": "Paranit",
+        "price": 946.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82a33788-df6e-4566-bbcf-e4432495c125/image_1950.webp",
+        "cats": [
+          "Bit ve Sirke Bakımı",
+          "Bit ve Sirke Karşıtı",
+          "Bit ve Sirke Bakımı",
+          "Şampuan"
+        ],
+        "stock": 5
+      }
+    ],
     "50 Yaş Üstü": [
       {
         "name": "Pharmaton 50+ Multivitamin ve Mineral Omega 3 Takviyesi 30 Kapsül",
@@ -98491,22 +98383,6 @@
         "stock": 1
       },
       {
-        "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
-        "brand": "İmuneks",
-        "price": 715.0,
-        "discount_price": 579.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/627a1e90-fb2e-4d94-967c-4a922d715e35/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Soğuk Algınlığı ve Grip",
-          "Aserola",
-          "En Yeniler",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
         "name": "İmunol Complex 45 Kapsül",
         "slug": "imunol-complex-45-kapsul",
         "brand": "Orzax",
@@ -98573,30 +98449,12 @@
         ],
         "stock": 1
       }
-    ],
-    "Aserola": [
-      {
-        "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
-        "brand": "İmuneks",
-        "price": 715.0,
-        "discount_price": 579.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/627a1e90-fb2e-4d94-967c-4a922d715e35/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Soğuk Algınlığı ve Grip",
-          "Aserola",
-          "En Yeniler",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      }
     ]
   },
   "stats": {
-    "total_products": 6289,
-    "total_categories": 693,
-    "generated": "2026-09-14 15:04",
+    "total_products": 6280,
+    "total_categories": 692,
+    "generated": "2026-09-14 19:00",
     "source": "ikas_api_live"
   }
 }
