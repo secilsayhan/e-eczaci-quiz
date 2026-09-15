@@ -7959,7 +7959,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -8115,20 +8115,6 @@
         "stock": 24
       },
       {
-        "name": "Orzax Ocean Çörek Otu Yağı 1000 mg Bağışıklık Desteği 60 Kapsül",
-        "slug": "orzax-ocean-corek-otu-yagi-1000-mg-bagisiklik-destegi-60-kapsul",
-        "brand": "Orzax",
-        "price": 649.5,
-        "discount_price": 325.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c64de003-4130-4744-befd-5882c9cdb69d/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Çörek Otu Yağı",
-          "Çörek Otu (Black Cumin)"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Orzax İmunol Complex Bağışıklık Güçlendirici 30 Kapsül",
         "slug": "orzax-imunol-complex-bagisiklik-guclendirici-30-kapsul",
         "brand": "Orzax",
@@ -8140,7 +8126,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
@@ -9865,19 +9851,6 @@
         "stock": 1
       },
       {
-        "name": "Hermesetas Original Tablet Tatlandırıcı 300 Tablet",
-        "slug": "hermesetas-original-tablet-tatlandirici-300-tablet",
-        "brand": "Hermesetas",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f44719f1-1fd8-42c7-a82c-dc786cfd6792/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Tablet Tatlandırıcı"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "hpwash-kapsul-aktif-heksoz-korele-bilesik-ve-dim-iceren-takviye-edici",
         "brand": "HPWash",
@@ -11155,7 +11128,7 @@
           "Vitamin ve Takviye",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Sprey",
@@ -11256,7 +11229,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Passiflora Kapsül 30 Kapsül",
@@ -11530,7 +11503,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -15052,19 +15025,6 @@
         "stock": 1
       },
       {
-        "name": "Dentiste Diş Macunu Tüp 100 gr",
-        "slug": "dentiste-dis-macunu-tup-100-gr",
-        "brand": "Dentiste",
-        "price": 460.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/828954d7-eadd-4b60-be8f-09ff7e2cdbc6/image_1950.webp",
-        "cats": [
-          "Diş Macunu",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Dentiste Seyahat Boyu Diş Macunu",
         "slug": "dentiste-seyahat-boyu-dis-macunu",
         "brand": "Dentiste",
@@ -16693,7 +16653,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Ocean Capillus Men 60 Tablet",
@@ -20694,7 +20654,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 45
+        "stock": 44
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -22124,7 +22084,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Cicaplast Baume B5 Çok Amaçlı Onarıcı Balsam 40 ml",
@@ -24676,7 +24636,7 @@
           "Vitamin ve Takviye",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -27563,7 +27523,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Orzax Ocean Extramag P5P B6 Magnezyum Saşe 30 Poşet",
@@ -31430,7 +31390,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -34312,19 +34272,6 @@
           "Ağız ve Diş Bakımı",
           "Ağız ve Diş Sağlığı",
           "Seyahat Boy"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Dentiste Diş Macunu Tüp 100 gr",
-        "slug": "dentiste-dis-macunu-tup-100-gr",
-        "brand": "Dentiste",
-        "price": 460.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/828954d7-eadd-4b60-be8f-09ff7e2cdbc6/image_1950.webp",
-        "cats": [
-          "Diş Macunu",
-          "Ağız ve Diş Sağlığı"
         ],
         "stock": 1
       },
@@ -38005,21 +37952,6 @@
         "stock": 6
       },
       {
-        "name": "Bioderma Sensibio AR BB Krem SPF30",
-        "slug": "bioderma-sensibio-ar-bb-krem-spf30",
-        "brand": "Bioderma",
-        "price": 2139.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/caf4eedc-722e-47c7-bf01-4359cee80c23/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 30+",
-          "SPF 50+",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
         "slug": "bioderma-sensibio-ar-plus-cc-krem-spf50-light-40-ml",
         "brand": "Bioderma",
@@ -38553,20 +38485,6 @@
         "stock": 3
       },
       {
-        "name": "La Roche Posay Anthelios XL Ultra Light Sprey Güneş Kremi SPF50+ 200 ml",
-        "slug": "la-roche-posay-anthelios-xl-ultra-light-sprey-spf50-plus-200-ml",
-        "brand": "La Roche-Posay",
-        "price": 1899.9,
-        "discount_price": 950.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5dea4f0c-92f4-4a65-8a7a-5fc42ed20c53/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 1
-      },
-      {
         "name": "La Roche Posay Cicaplast Baume B5 Spf50 Onarıcı Güneş Kremi 40 ml",
         "slug": "la-roche-posay-cicaplast-baume-b5-spf50-onarici-gunes-kremi-40-ml",
         "brand": "La Roche-Posay",
@@ -38579,7 +38497,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Effaclar Duo+ Spf30 Akne ve Güneş Korumalı Krem",
@@ -39715,21 +39633,6 @@
         "stock": 10
       },
       {
-        "name": "Bioderma Sensibio AR BB Krem SPF30",
-        "slug": "bioderma-sensibio-ar-bb-krem-spf30",
-        "brand": "Bioderma",
-        "price": 2139.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/caf4eedc-722e-47c7-bf01-4359cee80c23/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 30+",
-          "SPF 50+",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
         "slug": "bioderma-sensibio-ar-plus-cc-krem-spf50-light-40-ml",
         "brand": "Bioderma",
@@ -40315,20 +40218,6 @@
         "stock": 3
       },
       {
-        "name": "La Roche Posay Anthelios XL Ultra Light Sprey Güneş Kremi SPF50+ 200 ml",
-        "slug": "la-roche-posay-anthelios-xl-ultra-light-sprey-spf50-plus-200-ml",
-        "brand": "La Roche-Posay",
-        "price": 1899.9,
-        "discount_price": 950.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5dea4f0c-92f4-4a65-8a7a-5fc42ed20c53/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 1
-      },
-      {
         "name": "La Roche Posay Cicaplast Baume B5 Spf50 Onarıcı Güneş Kremi 40 ml",
         "slug": "la-roche-posay-cicaplast-baume-b5-spf50-onarici-gunes-kremi-40-ml",
         "brand": "La Roche-Posay",
@@ -40341,7 +40230,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Hyalu B5 Suractivated Cream SPF30 50 ml",
@@ -41936,20 +41825,6 @@
         "stock": 1
       },
       {
-        "name": "La Roche Posay Anthelios XL Ultra Light Sprey Güneş Kremi SPF50+ 200 ml",
-        "slug": "la-roche-posay-anthelios-xl-ultra-light-sprey-spf50-plus-200-ml",
-        "brand": "La Roche-Posay",
-        "price": 1899.9,
-        "discount_price": 950.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5dea4f0c-92f4-4a65-8a7a-5fc42ed20c53/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 1
-      },
-      {
         "name": "La Roche Posay Cicaplast Baume B5 Spf50 Onarıcı Güneş Kremi 40 ml",
         "slug": "la-roche-posay-cicaplast-baume-b5-spf50-onarici-gunes-kremi-40-ml",
         "brand": "La Roche-Posay",
@@ -41962,7 +41837,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Sebamed Sun Baby Sprey SPF 50",
@@ -46085,7 +45960,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 45
+        "stock": 44
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -48591,7 +48466,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 45
+        "stock": 44
       },
       {
         "name": "Potasyum Sitrat 250 Gr Suvar",
@@ -50229,7 +50104,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
@@ -62172,21 +62047,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Sensibio AR BB Krem SPF30",
-        "slug": "bioderma-sensibio-ar-bb-krem-spf30",
-        "brand": "Bioderma",
-        "price": 2139.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/caf4eedc-722e-47c7-bf01-4359cee80c23/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 30+",
-          "SPF 50+",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Capicade Leke Giderici Güneş Kremi SPF30 50 ml",
         "slug": "capicade-leke-giderici-gunes-kremi-spf30-50-ml",
         "brand": "Capicade",
@@ -62844,21 +62704,6 @@
           "Güneş Bakımı",
           "SPF 50+",
           "Yüz Güneş Koruma",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Sensibio AR BB Krem SPF30",
-        "slug": "bioderma-sensibio-ar-bb-krem-spf30",
-        "brand": "Bioderma",
-        "price": 2139.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/caf4eedc-722e-47c7-bf01-4359cee80c23/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 30+",
-          "SPF 50+",
           "Rozasea"
         ],
         "stock": 1
@@ -68998,7 +68843,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Sjømann’s Biotin 3000 Çiğnenebilir Jel 30 Adet",
@@ -69630,19 +69475,6 @@
           "Tablet Tatlandırıcı"
         ],
         "stock": 2
-      },
-      {
-        "name": "Hermesetas Original Tablet Tatlandırıcı 300 Tablet",
-        "slug": "hermesetas-original-tablet-tatlandirici-300-tablet",
-        "brand": "Hermesetas",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f44719f1-1fd8-42c7-a82c-dc786cfd6792/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Tablet Tatlandırıcı"
-        ],
-        "stock": 3
       },
       {
         "name": "Splenda Stevia Tablet Plastik Tetikleyici Ambalaj 80 Tablet",
@@ -74504,7 +74336,7 @@
           "Vitamin ve Takviye",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -77556,7 +77388,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Pharmaton Vitality Ginseng İçeren Multivitamin 30 Tablet",
@@ -85906,7 +85738,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 45
+        "stock": 44
       },
       {
         "name": "Solgar Magnezyum B6 Vitamini Sinir Kas Sağlığı 100 Tablet",
@@ -89727,20 +89559,6 @@
         "stock": 36
       },
       {
-        "name": "Orzax Ocean Çörek Otu Yağı 1000 mg Bağışıklık Desteği 60 Kapsül",
-        "slug": "orzax-ocean-corek-otu-yagi-1000-mg-bagisiklik-destegi-60-kapsul",
-        "brand": "Orzax",
-        "price": 649.5,
-        "discount_price": 325.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c64de003-4130-4744-befd-5882c9cdb69d/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Çörek Otu Yağı",
-          "Çörek Otu (Black Cumin)"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Velavit V-Black Cumin Oil 60 Kapsül",
         "slug": "velavit-v-black-cumin-oil-60-kapsul",
         "brand": "Velavit",
@@ -89797,20 +89615,6 @@
           "Çörek Otu (Black Cumin)"
         ],
         "stock": 11
-      },
-      {
-        "name": "Orzax Ocean Çörek Otu Yağı 1000 mg Bağışıklık Desteği 60 Kapsül",
-        "slug": "orzax-ocean-corek-otu-yagi-1000-mg-bagisiklik-destegi-60-kapsul",
-        "brand": "Orzax",
-        "price": 649.5,
-        "discount_price": 325.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c64de003-4130-4744-befd-5882c9cdb69d/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Çörek Otu Yağı",
-          "Çörek Otu (Black Cumin)"
-        ],
-        "stock": 2
       },
       {
         "name": "Zade Vital Black Cumin Oil Cam Şişe 150 ml",
@@ -93456,7 +93260,7 @@
           "Vitamin ve Takviye",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -99034,9 +98838,9 @@
     ]
   },
   "stats": {
-    "total_products": 6318,
+    "total_products": 6304,
     "total_categories": 693,
-    "generated": "2026-09-15 07:04",
+    "generated": "2026-09-15 11:00",
     "source": "ikas_api_live"
   }
 }
