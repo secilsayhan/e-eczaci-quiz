@@ -8020,7 +8020,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 234
+        "stock": 233
       },
       {
         "name": "Orzax Ocean D3K2 Damla Kemik Sağlığı 20 ml",
@@ -9891,7 +9891,7 @@
           "Vitamin ve Takviye",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
@@ -15294,23 +15294,6 @@
         "stock": 10
       },
       {
-        "name": "Meridol Diş Macunu Parodont Expert 75 ml",
-        "slug": "meridol-dis-macunu-parodont-expert-75-ml",
-        "brand": "Meridol",
-        "price": 380.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e8d7bd58-74ad-4cdf-8b51-046f619c6b5c/image_1950.webp",
-        "cats": [
-          "Hassasiyet Giderici",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı",
-          "Diş Eti Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Miaday Kürdanlı Diş İpi Pratik Kullanım 40 Adet",
         "slug": "miaday-kurdanli-dis-ipi-pratik-kullanim-40-adet",
         "brand": "Miaday",
@@ -15351,20 +15334,6 @@
           "Ağız ve Diş Sağlığı",
           "Diş Jeli",
           "Çocuk Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Oral-B Pro-Expert Clinic Floss Diş İpi",
-        "slug": "oral-b-pro-expert-clinic-floss-dis-ipi",
-        "brand": "Oral-B",
-        "price": 210.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d0f908b-ee4e-4cdc-b5e0-19239fe90d82/image_1950.webp",
-        "cats": [
-          "Diş İpi",
-          "Diş İpi",
-          "Ağız ve Diş Sağlığı"
         ],
         "stock": 1
       },
@@ -15464,21 +15433,6 @@
           "Nefes Ferahlatıcılar",
           "Ağız Spreyi",
           "Ağız Spreyleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Talya Karanfil Yağı 20 ml Ağız Bakım",
-        "slug": "talya-karanfil-yagi-20-ml-agiz-bakim",
-        "brand": "Talya",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4326f43-2431-49ae-974d-f2d9d1a3c0e4/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Ağız Bakım Yağı",
-          "Ağız ve Diş Sağlığı",
-          "Ağız ve Diş Bakımı"
         ],
         "stock": 1
       },
@@ -15988,22 +15942,6 @@
           "Saç Bakım Yağları",
           "Saç, Cilt ve Tırnak",
           "Avokado Yağı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Talya Hindistan Cevizi Yağı 20 cc Cilt ve Saç Bakım",
-        "slug": "talya-hindistan-cevizi-yagi-20-cc-cilt-ve-sac-bakim",
-        "brand": "Talya",
-        "price": 179.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af7821c8-1be2-4b20-aa25-563dee1b56cd/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Nemlendirici Yağ ve Serumlar",
-          "Hindistan Cevizi Yağı",
-          "Saç Bakım Yağları",
-          "Saç, Cilt ve Tırnak"
         ],
         "stock": 1
       },
@@ -16743,7 +16681,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Capillus Men 60 Tablet",
@@ -16963,22 +16901,6 @@
         "cats": [
           "Doğal ve Aromaterapi Yağları",
           "Argan Yağı",
-          "Saç, Cilt ve Tırnak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Talya Hindistan Cevizi Yağı 20 cc Cilt ve Saç Bakım",
-        "slug": "talya-hindistan-cevizi-yagi-20-cc-cilt-ve-sac-bakim",
-        "brand": "Talya",
-        "price": 179.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af7821c8-1be2-4b20-aa25-563dee1b56cd/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Nemlendirici Yağ ve Serumlar",
-          "Hindistan Cevizi Yağı",
-          "Saç Bakım Yağları",
           "Saç, Cilt ve Tırnak"
         ],
         "stock": 1
@@ -22703,36 +22625,6 @@
         "stock": 1
       }
     ],
-    "Anal ve Rektal Sağlık": [
-      {
-        "name": "Anuflex Pomad Hemoroid ve Anal Rahatsızlıklar İçin 30 gr",
-        "slug": "anuflex-pomad-hemoroid-ve-anal-rahatsizliklar-icin-30-gr",
-        "brand": "Anuflex",
-        "price": 670.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/efb4b7ff-cbe8-42c8-961d-66838ec17629/image_1950.webp",
-        "cats": [
-          "Anal ve Rektal Sağlık",
-          "Hemoroid Kremi"
-        ],
-        "stock": 9
-      }
-    ],
-    "Hemoroid Kremi": [
-      {
-        "name": "Anuflex Pomad Hemoroid ve Anal Rahatsızlıklar İçin 30 gr",
-        "slug": "anuflex-pomad-hemoroid-ve-anal-rahatsizliklar-icin-30-gr",
-        "brand": "Anuflex",
-        "price": 670.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/efb4b7ff-cbe8-42c8-961d-66838ec17629/image_1950.webp",
-        "cats": [
-          "Anal ve Rektal Sağlık",
-          "Hemoroid Kremi"
-        ],
-        "stock": 9
-      }
-    ],
     "Başlangıç (0-6 Ay)": [
       {
         "name": "Aptamil Pronutra 1 Bebek Sütü Başlangıç Formülü 350 gr Toz",
@@ -28232,7 +28124,7 @@
           "B3 Vitamini (Niasin)",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Vitamin B-Complex \"50\" Kapsül, 50 Kapsül",
@@ -34543,23 +34435,6 @@
           "Ağız ve Diş Bakımı"
         ],
         "stock": 2
-      },
-      {
-        "name": "Meridol Diş Macunu Parodont Expert 75 ml",
-        "slug": "meridol-dis-macunu-parodont-expert-75-ml",
-        "brand": "Meridol",
-        "price": 380.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e8d7bd58-74ad-4cdf-8b51-046f619c6b5c/image_1950.webp",
-        "cats": [
-          "Hassasiyet Giderici",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı",
-          "Diş Eti Bakımı"
-        ],
-        "stock": 1
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -47394,7 +47269,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 234
+        "stock": 233
       },
       {
         "name": "Orzax Ocean D3K2 Damla Kemik Sağlığı 20 ml",
@@ -50992,7 +50867,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 234
+        "stock": 233
       },
       {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
@@ -51640,7 +51515,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 234
+        "stock": 233
       },
       {
         "name": "Orzax Ocean D3K2 Damla Kemik Sağlığı 20 ml",
@@ -58654,22 +58529,6 @@
         "stock": 2
       },
       {
-        "name": "Talya Hindistan Cevizi Yağı 20 cc Cilt ve Saç Bakım",
-        "slug": "talya-hindistan-cevizi-yagi-20-cc-cilt-ve-sac-bakim",
-        "brand": "Talya",
-        "price": 179.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af7821c8-1be2-4b20-aa25-563dee1b56cd/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Nemlendirici Yağ ve Serumlar",
-          "Hindistan Cevizi Yağı",
-          "Saç Bakım Yağları",
-          "Saç, Cilt ve Tırnak"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Talya Hindistan Cevizi Yağı Katı 150 ml Çok Amaçlı",
         "slug": "talya-hindistan-cevizi-yagi-kati-150-ml-cok-amacli",
         "brand": "Talya",
@@ -59730,23 +59589,6 @@
           "Kişisel Bakım",
           "Alkolsüz",
           "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Meridol Diş Macunu Parodont Expert 75 ml",
-        "slug": "meridol-dis-macunu-parodont-expert-75-ml",
-        "brand": "Meridol",
-        "price": 380.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e8d7bd58-74ad-4cdf-8b51-046f619c6b5c/image_1950.webp",
-        "cats": [
-          "Hassasiyet Giderici",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı",
-          "Diş Eti Bakımı"
         ],
         "stock": 1
       },
@@ -68947,7 +68789,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Sjømann’s Biotin 3000 Çiğnenebilir Jel 30 Adet",
@@ -69606,7 +69448,7 @@
           "Vitamin ve Takviye",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Splenda Stevia Tablet Plastik Tetikleyici Ambalaj 80 Tablet",
@@ -74326,7 +74168,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 234
+        "stock": 233
       },
       {
         "name": "Orzax Ocean D3K2 Damla Kemik Sağlığı 20 ml",
@@ -74612,7 +74454,7 @@
           "B3 Vitamini (Niasin)",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Omega 3 700 mg EPA DHA Balık Yağı 60 Kapsül",
@@ -75807,23 +75649,6 @@
         "stock": 1
       },
       {
-        "name": "Meridol Diş Macunu Parodont Expert 75 ml",
-        "slug": "meridol-dis-macunu-parodont-expert-75-ml",
-        "brand": "Meridol",
-        "price": 380.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e8d7bd58-74ad-4cdf-8b51-046f619c6b5c/image_1950.webp",
-        "cats": [
-          "Hassasiyet Giderici",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı",
-          "Diş Eti Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Opalescence Macun Hassas Beyaz Diş Macunu 133 gr",
         "slug": "opalescence-macun-hassas-beyaz-dis-macunu-133-gr",
         "brand": "Opalescence",
@@ -75934,23 +75759,6 @@
           "Kişisel Bakım",
           "Diş Eti Bakımı",
           "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Meridol Diş Macunu Parodont Expert 75 ml",
-        "slug": "meridol-dis-macunu-parodont-expert-75-ml",
-        "brand": "Meridol",
-        "price": 380.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e8d7bd58-74ad-4cdf-8b51-046f619c6b5c/image_1950.webp",
-        "cats": [
-          "Hassasiyet Giderici",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı",
-          "Diş Eti Bakımı"
         ],
         "stock": 1
       },
@@ -78045,23 +77853,6 @@
         "stock": 1
       },
       {
-        "name": "Meridol Diş Macunu Parodont Expert 75 ml",
-        "slug": "meridol-dis-macunu-parodont-expert-75-ml",
-        "brand": "Meridol",
-        "price": 380.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e8d7bd58-74ad-4cdf-8b51-046f619c6b5c/image_1950.webp",
-        "cats": [
-          "Hassasiyet Giderici",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı",
-          "Diş Eti Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
         "slug": "nurse-harvey-s-dentigel-15-gr-jel",
         "brand": "Nurse Harvey's",
@@ -78260,21 +78051,6 @@
           "Ağız ve Diş Bakımı"
         ],
         "stock": 3
-      },
-      {
-        "name": "Talya Karanfil Yağı 20 ml Ağız Bakım",
-        "slug": "talya-karanfil-yagi-20-ml-agiz-bakim",
-        "brand": "Talya",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4326f43-2431-49ae-974d-f2d9d1a3c0e4/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Ağız Bakım Yağı",
-          "Ağız ve Diş Sağlığı",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
       },
       {
         "name": "Tepe T110 Arayüz Fırçası Orjinal Karışık 8'li",
@@ -80209,22 +79985,6 @@
         "stock": 1
       },
       {
-        "name": "Talya Hindistan Cevizi Yağı 20 cc Cilt ve Saç Bakım",
-        "slug": "talya-hindistan-cevizi-yagi-20-cc-cilt-ve-sac-bakim",
-        "brand": "Talya",
-        "price": 179.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af7821c8-1be2-4b20-aa25-563dee1b56cd/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Nemlendirici Yağ ve Serumlar",
-          "Hindistan Cevizi Yağı",
-          "Saç Bakım Yağları",
-          "Saç, Cilt ve Tırnak"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Talya Hindistan Cevizi Yağı Katı 150 ml Çok Amaçlı",
         "slug": "talya-hindistan-cevizi-yagi-kati-150-ml-cok-amacli",
         "brand": "Talya",
@@ -80250,21 +80010,6 @@
         "cats": [
           "Doğal ve Aromaterapi Yağları",
           "Saç Bakım Yağları"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Talya Karanfil Yağı 20 ml Ağız Bakım",
-        "slug": "talya-karanfil-yagi-20-ml-agiz-bakim",
-        "brand": "Talya",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4326f43-2431-49ae-974d-f2d9d1a3c0e4/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Ağız Bakım Yağı",
-          "Ağız ve Diş Sağlığı",
-          "Ağız ve Diş Bakımı"
         ],
         "stock": 1
       },
@@ -92130,32 +91875,6 @@
         "stock": 4
       },
       {
-        "name": "Oral-B Diş İpi Parafinli 25 m",
-        "slug": "oral-b-dis-ipi-parafinli-25-m",
-        "brand": "Oral-B",
-        "price": 331.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2589f4f6-66aa-4883-937d-df0e285143a8/image_1950.webp",
-        "cats": [
-          "Diş İpi",
-          "Diş İpi"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Oral-B Diş İpi Parafinli 25 m",
-        "slug": "oral-b-dis-ipi-parafinli-25-m",
-        "brand": "Oral-B",
-        "price": 331.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2589f4f6-66aa-4883-937d-df0e285143a8/image_1950.webp",
-        "cats": [
-          "Diş İpi",
-          "Diş İpi"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Oral-B Essential Floss Naneli Diş İpi",
         "slug": "oral-b-essential-floss-naneli-dis-ipi",
         "brand": "Oral-B",
@@ -92180,34 +91899,6 @@
           "Diş İpi"
         ],
         "stock": 5
-      },
-      {
-        "name": "Oral-B Pro-Expert Clinic Floss Diş İpi",
-        "slug": "oral-b-pro-expert-clinic-floss-dis-ipi",
-        "brand": "Oral-B",
-        "price": 210.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d0f908b-ee4e-4cdc-b5e0-19239fe90d82/image_1950.webp",
-        "cats": [
-          "Diş İpi",
-          "Diş İpi",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Oral-B Pro-Expert Clinic Floss Diş İpi",
-        "slug": "oral-b-pro-expert-clinic-floss-dis-ipi",
-        "brand": "Oral-B",
-        "price": 210.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4d0f908b-ee4e-4cdc-b5e0-19239fe90d82/image_1950.webp",
-        "cats": [
-          "Diş İpi",
-          "Diş İpi",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Oral-B Satin Tape Mint Naneli Diş İpi",
@@ -94715,7 +94406,7 @@
           "B3 Vitamini (Niasin)",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -97507,22 +97198,6 @@
     ],
     "Hindistan Cevizi Yağı": [
       {
-        "name": "Talya Hindistan Cevizi Yağı 20 cc Cilt ve Saç Bakım",
-        "slug": "talya-hindistan-cevizi-yagi-20-cc-cilt-ve-sac-bakim",
-        "brand": "Talya",
-        "price": 179.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af7821c8-1be2-4b20-aa25-563dee1b56cd/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Nemlendirici Yağ ve Serumlar",
-          "Hindistan Cevizi Yağı",
-          "Saç Bakım Yağları",
-          "Saç, Cilt ve Tırnak"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Talya Hindistan Cevizi Yağı Katı 150 ml Çok Amaçlı",
         "slug": "talya-hindistan-cevizi-yagi-kati-150-ml-cok-amacli",
         "brand": "Talya",
@@ -97552,38 +97227,6 @@
           "Hint Yağı"
         ],
         "stock": 2
-      }
-    ],
-    "Ağız Bakım Yağı": [
-      {
-        "name": "Talya Karanfil Yağı 20 ml Ağız Bakım",
-        "slug": "talya-karanfil-yagi-20-ml-agiz-bakim",
-        "brand": "Talya",
-        "price": 332.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b4326f43-2431-49ae-974d-f2d9d1a3c0e4/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Ağız Bakım Yağı",
-          "Ağız ve Diş Sağlığı",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Talya Nane Yağı 20 cc Ferahlatıcı",
-        "slug": "talya-nane-yagi-20-cc-ferahlatici",
-        "brand": "Talya",
-        "price": 306.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2ebec4d-24a5-4c4a-92f3-a7e849abd2e5/image_1950.webp",
-        "cats": [
-          "Doğal ve Aromaterapi Yağları",
-          "Ağız Bakım Yağı",
-          "Sindirim Sağlığı",
-          "Nane Yağı"
-        ],
-        "stock": 1
       }
     ],
     "Kayısı Çekirdeği Yağı": [
@@ -97676,6 +97319,23 @@
           "Doğal ve Aromaterapi Yağları",
           "Lavanta Yağı",
           "Stres ve Uyku Düzeni"
+        ],
+        "stock": 1
+      }
+    ],
+    "Ağız Bakım Yağı": [
+      {
+        "name": "Talya Nane Yağı 20 cc Ferahlatıcı",
+        "slug": "talya-nane-yagi-20-cc-ferahlatici",
+        "brand": "Talya",
+        "price": 306.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2ebec4d-24a5-4c4a-92f3-a7e849abd2e5/image_1950.webp",
+        "cats": [
+          "Doğal ve Aromaterapi Yağları",
+          "Ağız Bakım Yağı",
+          "Sindirim Sağlığı",
+          "Nane Yağı"
         ],
         "stock": 1
       }
@@ -98992,9 +98652,9 @@
     ]
   },
   "stats": {
-    "total_products": 6316,
-    "total_categories": 695,
-    "generated": "2026-09-16 07:50",
+    "total_products": 6294,
+    "total_categories": 693,
+    "generated": "2026-09-16 11:48",
     "source": "ikas_api_live"
   }
 }
