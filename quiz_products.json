@@ -7887,7 +7887,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ocean Çinko Bisglisinat Kalemlik Hediyeli Yüksek Emilimli Çinko",
@@ -8036,7 +8036,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Orzax Ocean Gummies Defence Bağışıklık Vitaminleri 60 Adet",
@@ -8754,7 +8754,7 @@
           "Bağışıklık Sistemi",
           "Pikolinat (Picolinate)"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Supradyn Daily Multivitamin Mineral Koenzim Q10 30 Tablet",
@@ -10167,7 +10167,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "MRCnatura Glukoflex Eklem Sağlığı Takviyesi 60 Tablet",
@@ -11098,7 +11098,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Ocean Gummies Kids Multivitamin Çiğnenebilir Form, Multivitamin ve Multimineral, 60 Adet",
@@ -11446,7 +11446,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ocean Çörek Otu Yağı 1000mg 60 Kapsül",
@@ -11879,20 +11879,6 @@
           "Kas ve Kramp"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Choline Inositol Methionine Tablet 50 Tablet",
-        "slug": "solgar-choline-inositol-methionine-tablet-50-tablet",
-        "brand": "Solgar",
-        "price": 849.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc260931-2bfb-4a0b-baf8-38f3b45f07c3/image_1950.webp",
-        "cats": [
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Karaciğer Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Cranberry with Vitamin C Kapsül 60 Kapsül",
@@ -16402,7 +16388,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -16893,7 +16879,7 @@
           "Biotin (B7 Vitamini)",
           "Saç Cilt Tırnak"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Biotin 5000 mcg Yüksek Doz Saç Cilt Tırnak 50 Kapsül",
@@ -19527,7 +19513,7 @@
           "Göz Sağlığı",
           "İhtiyaca Göre"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Profolmix Menoral Oral Toz 30 Saşe",
@@ -20618,7 +20604,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -20859,7 +20845,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -23833,7 +23819,7 @@
           "Sitikolin",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Sorvagen Smart Double Sitikolin DHA Omega 3 B12 Vitamini 30 Kapsül",
@@ -25056,20 +25042,6 @@
         "stock": 9
       },
       {
-        "name": "Orzax Ocean Plus Yüksek EPA DHA Balık Yağı 50 Kapsül",
-        "slug": "orzax-ocean-plus-yuksek-epa-dha-balik-yagi-50-kapsul",
-        "brand": "Orzax",
-        "price": 949.5,
-        "discount_price": 481.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ec30d0cb-dc9c-4738-9580-2633cb81ed02/image_1950.webp",
-        "cats": [
-          "Beyin ve Hafıza",
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
         "slug": "orzax-ocean-portakal-aromali-balik-yagi-surubu-cocuklar-icin-150-ml",
         "brand": "Orzax",
@@ -25200,20 +25172,6 @@
           "Antioksidan Destek"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Choline Inositol Methionine Tablet 50 Tablet",
-        "slug": "solgar-choline-inositol-methionine-tablet-50-tablet",
-        "brand": "Solgar",
-        "price": 849.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc260931-2bfb-4a0b-baf8-38f3b45f07c3/image_1950.webp",
-        "cats": [
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Karaciğer Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar EFA Omega 3 6 9 Dengeli Yağ Asitleri 60 Kapsül",
@@ -25392,7 +25350,7 @@
           "Sitikolin",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Sorvagen Smart Double Sitikolin DHA Omega 3 B12 Vitamini 30 Kapsül",
@@ -26935,7 +26893,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Magnimore Plus Ata Tablet Magnezyum Takviyesi 60 Adet",
@@ -27412,7 +27370,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -27458,7 +27416,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -28212,7 +28170,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -28805,7 +28763,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBT Life HC12 Sprey 10 ml Şişe",
@@ -29487,7 +29445,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Gummies Kids Multivitamin Çiğnenebilir Form, Multivitamin ve Multimineral, 60 Adet",
@@ -46052,7 +46010,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -47289,7 +47247,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -47358,7 +47316,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -47452,7 +47410,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Orzax Ocean Extramag P5P B6 Magnezyum Saşe 30 Poşet",
@@ -47755,7 +47713,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -48592,7 +48550,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -48763,7 +48721,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -49687,20 +49645,6 @@
           "Karaciğer Sağlığı"
         ],
         "stock": 15
-      },
-      {
-        "name": "Solgar Choline Inositol Methionine Tablet 50 Tablet",
-        "slug": "solgar-choline-inositol-methionine-tablet-50-tablet",
-        "brand": "Solgar",
-        "price": 849.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc260931-2bfb-4a0b-baf8-38f3b45f07c3/image_1950.webp",
-        "cats": [
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Karaciğer Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Deve Dikeni Karaciğer Sağlığı Antioksidan 50 Kapsül",
@@ -51584,7 +51528,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -51712,7 +51656,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Orzax Ocean Extramag Threog Magnezyum L-Treonat 60 Tablet",
@@ -52468,7 +52412,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Omepa DHA Yumuşak Kapsül Balık Yağı Astaksantin Takviyesi 30 Kapsül",
@@ -55350,7 +55294,7 @@
           "Göz Sağlığı",
           "İhtiyaca Göre"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocuvite Max Kapsül Omega 3 Lutein Zeaksantin Vitamin Ekstre Takviyesi 60 Kapsül",
@@ -65989,7 +65933,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -67814,7 +67758,7 @@
           "Kemik ve Eklem Sağlığı",
           "Vitaminler"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Rinex B Vitamini, Mineral ve Bitkisel Ekstre Kapsül 60 Kapsül",
@@ -68799,7 +68743,7 @@
           "Biotin (B7 Vitamini)",
           "Saç Cilt Tırnak"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit Viva Ceramide 30 Kapsül",
@@ -69047,7 +68991,7 @@
           "Biotin (B7 Vitamini)",
           "Saç Cilt Tırnak"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Biotin 5000 mcg Yüksek Doz Saç Cilt Tırnak 50 Kapsül",
@@ -69800,7 +69744,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -70826,7 +70770,7 @@
           "Sitikolin",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Sorvagen Smart Double Sitikolin DHA Omega 3 B12 Vitamini 30 Kapsül",
@@ -73001,20 +72945,6 @@
         "stock": 11
       },
       {
-        "name": "Orzax Ocean Plus Yüksek EPA DHA Balık Yağı 50 Kapsül",
-        "slug": "orzax-ocean-plus-yuksek-epa-dha-balik-yagi-50-kapsul",
-        "brand": "Orzax",
-        "price": 949.5,
-        "discount_price": 481.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ec30d0cb-dc9c-4738-9580-2633cb81ed02/image_1950.webp",
-        "cats": [
-          "Beyin ve Hafıza",
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
         "slug": "orzax-ocean-portakal-aromali-balik-yagi-surubu-cocuklar-icin-150-ml",
         "brand": "Orzax",
@@ -73250,7 +73180,7 @@
           "Sitikolin",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Sorvagen Smart Double Sitikolin DHA Omega 3 B12 Vitamini 30 Kapsül",
@@ -74111,7 +74041,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -74288,7 +74218,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Ocean Ultimate Kapsül, Balık Yağı İçeren Takviye Edici Gıda 30 kapsül",
@@ -74412,7 +74342,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Orzax Ocean Krill Yağı Omega 3 Fosfolipid 500 mg 30 Kapsül",
@@ -74463,20 +74393,6 @@
           "Kalp ve Damar Sağlığı"
         ],
         "stock": 11
-      },
-      {
-        "name": "Orzax Ocean Plus Yüksek EPA DHA Balık Yağı 50 Kapsül",
-        "slug": "orzax-ocean-plus-yuksek-epa-dha-balik-yagi-50-kapsul",
-        "brand": "Orzax",
-        "price": 949.5,
-        "discount_price": 481.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ec30d0cb-dc9c-4738-9580-2633cb81ed02/image_1950.webp",
-        "cats": [
-          "Beyin ve Hafıza",
-          "Omega 3",
-          "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
       },
       {
         "name": "Orzax Ocean Pulse Kalp Sağlığı Takviyesi 30 Kapsül",
@@ -74833,7 +74749,7 @@
           "Sitikolin",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Sorvagen Smart Double Sitikolin DHA Omega 3 B12 Vitamini 30 Kapsül",
@@ -77057,7 +76973,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Nutrafarm Medobyo Complex W Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
@@ -77238,7 +77154,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Panax Ginseng İçeren Takviye Edici Gıda 60 Kapsül",
@@ -80087,7 +80003,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Day2day The Collagen Mag Plus Magnezyumlu Kolajen 30 Poşet",
@@ -80191,7 +80107,7 @@
           "Hidrolize Kolajen",
           "Kolajen İçeren Ürünler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -85205,7 +85121,7 @@
           "Biotin (B7 Vitamini)",
           "Saç Cilt Tırnak"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Kadın": [
@@ -87061,7 +86977,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Resvega Kapsül Resveratrol Balık Yağı Lutein Zeaksantin D Vitamini Takviyesi 60 Kapsül",
@@ -88356,7 +88272,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       }
     ],
     "Magnezyum Malat": [
@@ -89412,7 +89328,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -94909,7 +94825,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "VeNatura D3K2 1000 IU D3 11.25 mcg K2 Vitamini Damla 20 ml",
@@ -95023,7 +94939,7 @@
           "Bağışıklık Sistemi",
           "Pikolinat (Picolinate)"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Velavit V-Zinc Picolinate Kapsül 30 Kapsül",
@@ -95054,7 +94970,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -99076,9 +98992,9 @@
     ]
   },
   "stats": {
-    "total_products": 6322,
+    "total_products": 6316,
     "total_categories": 695,
-    "generated": "2026-09-15 19:00",
+    "generated": "2026-09-16 07:50",
     "source": "ikas_api_live"
   }
 }
