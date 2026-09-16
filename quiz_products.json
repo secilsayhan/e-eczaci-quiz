@@ -6132,7 +6132,7 @@
         "name": "Shiniq DY Temizleme Jeli 400 ml",
         "slug": "shiniq-dy-temizleme-jeli-400-ml",
         "brand": "SHINIQ",
-        "price": 749.0,
+        "price": 999.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/beee4832-831a-45de-ab9c-6996adc331db/image_1950.webp",
         "cats": [
@@ -7835,7 +7835,7 @@
           "Pikolinat (Picolinate)",
           "Çinko"
         ],
-        "stock": 62
+        "stock": 61
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -7958,7 +7958,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -8097,7 +8097,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Orzax Ocean Çinko Bisglisinat Sıvı Takviye 150 ml",
@@ -8466,20 +8466,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Beta Glucans Tablet 60 Tablet",
-        "slug": "solgar-beta-glucans-tablet-60-tablet",
-        "brand": "Solgar",
-        "price": 1136.5,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7d9387ac-48e7-4a90-89f6-e33f860b3814/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "Bağışıklık"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar C Vitamini 1000 mg Bağışıklık Desteği 90 Tablet",
         "slug": "solgar-c-vitamini-1000-mg-bagisiklik-destegi-90-tablet",
         "brand": "Solgar",
@@ -8603,25 +8589,6 @@
           "Bağışıklık Sistemi",
           "Enzimler",
           "C Vitamini",
-          "Kuersetin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
-        "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
-        "brand": "Solgar",
-        "price": 855.9,
-        "discount_price": 702.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f7d23d5-c7e3-4ec1-bf74-842a126db91a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini",
-          "İhtiyaca Göre",
-          "C Vitamini",
-          "Vitaminler",
           "Kuersetin"
         ],
         "stock": 1
@@ -10828,7 +10795,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutrigen Üzüm Çekirdeği Ekstresi Sıvı, 200 ml",
@@ -11078,7 +11045,7 @@
           "Vitamin ve Takviye",
           "Karaciğer Sağlığı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Ocean Hepalex Kapsül 60 Adet",
@@ -11687,20 +11654,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Beta Glucans Tablet 60 Tablet",
-        "slug": "solgar-beta-glucans-tablet-60-tablet",
-        "brand": "Solgar",
-        "price": 1136.5,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7d9387ac-48e7-4a90-89f6-e33f860b3814/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "Bağışıklık"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Biotin 1000 Mcg Kapsül 50 Kapsül",
         "slug": "solgar-biotin-1000-mcg-kapsul-50-kapsul",
         "brand": "Solgar",
@@ -11964,25 +11917,6 @@
           "Bitkisel Takviyeler",
           "Kabızlık",
           "Sindirim Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
-        "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
-        "brand": "Solgar",
-        "price": 855.9,
-        "discount_price": 702.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f7d23d5-c7e3-4ec1-bf74-842a126db91a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini",
-          "İhtiyaca Göre",
-          "C Vitamini",
-          "Vitaminler",
-          "Kuersetin"
         ],
         "stock": 1
       },
@@ -13097,7 +13031,7 @@
           "Pikolinat (Picolinate)",
           "Çinko"
         ],
-        "stock": 62
+        "stock": 61
       },
       {
         "name": "Ocean Çinko Bisglisinat Kalemlik Hediyeli Yüksek Emilimli Çinko",
@@ -14991,19 +14925,6 @@
         "stock": 1
       },
       {
-        "name": "Dentiste Diş Macunu Tüp 100 gr",
-        "slug": "dentiste-dis-macunu-tup-100-gr",
-        "brand": "Dentiste",
-        "price": 460.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/828954d7-eadd-4b60-be8f-09ff7e2cdbc6/image_1950.webp",
-        "cats": [
-          "Diş Macunu",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Dentiste Seyahat Boyu Diş Macunu",
         "slug": "dentiste-seyahat-boyu-dis-macunu",
         "brand": "Dentiste",
@@ -16004,22 +15925,6 @@
         "stock": 3
       },
       {
-        "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
-        "slug": "bioxcin-sampuan-collagen-biotin-3-al-2-ode-kampanya",
-        "brand": "Bioxcin",
-        "price": 463.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b6761be2-1e1f-4e26-b34f-9b69e84abea9/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Saç, Cilt ve Tırnak",
-          "Saç Dökülmesi",
-          "Dökülme Karşıtı",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Byopecia Biotin 2.5 mg 60 Tablet",
         "slug": "byopecia-biotin-2-5-mg-60-tablet",
         "brand": "Byopecia",
@@ -16932,7 +16837,7 @@
           "Saç, Cilt ve Tırnak",
           "Saç Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml",
@@ -19153,7 +19058,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Women's Multi Vitamin Complex Tablet, 60 Tablet",
@@ -19490,25 +19395,6 @@
           "Bitkisel Takviyeler",
           "Kabızlık",
           "Sindirim Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
-        "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
-        "brand": "Solgar",
-        "price": 855.9,
-        "discount_price": 702.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f7d23d5-c7e3-4ec1-bf74-842a126db91a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini",
-          "İhtiyaca Göre",
-          "C Vitamini",
-          "Vitaminler",
-          "Kuersetin"
         ],
         "stock": 1
       },
@@ -20285,22 +20171,6 @@
           "Magnezyum Taurat"
         ],
         "stock": 3
-      },
-      {
-        "name": "Nutraxin Magnezyum Kompleks Farklı Magnezyum Formları 60 Tablet",
-        "slug": "nutraxin-magnezyum-kompleks-farkli-magnezyum-formlari-60-tablet",
-        "brand": "Nutraxin",
-        "price": 699.99,
-        "discount_price": 392.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f13e6d06-9b49-4084-90cb-c56ea7f819bb/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Kas ve Kramp",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -23367,7 +23237,7 @@
           "B12 Vitamini",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 10 ml Şişe",
@@ -24565,7 +24435,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -26988,22 +26858,6 @@
         "stock": 3
       },
       {
-        "name": "Nutraxin Magnezyum Kompleks Farklı Magnezyum Formları 60 Tablet",
-        "slug": "nutraxin-magnezyum-kompleks-farkli-magnezyum-formlari-60-tablet",
-        "brand": "Nutraxin",
-        "price": 699.99,
-        "discount_price": 392.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f13e6d06-9b49-4084-90cb-c56ea7f819bb/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Kas ve Kramp",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
         "slug": "nutraxin-vitals-b-kompleks-vitamin-takviyesi-60-tablet",
         "brand": "Nutraxin",
@@ -27027,7 +26881,7 @@
           "B12 Vitamini",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Multivitamin Mineral Energy Tablet, 60 Tablet",
@@ -27821,7 +27675,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar L-Arginine 500 mg L-Arjinin Takviyesi 50 Kapsül",
@@ -30231,7 +30085,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Solgar Alfa Lipoik Asit Antioksidan Enerji Desteği 60 Kapsül",
@@ -30381,25 +30235,6 @@
           "Bağışıklık Sistemi",
           "Enzimler",
           "C Vitamini",
-          "Kuersetin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
-        "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
-        "brand": "Solgar",
-        "price": 855.9,
-        "discount_price": 702.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f7d23d5-c7e3-4ec1-bf74-842a126db91a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini",
-          "İhtiyaca Göre",
-          "C Vitamini",
-          "Vitaminler",
           "Kuersetin"
         ],
         "stock": 1
@@ -31160,7 +30995,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -31419,44 +31254,6 @@
           "Bağışıklık Sistemi",
           "Enzimler",
           "C Vitamini",
-          "Kuersetin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
-        "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
-        "brand": "Solgar",
-        "price": 855.9,
-        "discount_price": 702.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f7d23d5-c7e3-4ec1-bf74-842a126db91a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini",
-          "İhtiyaca Göre",
-          "C Vitamini",
-          "Vitaminler",
-          "Kuersetin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
-        "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
-        "brand": "Solgar",
-        "price": 855.9,
-        "discount_price": 702.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f7d23d5-c7e3-4ec1-bf74-842a126db91a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini",
-          "İhtiyaca Göre",
-          "C Vitamini",
-          "Vitaminler",
           "Kuersetin"
         ],
         "stock": 1
@@ -34073,19 +33870,6 @@
         "stock": 1
       },
       {
-        "name": "Dentiste Diş Macunu Tüp 100 gr",
-        "slug": "dentiste-dis-macunu-tup-100-gr",
-        "brand": "Dentiste",
-        "price": 460.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/828954d7-eadd-4b60-be8f-09ff7e2cdbc6/image_1950.webp",
-        "cats": [
-          "Diş Macunu",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Dentiste Seyahat Boyu Diş Macunu",
         "slug": "dentiste-seyahat-boyu-dis-macunu",
         "brand": "Dentiste",
@@ -35954,7 +35738,7 @@
           "Uyku",
           "Kulak Tıkacı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Otifleks Vazelinli Kulak Tıkacı 2'li Su Geçirmez ve Ses Yalıtımı",
@@ -36008,7 +35792,7 @@
           "Uyku",
           "Kulak Tıkacı"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Kulak Tıkacı (Çocuk)": [
@@ -38815,7 +38599,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Capital Soleil Yağlı Ciltler İçin Güneş Kremi Spf 50",
@@ -39576,7 +39360,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Capicade Güneş Kremi SPF50+ Yağlı Ciltler İçin 100 ml",
@@ -40768,7 +40552,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Capital Soleil Yağlı Cilt SPF 50",
@@ -40784,7 +40568,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Capital Soleil Yağlı Ciltler İçin Güneş Kremi Spf 50",
@@ -41374,7 +41158,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Capicade Güneş Kremi SPF50+ Yağlı Ciltler İçin 100 ml",
@@ -42164,7 +41948,7 @@
         "name": "Shiniq DY Temizleme Jeli 400 ml",
         "slug": "shiniq-dy-temizleme-jeli-400-ml",
         "brand": "SHINIQ",
-        "price": 749.0,
+        "price": 999.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/beee4832-831a-45de-ab9c-6996adc331db/image_1950.webp",
         "cats": [
@@ -44565,7 +44349,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Yüz Güneş Koruma": [
@@ -45135,7 +44919,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Terleme ve Koku Önleyici": [
@@ -45647,22 +45431,6 @@
           "Magnezyum Taurat"
         ],
         "stock": 3
-      },
-      {
-        "name": "Nutraxin Magnezyum Kompleks Farklı Magnezyum Formları 60 Tablet",
-        "slug": "nutraxin-magnezyum-kompleks-farkli-magnezyum-formlari-60-tablet",
-        "brand": "Nutraxin",
-        "price": 699.99,
-        "discount_price": 392.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f13e6d06-9b49-4084-90cb-c56ea7f819bb/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Kas ve Kramp",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -46848,22 +46616,6 @@
         "stock": 1
       },
       {
-        "name": "Nutraxin Magnezyum Kompleks Farklı Magnezyum Formları 60 Tablet",
-        "slug": "nutraxin-magnezyum-kompleks-farkli-magnezyum-formlari-60-tablet",
-        "brand": "Nutraxin",
-        "price": 699.99,
-        "discount_price": 392.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f13e6d06-9b49-4084-90cb-c56ea7f819bb/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Kas ve Kramp",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
         "slug": "nutraxin-vitals-daily-magnesium-d3-k2-vitamini-magnezyum-b6-60-tablet",
         "brand": "Nutraxin",
@@ -46897,7 +46649,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -46978,7 +46730,7 @@
           "Eklem ve Kıkırdak",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 33
+        "stock": 32
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -48187,22 +47939,6 @@
         "stock": 3
       },
       {
-        "name": "Nutraxin Magnezyum Kompleks Farklı Magnezyum Formları 60 Tablet",
-        "slug": "nutraxin-magnezyum-kompleks-farkli-magnezyum-formlari-60-tablet",
-        "brand": "Nutraxin",
-        "price": 699.99,
-        "discount_price": 392.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f13e6d06-9b49-4084-90cb-c56ea7f819bb/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem Sağlığı",
-          "Enerji ve Zindelik",
-          "Kas ve Kramp",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
         "slug": "nutraxin-vitals-daily-magnesium-d3-k2-vitamini-magnezyum-b6-60-tablet",
         "brand": "Nutraxin",
@@ -49316,7 +49052,7 @@
           "Vitamin ve Takviye",
           "Karaciğer Sağlığı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Ocean Hepalex Kapsül 60 Adet",
@@ -50018,20 +49754,6 @@
         "stock": 4
       },
       {
-        "name": "Solgar Beta Glucans Tablet 60 Tablet",
-        "slug": "solgar-beta-glucans-tablet-60-tablet",
-        "brand": "Solgar",
-        "price": 1136.5,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7d9387ac-48e7-4a90-89f6-e33f860b3814/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "Bağışıklık"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Supradyn Daily Multivitamin Mineral Koenzim Q10 30 Tablet",
         "slug": "supradyn-daily-multivitamin-mineral-koenzim-q10-30-tablet",
         "brand": "Supradyn",
@@ -50619,7 +50341,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -51115,7 +50837,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -55933,22 +55655,6 @@
         "stock": 5
       },
       {
-        "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
-        "slug": "bioxcin-sampuan-collagen-biotin-3-al-2-ode-kampanya",
-        "brand": "Bioxcin",
-        "price": 463.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b6761be2-1e1f-4e26-b34f-9b69e84abea9/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Saç, Cilt ve Tırnak",
-          "Saç Dökülmesi",
-          "Dökülme Karşıtı",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioxcin Şampuan Keratin Argan 3 Al 2 Öde Kampanya",
         "slug": "bioxcin-sampuan-keratin-argan-3-al-2-ode-kampanya",
         "brand": "Bioxcin",
@@ -56207,7 +55913,7 @@
           "Saç, Cilt ve Tırnak",
           "Saç Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml",
@@ -56574,7 +56280,7 @@
           "Saç, Cilt ve Tırnak",
           "Saç Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml",
@@ -56745,22 +56451,6 @@
           "Dökülme Karşıtı"
         ],
         "stock": 3
-      },
-      {
-        "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
-        "slug": "bioxcin-sampuan-collagen-biotin-3-al-2-ode-kampanya",
-        "brand": "Bioxcin",
-        "price": 463.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b6761be2-1e1f-4e26-b34f-9b69e84abea9/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Saç, Cilt ve Tırnak",
-          "Saç Dökülmesi",
-          "Dökülme Karşıtı",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 1
       },
       {
         "name": "Capicade Saç Dökülmesine Karşı Şampuan 220 ml",
@@ -57240,22 +56930,6 @@
           "Dökülme Karşıtı"
         ],
         "stock": 3
-      },
-      {
-        "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
-        "slug": "bioxcin-sampuan-collagen-biotin-3-al-2-ode-kampanya",
-        "brand": "Bioxcin",
-        "price": 463.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b6761be2-1e1f-4e26-b34f-9b69e84abea9/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Saç, Cilt ve Tırnak",
-          "Saç Dökülmesi",
-          "Dökülme Karşıtı",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 1
       },
       {
         "name": "Capicade Saç Dökülmesine Karşı Şampuan 220 ml",
@@ -58544,7 +58218,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
@@ -58785,7 +58459,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "CeraVe Moisturising Cream 340 gr",
@@ -60622,7 +60296,7 @@
         "name": "Shiniq DY Temizleme Jeli 400 ml",
         "slug": "shiniq-dy-temizleme-jeli-400-ml",
         "brand": "SHINIQ",
-        "price": 749.0,
+        "price": 999.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/beee4832-831a-45de-ab9c-6996adc331db/image_1950.webp",
         "cats": [
@@ -62409,7 +62083,7 @@
           "Saç, Cilt ve Tırnak",
           "Saç Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml",
@@ -65464,320 +65138,6 @@
         "stock": 3
       }
     ],
-    "Kolajen İçeren Ürünler": [
-      {
-        "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
-        "slug": "bioxcin-sampuan-collagen-biotin-3-al-2-ode-kampanya",
-        "brand": "Bioxcin",
-        "price": 463.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b6761be2-1e1f-4e26-b34f-9b69e84abea9/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Saç, Cilt ve Tırnak",
-          "Saç Dökülmesi",
-          "Dökülme Karşıtı",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Capicade Gün SPF50 Collagen 100 ml",
-        "slug": "capicade-gun-spf50-collagen-100-ml",
-        "brand": "Capicade",
-        "price": 1500.0,
-        "discount_price": 1207.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ceae75f0-b529-4e7d-aa74-8ce265dee870/image_1950.webp",
-        "cats": [
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Capicade Gün SPF50 Tinted Collagen 100 ml",
-        "slug": "capicade-gun-spf50-tinted-collagen-100-ml",
-        "brand": "Capicade",
-        "price": 1500.0,
-        "discount_price": 1207.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd52308a-b3ab-4c4a-bc8b-47bc5f06a4cd/image_1950.webp",
-        "cats": [
-          "Renkli SPF 50+",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Capicade Güneş Kremi Kolajen Destekli SPF50+ 100 ml",
-        "slug": "capicade-gunes-kremi-kolajen-destekli-spf50-plus-100-ml",
-        "brand": "Capicade",
-        "price": 1350.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30149a9c-06df-4969-aa6f-26c7501f72c9/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Güneş Kremi",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Capicade Kolajen İçeren Sık Kullanım Şampuanı",
-        "slug": "capicade-kolajen-iceren-sik-kullanim-sampuani",
-        "brand": "Capicade",
-        "price": 1200.0,
-        "discount_price": 977.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/efc06dd4-6972-4c90-b9b6-417b4e11b27b/image_1950.webp",
-        "cats": [
-          "Günlük Kullanım",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 13
-      },
-      {
-        "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
-        "slug": "day2day-the-collagen-beauty-gummies-cignenebilir-kollajen-60-adet",
-        "brand": "Day2Day",
-        "price": 870.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9d74834d-6d0e-4268-b33e-dc2690926426/image_1950.webp",
-        "cats": [
-          "Çiğnenebilir Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Day2Day The Collagen Mushroom Mantar Destekli Kolajen Takviyesi",
-        "slug": "day2day-the-collagen-mushroom-mantar-destekli-kolajen-takviyesi",
-        "brand": "Day2Day",
-        "price": 2549.5,
-        "discount_price": 1275.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/68a07bd7-fc43-4173-905d-04fdac9a4a6f/image_1950.webp",
-        "cats": [
-          "Fonksiyonel Mantarlar",
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Hidrolize Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
-        "slug": "day2day-the-collagen-beauty-intense-kollajen-sase-30-poset",
-        "brand": "Day2Day",
-        "price": 2140.0,
-        "discount_price": 1184.83,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cad0611d-8e67-41fe-8764-04c2d4faf74c/image_1950.webp",
-        "cats": [
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Toz Kolajen",
-          "Hidrolize Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
-        "slug": "day2day-the-collagen-beauty-plus-sivi-kolajen-30-tup",
-        "brand": "Day2Day",
-        "price": 2224.5,
-        "discount_price": 1212.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/efc21085-6eb7-46d2-960c-439768b850f5/image_1950.webp",
-        "cats": [
-          "Sıvı Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Hidrolize Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Day2day The Collagen Mag Plus Magnezyumlu Kolajen 30 Poşet",
-        "slug": "day2day-the-collagen-mag-plus-magnezyumlu-kolajen-30-poset",
-        "brand": "Day2Day",
-        "price": 2134.5,
-        "discount_price": 1147.96,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30f49810-4513-4c84-8f5c-7ae6e1a18620/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Tip 1 ve 3 Kolajen",
-          "Saç, Cilt ve Tırnak",
-          "Toz Kolajen",
-          "Hidrolize Kolajen",
-          "Kolajen İçeren Ürünler",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Day2day The Collagen Multi Toz",
-        "slug": "day2day-the-collagen-multi-toz",
-        "brand": "Day2Day",
-        "price": 2359.59,
-        "discount_price": 1394.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5738c6ba-bdf0-4051-8126-27060149f9ce/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Kolajen Takviyeleri",
-          "Vitamin ve Takviye",
-          "Toz Kolajen",
-          "Hyalüronik Asit İçeren Ürünler",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
-        "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
-        "brand": "Nutraxin",
-        "price": 1299.99,
-        "discount_price": 899.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b643512f-0ca9-4042-8cd3-f6d7e516a0a5/image_1950.webp",
-        "cats": [
-          "Glukozamin",
-          "Kondroitin",
-          "Glukozamin",
-          "Eklem ve Kıkırdak",
-          "Kondroitin",
-          "C Vitamini",
-          "Hyalüronik Asit İçeren Ürünler",
-          "Kolajen İçeren Ürünler",
-          "MSM",
-          "MSM"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Nutraxin Beauty NADH & Collagen Tablet, 60 Tablet",
-        "slug": "nutraxin-beauty-nadh-ve-collagen-tablet-60-tablet",
-        "brand": "Nutraxin",
-        "price": 1099.99,
-        "discount_price": 816.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/96aed515-9f50-488f-9557-3b0e56929e07/image_1950.webp",
-        "cats": [
-          "Kolajen Takviyeleri",
-          "Saç, Cilt ve Tırnak",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
-        "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
-        "brand": "Peptiline",
-        "price": 1699.0,
-        "discount_price": 926.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bdcd1e80-1d62-4473-9c20-5f10d7accc1f/image_1950.webp",
-        "cats": [
-          "Krill Yağı",
-          "Cilt, Saç ve Tırnak",
-          "Eklem ve Kıkırdak",
-          "Omega 3",
-          "C Vitamini",
-          "Astaksantin",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Hyaluronic Acid Collagen Complex 30 Tablet",
-        "slug": "solgar-hyaluronic-acid-collagen-complex-30-tablet",
-        "brand": "Solgar",
-        "price": 1566.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5adc41f0-f7c9-4a2a-bc99-9923d699551e/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Saç, Cilt ve Tırnak",
-          "İhtiyaca Göre",
-          "Tablet Kolajen",
-          "Hyalüronik Asit İçeren Ürünler",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Vichy Liftactiv Collagen Serum 30 ml",
-        "slug": "vichy-liftactiv-collagen-serum-30-ml",
-        "brand": "Vichy",
-        "price": 3599.9,
-        "discount_price": 2113.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/09c3410a-6734-4d01-937f-5f1ceeece75a/image_1950.webp",
-        "cats": [
-          "Anti-Aging Serum",
-          "Yüz Bakımı",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Vichy Liftactiv Collagen Specialist Gece Kremi 50 ml",
-        "slug": "vichy-liftactiv-collagen-specialist-gece-kremi-50-ml",
-        "brand": "Vichy",
-        "price": 3850.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0906389b-15cd-49f6-bf54-b064653e3014/image_1950.webp",
-        "cats": [
-          "Gece Kremi",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Vichy Liftactiv Collagen Specialist Göz Kremi 15 ml",
-        "slug": "vichy-liftactiv-collagen-specialist-goz-kremi-15-ml",
-        "brand": "Vichy",
-        "price": 3349.9,
-        "discount_price": 2914.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/20b4fd73-d1bd-4539-afd9-a64b1b4db90e/image_1950.webp",
-        "cats": [
-          "Yaşlanma Karşıtı",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Vichy Liftactiv Collagen Specialist Night",
-        "slug": "vichy-liftactiv-collagen-specialist-night",
-        "brand": "Vichy",
-        "price": 3849.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/65e23cd0-692b-4ee9-86ab-557904c9f37c/image_1950.webp",
-        "cats": [
-          "Gece Kremi",
-          "Yüz Bakımı",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Vitaly One Kapsül, Tip 1 Kollajen, Bromelain ve Rutin İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "vitaly-one-kapsul-tip-1-kollajen-bromelain-ve-rutin-iceren-takviye",
-        "brand": "Vitaly",
-        "price": 1580.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e06dd8ac-dfd9-4f21-8f36-7e6145397bab/image_1950.webp",
-        "cats": [
-          "Tip 1 Kolajen",
-          "Vitamin ve Takviye",
-          "Kolajen İçeren Ürünler",
-          "Bromelain"
-        ],
-        "stock": 1
-      }
-    ],
     "Bit ve Sirke Bakımı": [
       {
         "name": "Bit Rozeti Yeni Nesil Bit Kovucu Rozet",
@@ -66213,7 +65573,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Tedafarma Vipros Kapsül Cüce Palmiye Isırgan Likopen Takviyesi 30 Kapsül",
@@ -67339,7 +66699,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean B Complex 60 Kapsül",
@@ -67529,25 +66889,6 @@
           "B Vitaminleri"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
-        "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
-        "brand": "Solgar",
-        "price": 855.9,
-        "discount_price": 702.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f7d23d5-c7e3-4ec1-bf74-842a126db91a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini",
-          "İhtiyaca Göre",
-          "C Vitamini",
-          "Vitaminler",
-          "Kuersetin"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Vitamin C 500 mg with Rose Hips 100 Tablet",
@@ -70091,6 +69432,304 @@
         "stock": 1
       }
     ],
+    "Kolajen İçeren Ürünler": [
+      {
+        "name": "Capicade Gün SPF50 Collagen 100 ml",
+        "slug": "capicade-gun-spf50-collagen-100-ml",
+        "brand": "Capicade",
+        "price": 1500.0,
+        "discount_price": 1207.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ceae75f0-b529-4e7d-aa74-8ce265dee870/image_1950.webp",
+        "cats": [
+          "Güneş Bakımı",
+          "SPF 50+",
+          "Yüz Güneş Koruma",
+          "SPF 50+",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Capicade Gün SPF50 Tinted Collagen 100 ml",
+        "slug": "capicade-gun-spf50-tinted-collagen-100-ml",
+        "brand": "Capicade",
+        "price": 1500.0,
+        "discount_price": 1207.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd52308a-b3ab-4c4a-bc8b-47bc5f06a4cd/image_1950.webp",
+        "cats": [
+          "Renkli SPF 50+",
+          "Güneş Bakımı",
+          "SPF 50+",
+          "Yüz Güneş Koruma",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Capicade Güneş Kremi Kolajen Destekli SPF50+ 100 ml",
+        "slug": "capicade-gunes-kremi-kolajen-destekli-spf50-plus-100-ml",
+        "brand": "Capicade",
+        "price": 1350.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30149a9c-06df-4969-aa6f-26c7501f72c9/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "Güneş Kremi",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Capicade Kolajen İçeren Sık Kullanım Şampuanı",
+        "slug": "capicade-kolajen-iceren-sik-kullanim-sampuani",
+        "brand": "Capicade",
+        "price": 1200.0,
+        "discount_price": 977.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/efc06dd4-6972-4c90-b9b6-417b4e11b27b/image_1950.webp",
+        "cats": [
+          "Günlük Kullanım",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 13
+      },
+      {
+        "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
+        "slug": "day2day-the-collagen-beauty-gummies-cignenebilir-kollajen-60-adet",
+        "brand": "Day2Day",
+        "price": 870.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9d74834d-6d0e-4268-b33e-dc2690926426/image_1950.webp",
+        "cats": [
+          "Çiğnenebilir Kolajen",
+          "Tip 1 ve 3 Kolajen",
+          "Saç, Cilt ve Tırnak",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Day2Day The Collagen Mushroom Mantar Destekli Kolajen Takviyesi",
+        "slug": "day2day-the-collagen-mushroom-mantar-destekli-kolajen-takviyesi",
+        "brand": "Day2Day",
+        "price": 2549.5,
+        "discount_price": 1275.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/68a07bd7-fc43-4173-905d-04fdac9a4a6f/image_1950.webp",
+        "cats": [
+          "Fonksiyonel Mantarlar",
+          "Tip 1 ve 3 Kolajen",
+          "Saç, Cilt ve Tırnak",
+          "Hidrolize Kolajen",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
+        "slug": "day2day-the-collagen-beauty-intense-kollajen-sase-30-poset",
+        "brand": "Day2Day",
+        "price": 2140.0,
+        "discount_price": 1184.83,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cad0611d-8e67-41fe-8764-04c2d4faf74c/image_1950.webp",
+        "cats": [
+          "Tip 1 ve 3 Kolajen",
+          "Saç, Cilt ve Tırnak",
+          "Toz Kolajen",
+          "Hidrolize Kolajen",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
+        "slug": "day2day-the-collagen-beauty-plus-sivi-kolajen-30-tup",
+        "brand": "Day2Day",
+        "price": 2224.5,
+        "discount_price": 1212.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/efc21085-6eb7-46d2-960c-439768b850f5/image_1950.webp",
+        "cats": [
+          "Sıvı Kolajen",
+          "Tip 1 ve 3 Kolajen",
+          "Saç, Cilt ve Tırnak",
+          "Hidrolize Kolajen",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "Day2day The Collagen Mag Plus Magnezyumlu Kolajen 30 Poşet",
+        "slug": "day2day-the-collagen-mag-plus-magnezyumlu-kolajen-30-poset",
+        "brand": "Day2Day",
+        "price": 2134.5,
+        "discount_price": 1147.96,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30f49810-4513-4c84-8f5c-7ae6e1a18620/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Tip 1 ve 3 Kolajen",
+          "Saç, Cilt ve Tırnak",
+          "Toz Kolajen",
+          "Hidrolize Kolajen",
+          "Kolajen İçeren Ürünler",
+          "Stres ve Uyku Düzeni"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Day2day The Collagen Multi Toz",
+        "slug": "day2day-the-collagen-multi-toz",
+        "brand": "Day2Day",
+        "price": 2359.59,
+        "discount_price": 1394.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5738c6ba-bdf0-4051-8126-27060149f9ce/image_1950.webp",
+        "cats": [
+          "Multi Tip Kolajen",
+          "Kolajen Takviyeleri",
+          "Vitamin ve Takviye",
+          "Toz Kolajen",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
+        "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
+        "brand": "Nutraxin",
+        "price": 1299.99,
+        "discount_price": 899.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b643512f-0ca9-4042-8cd3-f6d7e516a0a5/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Kondroitin",
+          "Glukozamin",
+          "Eklem ve Kıkırdak",
+          "Kondroitin",
+          "C Vitamini",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Kolajen İçeren Ürünler",
+          "MSM",
+          "MSM"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Nutraxin Beauty NADH & Collagen Tablet, 60 Tablet",
+        "slug": "nutraxin-beauty-nadh-ve-collagen-tablet-60-tablet",
+        "brand": "Nutraxin",
+        "price": 1099.99,
+        "discount_price": 816.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/96aed515-9f50-488f-9557-3b0e56929e07/image_1950.webp",
+        "cats": [
+          "Kolajen Takviyeleri",
+          "Saç, Cilt ve Tırnak",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
+        "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
+        "brand": "Peptiline",
+        "price": 1699.0,
+        "discount_price": 926.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bdcd1e80-1d62-4473-9c20-5f10d7accc1f/image_1950.webp",
+        "cats": [
+          "Krill Yağı",
+          "Cilt, Saç ve Tırnak",
+          "Eklem ve Kıkırdak",
+          "Omega 3",
+          "C Vitamini",
+          "Astaksantin",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Hyaluronic Acid Collagen Complex 30 Tablet",
+        "slug": "solgar-hyaluronic-acid-collagen-complex-30-tablet",
+        "brand": "Solgar",
+        "price": 1566.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5adc41f0-f7c9-4a2a-bc99-9923d699551e/image_1950.webp",
+        "cats": [
+          "Vitamin ve Takviye",
+          "Saç, Cilt ve Tırnak",
+          "İhtiyaca Göre",
+          "Tablet Kolajen",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Vichy Liftactiv Collagen Serum 30 ml",
+        "slug": "vichy-liftactiv-collagen-serum-30-ml",
+        "brand": "Vichy",
+        "price": 3599.9,
+        "discount_price": 2113.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/09c3410a-6734-4d01-937f-5f1ceeece75a/image_1950.webp",
+        "cats": [
+          "Anti-Aging Serum",
+          "Yüz Bakımı",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Vichy Liftactiv Collagen Specialist Gece Kremi 50 ml",
+        "slug": "vichy-liftactiv-collagen-specialist-gece-kremi-50-ml",
+        "brand": "Vichy",
+        "price": 3850.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0906389b-15cd-49f6-bf54-b064653e3014/image_1950.webp",
+        "cats": [
+          "Gece Kremi",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Vichy Liftactiv Collagen Specialist Göz Kremi 15 ml",
+        "slug": "vichy-liftactiv-collagen-specialist-goz-kremi-15-ml",
+        "brand": "Vichy",
+        "price": 3349.9,
+        "discount_price": 2914.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/20b4fd73-d1bd-4539-afd9-a64b1b4db90e/image_1950.webp",
+        "cats": [
+          "Yaşlanma Karşıtı",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Vichy Liftactiv Collagen Specialist Night",
+        "slug": "vichy-liftactiv-collagen-specialist-night",
+        "brand": "Vichy",
+        "price": 3849.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/65e23cd0-692b-4ee9-86ab-557904c9f37c/image_1950.webp",
+        "cats": [
+          "Gece Kremi",
+          "Yüz Bakımı",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Vitaly One Kapsül, Tip 1 Kollajen, Bromelain ve Rutin İçeren Takviye Edici Gıda 30 Kapsül",
+        "slug": "vitaly-one-kapsul-tip-1-kollajen-bromelain-ve-rutin-iceren-takviye",
+        "brand": "Vitaly",
+        "price": 1580.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e06dd8ac-dfd9-4f21-8f36-7e6145397bab/image_1950.webp",
+        "cats": [
+          "Tip 1 Kolajen",
+          "Vitamin ve Takviye",
+          "Kolajen İçeren Ürünler",
+          "Bromelain"
+        ],
+        "stock": 1
+      }
+    ],
     "Saç Bakım Kremleri": [
       {
         "name": "Capicade Keratox Yoğun Onarıcı Saç Bakım Kremi 50 ml",
@@ -72399,7 +72038,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -73614,7 +73253,7 @@
           "Vitaminler",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -73772,7 +73411,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -75795,7 +75434,7 @@
           "Eklem ve Kıkırdak",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 33
+        "stock": 32
       },
       {
         "name": "Ocean Glucosamine Complex 60 Tablet (1+1 Paket)",
@@ -75810,7 +75449,7 @@
           "Eklem ve Kıkırdak",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 33
+        "stock": 32
       },
       {
         "name": "Osteo Bi-Flex 5-Loxin Advanced Tablet Glukozamin Kondroitin MSM Boswellia Ekstresi İçeren Takviye Edici Gıda 120 Tablet",
@@ -76212,7 +75851,7 @@
           "Eklem ve Kıkırdak",
           "Kemik ve Eklem Sağlığı"
         ],
-        "stock": 33
+        "stock": 32
       },
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
@@ -76761,7 +76400,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -83635,25 +83274,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
-        "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
-        "brand": "Solgar",
-        "price": 855.9,
-        "discount_price": 702.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f7d23d5-c7e3-4ec1-bf74-842a126db91a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini",
-          "İhtiyaca Göre",
-          "C Vitamini",
-          "Vitaminler",
-          "Kuersetin"
-        ],
-        "stock": 1
-      },
-      {
         "name": "VeNatura Kuersetin 500 mg Antioksidan Takviye 60 Kapsül",
         "slug": "venatura-kuersetin-500-mg-antioksidan-takviye-60-kapsul",
         "brand": "VeNatura",
@@ -86821,7 +86441,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -93051,7 +92671,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
@@ -94259,7 +93879,7 @@
           "Pikolinat (Picolinate)",
           "Çinko"
         ],
-        "stock": 62
+        "stock": 61
       },
       {
         "name": "Orzax Ocean Picozinc Çinko Takviyesi Yüksek Emilim 30 Tablet",
@@ -94894,7 +94514,7 @@
           "Tiroid Sağlığı",
           "Antioksidanlar"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Solgar Selenium 100 Mcg Tablet, 100 Tablet",
@@ -98290,9 +97910,9 @@
     ]
   },
   "stats": {
-    "total_products": 6271,
+    "total_products": 6248,
     "total_categories": 692,
-    "generated": "2026-09-16 15:01",
+    "generated": "2026-09-16 19:00",
     "source": "ikas_api_live"
   }
 }
