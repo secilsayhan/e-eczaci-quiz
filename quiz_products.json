@@ -2468,7 +2468,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -2947,7 +2947,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean VM Şurup Portakal Aromalı 150 ml Şişe",
@@ -14992,9 +14992,7 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2818056-ae85-4510-a3d6-377327092568/image_1950.webp",
         "cats": [
-          "Kişisel Bakım",
           "Diş Macunu",
-          "Ağız ve Diş Bakımı",
           "Ağız ve Diş Sağlığı",
           "Seyahat Boy"
         ],
@@ -16598,7 +16596,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 15
+        "stock": 16
       },
       {
         "name": "Ocean Capillus Men 60 Tablet",
@@ -25576,7 +25574,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -27496,20 +27494,6 @@
         "stock": 5
       },
       {
-        "name": "Pharmaton Vitality Ginseng İçeren Multivitamin 30 Tablet",
-        "slug": "pharmaton-vitality-ginseng-iceren-multivitamin-30-tablet",
-        "brand": "Pharmaton",
-        "price": 750.0,
-        "discount_price": 481.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/caae2b1a-56b1-4df2-ab7e-29027b1b6160/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Enerji ve Zindelik",
-          "Ginseng"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
         "slug": "proceive-m-sase-l-karnitin-l-arjinin-koenzim-q10-ginseng-30-sase",
         "brand": "Orzax",
@@ -28040,7 +28024,7 @@
           "B3 Vitamini (Niasin)",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 3
       },
       {
         "name": "Solgar Vitamin B-Complex \"50\" Kapsül, 50 Kapsül",
@@ -28920,7 +28904,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Elenatal 1 Multivitamin ve Mineral Takviyesi 30 Film Tablet",
@@ -29363,20 +29347,6 @@
           "Kalp ve Damar Sağlığı"
         ],
         "stock": 11
-      },
-      {
-        "name": "Pharmaton Vitality Ginseng İçeren Multivitamin 30 Tablet",
-        "slug": "pharmaton-vitality-ginseng-iceren-multivitamin-30-tablet",
-        "brand": "Pharmaton",
-        "price": 750.0,
-        "discount_price": 481.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/caae2b1a-56b1-4df2-ab7e-29027b1b6160/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Enerji ve Zindelik",
-          "Ginseng"
-        ],
-        "stock": 3
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -34109,9 +34079,7 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2818056-ae85-4510-a3d6-377327092568/image_1950.webp",
         "cats": [
-          "Kişisel Bakım",
           "Diş Macunu",
-          "Ağız ve Diş Bakımı",
           "Ağız ve Diş Sağlığı",
           "Seyahat Boy"
         ],
@@ -59306,22 +59274,6 @@
         "stock": 9
       },
       {
-        "name": "Dentiste Diş Macunu Travel Pack",
-        "slug": "dentiste-dis-macunu-travel-pack",
-        "brand": "Dentiste",
-        "price": 549.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2818056-ae85-4510-a3d6-377327092568/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı",
-          "Seyahat Boy"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Difas Dis Fircasi Kabi 4 Lu",
         "slug": "difas-dis-fircasi-kabi-4-lu",
         "brand": "Difas",
@@ -68684,7 +68636,7 @@
           "Saç, Cilt ve Tırnak",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 15
+        "stock": 16
       },
       {
         "name": "Sjømann’s Biotin 3000 Çiğnenebilir Jel 30 Adet",
@@ -72185,7 +72137,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Multi Balık Yağı Çiğnenebilir Jel Multivitamin ve Omega 3 30 Adet",
@@ -72202,7 +72154,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -72816,7 +72768,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Multi Balık Yağı Şurup 150 ml (1+1 Paket)",
@@ -72832,7 +72784,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -73548,7 +73500,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -74219,7 +74171,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -74712,7 +74664,7 @@
           "B3 Vitamini (Niasin)",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 3
       },
       {
         "name": "Solgar Omega 3 700 mg EPA DHA Balık Yağı 60 Kapsül",
@@ -77132,20 +77084,6 @@
         "stock": 12
       },
       {
-        "name": "Pharmaton Vitality Ginseng İçeren Multivitamin 30 Tablet",
-        "slug": "pharmaton-vitality-ginseng-iceren-multivitamin-30-tablet",
-        "brand": "Pharmaton",
-        "price": 750.0,
-        "discount_price": 481.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/caae2b1a-56b1-4df2-ab7e-29027b1b6160/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Enerji ve Zindelik",
-          "Ginseng"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
         "slug": "proceive-m-sase-l-karnitin-l-arjinin-koenzim-q10-ginseng-30-sase",
         "brand": "Orzax",
@@ -77832,22 +77770,6 @@
         "cats": [
           "Arayüz Fırçası",
           "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Dentiste Diş Macunu Travel Pack",
-        "slug": "dentiste-dis-macunu-travel-pack",
-        "brand": "Dentiste",
-        "price": 549.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2818056-ae85-4510-a3d6-377327092568/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı",
-          "Seyahat Boy"
         ],
         "stock": 1
       },
@@ -80578,9 +80500,7 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2818056-ae85-4510-a3d6-377327092568/image_1950.webp",
         "cats": [
-          "Kişisel Bakım",
           "Diş Macunu",
-          "Ağız ve Diş Bakımı",
           "Ağız ve Diş Sağlığı",
           "Seyahat Boy"
         ],
@@ -83381,7 +83301,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -91837,6 +91757,32 @@
         "stock": 4
       },
       {
+        "name": "Oral-B Diş İpi Parafinli 25 m",
+        "slug": "oral-b-dis-ipi-parafinli-25-m",
+        "brand": "Oral-B",
+        "price": 331.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2589f4f6-66aa-4883-937d-df0e285143a8/image_1950.webp",
+        "cats": [
+          "Diş İpi",
+          "Diş İpi"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Oral-B Diş İpi Parafinli 25 m",
+        "slug": "oral-b-dis-ipi-parafinli-25-m",
+        "brand": "Oral-B",
+        "price": 331.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2589f4f6-66aa-4883-937d-df0e285143a8/image_1950.webp",
+        "cats": [
+          "Diş İpi",
+          "Diş İpi"
+        ],
+        "stock": 3
+      },
+      {
         "name": "Oral-B Essential Floss Naneli Diş İpi",
         "slug": "oral-b-essential-floss-naneli-dis-ipi",
         "brand": "Oral-B",
@@ -94285,7 +94231,7 @@
           "B3 Vitamini (Niasin)",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 2
+        "stock": 3
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -98546,9 +98492,9 @@
     ]
   },
   "stats": {
-    "total_products": 6288,
+    "total_products": 6285,
     "total_categories": 692,
-    "generated": "2026-09-17 07:17",
+    "generated": "2026-09-17 11:13",
     "source": "ikas_api_live"
   }
 }
