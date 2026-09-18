@@ -2565,7 +2565,7 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-sindirim-destekleyici-15-ml",
+        "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
         "discount_price": null,
@@ -7638,7 +7638,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Daily One Energy (1+1 Paket)",
@@ -7799,20 +7799,6 @@
         "stock": 23
       },
       {
-        "name": "Orzax Efervit Vit C 20 Efervesan Tablet",
-        "slug": "orzax-efervit-vit-c-20-efervesan-tablet",
-        "brand": "Orzax",
-        "price": 399.5,
-        "discount_price": 225.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d955e173-3340-4bb6-af5e-2e47ee5bcf78/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
         "slug": "yilbasi-ozel-orzax-energy-d3k2-25-indirimli",
         "brand": "Orzax",
@@ -7905,7 +7891,7 @@
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
-        "slug": "orzax-ocean-d3k2-damla-kemik-sagligi-20-ml",
+        "slug": "orzax-ocean-d3k2-damla-20-ml",
         "brand": "Orzax",
         "price": 494.5,
         "discount_price": 390.0,
@@ -7917,7 +7903,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Gummies Defence 60 Adet",
@@ -8349,7 +8335,7 @@
       },
       {
         "name": "Solgar Advanced Acidophilus Probiyotik 60 Kapsül",
-        "slug": "solgar-advanced-acidophilus-probiyotik-bagirsak-sagligi-60-kapsul",
+        "slug": "solgar-advanced-acidophilus-probiyotik-60-kapsul",
         "brand": "Solgar",
         "price": 1215.0,
         "discount_price": null,
@@ -10039,7 +10025,7 @@
       },
       {
         "name": "Macufer Lutein ve Zeaxantin Kapsül Takviyesi 30 Kapsül",
-        "slug": "macufer-lutein-ve-zeaxantin-kapsul-goz-sagligi-takviyesi-30-kapsul",
+        "slug": "macufer-lutein-ve-zeaxantin-kapsul-30-kapsul",
         "brand": "Macufer",
         "price": 1188.0,
         "discount_price": null,
@@ -11233,7 +11219,7 @@
       },
       {
         "name": "Ocuvite Complete Kapsül Takviyesi 60 Kapsül",
-        "slug": "ocuvite-complete-kapsul-goz-sagligi-takviyesi-60-kapsul",
+        "slug": "ocuvite-complete-kapsul-60-kapsul",
         "brand": "Ocuvite",
         "price": 894.0,
         "discount_price": null,
@@ -11272,20 +11258,6 @@
           "Vitamin ve Takviye",
           "Omega 3",
           "Kalp ve Damar Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Orzax Efervit Vit C 20 Efervesan Tablet",
-        "slug": "orzax-efervit-vit-c-20-efervesan-tablet",
-        "brand": "Orzax",
-        "price": 399.5,
-        "discount_price": 225.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d955e173-3340-4bb6-af5e-2e47ee5bcf78/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini"
         ],
         "stock": 1
       },
@@ -13064,7 +13036,7 @@
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
-        "slug": "solgar-kalsiyum-magnezyum-cinko-kemik-sagligi-100-tablet",
+        "slug": "solgar-kalsiyum-magnezyum-cinko-100-tablet",
         "brand": "Solgar",
         "price": 597.9,
         "discount_price": 523.0,
@@ -15309,7 +15281,7 @@
       },
       {
         "name": "Solgar E Vitamini 400 IU 50 Kapsül",
-        "slug": "solgar-e-vitamini-400-iu-antioksidan-cilt-sagligi-50-kapsul",
+        "slug": "solgar-e-vitamini-400-iu-50-kapsul",
         "brand": "Solgar",
         "price": 779.0,
         "discount_price": null,
@@ -15879,7 +15851,7 @@
       },
       {
         "name": "Solgar Advanced Acidophilus Probiyotik 60 Kapsül",
-        "slug": "solgar-advanced-acidophilus-probiyotik-bagirsak-sagligi-60-kapsul",
+        "slug": "solgar-advanced-acidophilus-probiyotik-60-kapsul",
         "brand": "Solgar",
         "price": 1215.0,
         "discount_price": null,
@@ -16195,7 +16167,7 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-sindirim-destekleyici-15-ml",
+        "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
         "discount_price": null,
@@ -16676,7 +16648,7 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-sindirim-destekleyici-15-ml",
+        "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
         "discount_price": null,
@@ -17077,7 +17049,7 @@
       },
       {
         "name": "Solgar Advanced Acidophilus Probiyotik 60 Kapsül",
-        "slug": "solgar-advanced-acidophilus-probiyotik-bagirsak-sagligi-60-kapsul",
+        "slug": "solgar-advanced-acidophilus-probiyotik-60-kapsul",
         "brand": "Solgar",
         "price": 1215.0,
         "discount_price": null,
@@ -17119,7 +17091,7 @@
       },
       {
         "name": "Solgar Karnıyarık Otu Lifi 200 Kapsül",
-        "slug": "solgar-karniyarik-otu-lifi-sindirim-sagligi-200-kapsul",
+        "slug": "solgar-karniyarik-otu-lifi-200-kapsul",
         "brand": "Solgar",
         "price": 1147.0,
         "discount_price": null,
@@ -18465,7 +18437,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -18982,7 +18954,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 182
+        "stock": 181
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -19137,7 +19109,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 38
+        "stock": 36
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -19176,7 +19148,7 @@
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
-        "slug": "solgar-kalsiyum-magnezyum-cinko-kemik-sagligi-100-tablet",
+        "slug": "solgar-kalsiyum-magnezyum-cinko-100-tablet",
         "brand": "Solgar",
         "price": 597.9,
         "discount_price": 523.0,
@@ -20965,7 +20937,7 @@
       },
       {
         "name": "Solgar E Vitamini 400 IU 50 Kapsül",
-        "slug": "solgar-e-vitamini-400-iu-antioksidan-cilt-sagligi-50-kapsul",
+        "slug": "solgar-e-vitamini-400-iu-50-kapsul",
         "brand": "Solgar",
         "price": 779.0,
         "discount_price": null,
@@ -22597,7 +22569,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "GoodDay Minions Sıvı Takviye Arjinin Multivitamin Multimineral Fosfatidilserin 150 ml",
@@ -23394,7 +23366,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Pharmaton 50+ Multivitamin ve Mineral Omega 3 Takviyesi 30 Kapsül",
@@ -24172,7 +24144,7 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-sindirim-destekleyici-15-ml",
+        "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
         "discount_price": null,
@@ -24852,7 +24824,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -25640,7 +25612,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 182
+        "stock": 181
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -26359,8 +26331,8 @@
         "stock": 2
       },
       {
-        "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
-        "slug": "solgar-l-karnitin-500-mg-yag-yakimi-enerji-30-tablet",
+        "name": "Solgar L-Karnitin 500 mg 30 Tablet",
+        "slug": "solgar-l-karnitin-500-mg-30-tablet",
         "brand": "Solgar",
         "price": 1072.0,
         "discount_price": null,
@@ -26897,7 +26869,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -28842,7 +28814,7 @@
       },
       {
         "name": "Solgar E Vitamini 400 IU 50 Kapsül",
-        "slug": "solgar-e-vitamini-400-iu-antioksidan-cilt-sagligi-50-kapsul",
+        "slug": "solgar-e-vitamini-400-iu-50-kapsul",
         "brand": "Solgar",
         "price": 779.0,
         "discount_price": null,
@@ -29392,7 +29364,7 @@
       },
       {
         "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-eklem-sagligi-glukozamin-kondroitin-msm",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
         "brand": "Assos",
         "price": 1276.0,
         "discount_price": null,
@@ -29605,20 +29577,6 @@
           "C Vitamini"
         ],
         "stock": 13
-      },
-      {
-        "name": "Orzax Efervit Vit C 20 Efervesan Tablet",
-        "slug": "orzax-efervit-vit-c-20-efervesan-tablet",
-        "brand": "Orzax",
-        "price": 399.5,
-        "discount_price": 225.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d955e173-3340-4bb6-af5e-2e47ee5bcf78/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "Vitamin ve Takviye",
-          "C Vitamini"
-        ],
-        "stock": 1
       },
       {
         "name": "Orzax Ocean C Vitamini 1000 mg Takviyesi 30 Tablet",
@@ -31034,7 +30992,7 @@
           "Vücut Losyonu",
           "Nemlendiriciler"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Dermolife Göbek Bakım Seti Yenidoğan İçin",
@@ -35202,6 +35160,18 @@
         "stock": 1
       },
       {
+        "name": "NBT Life Berliv Lipozomal Berberis Vulgaris 60 Kapsül",
+        "slug": "nbtlife-berliv-lipozomal-berberis-vulgaris-60-kapsul",
+        "brand": "NBT Life",
+        "price": 1599.0,
+        "discount_price": 1271.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f3deede3-c822-4711-849c-caad59e67b5a/image_1950.webp",
+        "cats": [
+          "Bitkisel Takviyeler"
+        ],
+        "stock": 3
+      },
+      {
         "name": "NBTLIFE Cleanlife Kapsül, Kadın Tuzluğu, Pelinotu ve Bal Kabağı 60 Kapsül",
         "slug": "nbtlife-cleanlife-kapsul-kadin-tuzlugu-pelinotu-ve-bal-kabagi-60-kapsu",
         "brand": "Nbtlife",
@@ -37392,7 +37362,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -39173,7 +39143,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -39187,7 +39157,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -44603,7 +44573,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -44998,7 +44968,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 182
+        "stock": 181
       },
       {
         "name": "Ocean Extramag Fibra Tablet, Magnezyum ve B Vitaminleri, 60 Tablet",
@@ -45097,7 +45067,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 38
+        "stock": 36
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -45155,7 +45125,7 @@
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
-        "slug": "solgar-kalsiyum-magnezyum-cinko-kemik-sagligi-100-tablet",
+        "slug": "solgar-kalsiyum-magnezyum-cinko-100-tablet",
         "brand": "Solgar",
         "price": 597.9,
         "discount_price": 523.0,
@@ -45840,7 +45810,7 @@
       },
       {
         "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-eklem-sagligi-glukozamin-kondroitin-msm",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
         "brand": "Assos",
         "price": 1276.0,
         "discount_price": null,
@@ -46217,7 +46187,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -46233,7 +46203,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 182
+        "stock": 181
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -46400,7 +46370,7 @@
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
-        "slug": "orzax-ocean-d3k2-damla-kemik-sagligi-20-ml",
+        "slug": "orzax-ocean-d3k2-damla-20-ml",
         "brand": "Orzax",
         "price": 494.5,
         "discount_price": 390.0,
@@ -46412,7 +46382,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Extramag P5P B6 Magnezyum Saşe 30 Poşet",
@@ -46641,7 +46611,7 @@
       },
       {
         "name": "Solgar K2 Vitamini 100 mcg Kemik 50 Kapsül",
-        "slug": "solgar-k2-vitamini-100-mcg-kemik-kalp-sagligi-50-kapsul",
+        "slug": "solgar-k2-vitamini-100-mcg-50-kapsul",
         "brand": "Solgar",
         "price": 1128.9,
         "discount_price": 969.0,
@@ -46655,7 +46625,7 @@
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
-        "slug": "solgar-kalsiyum-magnezyum-cinko-kemik-sagligi-100-tablet",
+        "slug": "solgar-kalsiyum-magnezyum-cinko-100-tablet",
         "brand": "Solgar",
         "price": 597.9,
         "discount_price": 523.0,
@@ -46829,7 +46799,7 @@
       },
       {
         "name": "VeNatura Vitamin K2 MK-7 100 mcg 60 Kapsül",
-        "slug": "venatura-vitamin-k2-mk-7-100-mcg-kemik-sagligi-60-kapsul",
+        "slug": "venatura-vitamin-k2-mk-7-100-mcg-60-kapsul",
         "brand": "VeNatura",
         "price": 550.0,
         "discount_price": 463.0,
@@ -47128,7 +47098,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -47522,7 +47492,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 182
+        "stock": 181
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -47605,7 +47575,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 38
+        "stock": 36
       },
       {
         "name": "Potasyum Sitrat 250 Gr Suvar",
@@ -48172,7 +48142,7 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-sindirim-destekleyici-15-ml",
+        "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
         "discount_price": null,
@@ -48359,7 +48329,7 @@
       },
       {
         "name": "Solgar Advanced Acidophilus Probiyotik 60 Kapsül",
-        "slug": "solgar-advanced-acidophilus-probiyotik-bagirsak-sagligi-60-kapsul",
+        "slug": "solgar-advanced-acidophilus-probiyotik-60-kapsul",
         "brand": "Solgar",
         "price": 1215.0,
         "discount_price": null,
@@ -48585,20 +48555,6 @@
         "stock": 10
       },
       {
-        "name": "NBT Life Berliv Lipozomal Berberis Vulgaris 60 Kapsül",
-        "slug": "nbtlife-berliv-lipozomal-berberis-vulgaris-60-kapsul",
-        "brand": "NBT Life",
-        "price": 1599.0,
-        "discount_price": 1271.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f3deede3-c822-4711-849c-caad59e67b5a/image_1950.webp",
-        "cats": [
-          "Deve Dikeni (Milk Thistle)",
-          "Karaciğer Sağlığı",
-          "Enginar"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Nbtlife Berliv Kapsül Lipozomal Berberis Vulgaris Silybum Marianum ve Fosfotidilkolin İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "nbtlife-berliv-lipozomal-berberis-vulgaris-silybum-marianum-30-kapsul",
         "brand": "NBT Life",
@@ -48814,20 +48770,6 @@
           "Karahindiba (Dandelion)"
         ],
         "stock": 10
-      },
-      {
-        "name": "NBT Life Berliv Lipozomal Berberis Vulgaris 60 Kapsül",
-        "slug": "nbtlife-berliv-lipozomal-berberis-vulgaris-60-kapsul",
-        "brand": "NBT Life",
-        "price": 1599.0,
-        "discount_price": 1271.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f3deede3-c822-4711-849c-caad59e67b5a/image_1950.webp",
-        "cats": [
-          "Deve Dikeni (Milk Thistle)",
-          "Karaciğer Sağlığı",
-          "Enginar"
-        ],
-        "stock": 3
       },
       {
         "name": "New Life 4 Hepa Deve Dikeni Enginar 30 Kapsül",
@@ -49970,7 +49912,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -50044,7 +49986,7 @@
       },
       {
         "name": "Solgar K2 Vitamini 100 mcg Kemik 50 Kapsül",
-        "slug": "solgar-k2-vitamini-100-mcg-kemik-kalp-sagligi-50-kapsul",
+        "slug": "solgar-k2-vitamini-100-mcg-50-kapsul",
         "brand": "Solgar",
         "price": 1128.9,
         "discount_price": 969.0,
@@ -50076,7 +50018,7 @@
       },
       {
         "name": "VeNatura Vitamin K2 MK-7 100 mcg 60 Kapsül",
-        "slug": "venatura-vitamin-k2-mk-7-100-mcg-kemik-sagligi-60-kapsul",
+        "slug": "venatura-vitamin-k2-mk-7-100-mcg-60-kapsul",
         "brand": "VeNatura",
         "price": 550.0,
         "discount_price": 463.0,
@@ -50485,7 +50427,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -50503,7 +50445,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
@@ -50677,7 +50619,7 @@
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
-        "slug": "orzax-ocean-d3k2-damla-kemik-sagligi-20-ml",
+        "slug": "orzax-ocean-d3k2-damla-20-ml",
         "brand": "Orzax",
         "price": 494.5,
         "discount_price": 390.0,
@@ -50689,7 +50631,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Extramag Threog Magnezyum L-Treonat 60 Tablet",
@@ -52844,7 +52786,7 @@
           "Vücut Losyonu",
           "Nemlendiriciler"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "La Roche Posay Lipikar Syndet AP+ Temizleyici Jel 400 ml",
@@ -53398,7 +53340,7 @@
           "Vücut Losyonu",
           "Nemlendiriciler"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Dalin Care Atocure Losyon 500 ml",
@@ -53414,7 +53356,7 @@
           "Vücut Losyonu",
           "Nemlendiriciler"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Dalin Care Nemlendirici Bebek Losyonu 500 ml",
@@ -54213,7 +54155,7 @@
       },
       {
         "name": "Macufer Lutein ve Zeaxantin Kapsül Takviyesi 30 Kapsül",
-        "slug": "macufer-lutein-ve-zeaxantin-kapsul-goz-sagligi-takviyesi-30-kapsul",
+        "slug": "macufer-lutein-ve-zeaxantin-kapsul-30-kapsul",
         "brand": "Macufer",
         "price": 1188.0,
         "discount_price": null,
@@ -54246,7 +54188,7 @@
       },
       {
         "name": "Ocuvite Complete Kapsül Takviyesi 60 Kapsül",
-        "slug": "ocuvite-complete-kapsul-goz-sagligi-takviyesi-60-kapsul",
+        "slug": "ocuvite-complete-kapsul-60-kapsul",
         "brand": "Ocuvite",
         "price": 894.0,
         "discount_price": null,
@@ -55628,7 +55570,7 @@
           "Saç Bakımı",
           "Hassas Saç Derisi"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Dalin Şampuan Klasik 200 ML",
@@ -60538,7 +60480,7 @@
           "Vücut Losyonu",
           "Nemlendiriciler"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "La Roche Posay Hyalu B5 Suractivated Cream 50 ml",
@@ -65343,8 +65285,8 @@
         "stock": 1
       },
       {
-        "name": "DailyShot Libidoshot 14 lü Kutu",
-        "slug": "dailyshot-libidoshot-14-lu-kutu",
+        "name": "DailyShot 14 lü Kutu",
+        "slug": "dailyshot-14-lu-kutu",
         "brand": "",
         "price": 1850.0,
         "discount_price": 1311.0,
@@ -65633,8 +65575,8 @@
         "stock": 1
       },
       {
-        "name": "DailyShot Libidoshot 14 lü Kutu",
-        "slug": "dailyshot-libidoshot-14-lu-kutu",
+        "name": "DailyShot 14 lü Kutu",
+        "slug": "dailyshot-14-lu-kutu",
         "brand": "",
         "price": 1850.0,
         "discount_price": 1311.0,
@@ -65725,8 +65667,8 @@
         "stock": 3
       },
       {
-        "name": "DailyShot Libidoshot 14 lü Kutu",
-        "slug": "dailyshot-libidoshot-14-lu-kutu",
+        "name": "DailyShot 14 lü Kutu",
+        "slug": "dailyshot-14-lu-kutu",
         "brand": "",
         "price": 1850.0,
         "discount_price": 1311.0,
@@ -68413,7 +68355,7 @@
       },
       {
         "name": "Solgar Karnıyarık Otu Lifi 200 Kapsül",
-        "slug": "solgar-karniyarik-otu-lifi-sindirim-sagligi-200-kapsul",
+        "slug": "solgar-karniyarik-otu-lifi-200-kapsul",
         "brand": "Solgar",
         "price": 1147.0,
         "discount_price": null,
@@ -68458,8 +68400,8 @@
         "stock": 2
       },
       {
-        "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
-        "slug": "solgar-l-karnitin-500-mg-yag-yakimi-enerji-30-tablet",
+        "name": "Solgar L-Karnitin 500 mg 30 Tablet",
+        "slug": "solgar-l-karnitin-500-mg-30-tablet",
         "brand": "Solgar",
         "price": 1072.0,
         "discount_price": null,
@@ -72333,7 +72275,7 @@
       },
       {
         "name": "Orzax Ocean Pulse 30 Kapsül",
-        "slug": "orzax-ocean-pulse-kalp-sagligi-takviyesi-30-kapsul",
+        "slug": "orzax-ocean-pulse-30-kapsul",
         "brand": "Orzax",
         "price": 820.0,
         "discount_price": null,
@@ -72357,7 +72299,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -73633,7 +73575,7 @@
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
-        "slug": "orzax-ocean-d3k2-damla-kemik-sagligi-20-ml",
+        "slug": "orzax-ocean-d3k2-damla-20-ml",
         "brand": "Orzax",
         "price": 494.5,
         "discount_price": 390.0,
@@ -73645,7 +73587,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Krill Yağı Omega 3 Fosfolipid 500 mg 30 Kapsül",
@@ -73699,7 +73641,7 @@
       },
       {
         "name": "Orzax Ocean Pulse 30 Kapsül",
-        "slug": "orzax-ocean-pulse-kalp-sagligi-takviyesi-30-kapsul",
+        "slug": "orzax-ocean-pulse-30-kapsul",
         "brand": "Orzax",
         "price": 820.0,
         "discount_price": null,
@@ -73723,7 +73665,7 @@
           "Omega 3",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -73861,7 +73803,7 @@
       },
       {
         "name": "Solgar K2 Vitamini 100 mcg Kemik 50 Kapsül",
-        "slug": "solgar-k2-vitamini-100-mcg-kemik-kalp-sagligi-50-kapsul",
+        "slug": "solgar-k2-vitamini-100-mcg-50-kapsul",
         "brand": "Solgar",
         "price": 1128.9,
         "discount_price": 969.0,
@@ -74159,7 +74101,7 @@
       },
       {
         "name": "VeNatura Vitamin K2 MK-7 100 mcg 60 Kapsül",
-        "slug": "venatura-vitamin-k2-mk-7-100-mcg-kemik-sagligi-60-kapsul",
+        "slug": "venatura-vitamin-k2-mk-7-100-mcg-60-kapsul",
         "brand": "VeNatura",
         "price": 550.0,
         "discount_price": 463.0,
@@ -75344,7 +75286,7 @@
       },
       {
         "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-eklem-sagligi-glukozamin-kondroitin-msm",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
         "brand": "Assos",
         "price": 1276.0,
         "discount_price": null,
@@ -75604,7 +75546,7 @@
       },
       {
         "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-eklem-sagligi-glukozamin-kondroitin-msm",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
         "brand": "Assos",
         "price": 1276.0,
         "discount_price": null,
@@ -75940,7 +75882,7 @@
       },
       {
         "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-eklem-sagligi-glukozamin-kondroitin-msm",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
         "brand": "Assos",
         "price": 1276.0,
         "discount_price": null,
@@ -77479,7 +77421,7 @@
       },
       {
         "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-eklem-sagligi-glukozamin-kondroitin-msm",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
         "brand": "Assos",
         "price": 1276.0,
         "discount_price": null,
@@ -77498,7 +77440,7 @@
       },
       {
         "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-eklem-sagligi-glukozamin-kondroitin-msm",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
         "brand": "Assos",
         "price": 1276.0,
         "discount_price": null,
@@ -77963,7 +77905,7 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-sindirim-destekleyici-15-ml",
+        "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
         "discount_price": null,
@@ -78733,7 +78675,7 @@
           "Saç Bakımı",
           "Hassas Saç Derisi"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Kelual DS Intensive Şampuan 100 ml",
@@ -83029,7 +82971,7 @@
       },
       {
         "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-eklem-sagligi-glukozamin-kondroitin-msm",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
         "brand": "Assos",
         "price": 1276.0,
         "discount_price": null,
@@ -84653,7 +84595,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 38
+        "stock": 36
       },
       {
         "name": "Solgar Magnezyum B6 Vitamini 100 Tablet",
@@ -84966,8 +84908,8 @@
         "stock": 2
       },
       {
-        "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
-        "slug": "solgar-l-karnitin-500-mg-yag-yakimi-enerji-30-tablet",
+        "name": "Solgar L-Karnitin 500 mg 30 Tablet",
+        "slug": "solgar-l-karnitin-500-mg-30-tablet",
         "brand": "Solgar",
         "price": 1072.0,
         "discount_price": null,
@@ -84983,8 +84925,8 @@
         "stock": 2
       },
       {
-        "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
-        "slug": "solgar-l-karnitin-500-mg-yag-yakimi-enerji-30-tablet",
+        "name": "Solgar L-Karnitin 500 mg 30 Tablet",
+        "slug": "solgar-l-karnitin-500-mg-30-tablet",
         "brand": "Solgar",
         "price": 1072.0,
         "discount_price": null,
@@ -86318,7 +86260,7 @@
       },
       {
         "name": "Macufer Lutein ve Zeaxantin Kapsül Takviyesi 30 Kapsül",
-        "slug": "macufer-lutein-ve-zeaxantin-kapsul-goz-sagligi-takviyesi-30-kapsul",
+        "slug": "macufer-lutein-ve-zeaxantin-kapsul-30-kapsul",
         "brand": "Macufer",
         "price": 1188.0,
         "discount_price": null,
@@ -86876,20 +86818,6 @@
         "stock": 10
       },
       {
-        "name": "NBT Life Berliv Lipozomal Berberis Vulgaris 60 Kapsül",
-        "slug": "nbtlife-berliv-lipozomal-berberis-vulgaris-60-kapsul",
-        "brand": "NBT Life",
-        "price": 1599.0,
-        "discount_price": 1271.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f3deede3-c822-4711-849c-caad59e67b5a/image_1950.webp",
-        "cats": [
-          "Deve Dikeni (Milk Thistle)",
-          "Karaciğer Sağlığı",
-          "Enginar"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Nbtlife Berliv Kapsül Lipozomal Berberis Vulgaris Silybum Marianum ve Fosfotidilkolin İçeren Takviye Edici Gıda 30 Kapsül",
         "slug": "nbtlife-berliv-lipozomal-berberis-vulgaris-silybum-marianum-30-kapsul",
         "brand": "NBT Life",
@@ -87025,7 +86953,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -87321,7 +87249,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Orzax Ocean Extramag Threog Magnezyum L-Treonat 60 Tablet",
@@ -87989,7 +87917,7 @@
       },
       {
         "name": "Orzax Ocean Pulse 30 Kapsül",
-        "slug": "orzax-ocean-pulse-kalp-sagligi-takviyesi-30-kapsul",
+        "slug": "orzax-ocean-pulse-30-kapsul",
         "brand": "Orzax",
         "price": 820.0,
         "discount_price": null,
@@ -88473,8 +88401,8 @@
         "stock": 1
       },
       {
-        "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
-        "slug": "solgar-l-karnitin-500-mg-yag-yakimi-enerji-30-tablet",
+        "name": "Solgar L-Karnitin 500 mg 30 Tablet",
+        "slug": "solgar-l-karnitin-500-mg-30-tablet",
         "brand": "Solgar",
         "price": 1072.0,
         "discount_price": null,
@@ -91058,7 +90986,7 @@
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
-        "slug": "solgar-kalsiyum-magnezyum-cinko-kemik-sagligi-100-tablet",
+        "slug": "solgar-kalsiyum-magnezyum-cinko-100-tablet",
         "brand": "Solgar",
         "price": 597.9,
         "discount_price": 523.0,
@@ -91144,7 +91072,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Ağız Bakım Seti": [
@@ -92529,7 +92457,7 @@
           "Kolesterol",
           "Bergamot"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
@@ -92561,7 +92489,7 @@
           "Kolesterol",
           "Bergamot"
         ],
-        "stock": 12
+        "stock": 11
       }
     ],
     "Yeşil Çay Ekstresi": [
@@ -92952,7 +92880,7 @@
           "Kemik ve Eklem Sağlığı",
           "K Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -93302,7 +93230,7 @@
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
-        "slug": "orzax-ocean-d3k2-damla-kemik-sagligi-20-ml",
+        "slug": "orzax-ocean-d3k2-damla-20-ml",
         "brand": "Orzax",
         "price": 494.5,
         "discount_price": 390.0,
@@ -93314,7 +93242,7 @@
           "Kemik Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "VeNatura D3K2 1000 IU D3 11.25 mcg K2 Vitamini Damla 20 ml",
@@ -93336,7 +93264,7 @@
       },
       {
         "name": "VeNatura Vitamin K2 MK-7 100 mcg 60 Kapsül",
-        "slug": "venatura-vitamin-k2-mk-7-100-mcg-kemik-sagligi-60-kapsul",
+        "slug": "venatura-vitamin-k2-mk-7-100-mcg-60-kapsul",
         "brand": "VeNatura",
         "price": 550.0,
         "discount_price": 463.0,
@@ -93888,8 +93816,8 @@
         "stock": 2
       },
       {
-        "name": "Solgar L-Karnitin 500 mg Yağ Yakımı Enerji 30 Tablet",
-        "slug": "solgar-l-karnitin-500-mg-yag-yakimi-enerji-30-tablet",
+        "name": "Solgar L-Karnitin 500 mg 30 Tablet",
+        "slug": "solgar-l-karnitin-500-mg-30-tablet",
         "brand": "Solgar",
         "price": 1072.0,
         "discount_price": null,
@@ -95555,7 +95483,7 @@
     "E Vitamini": [
       {
         "name": "Solgar E Vitamini 400 IU 50 Kapsül",
-        "slug": "solgar-e-vitamini-400-iu-antioksidan-cilt-sagligi-50-kapsul",
+        "slug": "solgar-e-vitamini-400-iu-50-kapsul",
         "brand": "Solgar",
         "price": 779.0,
         "discount_price": null,
@@ -95659,7 +95587,7 @@
     "Karnıyarık Otu (Mullein)": [
       {
         "name": "Solgar Karnıyarık Otu Lifi 200 Kapsül",
-        "slug": "solgar-karniyarik-otu-lifi-sindirim-sagligi-200-kapsul",
+        "slug": "solgar-karniyarik-otu-lifi-200-kapsul",
         "brand": "Solgar",
         "price": 1147.0,
         "discount_price": null,
@@ -95676,7 +95604,7 @@
     "Karnıyarık Otu": [
       {
         "name": "Solgar Karnıyarık Otu Lifi 200 Kapsül",
-        "slug": "solgar-karniyarik-otu-lifi-sindirim-sagligi-200-kapsul",
+        "slug": "solgar-karniyarik-otu-lifi-200-kapsul",
         "brand": "Solgar",
         "price": 1147.0,
         "discount_price": null,
@@ -97472,9 +97400,9 @@
     ]
   },
   "stats": {
-    "total_products": 6223,
+    "total_products": 6218,
     "total_categories": 693,
-    "generated": "2026-09-18 15:19",
+    "generated": "2026-09-18 19:00",
     "source": "ikas_api_live"
   }
 }
