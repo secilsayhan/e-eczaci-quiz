@@ -7810,7 +7810,7 @@
           "Vitamin ve Takviye",
           "C Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -7840,7 +7840,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 1000 IU 20 ml",
@@ -7901,7 +7901,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 229
+        "stock": 228
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -8007,7 +8007,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 14
+        "stock": 12
       },
       {
         "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
@@ -11287,7 +11287,7 @@
           "Vitamin ve Takviye",
           "C Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Orzax İmunol Complex 30 Kapsül",
@@ -11301,7 +11301,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 14
+        "stock": 12
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -15506,6 +15506,21 @@
         "stock": 4
       },
       {
+        "name": "Velavit Viva Ceramide 30 Kapsül",
+        "slug": "velavit-viva-ceramide-30-kapsul",
+        "brand": "Velavit",
+        "price": 1929.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
+        "cats": [
+          "Cilt Sağlığı",
+          "Cilt, Saç ve Tırnak",
+          "Saç, Cilt ve Tırnak",
+          "Seramid İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
         "name": "Vichy Dercos Anti Dandruff 390 ml",
         "slug": "vichy-dercos-anti-dandruff-390-ml",
         "brand": "Vichy",
@@ -16959,7 +16974,7 @@
           "B Kompleks",
           "Sindirim Sağlığı"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Orzax Ocean Bromelain 500 mg Ananas Enzimi 30 Kapsül",
@@ -19122,7 +19137,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 39
+        "stock": 38
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -20978,6 +20993,21 @@
         "stock": 1
       },
       {
+        "name": "Velavit Viva Ceramide 30 Kapsül",
+        "slug": "velavit-viva-ceramide-30-kapsul",
+        "brand": "Velavit",
+        "price": 1929.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
+        "cats": [
+          "Cilt Sağlığı",
+          "Cilt, Saç ve Tırnak",
+          "Saç, Cilt ve Tırnak",
+          "Seramid İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
         "name": "Vichy Neovadiol Kuru Cilt 50 ml",
         "slug": "vichy-neovadiol-kuru-cilt-50-ml",
         "brand": "Vichy",
@@ -21063,7 +21093,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 30
+        "stock": 29
       }
     ],
     "Hemoroid Kremi": [
@@ -21078,7 +21108,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 30
+        "stock": 29
       }
     ],
     "Başlangıç (0-6 Ay)": [
@@ -21924,7 +21954,7 @@
           "B12 Vitamini",
           "Enerji ve Zindelik"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 10 ml Şişe",
@@ -25517,7 +25547,7 @@
           "B12 Vitamini",
           "Enerji ve Zindelik"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Multivitamin Mineral Energy Tablet, 60 Tablet",
@@ -25594,7 +25624,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 15
+        "stock": 16
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -25640,7 +25670,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 14
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -27664,7 +27694,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 15
+        "stock": 16
       },
       {
         "name": "Ocean Gummies Kids Multivitamin Çiğnenebilir Form, Multivitamin ve Multimineral, 60 Adet",
@@ -29542,7 +29572,7 @@
           "C Vitamini",
           "Erkek Multivitamin"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -29588,7 +29618,7 @@
           "Vitamin ve Takviye",
           "C Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Orzax Ocean C Vitamini 1000 mg Takviyesi 30 Tablet",
@@ -29601,7 +29631,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -44982,7 +45012,7 @@
           "B Kompleks",
           "Sindirim Sağlığı"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -45067,7 +45097,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 39
+        "stock": 38
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -46366,7 +46396,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 229
+        "stock": 228
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -47575,7 +47605,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 39
+        "stock": 38
       },
       {
         "name": "Potasyum Sitrat 250 Gr Suvar",
@@ -49261,7 +49291,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 14
+        "stock": 12
       },
       {
         "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
@@ -49995,7 +50025,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 229
+        "stock": 228
       },
       {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
@@ -50643,7 +50673,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 229
+        "stock": 228
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -51401,7 +51431,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 30
+        "stock": 31
       },
       {
         "name": "Omepa DHA Yumuşak Kapsül Balık Yağı Astaksantin Takviyesi 30 Kapsül",
@@ -65434,7 +65464,7 @@
           "C Vitamini",
           "Erkek Multivitamin"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Capillus Men 60 Tablet",
@@ -67728,6 +67758,21 @@
           "Saç Cilt Tırnak"
         ],
         "stock": 1
+      },
+      {
+        "name": "Velavit Viva Ceramide 30 Kapsül",
+        "slug": "velavit-viva-ceramide-30-kapsul",
+        "brand": "Velavit",
+        "price": 1929.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
+        "cats": [
+          "Cilt Sağlığı",
+          "Cilt, Saç ve Tırnak",
+          "Saç, Cilt ve Tırnak",
+          "Seramid İçeren Ürünler"
+        ],
+        "stock": 3
       }
     ],
     "Biotin (B7 Vitamini)": [
@@ -70419,6 +70464,21 @@
           "Seramid İçeren Ürünler"
         ],
         "stock": 6
+      },
+      {
+        "name": "Velavit Viva Ceramide 30 Kapsül",
+        "slug": "velavit-viva-ceramide-30-kapsul",
+        "brand": "Velavit",
+        "price": 1929.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
+        "cats": [
+          "Cilt Sağlığı",
+          "Cilt, Saç ve Tırnak",
+          "Saç, Cilt ve Tırnak",
+          "Seramid İçeren Ürünler"
+        ],
+        "stock": 3
       }
     ],
     "Niasinamid İçeren Ürünler": [
@@ -73286,7 +73346,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 14
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -73461,7 +73521,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 30
+        "stock": 31
       },
       {
         "name": "Ocean Ultimate Kapsül, Balık Yağı İçeren Takviye Edici Gıda 30 kapsül",
@@ -73569,7 +73629,7 @@
           "Kemik ve Eklem Sağlığı",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 229
+        "stock": 228
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -76121,7 +76181,7 @@
           "B Kompleks",
           "Sindirim Sağlığı"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Solgar B Kompleks 50 Tüm B Vitaminleri İçeren 50 Kapsül",
@@ -76224,7 +76284,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 15
+        "stock": 16
       },
       {
         "name": "Ocean Panax Ginseng İçeren Takviye Edici Gıda 60 Kapsül",
@@ -83776,7 +83836,7 @@
           "C Vitamini",
           "Erkek Multivitamin"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -84593,7 +84653,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 39
+        "stock": 38
       },
       {
         "name": "Solgar Magnezyum B6 Vitamini 100 Tablet",
@@ -85778,7 +85838,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 30
+        "stock": 31
       },
       {
         "name": "Resvega Kapsül Resveratrol Balık Yağı Lutein Zeaksantin D Vitamini Takviyesi 60 Kapsül",
@@ -87868,7 +87928,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 13
+        "stock": 14
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -93399,7 +93459,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar Sağlığı"
         ],
-        "stock": 30
+        "stock": 31
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -97412,9 +97472,9 @@
     ]
   },
   "stats": {
-    "total_products": 6219,
+    "total_products": 6223,
     "total_categories": 693,
-    "generated": "2026-09-18 11:46",
+    "generated": "2026-09-18 15:19",
     "source": "ikas_api_live"
   }
 }
