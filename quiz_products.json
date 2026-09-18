@@ -1171,7 +1171,7 @@
           "Soğuk Algınlığı ve Grip",
           "Niaouli Yağı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Aspi Natura Kids Çocuk Boğaz Spreyi Doğal İçerikli 20 ml",
@@ -3001,7 +3001,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Paranit Bit Spreyi 100 ml 2'li Paket",
@@ -10979,24 +10979,6 @@
         "stock": 5
       },
       {
-        "name": "Ocean Methyl B12 1000 mcg Sprey",
-        "slug": "ocean-methyl-b12-1000-mcg-sprey",
-        "brand": "Ocean",
-        "price": 547.5,
-        "discount_price": 414.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15cfabb7-d635-427b-83cf-78e9abd34dd0/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi",
-          "B Vitaminleri"
-        ],
-        "stock": 26
-      },
-      {
         "name": "Ocean Milk Thistle 30 Kapsül",
         "slug": "ocean-milk-thistle-30-kapsul",
         "brand": "Orzax",
@@ -12214,22 +12196,6 @@
           "Selenyum"
         ],
         "stock": 1
-      },
-      {
-        "name": "Velavit Viva Ceramide 30 Kapsül",
-        "slug": "velavit-viva-ceramide-30-kapsul",
-        "brand": "Velavit",
-        "price": 1929.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
-        "cats": [
-          "Cilt Sağlığı",
-          "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
-          "Saç, Cilt ve Tırnak",
-          "Seramid İçeren Ürünler"
-        ],
-        "stock": 2
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -15538,22 +15504,6 @@
           "Biotin (B7 Vitamini)"
         ],
         "stock": 4
-      },
-      {
-        "name": "Velavit Viva Ceramide 30 Kapsül",
-        "slug": "velavit-viva-ceramide-30-kapsul",
-        "brand": "Velavit",
-        "price": 1929.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
-        "cats": [
-          "Cilt Sağlığı",
-          "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
-          "Saç, Cilt ve Tırnak",
-          "Seramid İçeren Ürünler"
-        ],
-        "stock": 2
       },
       {
         "name": "Vichy Dercos Anti Dandruff 390 ml",
@@ -21028,22 +20978,6 @@
         "stock": 1
       },
       {
-        "name": "Velavit Viva Ceramide 30 Kapsül",
-        "slug": "velavit-viva-ceramide-30-kapsul",
-        "brand": "Velavit",
-        "price": 1929.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
-        "cats": [
-          "Cilt Sağlığı",
-          "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
-          "Saç, Cilt ve Tırnak",
-          "Seramid İçeren Ürünler"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Vichy Neovadiol Kuru Cilt 50 ml",
         "slug": "vichy-neovadiol-kuru-cilt-50-ml",
         "brand": "Vichy",
@@ -22004,7 +21938,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 44
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -22033,23 +21967,20 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 2
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Sprey",
         "slug": "ocean-methyl-b12-1000-mcg-sprey",
         "brand": "Ocean",
         "price": 547.5,
-        "discount_price": 414.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15cfabb7-d635-427b-83cf-78e9abd34dd0/image_1950.webp",
         "cats": [
           "B12 Vitamini",
           "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
           "Enerji ve Zindelik",
-          "Sinir Sistemi",
-          "B Vitaminleri"
+          "Sinir Sistemi"
         ],
         "stock": 26
       },
@@ -23118,23 +23049,20 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 2
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Sprey",
         "slug": "ocean-methyl-b12-1000-mcg-sprey",
         "brand": "Ocean",
         "price": 547.5,
-        "discount_price": 414.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15cfabb7-d635-427b-83cf-78e9abd34dd0/image_1950.webp",
         "cats": [
           "B12 Vitamini",
           "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
           "Enerji ve Zindelik",
-          "Sinir Sistemi",
-          "B Vitaminleri"
+          "Sinir Sistemi"
         ],
         "stock": 26
       },
@@ -23422,7 +23350,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Orzax Ocean Saf Balık Yağı Omega 3 EPA DHA 500 mg 60 Kapsül",
@@ -24423,7 +24351,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Plus Kids Sprey, 20ml Şişe",
@@ -25742,7 +25670,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 44
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -25771,23 +25699,20 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 2
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Sprey",
         "slug": "ocean-methyl-b12-1000-mcg-sprey",
         "brand": "Ocean",
         "price": 547.5,
-        "discount_price": 414.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15cfabb7-d635-427b-83cf-78e9abd34dd0/image_1950.webp",
         "cats": [
           "B12 Vitamini",
           "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
           "Enerji ve Zindelik",
-          "Sinir Sistemi",
-          "B Vitaminleri"
+          "Sinir Sistemi"
         ],
         "stock": 26
       },
@@ -27152,7 +27077,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 44
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -27181,23 +27106,20 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 10
+        "stock": 2
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Sprey",
         "slug": "ocean-methyl-b12-1000-mcg-sprey",
         "brand": "Ocean",
         "price": 547.5,
-        "discount_price": 414.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15cfabb7-d635-427b-83cf-78e9abd34dd0/image_1950.webp",
         "cats": [
           "B12 Vitamini",
           "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
           "Enerji ve Zindelik",
-          "Sinir Sistemi",
-          "B Vitaminleri"
+          "Sinir Sistemi"
         ],
         "stock": 26
       },
@@ -30833,7 +30755,7 @@
           "Soğuk Algınlığı ve Grip",
           "Niaouli Yağı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Avène Cicalfate Restorative Crème 40 ml",
@@ -33421,7 +33343,7 @@
           "Soğuk Algınlığı ve Grip",
           "Niaouli Yağı"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "İlaç Kutusu ve Aksesuarlar": [
@@ -66788,24 +66710,6 @@
         "stock": 5
       },
       {
-        "name": "Ocean Methyl B12 1000 mcg Sprey",
-        "slug": "ocean-methyl-b12-1000-mcg-sprey",
-        "brand": "Ocean",
-        "price": 547.5,
-        "discount_price": 414.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15cfabb7-d635-427b-83cf-78e9abd34dd0/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi",
-          "B Vitaminleri"
-        ],
-        "stock": 26
-      },
-      {
         "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
         "slug": "ocean-osteofine-tablet-kalsiyum-magnezyum-cinko-ve-d-vitamini-60-table",
         "brand": "Ocean",
@@ -67686,7 +67590,7 @@
           "Kolajen Takviyeleri",
           "Cilt, Saç ve Tırnak"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "FEB Biotin Tablet Saç 60 Kapsül",
@@ -67824,22 +67728,6 @@
           "Saç Cilt Tırnak"
         ],
         "stock": 1
-      },
-      {
-        "name": "Velavit Viva Ceramide 30 Kapsül",
-        "slug": "velavit-viva-ceramide-30-kapsul",
-        "brand": "Velavit",
-        "price": 1929.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
-        "cats": [
-          "Cilt Sağlığı",
-          "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
-          "Saç, Cilt ve Tırnak",
-          "Seramid İçeren Ürünler"
-        ],
-        "stock": 2
       }
     ],
     "Biotin (B7 Vitamini)": [
@@ -70531,22 +70419,6 @@
           "Seramid İçeren Ürünler"
         ],
         "stock": 6
-      },
-      {
-        "name": "Velavit Viva Ceramide 30 Kapsül",
-        "slug": "velavit-viva-ceramide-30-kapsul",
-        "brand": "Velavit",
-        "price": 1929.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41697d25-1a5d-438a-ad94-4c33c0774209/image_1950.webp",
-        "cats": [
-          "Cilt Sağlığı",
-          "Cilt, Saç ve Tırnak",
-          "Vitamin ve Takviye",
-          "Saç, Cilt ve Tırnak",
-          "Seramid İçeren Ürünler"
-        ],
-        "stock": 2
       }
     ],
     "Niasinamid İçeren Ürünler": [
@@ -72397,7 +72269,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Orzax Ocean Pulse 30 Kapsül",
@@ -75916,7 +75788,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Osteo Bi-Flex 5-Loxin Advanced Tablet Glukozamin Kondroitin MSM Boswellia Ekstresi İçeren Takviye Edici Gıda 120 Tablet",
@@ -76054,7 +75926,7 @@
           "Kolajen Takviyeleri",
           "Cilt, Saç ve Tırnak"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Day2day The Collagen Multi Toz",
@@ -82524,7 +82396,7 @@
           "Omega 3",
           "Çocuk Sağlığı"
         ],
-        "stock": 17
+        "stock": 16
       }
     ],
     "Beta Glukan": [
@@ -83001,7 +82873,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
@@ -83016,7 +82888,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Solgar Bromelain 150 mg Ananas Enzimi 60 Kapsül",
@@ -83513,7 +83385,7 @@
         "cats": [
           "İntim Temizleyiciler"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
@@ -89570,24 +89442,6 @@
         "stock": 8
       },
       {
-        "name": "Ocean Methyl B12 1000 mcg Sprey",
-        "slug": "ocean-methyl-b12-1000-mcg-sprey",
-        "brand": "Ocean",
-        "price": 547.5,
-        "discount_price": 414.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/15cfabb7-d635-427b-83cf-78e9abd34dd0/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi",
-          "B Vitaminleri"
-        ],
-        "stock": 26
-      },
-      {
         "name": "Rinex B Vitamini, Mineral ve Bitkisel Ekstre Kapsül 60 Kapsül",
         "slug": "rinex-b-vitamini-mineral-ve-bitkisel-ekstre-kapsul-60-kapsul",
         "brand": "Rinex",
@@ -92603,20 +92457,6 @@
         "stock": 4
       }
     ],
-    "Kayganlaştırıcı Jel": [
-      {
-        "name": "NeuJoys Kayganlaştırıcı Jel Su Bazlı 42 g Tüp",
-        "slug": "neujoys-kayganlastirici-jel-su-bazli-42-g-tup",
-        "brand": "Neujooys",
-        "price": 390.0,
-        "discount_price": 333.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4b1e058e-5433-4c38-b5a9-3ebf9b14e624/image_1950.webp",
-        "cats": [
-          "Kayganlaştırıcı Jel"
-        ],
-        "stock": 4
-      }
-    ],
     "Kolesterol": [
       {
         "name": "New Life Bergacol Bergamot Bitkisel Sterol 60 Tablet",
@@ -93831,7 +93671,7 @@
           "Çok Satanlar",
           "Bromelain"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
@@ -97572,9 +97412,9 @@
     ]
   },
   "stats": {
-    "total_products": 6228,
-    "total_categories": 694,
-    "generated": "2026-09-18 08:18",
+    "total_products": 6219,
+    "total_categories": 693,
+    "generated": "2026-09-18 11:46",
     "source": "ikas_api_live"
   }
 }
