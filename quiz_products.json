@@ -3021,20 +3021,6 @@
         "stock": 16
       },
       {
-        "name": "Paranit Tedavi Spreyi 100ml Şişe",
-        "slug": "paranit-tedavi-spreyi-100ml-sise",
-        "brand": "Paranit",
-        "price": 918.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/31324bce-75dd-4504-9f39-8e3b76f0aff8/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Bakımı",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
         "slug": "phytorelief-junior-cignenebilir-form-turmeric-pomegranate-ginger",
         "brand": "PhytoRelief",
@@ -7841,7 +7827,7 @@
           "D Vitamini",
           "Kemik ve Eklem"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -11077,7 +11063,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -20067,21 +20053,6 @@
         "stock": 3
       },
       {
-        "name": "Bioderma Atoderm Dudak Balmı 15 ml",
-        "slug": "bioderma-atoderm-dudak-balmi-15-ml",
-        "brand": "Bioderma",
-        "price": 799.0,
-        "discount_price": 400.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f36255b2-e9ef-453e-991c-58d823bfa114/image_1950.webp",
-        "cats": [
-          "Cilt",
-          "Kişisel Bakım",
-          "Dudak Stick",
-          "Dudak Bakımı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Bioderma Atoderm Dudak Balmı Nemlendirici Onarıcı",
         "slug": "bioderma-atoderm-dudak-balmi-nemlendirici-onarici",
         "brand": "Bioderma",
@@ -21098,7 +21069,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 18
+        "stock": 19
       }
     ],
     "Hemoroid Kremi": [
@@ -21113,7 +21084,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 18
+        "stock": 19
       }
     ],
     "Başlangıç (0-6 Ay)": [
@@ -21973,7 +21944,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 38
+        "stock": 36
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -23161,7 +23132,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -25719,7 +25690,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 38
+        "stock": 36
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -27126,7 +27097,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 38
+        "stock": 36
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -46415,7 +46386,7 @@
           "D Vitamini",
           "Kemik ve Eklem"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -50647,7 +50618,7 @@
           "D Vitamini",
           "Kemik ve Eklem"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -54474,21 +54445,6 @@
         "stock": 2
       },
       {
-        "name": "Bioderma Atoderm Dudak Balmı 15 ml",
-        "slug": "bioderma-atoderm-dudak-balmi-15-ml",
-        "brand": "Bioderma",
-        "price": 799.0,
-        "discount_price": 400.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f36255b2-e9ef-453e-991c-58d823bfa114/image_1950.webp",
-        "cats": [
-          "Cilt",
-          "Kişisel Bakım",
-          "Dudak Stick",
-          "Dudak Bakımı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Bioderma Cicabio Lip Repair Dudak Bakım Kremi 10 ml",
         "slug": "bioderma-cicabio-lip-repair-dudak-bakim-kremi-10-ml",
         "brand": "Bioderma",
@@ -57320,21 +57276,6 @@
         "stock": 3
       },
       {
-        "name": "Paranit Baş Biti ve Sirke Tedavisi İçin Şampuan 100 ml Şişe",
-        "slug": "paranit-bas-biti-ve-sirke-tedavisi-icin-sampuan-100-ml-sise",
-        "brand": "Paranit",
-        "price": 946.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82a33788-df6e-4566-bbcf-e4432495c125/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Şampuan"
-        ],
-        "stock": 5
-      },
-      {
         "name": "Sebamed Yenidoğan Şampuanı 500 ml",
         "slug": "sebamed-yenidogan-sampuani-500-ml",
         "brand": "Sebamed",
@@ -58308,697 +58249,6 @@
         "stock": 1
       }
     ],
-    "Kişisel Bakım": [
-      {
-        "name": "Bioderma Atoderm Dudak Balmı 15 ml",
-        "slug": "bioderma-atoderm-dudak-balmi-15-ml",
-        "brand": "Bioderma",
-        "price": 799.0,
-        "discount_price": 400.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f36255b2-e9ef-453e-991c-58d823bfa114/image_1950.webp",
-        "cats": [
-          "Cilt",
-          "Kişisel Bakım",
-          "Dudak Stick",
-          "Dudak Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Cicabio Lip Repair Dudak Onarıcı 10 ml",
-        "slug": "bioderma-cicabio-lip-repair-dudak-onarici-10-ml",
-        "brand": "Bioderma",
-        "price": 751.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5cd4e89c-5d56-4cf5-9c3d-719b7a0271ac/image_1950.webp",
-        "cats": [
-          "Onarıcı",
-          "Kişisel Bakım",
-          "Dudak Stick",
-          "Dudak Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Blistex Lip Berry Balm SPF 15",
-        "slug": "blistex-lip-berry-balm-spf-15",
-        "brand": "Blistex",
-        "price": 246.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d8216e0d-3d25-4e59-8eee-a1d58099302f/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF’li",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Blistex Lip Hassas Vazelin SPF15 7 ml",
-        "slug": "blistex-lip-hassas-vazelin-spf15-7-ml",
-        "brand": "Blistex",
-        "price": 295.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c1cad202-2ee5-49f6-b989-66c45b8f863f/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Blistex Lip Klasik SPF10 4,25 g",
-        "slug": "blistex-lip-klasik-spf10-4-25-g",
-        "brand": "Blistex",
-        "price": 233.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/db045a34-a220-46f1-924f-84d2852c1b16/image_1950.webp",
-        "cats": [
-          "SPF’li",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Corega Temizleyici Tablet 30 Tablet",
-        "slug": "corega-temizleyici-tablet-30-tablet",
-        "brand": "Corega",
-        "price": 334.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a627b83f-f988-4d37-b536-d112a3487446/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Temizleyici Tablet",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Protez Temizleyici Tablet"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Curaprox 5460 Ultra Soft Ortodontik Diş Fırçası",
-        "slug": "curaprox-5460-ultra-soft-ortodontik-dis-fircasi",
-        "brand": "Curaprox",
-        "price": 563.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb3b14c7-0a85-4f97-99b6-120f01dfb913/image_1950.webp",
-        "cats": [
-          "Ortodontik Diş Fırçası",
-          "Ortodontik",
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı",
-          "Diş Fırçası",
-          "Ultra Yumuşak"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "Difas Dis Fircasi Kabi 4 Lu",
-        "slug": "difas-dis-fircasi-kabi-4-lu",
-        "brand": "Difas",
-        "price": 78.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/19aa8ecd-76f9-4ee0-a9da-f3e9d76a560c/image_1950.webp",
-        "cats": [
-          "Diş Fırçası Kutusu",
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı",
-          "Diş Fırçası",
-          "Ağız Bakım Aksesuarları"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Dr. Wagner Sensiroll Roll-On 20 ML",
-        "slug": "dr-wagner-sensiroll-roll-on-20-ml",
-        "brand": "Dr. Wagner",
-        "price": 399.9,
-        "discount_price": 219.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f28d0f84-1e21-4e3d-89ff-4c57c3043278/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Est Doğal Karanfil Özlü Diş Macunu 90 Ml",
-        "slug": "est-dogal-karanfil-ozlu-dis-macunu-90-ml",
-        "brand": "EST",
-        "price": 172.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8ee35e6b-af1a-403d-9d50-5e2cb92f37ae/image_1950.webp",
-        "cats": [
-          "Bitkisel",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Est Doğal Zencefil Özlü Diş Macunu 90 Ml",
-        "slug": "est-dogal-zencefil-ozlu-dis-macunu-90-ml",
-        "brand": "EST",
-        "price": 168.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/940b4ca0-0a3d-4f4e-bab3-1994b78cc49a/image_1950.webp",
-        "cats": [
-          "Bitkisel",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
-        "slug": "etoile-intim-sprey-borik-asit-pluselma-sirkesi-100-ml",
-        "brand": "Etoile",
-        "price": 840.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4f14d4-1a90-4d4d-9d95-7aeedb227ac3/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Kişisel Bakım",
-          "Vajinal Sağlık"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Fixodent Complete Fresh Diş Protezi Yapıştırıcı Krem 47 G Tüp",
-        "slug": "fixodent-complete-fresh-dis-protezi-yapistirici-krem-47-g-tup",
-        "brand": "Fixodent",
-        "price": 273.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/45587a33-1046-4b34-b612-466561de04c1/image_1950.webp",
-        "cats": [
-          "Protez Yapıştırıcı Krem",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Fixodent Complete Neutral Diş Protezi Yapıştırıcı Krem 47 G Tüp",
-        "slug": "fixodent-complete-neutral-dis-protezi-yapistirici-krem-47-g-tup",
-        "brand": "Fixodent",
-        "price": 261.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/05c7fc66-6811-47e9-ad3e-384f60adaf25/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Protez Yapıştırıcı Krem",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Listerine Staywhite Serinletici Nane 500 ml",
-        "slug": "listerine-staywhite-serinletici-nane-500-ml",
-        "brand": "Listerine",
-        "price": 260.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9613a05e-9051-4c0a-8c4a-2b73b7d8b717/image_1950.webp",
-        "cats": [
-          "Beyazlatıcı",
-          "Gargara",
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Total Care Zero A Mor 250 ml",
-        "slug": "listerine-total-care-zero-a-mor-250-ml",
-        "brand": "Listerine",
-        "price": 268.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ec22d208-5d1c-4bce-acdf-1b3b2ca21d75/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Kişisel Bakım",
-          "Alkolsüz",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Totalcare 500 ml",
-        "slug": "listerine-totalcare-500-ml",
-        "brand": "Listerine",
-        "price": 331.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0ed3f72e-fd41-4dd5-bacb-6108ec76bf5d/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Kişisel Bakım",
-          "Diş Eti Bakımı",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Totalcare Mor 250 ml",
-        "slug": "listerine-totalcare-mor-250-ml",
-        "brand": "Listerine",
-        "price": 199.0,
-        "discount_price": 160.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/050057ac-f32d-46c1-a92b-742879b4e17a/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Kişisel Bakım",
-          "Diş Eti Bakımı",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Listerine Totalcare Mor Alkolsüz 500 ml",
-        "slug": "listerine-totalcare-mor-alkolsuz-500-ml",
-        "brand": "Listerine",
-        "price": 393.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f8363bf1-231b-44b8-b0e0-7f2959b80f49/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Kişisel Bakım",
-          "Alkolsüz",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Nivea Lip Fruity Shine Böğürtlen 4,8 gr",
-        "slug": "nivea-lip-fruity-shine-bogurtlen-4-8-gr",
-        "brand": "Nivea",
-        "price": 186.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9cb015a8-2c25-4a3a-8bc4-bca3ae992c4b/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Nivea Lip Original 4,8 Gr",
-        "slug": "nivea-lip-original-4-8-gr",
-        "brand": "Nivea",
-        "price": 145.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a24fe1f-bd80-4013-9073-754cdaf6a9a3/image_1950.webp",
-        "cats": [
-          "Dudak Balmı",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Nivea Lip Straw Çilek 4,8 gr",
-        "slug": "nivea-lip-straw-cilek-4-8-gr",
-        "brand": "Nivea",
-        "price": 173.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3c669742-f732-4e07-aaed-6168346b66ed/image_1950.webp",
-        "cats": [
-          "Dudak Balmı",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Nurse Harvey's Dentigel 15 gr Jel",
-        "slug": "nurse-harvey-s-dentigel-15-gr-jel",
-        "brand": "Nurse Harvey's",
-        "price": 394.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f0e5f35d-c754-45d1-9606-3999b4f9204b/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Oral-B Fırça Orthodontic",
-        "slug": "oral-b-firca-orthodontic",
-        "brand": "Oral-B",
-        "price": 280.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4986515b-b327-4d8e-8d9b-2d717d81bea4/image_1950.webp",
-        "cats": [
-          "Ortodontik Diş Fırçası",
-          "Ortodontik",
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı",
-          "Diş Fırçası"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Oral-B Fırça Şarjlı Frozen",
-        "slug": "oral-b-firca-sarjli-frozen",
-        "brand": "Oral-B",
-        "price": 2451.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5e598878-2e3e-4aa6-ac32-baa76142d198/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Diş Fırçası",
-          "Çocuk Elektrikli Diş Fırçası",
-          "Ağız ve Diş Bakımı",
-          "Diş Fırçası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Oral-B Satin Tape Mint Diş İpi",
-        "slug": "oral-b-satin-tape-mint-dis-ipi",
-        "brand": "Oral-B",
-        "price": 286.0,
-        "discount_price": 236.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1792d73f-0998-40a2-b20d-b0d19f78cf30/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Diş Bandı (Tape)",
-          "Ağız ve Diş Sağlığı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Protefix Aktif Temizleyici Tablet 32 Tablet",
-        "slug": "protefix-aktif-temizleyici-tablet-32-tablet",
-        "brand": "Protefix",
-        "price": 394.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/206191bf-842a-4456-ac87-72a58b32c901/image_1950.webp",
-        "cats": [
-          "Protez Bakımı",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Protez Temizleyici Tablet"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Elma Püresi",
-        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-elma-puresi",
-        "brand": "Rocs",
-        "price": 348.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/33ec9d6c-6f33-48f1-bf07-845edce34694/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Bebek Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Bebek Diş Bakımı"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Ihlamur",
-        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-ihlamur",
-        "brand": "Rocs",
-        "price": 339.0,
-        "discount_price": 254.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5eac2814-5be2-443a-84d0-d9664d16c84b/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Bebek Diş Macunu",
-          "Ağız ve Diş Bakımı",
-          "Bebek Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Papatya",
-        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-papatya",
-        "brand": "Rocs",
-        "price": 339.0,
-        "discount_price": 242.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e6771534-20f8-49c9-a846-83fd63c60b98/image_1950.webp",
-        "cats": [
-          "Bebek Ağız ve Diş Bakımı",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "ROCS Çocuk Diş Macunu 35 ml 3-7 Meyve Külahı",
-        "slug": "rocs-cocuk-dis-macunu-35-ml-3-7-meyve-kulahi",
-        "brand": "Rocs",
-        "price": 339.0,
-        "discount_price": 242.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82228efa-8152-409d-a9da-434e7ae57c76/image_1950.webp",
-        "cats": [
-          "Çocuk Diş Macunu",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Sebamed Intim Likit 200 ml",
-        "slug": "sebamed-intim-likit-200-ml",
-        "brand": "Sebamed",
-        "price": 629.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90a1031f-9ffb-450d-994d-9dfec653f621/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Kişisel Bakım"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Sensodyne Onarım ve Koruma Derin Onarım 75 ml",
-        "slug": "sensodyne-onarim-ve-koruma-derin-onarim-75-ml",
-        "brand": "Sensodyne",
-        "price": 399.95,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c3f68475-bc7c-40de-8e87-3ac9a8b55bc1/image_1950.webp",
-        "cats": [
-          "Diş Macunu",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
-        "slug": "sensodyne-promine-gentle-soft-dis-fircasi",
-        "brand": "Sensodyne",
-        "price": 265.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/42e33723-3313-4b28-822b-a5098a5fdc7f/image_1950.webp",
-        "cats": [
-          "Yumuşak",
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı",
-          "Diş Fırçası"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Sensodyne Promine Çocuk 6-12 Yaş Diş Macunu",
-        "slug": "sensodyne-promine-cocuk-6-12-yas-dis-macunu",
-        "brand": "Sensodyne",
-        "price": 324.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9c253f99-5320-4dd7-9937-15b7e007bf8a/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "6+ Yaş",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Sensodyne Çok Yönlü Koruma Beyaz 75 ml",
-        "slug": "sensodyne-cok-yonlu-koruma-beyaz-75-ml",
-        "brand": "Sensodyne",
-        "price": 319.95,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1206720d-2204-4fc1-8cd6-a377600e9864/image_1950.webp",
-        "cats": [
-          "Beyazlatıcı Diş Macunu",
-          "Kişisel Bakım",
-          "Diş Macunu",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Sinek Kovucu Sprey Nurse Harveys 175 Ml",
-        "slug": "sinek-kovucu-sprey-nurse-harveys-175-ml",
-        "brand": "Nurse Harveys",
-        "price": 699.0,
-        "discount_price": 502.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9df40ae7-e776-4753-8d83-08137a75922c/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Sinek Kovucu"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Tepe T110 Arayüz Fırçası Orjinal Karışık 8'li",
-        "slug": "tepe-t110-arayuz-fircasi-orjinal-karisik-8-li",
-        "brand": "TePe",
-        "price": 658.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba750c89-43f2-4fac-90a4-943d4567d4f2/image_1950.webp",
-        "cats": [
-          "Arayüz Fırçası",
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı",
-          "Diş Fırçası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Tepe T116 Arayüz Xsoft Karışık 8'li",
-        "slug": "tepe-t116-arayuz-xsoft-karisik-8-li",
-        "brand": "TePe",
-        "price": 599.9,
-        "discount_price": 483.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c908b762-f12b-40ad-b0eb-f30d78f1a4ea/image_1950.webp",
-        "cats": [
-          "Arayüz Fırçası",
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı",
-          "Diş Fırçası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Tepe T118 Arayüz Angle Turunc 0,45mm 6'lı",
-        "slug": "tepe-t118-arayuz-angle-turunc-0-45mm-6-li",
-        "brand": "TePe",
-        "price": 586.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/34588616-3124-4835-bf06-7370f3cf993e/image_1950.webp",
-        "cats": [
-          "Arayüz Fırçası",
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı",
-          "Diş Fırçası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vitis Ortodontik Mum 2'li",
-        "slug": "vitis-ortodontik-mum-2-li",
-        "brand": "Vitis",
-        "price": 530.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb0a0049-9c30-4941-a93f-90de77c86c4d/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Ağız ve Diş Bakımı"
-        ],
-        "stock": 1
-      }
-    ],
-    "Dudak Stick": [
-      {
-        "name": "Bioderma Atoderm Dudak Balmı 15 ml",
-        "slug": "bioderma-atoderm-dudak-balmi-15-ml",
-        "brand": "Bioderma",
-        "price": 799.0,
-        "discount_price": 400.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f36255b2-e9ef-453e-991c-58d823bfa114/image_1950.webp",
-        "cats": [
-          "Cilt",
-          "Kişisel Bakım",
-          "Dudak Stick",
-          "Dudak Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Atoderm Dudak Nemlendirici Stick 4 gr",
-        "slug": "bioderma-atoderm-dudak-nemlendirici-stick-4-gr",
-        "brand": "Bioderma",
-        "price": 748.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/520258b2-1492-45a1-a5b8-4df0f747f2a1/image_1950.webp",
-        "cats": [
-          "Cilt",
-          "Dudak Stick"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Bioderma Cicabio Lip Repair Dudak Onarıcı 10 ml",
-        "slug": "bioderma-cicabio-lip-repair-dudak-onarici-10-ml",
-        "brand": "Bioderma",
-        "price": 751.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5cd4e89c-5d56-4cf5-9c3d-719b7a0271ac/image_1950.webp",
-        "cats": [
-          "Onarıcı",
-          "Kişisel Bakım",
-          "Dudak Stick",
-          "Dudak Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Nivea Lip Black Berry Böğürtlen Aromalı Dudak Bakım Kremi 4.8 gr",
-        "slug": "nivea-lip-black-berry-bogurtlen-aromali-dudak-bakim-kremi-4-8-gr",
-        "brand": "Nivea",
-        "price": 293.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c95957f6-b6f1-4e7b-b0e2-836b14c8dfa2/image_1950.webp",
-        "cats": [
-          "Dudak Balmı",
-          "Dudak Stick"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Nivea Lip Cherry Kiraz Aromalı Dudak Bakım Kremi 4.8 gr",
-        "slug": "nivea-lip-cherry-kiraz-aromali-dudak-bakim-kremi-4-8-gr",
-        "brand": "Nivea",
-        "price": 173.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7e8133c5-7a7f-461e-ac1a-d205ebdb2c1c/image_1950.webp",
-        "cats": [
-          "Dudak Balmı",
-          "Dudak Stick"
-        ],
-        "stock": 3
-      }
-    ],
     "Dudak Balmı": [
       {
         "name": "Bioderma Atoderm Dudak Balmı Nemlendirici Onarıcı",
@@ -59095,6 +58345,62 @@
           "Dudak Kremi"
         ],
         "stock": 5
+      }
+    ],
+    "Dudak Stick": [
+      {
+        "name": "Bioderma Atoderm Dudak Nemlendirici Stick 4 gr",
+        "slug": "bioderma-atoderm-dudak-nemlendirici-stick-4-gr",
+        "brand": "Bioderma",
+        "price": 748.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/520258b2-1492-45a1-a5b8-4df0f747f2a1/image_1950.webp",
+        "cats": [
+          "Cilt",
+          "Dudak Stick"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Bioderma Cicabio Lip Repair Dudak Onarıcı 10 ml",
+        "slug": "bioderma-cicabio-lip-repair-dudak-onarici-10-ml",
+        "brand": "Bioderma",
+        "price": 751.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5cd4e89c-5d56-4cf5-9c3d-719b7a0271ac/image_1950.webp",
+        "cats": [
+          "Onarıcı",
+          "Kişisel Bakım",
+          "Dudak Stick",
+          "Dudak Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Nivea Lip Black Berry Böğürtlen Aromalı Dudak Bakım Kremi 4.8 gr",
+        "slug": "nivea-lip-black-berry-bogurtlen-aromali-dudak-bakim-kremi-4-8-gr",
+        "brand": "Nivea",
+        "price": 293.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c95957f6-b6f1-4e7b-b0e2-836b14c8dfa2/image_1950.webp",
+        "cats": [
+          "Dudak Balmı",
+          "Dudak Stick"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Nivea Lip Cherry Kiraz Aromalı Dudak Bakım Kremi 4.8 gr",
+        "slug": "nivea-lip-cherry-kiraz-aromali-dudak-bakim-kremi-4-8-gr",
+        "brand": "Nivea",
+        "price": 173.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7e8133c5-7a7f-461e-ac1a-d205ebdb2c1c/image_1950.webp",
+        "cats": [
+          "Dudak Balmı",
+          "Dudak Stick"
+        ],
+        "stock": 3
       }
     ],
     "Duş Jeli": [
@@ -60715,6 +60021,611 @@
           "Onarıcı Krem"
         ],
         "stock": 5
+      }
+    ],
+    "Kişisel Bakım": [
+      {
+        "name": "Bioderma Cicabio Lip Repair Dudak Onarıcı 10 ml",
+        "slug": "bioderma-cicabio-lip-repair-dudak-onarici-10-ml",
+        "brand": "Bioderma",
+        "price": 751.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5cd4e89c-5d56-4cf5-9c3d-719b7a0271ac/image_1950.webp",
+        "cats": [
+          "Onarıcı",
+          "Kişisel Bakım",
+          "Dudak Stick",
+          "Dudak Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Blistex Lip Berry Balm SPF 15",
+        "slug": "blistex-lip-berry-balm-spf-15",
+        "brand": "Blistex",
+        "price": 246.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d8216e0d-3d25-4e59-8eee-a1d58099302f/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "SPF’li",
+          "Kişisel Bakım",
+          "Dudak Bakımı",
+          "Onarıcı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Blistex Lip Hassas Vazelin SPF15 7 ml",
+        "slug": "blistex-lip-hassas-vazelin-spf15-7-ml",
+        "brand": "Blistex",
+        "price": 295.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c1cad202-2ee5-49f6-b989-66c45b8f863f/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Kişisel Bakım",
+          "Dudak Bakımı",
+          "Onarıcı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Blistex Lip Klasik SPF10 4,25 g",
+        "slug": "blistex-lip-klasik-spf10-4-25-g",
+        "brand": "Blistex",
+        "price": 233.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/db045a34-a220-46f1-924f-84d2852c1b16/image_1950.webp",
+        "cats": [
+          "SPF’li",
+          "Kişisel Bakım",
+          "Dudak Bakımı",
+          "Onarıcı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Corega Temizleyici Tablet 30 Tablet",
+        "slug": "corega-temizleyici-tablet-30-tablet",
+        "brand": "Corega",
+        "price": 334.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a627b83f-f988-4d37-b536-d112a3487446/image_1950.webp",
+        "cats": [
+          "Protez Bakımı",
+          "Temizleyici Tablet",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı",
+          "Protez Temizleyici Tablet"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Curaprox 5460 Ultra Soft Ortodontik Diş Fırçası",
+        "slug": "curaprox-5460-ultra-soft-ortodontik-dis-fircasi",
+        "brand": "Curaprox",
+        "price": 563.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb3b14c7-0a85-4f97-99b6-120f01dfb913/image_1950.webp",
+        "cats": [
+          "Ortodontik Diş Fırçası",
+          "Ortodontik",
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı",
+          "Diş Fırçası",
+          "Ultra Yumuşak"
+        ],
+        "stock": 9
+      },
+      {
+        "name": "Difas Dis Fircasi Kabi 4 Lu",
+        "slug": "difas-dis-fircasi-kabi-4-lu",
+        "brand": "Difas",
+        "price": 78.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/19aa8ecd-76f9-4ee0-a9da-f3e9d76a560c/image_1950.webp",
+        "cats": [
+          "Diş Fırçası Kutusu",
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı",
+          "Diş Fırçası",
+          "Ağız Bakım Aksesuarları"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Dr. Wagner Sensiroll Roll-On 20 ML",
+        "slug": "dr-wagner-sensiroll-roll-on-20-ml",
+        "brand": "Dr. Wagner",
+        "price": 399.9,
+        "discount_price": 219.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f28d0f84-1e21-4e3d-89ff-4c57c3043278/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Est Doğal Karanfil Özlü Diş Macunu 90 Ml",
+        "slug": "est-dogal-karanfil-ozlu-dis-macunu-90-ml",
+        "brand": "EST",
+        "price": 172.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8ee35e6b-af1a-403d-9d50-5e2cb92f37ae/image_1950.webp",
+        "cats": [
+          "Bitkisel",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı",
+          "Ağız ve Diş Sağlığı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Est Doğal Zencefil Özlü Diş Macunu 90 Ml",
+        "slug": "est-dogal-zencefil-ozlu-dis-macunu-90-ml",
+        "brand": "EST",
+        "price": 168.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/940b4ca0-0a3d-4f4e-bab3-1994b78cc49a/image_1950.webp",
+        "cats": [
+          "Bitkisel",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı",
+          "Ağız ve Diş Sağlığı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
+        "slug": "etoile-intim-sprey-borik-asit-pluselma-sirkesi-100-ml",
+        "brand": "Etoile",
+        "price": 840.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4f14d4-1a90-4d4d-9d95-7aeedb227ac3/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "Kişisel Bakım",
+          "Vajinal Sağlık"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Fixodent Complete Fresh Diş Protezi Yapıştırıcı Krem 47 G Tüp",
+        "slug": "fixodent-complete-fresh-dis-protezi-yapistirici-krem-47-g-tup",
+        "brand": "Fixodent",
+        "price": 273.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/45587a33-1046-4b34-b612-466561de04c1/image_1950.webp",
+        "cats": [
+          "Protez Yapıştırıcı Krem",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "Fixodent Complete Neutral Diş Protezi Yapıştırıcı Krem 47 G Tüp",
+        "slug": "fixodent-complete-neutral-dis-protezi-yapistirici-krem-47-g-tup",
+        "brand": "Fixodent",
+        "price": 261.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/05c7fc66-6811-47e9-ad3e-384f60adaf25/image_1950.webp",
+        "cats": [
+          "Protez Bakımı",
+          "Protez Yapıştırıcı Krem",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Listerine Staywhite Serinletici Nane 500 ml",
+        "slug": "listerine-staywhite-serinletici-nane-500-ml",
+        "brand": "Listerine",
+        "price": 260.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9613a05e-9051-4c0a-8c4a-2b73b7d8b717/image_1950.webp",
+        "cats": [
+          "Beyazlatıcı",
+          "Gargara",
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Total Care Zero A Mor 250 ml",
+        "slug": "listerine-total-care-zero-a-mor-250-ml",
+        "brand": "Listerine",
+        "price": 268.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ec22d208-5d1c-4bce-acdf-1b3b2ca21d75/image_1950.webp",
+        "cats": [
+          "Gargara",
+          "Kişisel Bakım",
+          "Alkolsüz",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Totalcare 500 ml",
+        "slug": "listerine-totalcare-500-ml",
+        "brand": "Listerine",
+        "price": 331.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0ed3f72e-fd41-4dd5-bacb-6108ec76bf5d/image_1950.webp",
+        "cats": [
+          "Gargara",
+          "Kişisel Bakım",
+          "Diş Eti Bakımı",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Totalcare Mor 250 ml",
+        "slug": "listerine-totalcare-mor-250-ml",
+        "brand": "Listerine",
+        "price": 199.0,
+        "discount_price": 160.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/050057ac-f32d-46c1-a92b-742879b4e17a/image_1950.webp",
+        "cats": [
+          "Gargara",
+          "Kişisel Bakım",
+          "Diş Eti Bakımı",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Listerine Totalcare Mor Alkolsüz 500 ml",
+        "slug": "listerine-totalcare-mor-alkolsuz-500-ml",
+        "brand": "Listerine",
+        "price": 393.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f8363bf1-231b-44b8-b0e0-7f2959b80f49/image_1950.webp",
+        "cats": [
+          "Gargara",
+          "Kişisel Bakım",
+          "Alkolsüz",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Nivea Lip Fruity Shine Böğürtlen 4,8 gr",
+        "slug": "nivea-lip-fruity-shine-bogurtlen-4-8-gr",
+        "brand": "Nivea",
+        "price": 186.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9cb015a8-2c25-4a3a-8bc4-bca3ae992c4b/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Dudak Bakımı",
+          "Onarıcı"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Nivea Lip Original 4,8 Gr",
+        "slug": "nivea-lip-original-4-8-gr",
+        "brand": "Nivea",
+        "price": 145.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a24fe1f-bd80-4013-9073-754cdaf6a9a3/image_1950.webp",
+        "cats": [
+          "Dudak Balmı",
+          "Kişisel Bakım",
+          "Dudak Bakımı",
+          "Onarıcı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Nivea Lip Straw Çilek 4,8 gr",
+        "slug": "nivea-lip-straw-cilek-4-8-gr",
+        "brand": "Nivea",
+        "price": 173.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3c669742-f732-4e07-aaed-6168346b66ed/image_1950.webp",
+        "cats": [
+          "Dudak Balmı",
+          "Kişisel Bakım",
+          "Dudak Bakımı",
+          "Onarıcı"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Nurse Harvey's Dentigel 15 gr Jel",
+        "slug": "nurse-harvey-s-dentigel-15-gr-jel",
+        "brand": "Nurse Harvey's",
+        "price": 394.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f0e5f35d-c754-45d1-9606-3999b4f9204b/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı",
+          "Ağız ve Diş Sağlığı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Oral-B Fırça Orthodontic",
+        "slug": "oral-b-firca-orthodontic",
+        "brand": "Oral-B",
+        "price": 280.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4986515b-b327-4d8e-8d9b-2d717d81bea4/image_1950.webp",
+        "cats": [
+          "Ortodontik Diş Fırçası",
+          "Ortodontik",
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı",
+          "Diş Fırçası"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Oral-B Fırça Şarjlı Frozen",
+        "slug": "oral-b-firca-sarjli-frozen",
+        "brand": "Oral-B",
+        "price": 2451.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5e598878-2e3e-4aa6-ac32-baa76142d198/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Diş Fırçası",
+          "Çocuk Elektrikli Diş Fırçası",
+          "Ağız ve Diş Bakımı",
+          "Diş Fırçası"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Oral-B Satin Tape Mint Diş İpi",
+        "slug": "oral-b-satin-tape-mint-dis-ipi",
+        "brand": "Oral-B",
+        "price": 286.0,
+        "discount_price": 236.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1792d73f-0998-40a2-b20d-b0d19f78cf30/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Diş Bandı (Tape)",
+          "Ağız ve Diş Sağlığı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Protefix Aktif Temizleyici Tablet 32 Tablet",
+        "slug": "protefix-aktif-temizleyici-tablet-32-tablet",
+        "brand": "Protefix",
+        "price": 394.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/206191bf-842a-4456-ac87-72a58b32c901/image_1950.webp",
+        "cats": [
+          "Protez Bakımı",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı",
+          "Protez Temizleyici Tablet"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Elma Püresi",
+        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-elma-puresi",
+        "brand": "Rocs",
+        "price": 348.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/33ec9d6c-6f33-48f1-bf07-845edce34694/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Bebek Diş Macunu",
+          "Ağız ve Diş Bakımı",
+          "Bebek Diş Bakımı"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Ihlamur",
+        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-ihlamur",
+        "brand": "Rocs",
+        "price": 339.0,
+        "discount_price": 254.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5eac2814-5be2-443a-84d0-d9664d16c84b/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Bebek Diş Macunu",
+          "Ağız ve Diş Bakımı",
+          "Bebek Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Papatya",
+        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-papatya",
+        "brand": "Rocs",
+        "price": 339.0,
+        "discount_price": 242.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e6771534-20f8-49c9-a846-83fd63c60b98/image_1950.webp",
+        "cats": [
+          "Bebek Ağız ve Diş Bakımı",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "ROCS Çocuk Diş Macunu 35 ml 3-7 Meyve Külahı",
+        "slug": "rocs-cocuk-dis-macunu-35-ml-3-7-meyve-kulahi",
+        "brand": "Rocs",
+        "price": 339.0,
+        "discount_price": 242.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82228efa-8152-409d-a9da-434e7ae57c76/image_1950.webp",
+        "cats": [
+          "Çocuk Diş Macunu",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Sebamed Intim Likit 200 ml",
+        "slug": "sebamed-intim-likit-200-ml",
+        "brand": "Sebamed",
+        "price": 629.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90a1031f-9ffb-450d-994d-9dfec653f621/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "Kişisel Bakım"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Sensodyne Onarım ve Koruma Derin Onarım 75 ml",
+        "slug": "sensodyne-onarim-ve-koruma-derin-onarim-75-ml",
+        "brand": "Sensodyne",
+        "price": 399.95,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c3f68475-bc7c-40de-8e87-3ac9a8b55bc1/image_1950.webp",
+        "cats": [
+          "Diş Macunu",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
+        "slug": "sensodyne-promine-gentle-soft-dis-fircasi",
+        "brand": "Sensodyne",
+        "price": 265.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/42e33723-3313-4b28-822b-a5098a5fdc7f/image_1950.webp",
+        "cats": [
+          "Yumuşak",
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı",
+          "Diş Fırçası"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Sensodyne Promine Çocuk 6-12 Yaş Diş Macunu",
+        "slug": "sensodyne-promine-cocuk-6-12-yas-dis-macunu",
+        "brand": "Sensodyne",
+        "price": 324.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9c253f99-5320-4dd7-9937-15b7e007bf8a/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "6+ Yaş",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Sensodyne Çok Yönlü Koruma Beyaz 75 ml",
+        "slug": "sensodyne-cok-yonlu-koruma-beyaz-75-ml",
+        "brand": "Sensodyne",
+        "price": 319.95,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1206720d-2204-4fc1-8cd6-a377600e9864/image_1950.webp",
+        "cats": [
+          "Beyazlatıcı Diş Macunu",
+          "Kişisel Bakım",
+          "Diş Macunu",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Sinek Kovucu Sprey Nurse Harveys 175 Ml",
+        "slug": "sinek-kovucu-sprey-nurse-harveys-175-ml",
+        "brand": "Nurse Harveys",
+        "price": 699.0,
+        "discount_price": 502.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9df40ae7-e776-4753-8d83-08137a75922c/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Sinek Kovucu"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Tepe T110 Arayüz Fırçası Orjinal Karışık 8'li",
+        "slug": "tepe-t110-arayuz-fircasi-orjinal-karisik-8-li",
+        "brand": "TePe",
+        "price": 658.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba750c89-43f2-4fac-90a4-943d4567d4f2/image_1950.webp",
+        "cats": [
+          "Arayüz Fırçası",
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı",
+          "Diş Fırçası"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Tepe T116 Arayüz Xsoft Karışık 8'li",
+        "slug": "tepe-t116-arayuz-xsoft-karisik-8-li",
+        "brand": "TePe",
+        "price": 599.9,
+        "discount_price": 483.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c908b762-f12b-40ad-b0eb-f30d78f1a4ea/image_1950.webp",
+        "cats": [
+          "Arayüz Fırçası",
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı",
+          "Diş Fırçası"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Tepe T118 Arayüz Angle Turunc 0,45mm 6'lı",
+        "slug": "tepe-t118-arayuz-angle-turunc-0-45mm-6-li",
+        "brand": "TePe",
+        "price": 586.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/34588616-3124-4835-bf06-7370f3cf993e/image_1950.webp",
+        "cats": [
+          "Arayüz Fırçası",
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı",
+          "Diş Fırçası"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Vitis Ortodontik Mum 2'li",
+        "slug": "vitis-ortodontik-mum-2-li",
+        "brand": "Vitis",
+        "price": 530.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb0a0049-9c30-4941-a93f-90de77c86c4d/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Ağız ve Diş Bakımı"
+        ],
+        "stock": 1
       }
     ],
     "Onarıcı Sprey": [
@@ -65179,64 +65090,6 @@
           "Bit Kovucu"
         ],
         "stock": 5
-      },
-      {
-        "name": "Paranit Baş Biti ve Sirke Tedavisi İçin Şampuan 100 ml Şişe",
-        "slug": "paranit-bas-biti-ve-sirke-tedavisi-icin-sampuan-100-ml-sise",
-        "brand": "Paranit",
-        "price": 946.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82a33788-df6e-4566-bbcf-e4432495c125/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Şampuan"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Paranit Baş Biti ve Sirke Tedavisi İçin Şampuan 100 ml Şişe",
-        "slug": "paranit-bas-biti-ve-sirke-tedavisi-icin-sampuan-100-ml-sise",
-        "brand": "Paranit",
-        "price": 946.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82a33788-df6e-4566-bbcf-e4432495c125/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Şampuan"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Paranit Tedavi Spreyi 100ml Şişe",
-        "slug": "paranit-tedavi-spreyi-100ml-sise",
-        "brand": "Paranit",
-        "price": 918.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/31324bce-75dd-4504-9f39-8e3b76f0aff8/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Bakımı",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Paranit Tedavi Spreyi 100ml Şişe",
-        "slug": "paranit-tedavi-spreyi-100ml-sise",
-        "brand": "Paranit",
-        "price": 918.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/31324bce-75dd-4504-9f39-8e3b76f0aff8/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Bakımı",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 1
       }
     ],
     "Bit Kovucu": [
@@ -65284,21 +65137,6 @@
           "Bit ve Sirke Karşıtı",
           "Bit ve Sirke Bakımı",
           "Bit Kovucu"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Paranit Baş Biti ve Sirke Tedavisi İçin Şampuan 100 ml Şişe",
-        "slug": "paranit-bas-biti-ve-sirke-tedavisi-icin-sampuan-100-ml-sise",
-        "brand": "Paranit",
-        "price": 946.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82a33788-df6e-4566-bbcf-e4432495c125/image_1950.webp",
-        "cats": [
-          "Bit ve Sirke Bakımı",
-          "Bit ve Sirke Karşıtı",
-          "Bit ve Sirke Bakımı",
-          "Şampuan"
         ],
         "stock": 5
       }
@@ -72198,7 +72036,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -73547,7 +73385,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -97458,9 +97296,9 @@
     ]
   },
   "stats": {
-    "total_products": 6222,
+    "total_products": 6211,
     "total_categories": 690,
-    "generated": "2026-09-19 08:45",
+    "generated": "2026-09-19 11:10",
     "source": "ikas_api_live"
   }
 }
