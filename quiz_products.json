@@ -9749,7 +9749,7 @@
           "Vitamin ve Takviye",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
@@ -18650,7 +18650,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Minion Mavi Stres Topu",
@@ -25134,7 +25134,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "NBT Life Endofer Demir Takviyesi 30 Kapsül",
@@ -44815,7 +44815,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Microbon K Tablet Kalsiyum Magnezyum K Vitamini Takviyesi 30 Tablet",
@@ -68438,7 +68438,7 @@
           "Vitamin ve Takviye",
           "Tablet Tatlandırıcı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Splenda Stevia Tablet Plastik Tetikleyici Ambalaj 80 Tablet",
@@ -72863,7 +72863,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Marincor Yumuşak Kapsül, Omega-3 (EPA ve DHA) Balık Yağı, 60 Kapsül",
@@ -75065,19 +75065,6 @@
           "Gargara"
         ],
         "stock": 5
-      },
-      {
-        "name": "Listerine Diş Eti Koruma Ağız Bakım Suyu 250 ml",
-        "slug": "listerine-dis-eti-koruma-agiz-bakim-suyu-250-ml",
-        "brand": "Listerine",
-        "price": 199.0,
-        "discount_price": 149.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08b118b9-068e-4f21-995f-f4c179617fa5/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Diş Eti Bakımı"
-        ],
-        "stock": 1
       },
       {
         "name": "Listerine Totalcare 500 ml",
@@ -88951,19 +88938,6 @@
         "stock": 3
       },
       {
-        "name": "Listerine Diş Eti Koruma Ağız Bakım Suyu 250 ml",
-        "slug": "listerine-dis-eti-koruma-agiz-bakim-suyu-250-ml",
-        "brand": "Listerine",
-        "price": 199.0,
-        "discount_price": 149.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08b118b9-068e-4f21-995f-f4c179617fa5/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Diş Eti Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Listerine Fresh Burst Ferahlatıcı Ağız Bakım Suyu 250 ml",
         "slug": "listerine-fresh-burst-ferahlatici-agiz-bakim-suyu-250-ml",
         "brand": "Listerine",
@@ -89042,19 +89016,6 @@
           "Gargara"
         ],
         "stock": 3
-      },
-      {
-        "name": "Listerine Total Care Alkolsüz Ağız Bakım Suyu 250 ml",
-        "slug": "listerine-total-care-alkolsuz-agiz-bakim-suyu-250-ml",
-        "brand": "Listerine",
-        "price": 199.0,
-        "discount_price": 137.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6cf7928e-e853-4eca-aeae-b7ca660d0f69/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Alkolsüz"
-        ],
-        "stock": 1
       },
       {
         "name": "Listerine Total Care Alkolsüz Ağız Bakım Suyu 500 ml",
@@ -90033,19 +89994,6 @@
         "stock": 3
       },
       {
-        "name": "Listerine Total Care Alkolsüz Ağız Bakım Suyu 250 ml",
-        "slug": "listerine-total-care-alkolsuz-agiz-bakim-suyu-250-ml",
-        "brand": "Listerine",
-        "price": 199.0,
-        "discount_price": 137.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6cf7928e-e853-4eca-aeae-b7ca660d0f69/image_1950.webp",
-        "cats": [
-          "Gargara",
-          "Alkolsüz"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Listerine Total Care Alkolsüz Ağız Bakım Suyu 500 ml",
         "slug": "listerine-total-care-alkolsuz-agiz-bakim-suyu-500-ml",
         "brand": "Listerine",
@@ -90241,7 +90189,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -97272,9 +97220,9 @@
     ]
   },
   "stats": {
-    "total_products": 6210,
+    "total_products": 6206,
     "total_categories": 690,
-    "generated": "2026-09-20 15:01",
+    "generated": "2026-09-20 19:00",
     "source": "ikas_api_live"
   }
 }
