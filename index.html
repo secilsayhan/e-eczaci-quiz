@@ -335,7 +335,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
   <!-- HEADER -->
   <div class="quiz-header">
     <div class="logo">
-      <img src="https://cdn.myikas.com/images/theme-images/608fa6c1-a801-4455-8dab-be9d62116f71/image_1512.webp" alt="e-Eczacı" style="height:32px;width:auto">
+      <img src="https://cdn.myikas.com/images/theme-images/b5b2ffb9-a85e-4a66-b256-73462f989a7f/image_1512.webp" alt="e-Eczacı" style="height:32px;width:auto">
     </div>
     <div class="trust-badge">
       <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
@@ -1476,6 +1476,10 @@ function updateProgress(step){
 function validateEmail(s){return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(s)}
 
 function showLoading(){
+  /* 10 Eyl 2026: AI ürün seçimi yükleme animasyonu sırasında hazırlanır.
+     renderProducts() adayları hesaplar ve /api/analiz/secim isteğini başlatır
+     (window.__eeAi); showResults cevabı (en fazla 9 sn) bekler, sonra yeniden çizer. */
+  try{ window.__eeAi=null; renderProducts(); }catch(e){}
   document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
   document.getElementById('stepLoading').classList.add('active');
   document.getElementById('progressBar').style.width='85%';
@@ -1530,6 +1534,13 @@ function showLoading(){
 }
 
 function showResults(){
+  var _ai=window.__eeAi;
+  if(_ai&&_ai.p&&!_ai.done){
+    _ai.done=true;
+    var _t=null;
+    Promise.race([_ai.p,new Promise(function(r){_t=setTimeout(r,9000);})]).then(function(){if(_t)clearTimeout(_t);showResults();});
+    return;
+  }
   document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
   document.getElementById('stepResults').classList.add('active');
   document.getElementById('progressBar').style.width='100%';
@@ -1851,6 +1862,18 @@ function renderProducts(){
         }
       }
     }
+    // AI ana seçimi (10 Eyl 2026): sunucu 'ne işe yarar' özetlerine bakarak seçti → sabitlenir
+    const _ai=_aiNeeds&&_aiNeeds[group.need];
+    if(_ai&&_ai.ana&&_ai.ana.length){
+      for(const a of _ai.ana){
+        const hit=_findSlug(a.slug, group.cats);
+        if(hit&&!pickedSlugs.has(hit.p.slug)&&(hit.p.stock||0)>0){
+          const cand={...hit.p,_fromCat:hit.cat,_pinned:true,_ai:true};
+          pickedSlugs.add(hit.p.slug); markIng(cand);
+          return {need:group.need, reason:a.why||getCategoryReason(hit.cat, group.need), value:cand};
+        }
+      }
+    }
     const pool=poolFor(group.cats);
     if(!pool.length) return null;
     // aynı içerikte: önce stok bucket (bol olan), sonra uygun fiyat — etkinlik korunur, OOS riski düşer
@@ -1893,6 +1916,25 @@ function renderProducts(){
     return null;
   }
 
+  // AI seçim isteği (bir kez): her ihtiyaç için en iyi 8 aday → /api/analiz/secim
+  if(!window.__eeAi){
+    window.__eeAi={p:null,r:null,done:false};
+    try{
+      const _payload={who:state.who, form:state.form||'', detail:state.details||{},
+        needs:needGroups.filter(g=>!g.pin).slice(0,6).map(g=>({need:g.need, reason:getCategoryReason(g.cats[0],g.need)||'',
+          cands:poolFor(g.cats).slice(0,8).map(p=>({slug:p.slug,name:p.name,brand:p.brand||'',cat:p._fromCat,price:p.discount_price||p.price}))}))};
+      if(_payload.needs.some(n=>n.cands.length)){
+        window.__eeAi.p=fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/secim',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(_payload)})
+          .then(r=>r.json()).then(j=>{if(j&&j.success&&j.needs){window.__eeAi.r=j;}return j;}).catch(()=>null);
+      }
+    }catch(e){}
+  }
+  const _aiNeeds=(window.__eeAi&&window.__eeAi.r&&window.__eeAi.r.needs)||null;
+  function _findSlug(slug, cats){
+    for(const cat of (cats||[])){const p=(quizData.categories[cat]||[]).find(x=>x.slug===slug);if(p)return {p,cat};}
+    for(const cat in quizData.categories){const p=quizData.categories[cat].find(x=>x.slug===slug);if(p)return {p,cat};}
+    return null;
+  }
   const pairs=[];
   for(const g of needGroups){
     const pr=pickValue(g);
@@ -1929,9 +1971,35 @@ function renderProducts(){
     }
   }
 
+  // AI ikinci ANA ürün (ihtiyaç iki farklı işlev gerektiriyorsa) → Temel plana
+  if(_aiNeeds){
+    for(const g of needGroups){
+      const a=_aiNeeds[g.need]; if(!a||!a.ana||a.ana.length<2) continue;
+      const x=a.ana[1]; if(valueSet.some(p=>p.slug===x.slug)) continue;
+      const hit=_findSlug(x.slug, g.cats);
+      if(hit&&!pickedSlugs.has(hit.p.slug)&&(hit.p.stock||0)>0){
+        const cand={...hit.p,_fromCat:hit.cat,_pinned:true,_ai:true,_need:g.need,_reason:x.why||getCategoryReason(hit.cat,g.need)};
+        pickedSlugs.add(hit.p.slug); markIng(cand); valueSet.push(cand);
+      }
+    }
+  }
   // Tam Plan: Temel'in tümü + kofaktör sinerji ürünleri (alakalı, orantılı)
   const premiumSet=valueSet.map(p=>({...p, _new:false}));
   const inSet=new Set(premiumSet.map(p=>p.slug));
+  // AI DESTEKLEYİCİ ürünler (her ihtiyaç için en fazla 2) — kofaktörlerden önce, sabitlenmiş
+  if(_aiNeeds){
+    for(const g of needGroups){
+      const a=_aiNeeds[g.need]; if(!a||!a.destek) continue;
+      for(const x of a.destek.slice(0,2)){
+        if(inSet.has(x.slug)) continue;
+        const hit=_findSlug(x.slug, g.cats);
+        if(!hit||(hit.p.stock||0)<=0||pickedSlugs.has(hit.p.slug)) continue;
+        pickedSlugs.add(hit.p.slug); markIng({...hit.p,_fromCat:hit.cat});
+        premiumSet.push({...hit.p,_fromCat:hit.cat,_need:g.need,_reason:x.why||getCategoryReason(hit.cat,g.need),_new:true,_pinned:true,_ai:true});
+        inSet.add(hit.p.slug);
+      }
+    }
+  }
   // Odaklı Tam Plan: temelden birkaç sinerji ürünü fazlası — 10+ ürün "en etkili" değil,
   // bunaltıcı + içerik tekrarı (B12+B kompleks+multivitamin). Net upgrade, şişkin değil.
   const maxPrem=Math.min(8, valueSet.length+3);

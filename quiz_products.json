@@ -12211,22 +12211,6 @@
         "stock": 1
       },
       {
-        "name": "Vitein Lutein Zeaksantin Astaksantin İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "vitein-lutein-zeaksantin-astaksantin-30-kapsul",
-        "brand": "Tedafarma",
-        "price": 990.0,
-        "discount_price": 822.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746cd162-c604-4fea-a53a-c91e09f033ba/image_1950.webp",
-        "cats": [
-          "Astaksantin",
-          "Göz",
-          "Vitamin ve Takviye",
-          "Lutein ve Zeaksantin",
-          "Antioksidan Destek"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Voonka Milk Thistle Complex Kapsül 60 Kapsül",
         "slug": "voonka-milk-thistle-complex-kapsul-62-kapsul",
         "brand": "Voonka",
@@ -18577,7 +18561,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 177
+        "stock": 173
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -21666,7 +21650,7 @@
       },
       {
         "name": "Solgar B12 Vitamini 1000 mcg Dilaltı Çiğnenebilir 30 Tablet",
-        "slug": "solgar-b12-vitamini-500-mcg-enerji-sinir-sistemi-50-kapsul",
+        "slug": "solgar-b12-vitamini-1000-mcg-dilalti-cignenebilir-30-tablet",
         "brand": "Solgar",
         "price": 439.5,
         "discount_price": null,
@@ -23054,7 +23038,7 @@
       },
       {
         "name": "Solgar B12 Vitamini 1000 mcg Dilaltı Çiğnenebilir 30 Tablet",
-        "slug": "solgar-b12-vitamini-500-mcg-enerji-sinir-sistemi-50-kapsul",
+        "slug": "solgar-b12-vitamini-1000-mcg-dilalti-cignenebilir-30-tablet",
         "brand": "Solgar",
         "price": 439.5,
         "discount_price": null,
@@ -25219,7 +25203,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 177
+        "stock": 173
       },
       {
         "name": "Ocean Extramag Tablet Magnezyum İçeren Takviye Edici Gıda 60 Tablet",
@@ -25817,7 +25801,7 @@
       },
       {
         "name": "Solgar B12 Vitamini 1000 mcg Dilaltı Çiğnenebilir 30 Tablet",
-        "slug": "solgar-b12-vitamini-500-mcg-enerji-sinir-sistemi-50-kapsul",
+        "slug": "solgar-b12-vitamini-1000-mcg-dilalti-cignenebilir-30-tablet",
         "brand": "Solgar",
         "price": 439.5,
         "discount_price": null,
@@ -26777,7 +26761,7 @@
       },
       {
         "name": "Solgar B12 Vitamini 1000 mcg Dilaltı Çiğnenebilir 30 Tablet",
-        "slug": "solgar-b12-vitamini-500-mcg-enerji-sinir-sistemi-50-kapsul",
+        "slug": "solgar-b12-vitamini-1000-mcg-dilalti-cignenebilir-30-tablet",
         "brand": "Solgar",
         "price": 439.5,
         "discount_price": null,
@@ -27477,7 +27461,7 @@
       },
       {
         "name": "Solgar Skin Nails And Hair 60 Tablet",
-        "slug": "solgar-formula-vm-2000-multinutrient-system-tablet-30-tablet",
+        "slug": "solgar-skin-nails-and-hair-60-tablet",
         "brand": "Solgar",
         "price": 950.0,
         "discount_price": null,
@@ -27490,7 +27474,7 @@
       },
       {
         "name": "Solgar Skin Nails And Hair 60 Tablet",
-        "slug": "solgar-formula-vm-2000-multinutrient-system-tablet-30-tablet",
+        "slug": "solgar-skin-nails-and-hair-60-tablet",
         "brand": "Solgar",
         "price": 950.0,
         "discount_price": null,
@@ -37664,6 +37648,21 @@
         "stock": 2
       },
       {
+        "name": "Vichy Capital Soleil UV Age Daily SPF50+ 40 ml",
+        "slug": "vichy-capital-soleil-uv-age-daily-spf50-40-ml",
+        "brand": "Vichy",
+        "price": 1699.9,
+        "discount_price": 1124.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/592e4d0f-3709-43ca-9fd0-d93c75684a07/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Sağlıklı Yaş Alma",
+          "SPF 50+",
+          "Anti-Age SPF 50+"
+        ],
+        "stock": 3
+      },
+      {
         "name": "Vichy Capital Soleil Velvety Parlama Karşıtı Güneş Kremi SPF50 50 ml",
         "slug": "vichy-capital-soleil-velvety-spf50-50-ml",
         "brand": "Vichy",
@@ -39624,6 +39623,21 @@
           "SPF 50+"
         ],
         "stock": 2
+      },
+      {
+        "name": "Vichy Capital Soleil UV Age Daily SPF50+ 40 ml",
+        "slug": "vichy-capital-soleil-uv-age-daily-spf50-40-ml",
+        "brand": "Vichy",
+        "price": 1699.9,
+        "discount_price": 1124.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/592e4d0f-3709-43ca-9fd0-d93c75684a07/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Sağlıklı Yaş Alma",
+          "SPF 50+",
+          "Anti-Age SPF 50+"
+        ],
+        "stock": 3
       },
       {
         "name": "Vichy Capital Soleil Velvety Parlama Karşıtı Güneş Kremi SPF50 50 ml",
@@ -44525,7 +44539,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 177
+        "stock": 173
       },
       {
         "name": "Ocean Extramag Fibra Tablet, Magnezyum ve B Vitaminleri, 60 Tablet",
@@ -45687,7 +45701,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 177
+        "stock": 173
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -46954,7 +46968,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 177
+        "stock": 173
       },
       {
         "name": "Ocean Extramag Tablet 60 Tablet",
@@ -50990,22 +51004,6 @@
         "stock": 1
       },
       {
-        "name": "Vitein Lutein Zeaksantin Astaksantin İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "vitein-lutein-zeaksantin-astaksantin-30-kapsul",
-        "brand": "Tedafarma",
-        "price": 990.0,
-        "discount_price": 822.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746cd162-c604-4fea-a53a-c91e09f033ba/image_1950.webp",
-        "cats": [
-          "Astaksantin",
-          "Göz",
-          "Vitamin ve Takviye",
-          "Lutein ve Zeaksantin",
-          "Antioksidan Destek"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vitisfera Resveratrol Üzüm Çekirdeği Ekstresi ve Kuersetin İçeren Sıvı Takviye Edici Gıda 150 ml",
         "slug": "vitisfera-resveratrol-uzum-cekirdegi-ekstresi-kuersetin-sivi-150-ml",
         "brand": "Vitisfera",
@@ -53677,22 +53675,6 @@
           "Göz Temizleme Köpüğü"
         ],
         "stock": 2
-      },
-      {
-        "name": "Vitein Lutein Zeaksantin Astaksantin İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "vitein-lutein-zeaksantin-astaksantin-30-kapsul",
-        "brand": "Tedafarma",
-        "price": 990.0,
-        "discount_price": 822.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746cd162-c604-4fea-a53a-c91e09f033ba/image_1950.webp",
-        "cats": [
-          "Astaksantin",
-          "Göz",
-          "Vitamin ve Takviye",
-          "Lutein ve Zeaksantin",
-          "Antioksidan Destek"
-        ],
-        "stock": 1
       }
     ],
     "Göz Damlası": [
@@ -59404,20 +59386,6 @@
         "stock": 3
       },
       {
-        "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
-        "slug": "etoile-intim-sprey-borik-asit-pluselma-sirkesi-100-ml",
-        "brand": "Etoile",
-        "price": 840.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4f14d4-1a90-4d4d-9d95-7aeedb227ac3/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Kişisel Bakım",
-          "Vajinal Sağlık"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Fixodent Complete Fresh Diş Protezi Yapıştırıcı Krem 47 G Tüp",
         "slug": "fixodent-complete-fresh-dis-protezi-yapistirici-krem-47-g-tup",
         "brand": "Fixodent",
@@ -62112,6 +62080,21 @@
           "Güneş Kremi"
         ],
         "stock": 2
+      },
+      {
+        "name": "Vichy Capital Soleil UV Age Daily SPF50+ 40 ml",
+        "slug": "vichy-capital-soleil-uv-age-daily-spf50-40-ml",
+        "brand": "Vichy",
+        "price": 1699.9,
+        "discount_price": 1124.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/592e4d0f-3709-43ca-9fd0-d93c75684a07/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Sağlıklı Yaş Alma",
+          "SPF 50+",
+          "Anti-Age SPF 50+"
+        ],
+        "stock": 3
       }
     ],
     "Stick SPF 50+": [
@@ -66215,20 +66198,6 @@
           "Vajinal Probiyotik"
         ],
         "stock": 1
-      },
-      {
-        "name": "Etoile Intim Yıkama Boric Acid 200 ml",
-        "slug": "etoile-intim-yikama-boric-acid-200-ml",
-        "brand": "Etoile",
-        "price": 1000.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25847512-8d22-4617-83b9-b9047fb4ac94/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "İntim Temizleyiciler",
-          "Vajinal Sağlık"
-        ],
-        "stock": 2
       }
     ],
     "Antiseptik ve Dezenfektan": [
@@ -67955,22 +67924,6 @@
           "C Vitamini",
           "Astaksantin",
           "Kolajen İçeren Ürünler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vitein Lutein Zeaksantin Astaksantin İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "vitein-lutein-zeaksantin-astaksantin-30-kapsul",
-        "brand": "Tedafarma",
-        "price": 990.0,
-        "discount_price": 822.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746cd162-c604-4fea-a53a-c91e09f033ba/image_1950.webp",
-        "cats": [
-          "Astaksantin",
-          "Göz",
-          "Vitamin ve Takviye",
-          "Lutein ve Zeaksantin",
-          "Antioksidan Destek"
         ],
         "stock": 1
       }
@@ -80701,47 +80654,6 @@
         "stock": 1
       },
       {
-        "name": "Etoile 300 mg Boric Acid + Hyal",
-        "slug": "etoile-300-mg-boric-acid-hyal",
-        "brand": "Etoile",
-        "price": 1027.81,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/01d8639d-0111-461b-a325-7387e5586f82/image_1950.webp",
-        "cats": [
-          "Vajinal Ovül ve Nemlendirici",
-          "Vajinal Sağlık"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
-        "slug": "etoile-intim-sprey-borik-asit-pluselma-sirkesi-100-ml",
-        "brand": "Etoile",
-        "price": 840.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4f14d4-1a90-4d4d-9d95-7aeedb227ac3/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Kişisel Bakım",
-          "Vajinal Sağlık"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Etoile Intim Yıkama Boric Acid 200 ml",
-        "slug": "etoile-intim-yikama-boric-acid-200-ml",
-        "brand": "Etoile",
-        "price": 1000.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25847512-8d22-4617-83b9-b9047fb4ac94/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "İntim Temizleyiciler",
-          "Vajinal Sağlık"
-        ],
-        "stock": 2
-      },
-      {
         "name": "NBL Gynobiotic Kadın Probiyotik Lif ve Bitki Ekstresi 10 Kapsül",
         "slug": "nbl-gynobiotic-kadin-probiyotik-lif-ve-bitki-ekstresi-10-kapsul",
         "brand": "NBL",
@@ -82171,150 +82083,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90f8c133-cede-4722-8bb6-77ca5230fc2e/image_1950.webp",
         "cats": [
           "Bitkisel"
-        ],
-        "stock": 1
-      }
-    ],
-    "Vajinal Ovül ve Nemlendirici": [
-      {
-        "name": "Etoile 300 mg Boric Acid + Hyal",
-        "slug": "etoile-300-mg-boric-acid-hyal",
-        "brand": "Etoile",
-        "price": 1027.81,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/01d8639d-0111-461b-a325-7387e5586f82/image_1950.webp",
-        "cats": [
-          "Vajinal Ovül ve Nemlendirici",
-          "Vajinal Sağlık"
-        ],
-        "stock": 6
-      }
-    ],
-    "İntim Temizleyiciler": [
-      {
-        "name": "Etoile 600 MG (boric Acide) 10 Vaginal Ovul",
-        "slug": "etoile-600-mg-boric-acide-10-vaginal-ovul",
-        "brand": "Etoile",
-        "price": 1273.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9be9926-c70c-4c77-b159-b6464489b50b/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "Etoile Intim Sprey (Borik Asit+Elma Sirkesi) 100 ml",
-        "slug": "etoile-intim-sprey-borik-asit-pluselma-sirkesi-100-ml",
-        "brand": "Etoile",
-        "price": 840.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1b4f14d4-1a90-4d4d-9d95-7aeedb227ac3/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Kişisel Bakım",
-          "Vajinal Sağlık"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Etoile Intim Yıkama Boric Acid 200 ml",
-        "slug": "etoile-intim-yikama-boric-acid-200-ml",
-        "brand": "Etoile",
-        "price": 1000.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25847512-8d22-4617-83b9-b9047fb4ac94/image_1950.webp",
-        "cats": [
-          "İntim Bakım",
-          "İntim Temizleyiciler",
-          "Vajinal Sağlık"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
-        "slug": "orzax-shiniq-intim-yikama-jeli-ph-35",
-        "brand": "Orzax",
-        "price": 812.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/19f862e9-bbae-4488-a391-a2aa6d965eb1/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "İntim Temizleyiciler",
-          "Vajinal Sağlık",
-          "Lansmana Özel"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
-        "slug": "orzax-shiniq-intim-yikama-jeli-ph-35",
-        "brand": "Orzax",
-        "price": 812.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/19f862e9-bbae-4488-a391-a2aa6d965eb1/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "İntim Temizleyiciler",
-          "Vajinal Sağlık",
-          "Lansmana Özel"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sebamed Intim Likit 200 ml",
-        "slug": "sebamed-intim-likit-200-ml",
-        "brand": "Sebamed",
-        "price": 629.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90a1031f-9ffb-450d-994d-9dfec653f621/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "Kişisel Bakım"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
-        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
-        "brand": "Sebamed",
-        "price": 635.0,
-        "discount_price": 336.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "İntim Temizleyiciler",
-          "Vajinal Sağlık",
-          "Hijyen"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
-        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
-        "brand": "Sebamed",
-        "price": 635.0,
-        "discount_price": 336.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
-        "cats": [
-          "İntim Temizleyiciler",
-          "İntim Temizleyiciler",
-          "Vajinal Sağlık",
-          "Hijyen"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Shiniq Dy Intim Jel pH 3.5 200 ml",
-        "slug": "shiniq-dy-intim-jel-ph-3-5-200-ml",
-        "brand": "SHINIQ",
-        "price": 749.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1c9681b2-f4f5-48d4-947b-e77f4283e968/image_1950.webp",
-        "cats": [
-          "İhtiyaca Göre",
-          "Kadın Takviyeleri",
-          "İntim Temizleyiciler"
         ],
         "stock": 1
       }
@@ -84879,22 +84647,6 @@
           "Lutein ve Zeaksantin",
           "Resveratrol",
           "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vitein Lutein Zeaksantin Astaksantin İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "vitein-lutein-zeaksantin-astaksantin-30-kapsul",
-        "brand": "Tedafarma",
-        "price": 990.0,
-        "discount_price": 822.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746cd162-c604-4fea-a53a-c91e09f033ba/image_1950.webp",
-        "cats": [
-          "Astaksantin",
-          "Göz",
-          "Vitamin ve Takviye",
-          "Lutein ve Zeaksantin",
-          "Antioksidan Destek"
         ],
         "stock": 1
       }
@@ -87651,7 +87403,7 @@
           "Kulak Temizleyici",
           "Kulak Bakımı"
         ],
-        "stock": 17
+        "stock": 14
       },
       {
         "name": "Stepwax Dış Kulak Yolu Temizleme Kiti 8 Saşe",
@@ -87679,7 +87431,7 @@
           "Kulak Temizleyici",
           "Kulak Bakımı"
         ],
-        "stock": 17
+        "stock": 14
       },
       {
         "name": "Otifleks Poliüretan Kulak Tıkacı",
@@ -91743,6 +91495,21 @@
           "B Vitaminleri"
         ],
         "stock": 1
+      },
+      {
+        "name": "Vichy Capital Soleil UV Age Daily SPF50+ 40 ml",
+        "slug": "vichy-capital-soleil-uv-age-daily-spf50-40-ml",
+        "brand": "Vichy",
+        "price": 1699.9,
+        "discount_price": 1124.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/592e4d0f-3709-43ca-9fd0-d93c75684a07/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Sağlıklı Yaş Alma",
+          "SPF 50+",
+          "Anti-Age SPF 50+"
+        ],
+        "stock": 3
       }
     ],
     "Prostat": [
@@ -92938,6 +92705,95 @@
           "Yağlı Saçlar İçin"
         ],
         "stock": 3
+      }
+    ],
+    "İntim Temizleyiciler": [
+      {
+        "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
+        "slug": "orzax-shiniq-intim-yikama-jeli-ph-35",
+        "brand": "Orzax",
+        "price": 812.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/19f862e9-bbae-4488-a391-a2aa6d965eb1/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "İntim Temizleyiciler",
+          "Vajinal Sağlık",
+          "Lansmana Özel"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Orzax SHINIQ İntim Yıkama Jeli - pH 3.5",
+        "slug": "orzax-shiniq-intim-yikama-jeli-ph-35",
+        "brand": "Orzax",
+        "price": 812.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/19f862e9-bbae-4488-a391-a2aa6d965eb1/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "İntim Temizleyiciler",
+          "Vajinal Sağlık",
+          "Lansmana Özel"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sebamed Intim Likit 200 ml",
+        "slug": "sebamed-intim-likit-200-ml",
+        "brand": "Sebamed",
+        "price": 629.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/90a1031f-9ffb-450d-994d-9dfec653f621/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "Kişisel Bakım"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
+        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
+        "brand": "Sebamed",
+        "price": 635.0,
+        "discount_price": 336.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "İntim Temizleyiciler",
+          "Vajinal Sağlık",
+          "Hijyen"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Sebamed İntim Hijyen Sıvısı pH 3.8 200 ml",
+        "slug": "sebamed-intim-hijyen-sivisi-ph-3-8-200-ml",
+        "brand": "Sebamed",
+        "price": 635.0,
+        "discount_price": 336.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d43155de-ada9-47cb-876e-37a4e7468745/image_1950.webp",
+        "cats": [
+          "İntim Temizleyiciler",
+          "İntim Temizleyiciler",
+          "Vajinal Sağlık",
+          "Hijyen"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Shiniq Dy Intim Jel pH 3.5 200 ml",
+        "slug": "shiniq-dy-intim-jel-ph-3-5-200-ml",
+        "brand": "SHINIQ",
+        "price": 749.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1c9681b2-f4f5-48d4-947b-e77f4283e968/image_1950.webp",
+        "cats": [
+          "İhtiyaca Göre",
+          "Kadın Takviyeleri",
+          "İntim Temizleyiciler"
+        ],
+        "stock": 1
       }
     ],
     "Gül Suyu": [
@@ -95926,9 +95782,9 @@
     ]
   },
   "stats": {
-    "total_products": 6132,
-    "total_categories": 688,
-    "generated": "2026-09-22 15:34",
+    "total_products": 6122,
+    "total_categories": 687,
+    "generated": "2026-09-22 19:00",
     "source": "ikas_api_live"
   }
 }
