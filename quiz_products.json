@@ -3294,7 +3294,7 @@
           "Temizleme Köpüğü",
           "Temizleyici"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bioderma Pigmentbio Foaming Crem 500 ml",
@@ -7503,20 +7503,6 @@
           "Vitamin ve Takviye",
           "Kuersetin",
           "Bromelain"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Nutraxin Vitals C Vitamini 1000 mg Takviyesi 30 Tablet",
-        "slug": "nutraxin-vitals-c-vitamini-1000-mg-takviyesi-30-tablet",
-        "brand": "Nutraxin",
-        "price": 449.99,
-        "discount_price": 254.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8973e3fa-dbd2-4593-8789-3f458336fa70/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "C Vitamini"
         ],
         "stock": 2
       },
@@ -18984,7 +18970,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
         "cats": [
-          "Magnezyum",
           "Kemik ve Eklem",
           "Enerji ve Zindelik",
           "Kas ve Kramp",
@@ -18992,7 +18977,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
@@ -20664,7 +20649,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Hemoroid Kremi": [
@@ -20679,7 +20664,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Başlangıç (0-6 Ay)": [
@@ -22979,7 +22964,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Pharmaton 50+ Multivitamin ve Mineral Omega 3 Takviyesi 30 Kapsül",
@@ -26154,7 +26139,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
         "cats": [
-          "Magnezyum",
           "Kemik ve Eklem",
           "Enerji ve Zindelik",
           "Kas ve Kramp",
@@ -26162,7 +26146,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
@@ -28294,20 +28278,6 @@
         "stock": 8
       },
       {
-        "name": "Nutraxin Vitals C Vitamini 1000 mg Takviyesi 30 Tablet",
-        "slug": "nutraxin-vitals-c-vitamini-1000-mg-takviyesi-30-tablet",
-        "brand": "Nutraxin",
-        "price": 449.99,
-        "discount_price": 254.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8973e3fa-dbd2-4593-8789-3f458336fa70/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "C Vitamini"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Orzax Ocean Selenyum 100 mcg 30 Tablet",
         "slug": "orzax-ocean-selenyum-100-mcg-antioksidan-takviye-30-tablet",
         "brand": "Orzax",
@@ -29133,20 +29103,6 @@
           "MSM"
         ],
         "stock": 4
-      },
-      {
-        "name": "Nutraxin Vitals C Vitamini 1000 mg Takviyesi 30 Tablet",
-        "slug": "nutraxin-vitals-c-vitamini-1000-mg-takviyesi-30-tablet",
-        "brand": "Nutraxin",
-        "price": 449.99,
-        "discount_price": 254.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8973e3fa-dbd2-4593-8789-3f458336fa70/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Bağışıklık Sistemi",
-          "C Vitamini"
-        ],
-        "stock": 2
       },
       {
         "name": "Nutraxin Vitals Mens Multi Vitamin Complex Tablet 60 Tablet",
@@ -44793,24 +44749,6 @@
         "stock": 1
       },
       {
-        "name": "VeNatura Magnezyum Malat 200 mg Tablet 60 Adet",
-        "slug": "venatura-magnezyum-malat-200-mg-tablet-60-adet",
-        "brand": "VeNatura",
-        "price": 510.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kemik ve Eklem",
-          "Enerji ve Zindelik",
-          "Kas ve Kramp",
-          "Magnezyum Malat",
-          "Stres ve Uyku Düzeni",
-          "Kalp ve Damar"
-        ],
-        "stock": 2
-      },
-      {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
         "slug": "venatura-magnezyum-sitrat-b6-90-kapsul-yuksek-emilim",
         "brand": "VeNatura",
@@ -46312,7 +46250,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
         "cats": [
-          "Magnezyum",
           "Kemik ve Eklem",
           "Enerji ve Zindelik",
           "Kas ve Kramp",
@@ -46320,7 +46257,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
@@ -47268,7 +47205,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
         "cats": [
-          "Magnezyum",
           "Kemik ve Eklem",
           "Enerji ve Zindelik",
           "Kas ve Kramp",
@@ -47276,7 +47212,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
@@ -62581,7 +62517,7 @@
           "Temizleme Köpüğü",
           "Temizleyici"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bioderma Sebium Foaming Gel 500 ml",
@@ -66674,7 +66610,7 @@
           "Kolajen Takviyeleri",
           "Cilt, Saç ve Tırnak"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "FEB Biotin Tablet Saç 60 Kapsül",
@@ -71337,7 +71273,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -72731,7 +72667,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -73154,7 +73090,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
         "cats": [
-          "Magnezyum",
           "Kemik ve Eklem",
           "Enerji ve Zindelik",
           "Kas ve Kramp",
@@ -73162,7 +73097,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Vitamin K2 MK-7 100 mcg 60 Kapsül",
@@ -75077,7 +75012,7 @@
           "Kolajen Takviyeleri",
           "Cilt, Saç ve Tırnak"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "Nutraxin Beauty NADH & Collagen Tablet, 60 Tablet",
@@ -85838,7 +85773,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/77d9a3b9-30bc-4e7b-ad68-38e8711e7808/image_1950.webp",
         "cats": [
-          "Magnezyum",
           "Kemik ve Eklem",
           "Enerji ve Zindelik",
           "Kas ve Kramp",
@@ -85846,7 +85780,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Venatura Vefa Magnezyum Malat Tablet 60 Tablet",
@@ -95992,9 +95926,9 @@
     ]
   },
   "stats": {
-    "total_products": 6136,
+    "total_products": 6132,
     "total_categories": 688,
-    "generated": "2026-09-22 11:00",
+    "generated": "2026-09-22 15:34",
     "source": "ikas_api_live"
   }
 }
