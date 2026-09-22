@@ -9407,23 +9407,6 @@
         "stock": 1
       },
       {
-        "name": "Cosakondrin Plus Tablet 60 Adet",
-        "slug": "cosakondrin-plus-tablet-60-adet",
-        "brand": "Cosakondrin",
-        "price": 1300.0,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aefa5e45-9db0-4d92-97a7-60a4b956545d/image_1950.webp",
-        "cats": [
-          "Glukozamin",
-          "Kondroitin",
-          "Glukozamin",
-          "Vitamin ve Takviye",
-          "Kondroitin",
-          "Kemik ve Eklem"
-        ],
-        "stock": 6
-      },
-      {
         "name": "Creapharm Kreatin 250 g Aromasız",
         "slug": "creapharm-kreatin-250-g-aromasiz",
         "brand": "Pharmacy Nutrititon",
@@ -17174,22 +17157,6 @@
           "Kemik ve Eklem"
         ],
         "stock": 15
-      },
-      {
-        "name": "Cosakondrin Plus Glukozamin Kondroitin MSM 60 Tablet",
-        "slug": "cosakondrin-plus-glukozamin-kondroitin-msm-60-tablet",
-        "brand": "Cosakondrin",
-        "price": 1300.0,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4b6b5f41-3e4e-4e5e-8afc-e4459e8495ad/image_1950.webp",
-        "cats": [
-          "Kondroitin",
-          "Glukozamin",
-          "İhtiyaca Göre",
-          "Kemik ve Eklem",
-          "MSM"
-        ],
-        "stock": 6
       },
       {
         "name": "Dr. Gulzari Probien Dr Caps Kapsül 30 Kapsül",
@@ -29253,6 +29220,18 @@
           "C Vitamini"
         ],
         "stock": 1
+      },
+      {
+        "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
+        "slug": "orzax-ocean-vitamin-c-1000-mg-30-tablet",
+        "brand": "Orzax",
+        "price": 474.0,
+        "discount_price": 250.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/687c3dae-7bc5-4580-895e-5763e8149c74/image_1950.webp",
+        "cats": [
+          "C Vitamini"
+        ],
+        "stock": 4
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -45172,33 +45151,16 @@
         "stock": 89
       },
       {
-        "name": "Cosakondrin Plus Glukozamin Kondroitin MSM 60 Tablet",
-        "slug": "cosakondrin-plus-glukozamin-kondroitin-msm-60-tablet",
-        "brand": "Cosakondrin",
-        "price": 1300.0,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4b6b5f41-3e4e-4e5e-8afc-e4459e8495ad/image_1950.webp",
-        "cats": [
-          "Kondroitin",
-          "Glukozamin",
-          "İhtiyaca Göre",
-          "Kemik ve Eklem",
-          "MSM"
-        ],
-        "stock": 6
-      },
-      {
         "name": "Cosakondrin Plus Tablet 60 Adet",
         "slug": "cosakondrin-plus-tablet-60-adet",
         "brand": "Cosakondrin",
         "price": 1300.0,
         "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aefa5e45-9db0-4d92-97a7-60a4b956545d/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bbe1252-d431-4356-8671-062a36346098/image_1950.webp",
         "cats": [
           "Glukozamin",
           "Kondroitin",
           "Glukozamin",
-          "Vitamin ve Takviye",
           "Kondroitin",
           "Kemik ve Eklem"
         ],
@@ -65366,12 +65328,12 @@
         "stock": 7
       },
       {
-        "name": "Orzax Ocean Cranberry Turna Yemişi İdrar Yolu 30 Kapsül",
-        "slug": "orzax-ocean-cranberry-turna-yemisi-idrar-yolu-30-kapsul",
+        "name": "Orzax Ocean Cranberry Turna Yemişi 30 Kapsül",
+        "slug": "orzax-ocean-cranberry-turna-yemisi-30-kapsul",
         "brand": "Orzax",
         "price": 599.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d680b346-1e1a-4b13-bc75-2061080d14fc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cd3054cf-dc5c-436a-ac4e-8dbd4f3783c5/image_1950.webp",
         "cats": [
           "Turna Yemişi (Cranberry)",
           "Kadın",
@@ -69408,6 +69370,22 @@
       },
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -69418,22 +69396,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -69651,6 +69613,22 @@
     "Retinol Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -69661,22 +69639,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -69732,6 +69694,22 @@
     "Retinol İçeren Ürünler": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -69742,22 +69720,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -69841,6 +69803,22 @@
     "Anti-Aging Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -69851,22 +69829,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -69973,6 +69935,22 @@
     "Retinol": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -69983,22 +69961,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -74396,33 +74358,16 @@
         "stock": 89
       },
       {
-        "name": "Cosakondrin Plus Glukozamin Kondroitin MSM 60 Tablet",
-        "slug": "cosakondrin-plus-glukozamin-kondroitin-msm-60-tablet",
-        "brand": "Cosakondrin",
-        "price": 1300.0,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4b6b5f41-3e4e-4e5e-8afc-e4459e8495ad/image_1950.webp",
-        "cats": [
-          "Kondroitin",
-          "Glukozamin",
-          "İhtiyaca Göre",
-          "Kemik ve Eklem",
-          "MSM"
-        ],
-        "stock": 6
-      },
-      {
         "name": "Cosakondrin Plus Tablet 60 Adet",
         "slug": "cosakondrin-plus-tablet-60-adet",
         "brand": "Cosakondrin",
         "price": 1300.0,
         "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aefa5e45-9db0-4d92-97a7-60a4b956545d/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bbe1252-d431-4356-8671-062a36346098/image_1950.webp",
         "cats": [
           "Glukozamin",
           "Kondroitin",
           "Glukozamin",
-          "Vitamin ve Takviye",
           "Kondroitin",
           "Kemik ve Eklem"
         ],
@@ -74434,12 +74379,11 @@
         "brand": "Cosakondrin",
         "price": 1300.0,
         "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aefa5e45-9db0-4d92-97a7-60a4b956545d/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bbe1252-d431-4356-8671-062a36346098/image_1950.webp",
         "cats": [
           "Glukozamin",
           "Kondroitin",
           "Glukozamin",
-          "Vitamin ve Takviye",
           "Kondroitin",
           "Kemik ve Eklem"
         ],
@@ -74688,33 +74632,16 @@
         "stock": 15
       },
       {
-        "name": "Cosakondrin Plus Glukozamin Kondroitin MSM 60 Tablet",
-        "slug": "cosakondrin-plus-glukozamin-kondroitin-msm-60-tablet",
-        "brand": "Cosakondrin",
-        "price": 1300.0,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4b6b5f41-3e4e-4e5e-8afc-e4459e8495ad/image_1950.webp",
-        "cats": [
-          "Kondroitin",
-          "Glukozamin",
-          "İhtiyaca Göre",
-          "Kemik ve Eklem",
-          "MSM"
-        ],
-        "stock": 6
-      },
-      {
         "name": "Cosakondrin Plus Tablet 60 Adet",
         "slug": "cosakondrin-plus-tablet-60-adet",
         "brand": "Cosakondrin",
         "price": 1300.0,
         "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aefa5e45-9db0-4d92-97a7-60a4b956545d/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bbe1252-d431-4356-8671-062a36346098/image_1950.webp",
         "cats": [
           "Glukozamin",
           "Kondroitin",
           "Glukozamin",
-          "Vitamin ve Takviye",
           "Kondroitin",
           "Kemik ve Eklem"
         ],
@@ -74726,12 +74653,11 @@
         "brand": "Cosakondrin",
         "price": 1300.0,
         "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aefa5e45-9db0-4d92-97a7-60a4b956545d/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9bbe1252-d431-4356-8671-062a36346098/image_1950.webp",
         "cats": [
           "Glukozamin",
           "Kondroitin",
           "Glukozamin",
-          "Vitamin ve Takviye",
           "Kondroitin",
           "Kemik ve Eklem"
         ],
@@ -76606,203 +76532,6 @@
           "Vücut Bakımı"
         ],
         "stock": 1
-      }
-    ],
-    "MSM": [
-      {
-        "name": "Cosakondrin Plus Glukozamin Kondroitin MSM 60 Tablet",
-        "slug": "cosakondrin-plus-glukozamin-kondroitin-msm-60-tablet",
-        "brand": "Cosakondrin",
-        "price": 1300.0,
-        "discount_price": 905.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4b6b5f41-3e4e-4e5e-8afc-e4459e8495ad/image_1950.webp",
-        "cats": [
-          "Kondroitin",
-          "Glukozamin",
-          "İhtiyaca Göre",
-          "Kemik ve Eklem",
-          "MSM"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Kondromin Art Glukozamin, Kondroitin, MSM, Kollajen ve Bitki Ekstreleri 90 Tablet",
-        "slug": "kondromin-art-glukozamin-kondroitin-msm-kollajen-ve-bitki-ekstreleri-9",
-        "brand": "Kondromin",
-        "price": 1512.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6e8dae9-d204-4576-b9d6-3d69c89903bc/image_1950.webp",
-        "cats": [
-          "Kondroitin",
-          "Glukozamin",
-          "Kemik ve Eklem",
-          "MSM"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Kondromin Art Tablet 90 Tablet",
-        "slug": "kondromin-art-tablet-90-tablet",
-        "brand": "Assos",
-        "price": 1540.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/64d15f6e-2902-435b-85fc-942ac3dcb74a/image_1950.webp",
-        "cats": [
-          "Kondroitin",
-          "Glukozamin",
-          "Vitamin ve Takviye",
-          "MSM"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
-        "brand": "Assos",
-        "price": 1276.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3d1eba52-ca35-4090-ad1c-956505f4afa8/image_1950.webp",
-        "cats": [
-          "Glukozamin",
-          "Kondroitin",
-          "C Vitamini",
-          "Kemik ve Eklem",
-          "Tip 2 Kolajen",
-          "Kuersetin",
-          "MSM",
-          "MSM"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
-        "brand": "Assos",
-        "price": 1276.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3d1eba52-ca35-4090-ad1c-956505f4afa8/image_1950.webp",
-        "cats": [
-          "Glukozamin",
-          "Kondroitin",
-          "C Vitamini",
-          "Kemik ve Eklem",
-          "Tip 2 Kolajen",
-          "Kuersetin",
-          "MSM",
-          "MSM"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
-        "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
-        "brand": "Nutraxin",
-        "price": 1299.99,
-        "discount_price": 899.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b643512f-0ca9-4042-8cd3-f6d7e516a0a5/image_1950.webp",
-        "cats": [
-          "Glukozamin",
-          "Kondroitin",
-          "Glukozamin",
-          "Eklem ve Kıkırdak",
-          "Kondroitin",
-          "C Vitamini",
-          "Hyalüronik Asit İçeren Ürünler",
-          "Kolajen İçeren Ürünler",
-          "MSM",
-          "MSM"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
-        "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
-        "brand": "Nutraxin",
-        "price": 1299.99,
-        "discount_price": 899.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b643512f-0ca9-4042-8cd3-f6d7e516a0a5/image_1950.webp",
-        "cats": [
-          "Glukozamin",
-          "Kondroitin",
-          "Glukozamin",
-          "Eklem ve Kıkırdak",
-          "Kondroitin",
-          "C Vitamini",
-          "Hyalüronik Asit İçeren Ürünler",
-          "Kolajen İçeren Ürünler",
-          "MSM",
-          "MSM"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Osteo Bi-Flex 5-Loxin Advanced Tablet Glukozamin Kondroitin MSM Boswellia Ekstresi İçeren Takviye Edici Gıda 120 Tablet",
-        "slug": "osteo-bi-flex-5-loxin-advanced-glukozamin-kondroitin-msm-120-tablet",
-        "brand": "Osteo Bi-Flex",
-        "price": 2422.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/212cc73e-b71a-4ae9-a65d-4572b134e281/image_1950.webp",
-        "cats": [
-          "Glukozamin",
-          "Eklem",
-          "Eklem ve Kıkırdak",
-          "Kondroitin",
-          "MSM"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Romax Glikozamin, Kondroitin, MSM, Akgünlük, Partenelle, Kolajen 60 Tablet",
-        "slug": "romax-glikozamin-kondroitin-msm-akgunluk-partenelle-kolajen-60-tablet",
-        "brand": "Romax",
-        "price": 1911.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/160ca118-9d5a-4d43-9417-c8174863ee6c/image_1950.webp",
-        "cats": [
-          "Kondroitin",
-          "Glukozamin",
-          "Kolajen Takviyeleri",
-          "İhtiyaca Göre",
-          "Kemik ve Eklem",
-          "MSM"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Velavit V-D3K2 MSM D3K2 Vitamini ve MSM İçeren Takviye 60 Tablet",
-        "slug": "velavit-v-d3k2-msm-d3k2-vitamini-ve-msm-iceren-takviye-60-tablet",
-        "brand": "Velavit",
-        "price": 779.0,
-        "discount_price": 669.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/23085424-614a-423f-829d-62d779268402/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "K2 Vitamini",
-          "D Vitamini",
-          "Kemik ve Eklem",
-          "MSM",
-          "MSM",
-          "Kalp ve Damar"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Velavit V-D3K2 MSM D3K2 Vitamini ve MSM İçeren Takviye 60 Tablet",
-        "slug": "velavit-v-d3k2-msm-d3k2-vitamini-ve-msm-iceren-takviye-60-tablet",
-        "brand": "Velavit",
-        "price": 779.0,
-        "discount_price": 669.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/23085424-614a-423f-829d-62d779268402/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "K2 Vitamini",
-          "D Vitamini",
-          "Kemik ve Eklem",
-          "MSM",
-          "MSM",
-          "Kalp ve Damar"
-        ],
-        "stock": 3
       }
     ],
     "Güç ve Performans": [
@@ -86508,12 +86237,12 @@
         "stock": 1
       },
       {
-        "name": "Orzax Ocean Cranberry Turna Yemişi İdrar Yolu 30 Kapsül",
-        "slug": "orzax-ocean-cranberry-turna-yemisi-idrar-yolu-30-kapsul",
+        "name": "Orzax Ocean Cranberry Turna Yemişi 30 Kapsül",
+        "slug": "orzax-ocean-cranberry-turna-yemisi-30-kapsul",
         "brand": "Orzax",
         "price": 599.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d680b346-1e1a-4b13-bc75-2061080d14fc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cd3054cf-dc5c-436a-ac4e-8dbd4f3783c5/image_1950.webp",
         "cats": [
           "Turna Yemişi (Cranberry)",
           "Kadın",
@@ -86601,12 +86330,12 @@
         "stock": 1
       },
       {
-        "name": "Orzax Ocean Cranberry Turna Yemişi İdrar Yolu 30 Kapsül",
-        "slug": "orzax-ocean-cranberry-turna-yemisi-idrar-yolu-30-kapsul",
+        "name": "Orzax Ocean Cranberry Turna Yemişi 30 Kapsül",
+        "slug": "orzax-ocean-cranberry-turna-yemisi-30-kapsul",
         "brand": "Orzax",
         "price": 599.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d680b346-1e1a-4b13-bc75-2061080d14fc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cd3054cf-dc5c-436a-ac4e-8dbd4f3783c5/image_1950.webp",
         "cats": [
           "Turna Yemişi (Cranberry)",
           "Kadın",
@@ -87723,6 +87452,187 @@
           "Konsantre"
         ],
         "stock": 4
+      }
+    ],
+    "MSM": [
+      {
+        "name": "Kondromin Art Glukozamin, Kondroitin, MSM, Kollajen ve Bitki Ekstreleri 90 Tablet",
+        "slug": "kondromin-art-glukozamin-kondroitin-msm-kollajen-ve-bitki-ekstreleri-9",
+        "brand": "Kondromin",
+        "price": 1512.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6e8dae9-d204-4576-b9d6-3d69c89903bc/image_1950.webp",
+        "cats": [
+          "Kondroitin",
+          "Glukozamin",
+          "Kemik ve Eklem",
+          "MSM"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Kondromin Art Tablet 90 Tablet",
+        "slug": "kondromin-art-tablet-90-tablet",
+        "brand": "Assos",
+        "price": 1540.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/64d15f6e-2902-435b-85fc-942ac3dcb74a/image_1950.webp",
+        "cats": [
+          "Kondroitin",
+          "Glukozamin",
+          "Vitamin ve Takviye",
+          "MSM"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
+        "brand": "Assos",
+        "price": 1276.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3d1eba52-ca35-4090-ad1c-956505f4afa8/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Kondroitin",
+          "C Vitamini",
+          "Kemik ve Eklem",
+          "Tip 2 Kolajen",
+          "Kuersetin",
+          "MSM",
+          "MSM"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
+        "brand": "Assos",
+        "price": 1276.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3d1eba52-ca35-4090-ad1c-956505f4afa8/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Kondroitin",
+          "C Vitamini",
+          "Kemik ve Eklem",
+          "Tip 2 Kolajen",
+          "Kuersetin",
+          "MSM",
+          "MSM"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
+        "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
+        "brand": "Nutraxin",
+        "price": 1299.99,
+        "discount_price": 899.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b643512f-0ca9-4042-8cd3-f6d7e516a0a5/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Kondroitin",
+          "Glukozamin",
+          "Eklem ve Kıkırdak",
+          "Kondroitin",
+          "C Vitamini",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Kolajen İçeren Ürünler",
+          "MSM",
+          "MSM"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Nutraxin Artroflex Hya-c-ii Tablet, Glukozamin, Kondroitin, Msm, Kolajen, C Vitamini ve Hiyaluronik Asit İçeren Takviye Edici Gıda 90 Tablet",
+        "slug": "nutraxin-artroflex-hya-c-ii-tablet-glukozamin-kondroitin-msm-kolajen",
+        "brand": "Nutraxin",
+        "price": 1299.99,
+        "discount_price": 899.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b643512f-0ca9-4042-8cd3-f6d7e516a0a5/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Kondroitin",
+          "Glukozamin",
+          "Eklem ve Kıkırdak",
+          "Kondroitin",
+          "C Vitamini",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Kolajen İçeren Ürünler",
+          "MSM",
+          "MSM"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Osteo Bi-Flex 5-Loxin Advanced Tablet Glukozamin Kondroitin MSM Boswellia Ekstresi İçeren Takviye Edici Gıda 120 Tablet",
+        "slug": "osteo-bi-flex-5-loxin-advanced-glukozamin-kondroitin-msm-120-tablet",
+        "brand": "Osteo Bi-Flex",
+        "price": 2422.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/212cc73e-b71a-4ae9-a65d-4572b134e281/image_1950.webp",
+        "cats": [
+          "Glukozamin",
+          "Eklem",
+          "Eklem ve Kıkırdak",
+          "Kondroitin",
+          "MSM"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Romax Glikozamin, Kondroitin, MSM, Akgünlük, Partenelle, Kolajen 60 Tablet",
+        "slug": "romax-glikozamin-kondroitin-msm-akgunluk-partenelle-kolajen-60-tablet",
+        "brand": "Romax",
+        "price": 1911.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/160ca118-9d5a-4d43-9417-c8174863ee6c/image_1950.webp",
+        "cats": [
+          "Kondroitin",
+          "Glukozamin",
+          "Kolajen Takviyeleri",
+          "İhtiyaca Göre",
+          "Kemik ve Eklem",
+          "MSM"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Velavit V-D3K2 MSM D3K2 Vitamini ve MSM İçeren Takviye 60 Tablet",
+        "slug": "velavit-v-d3k2-msm-d3k2-vitamini-ve-msm-iceren-takviye-60-tablet",
+        "brand": "Velavit",
+        "price": 779.0,
+        "discount_price": 669.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/23085424-614a-423f-829d-62d779268402/image_1950.webp",
+        "cats": [
+          "Bağışıklık Sistemi",
+          "K2 Vitamini",
+          "D Vitamini",
+          "Kemik ve Eklem",
+          "MSM",
+          "MSM",
+          "Kalp ve Damar"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Velavit V-D3K2 MSM D3K2 Vitamini ve MSM İçeren Takviye 60 Tablet",
+        "slug": "velavit-v-d3k2-msm-d3k2-vitamini-ve-msm-iceren-takviye-60-tablet",
+        "brand": "Velavit",
+        "price": 779.0,
+        "discount_price": 669.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/23085424-614a-423f-829d-62d779268402/image_1950.webp",
+        "cats": [
+          "Bağışıklık Sistemi",
+          "K2 Vitamini",
+          "D Vitamini",
+          "Kemik ve Eklem",
+          "MSM",
+          "MSM",
+          "Kalp ve Damar"
+        ],
+        "stock": 3
       }
     ],
     "İnfüzyon Uzatma Seti": [
@@ -92204,12 +92114,12 @@
     ],
     "Cranberry (Turna Yemişi)": [
       {
-        "name": "Orzax Ocean Cranberry Turna Yemişi İdrar Yolu 30 Kapsül",
-        "slug": "orzax-ocean-cranberry-turna-yemisi-idrar-yolu-30-kapsul",
+        "name": "Orzax Ocean Cranberry Turna Yemişi 30 Kapsül",
+        "slug": "orzax-ocean-cranberry-turna-yemisi-30-kapsul",
         "brand": "Orzax",
         "price": 599.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d680b346-1e1a-4b13-bc75-2061080d14fc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cd3054cf-dc5c-436a-ac4e-8dbd4f3783c5/image_1950.webp",
         "cats": [
           "Turna Yemişi (Cranberry)",
           "Kadın",
@@ -96082,9 +95992,9 @@
     ]
   },
   "stats": {
-    "total_products": 6141,
+    "total_products": 6136,
     "total_categories": 688,
-    "generated": "2026-09-22 10:07",
+    "generated": "2026-09-22 11:00",
     "source": "ikas_api_live"
   }
 }
