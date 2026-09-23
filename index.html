@@ -335,11 +335,11 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
   <!-- HEADER -->
   <div class="quiz-header">
     <div class="logo">
-      <img src="https://cdn.myikas.com/images/theme-images/b5b2ffb9-a85e-4a66-b256-73462f989a7f/image_1512.webp" alt="e-Eczacı" style="height:32px;width:auto">
+      <img src="https://cdn.myikas.com/images/theme-images/608fa6c1-a801-4455-8dab-be9d62116f71/image_1512.webp" alt="e-Eczacı" style="height:32px;width:auto">
     </div>
     <div class="trust-badge">
       <svg viewBox="0 0 24 24"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
-      Uzman Rehberi
+      Uzman Onaylı
     </div>
   </div>
 
@@ -571,7 +571,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         </div>
         <div class="intro-social-proof" id="socialProof">
           <svg viewBox="0 0 24 24"><path d="M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.5-7-3.5z"/></svg>
-          <span>Binlerce <strong>mutlu</strong> müşteri · Uzman danışmanlığı</span>
+          <span>Binlerce <strong>mutlu</strong> müşteri · Eczane güvencesi</span>
         </div>
       </div>
     </div>
@@ -691,11 +691,11 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <div class="step" id="step6">
       <div class="email-section">
         <div class="email-icon">&#127919;</div>
-        <div class="email-title" id="emailTitle">Planınız hazır</div>
-        <div class="email-desc">İsterseniz adınızı ve e-postanızı bırakın; planınızı e-postanıza da gönderelim. <b>İsteğe bağlı</b>, boş bırakıp devam edebilirsiniz.</div>
+        <div class="email-title" id="emailTitle">Son adım</div>
+        <div class="email-desc">Planınızı kişiselleştirmek ve göndermek için isim ve e-posta adresinizi girin.</div>
         <div class="email-field">
-          <input type="text" id="nameInput" placeholder="İsminiz (isteğe bağlı)" aria-label="İsminiz" oninput="onNameEmailInput()" style="margin-bottom:10px">
-          <input type="email" id="emailInput" placeholder="E-posta adresiniz (isteğe bağlı)" oninput="onNameEmailInput()" aria-label="E-posta adresiniz">
+          <input type="text" id="nameInput" placeholder="İsminiz" aria-label="İsminiz" required oninput="onNameEmailInput()" style="margin-bottom:10px">
+          <input type="email" id="emailInput" placeholder="E-posta adresiniz" required oninput="onNameEmailInput()" aria-label="E-posta adresiniz">
         </div>
         <!-- KAN TESTİ: backend canlı (Railway /api/analiz/bloodtest) -->
         <div style="margin-top:16px;padding:14px;border:1.5px dashed #cdeede;border-radius:12px;background:#f8fcfa;text-align:left;">
@@ -710,7 +710,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
           KVKK uyumlu, bilgilerin güvende
         </div>
         <div class="btn-row" style="margin-top:20px">
-          <button class="btn-primary" id="btnEmail" onclick="submitFinal()">Planımı Göster</button>
+          <button class="btn-primary" id="btnEmail" disabled onclick="submitFinal()">Planımı Göster</button>
           <button class="btn-back" onclick="goTo(4)">&#8592; Geri dön</button>
         </div>
       </div>
@@ -747,9 +747,9 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         </a>
         <div style="margin-top:10px;display:flex;align-items:center;justify-content:center;gap:6px;font-size:12px;color:#4b5563;">
           <svg width="14" height="14" viewBox="0 0 24 24" fill="#0a4c32"><path d="M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z"/></svg>
-          Uzman danışmanlığında
+          Eczane güvencesiyle
         </div>
-        <div style="margin-top:8px;font-size:11.5px;color:#6b7280;line-height:1.5;">Önerileriniz, uzman ekibimizce ihtiyaçlarınıza göre hazırlanır.</div>
+        <div style="margin-top:8px;font-size:11.5px;color:#6b7280;line-height:1.5;">Önerileriniz, 40 yılı aşkın deneyime sahip lisanslı eczacı ve uzman ekibimizce, ihtiyaçlarınıza göre hazırlanır.</div>
       </div>
       <div class="medical-disclaimer">
         <div class="disc-icon">&#9888;&#65039;</div>
@@ -784,7 +784,6 @@ fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/stats'
 }).catch(()=>{});
 
 /* ===== STATE ===== */
-let _devamSet=[]; // Kullandıklarınızın devamı (renderProducts hesaplar, recomputePlan çizer)
 const state = { name:'', who:null, needs:[], details:{}, lifestyle:null, form:null, brands:['any'], budget:'any', email:null, bloodCats:[], currentProducts:[], typedProducts:[], note:'' };
 
 // Detay sadece KRİTİK ihtiyaçlarda (ürünü gerçekten değiştirenler) sorulur
@@ -914,21 +913,21 @@ function onBloodFile(input){
 /* ===== CONFIG ===== */
 const needMap = {
   yetiskin:[
-    {value:'bagisiklik',icon:'&#128737;&#65039;',label:'Bağışıklık',desc:'Mevsim geçişlerinde güçlü kalın',popular:true},
+    {value:'bagisiklik',icon:'&#128737;&#65039;',label:'Bağışıklık Güçlendirme',desc:'Mevsim geçişlerinde güçlü kalın',popular:true},
     {value:'enerji',icon:'&#9889;',label:'Enerji & Yorgunluk',desc:'Gün boyu enerjik ve zinde hissedin',popular:true},
     {value:'cilt',icon:'&#129507;',label:'Cilt Bakımı',desc:'Parlak, sağlıklı ve genç görünen cilt',popular:true},
     {value:'sac',icon:'&#128135;',label:'Saç & Tırnak',desc:'Güçlü, gür saçlar ve sağlam tırnaklar'},
-    {value:'sindirim',icon:'&#129440;',label:'Sindirim',desc:'Rahat bir sindirim ve dengeli flora'},
+    {value:'sindirim',icon:'&#129440;',label:'Sindirim Sağlığı',desc:'Rahat bir sindirim ve dengeli flora'},
     {value:'uyku',icon:'&#127769;',label:'Stres & Uyku',desc:'Derin uyku ve sakin bir zihin'},
     {value:'eklem',icon:'&#129460;',label:'Eklem & Kemik',desc:'Esnek eklemler ve güçlü kemikler'},
     {value:'kalp',icon:'&#10084;&#65039;',label:'Kalp & Damar',desc:'Sağlıklı kalp ve dolaşım sistemi'},
     {value:'beyin',icon:'&#129504;',label:'Beyin & Hafıza',desc:'Keskin hafıza ve mental performans'},
-    {value:'goz',icon:'&#128065;&#65039;',label:'Göz',desc:'Net görüş ve göz konforu'},
-    {value:'kilo',icon:'&#9878;&#65039;',label:'Kilo & Form',desc:'Sağlıklı kilo kontrolü ve metabolizma'},
-    {value:'kadin',icon:'&#9792;&#65039;',label:'Kadın',desc:'Hormonal denge ve kadına özel destek'},
+    {value:'goz',icon:'&#128065;&#65039;',label:'Göz Sağlığı',desc:'Net görüş ve göz konforu'},
+    {value:'kilo',icon:'&#9878;&#65039;',label:'Kilo Yönetimi',desc:'Sağlıklı kilo kontrolü ve metabolizma'},
+    {value:'kadin',icon:'&#9792;&#65039;',label:'Kadın Sağlığı',desc:'Hormonal denge ve kadına özel destek'},
     {value:'multivitamin',icon:'&#128138;',label:'Multivitamin',desc:'Günlük tüm vitamin ve mineraller',popular:true},
-    {value:'sporcu',icon:'&#127947;&#65039;',label:'Sporcu Beslenmesi',desc:'Performans, toparlanma ve kas desteği'},
-    {value:'longevity',icon:'&#129516;',label:'Longevity',desc:'Hücresel yenilenme ve sağlıklı yaşlanma',popular:true}
+    {value:'sporcu',icon:'&#127947;&#65039;',label:'Sporcu Desteği',desc:'Performans, toparlanma ve kas desteği'},
+    {value:'longevity',icon:'&#129516;',label:'Longevity & Hücresel Sağlık',desc:'Hücresel yenilenme ve sağlıklı yaşlanma',popular:true}
   ],
   cocuk:[
     {value:'multi',icon:'&#127752;',label:'Multivitamin',desc:'Sağlıklı büyüme için günlük destek',popular:true},
@@ -951,7 +950,7 @@ const needMap = {
     {value:'kalp',icon:'&#10084;&#65039;',label:'Kalp & Damar',desc:'Güçlü kalp ve sağlıklı tansiyon',popular:true},
     {value:'kemik',icon:'&#129463;',label:'Kemik Sağlığı',desc:'Kemik yoğunluğu ve güç kaybına karşı'},
     {value:'hafiza',icon:'&#129504;',label:'Hafıza & Beyin',desc:'Zihinsel berraklık ve hafıza desteği',popular:true},
-    {value:'goz',icon:'&#128065;&#65039;',label:'Göz',desc:'Net görüş ve göz konforu'},
+    {value:'goz',icon:'&#128065;&#65039;',label:'Göz Sağlığı',desc:'Net görüş ve göz konforu'},
     {value:'sindirim',icon:'&#129440;',label:'Sindirim',desc:'Düzenli sindirim ve bağırsak sağlığı'},
     {value:'multivitamin',icon:'&#128138;',label:'Multivitamin',desc:'50+ yaş için özel formül'}
   ]
@@ -963,14 +962,14 @@ const categoryMapping = {
   'yetiskin_enerji':['B12 Vitamini','B Kompleks','Koenzim Q10','Demir','Enerji ve Zindelik'],
   'yetiskin_cilt':['Nemlendirici Kremler','Nemlendirici','Güneş Koruma','SPF 50+','Cilt Bakımı','Temizleyiciler','Leke Karşıtı','Hassas ve Kızarık Cilt','Akne ve Sivilce Bakımı','Onarıcı Bakım'],
   'yetiskin_sac':['Saç, Cilt ve Tırnak','Saç Cilt Tırnak','Biotin (B7 Vitamini)','Saç Bakımı','Saç Dökülmesi','Dökülme Karşıtı','Kepek Karşıtı','Şampuanlar'],
-  'yetiskin_sindirim':['Probiyotik','Probiyotik ve Prebiyotik','Sindirim','Sindirim Enzimleri'],
+  'yetiskin_sindirim':['Probiyotik','Probiyotik ve Prebiyotik','Sindirim Sağlığı','Sindirim Enzimleri'],
   'yetiskin_uyku':['Stres ve Uyku Düzeni','Magnezyum','Magnezyum Bisglisinat'],
   'yetiskin_eklem':['Kemik ve Eklem Sağlığı','Eklem ve Kemik Sağlığı','Kolajen Takviyeleri','Hidrolize Kolajen','Glukozamin','Magnezyum'],
   'yetiskin_kalp':['Kalp ve Damar Sağlığı','Omega 3','Koenzim Q10','Resveratrol'],
   'yetiskin_beyin':['Beyin ve Hafıza','Omega 3','Ginkgo Biloba'],
-  'yetiskin_goz':['Göz','Göz Damlası'],
-  'yetiskin_kilo':['Metabolizma ve Kilo & Form','L-Karnitin'],
-  'yetiskin_kadin':['Kadın','Turna Yemişi (Cranberry)','Probiyotik ve Prebiyotik','Demir','Folik Asit (B9 Vitamini)'],
+  'yetiskin_goz':['Göz Sağlığı','Göz Damlası'],
+  'yetiskin_kilo':['Metabolizma ve Kilo Yönetimi','L-Karnitin'],
+  'yetiskin_kadin':['Kadın Sağlığı','Turna Yemişi (Cranberry)','Probiyotik ve Prebiyotik','Demir','Folik Asit (B9 Vitamini)'],
   'yetiskin_multivitamin':['Multivitamin','Mineraller'],
   'yetiskin_sporcu':['Sporcu Takviyeleri','L-Karnitin','L-Arjinin'],
   'yetiskin_longevity':['Koenzim Q10','Resveratrol','Astaksantin','Glutatyon','Omega 3'],
@@ -978,7 +977,7 @@ const categoryMapping = {
   'cocuk_multi':['Çocuk Multivitamin','Çocuk Vitaminleri','Çocuk Sağlığı'],
   'cocuk_bagisiklik':['C Vitamini','Propolis','Kara Mürver (Sambucus)','Çocuk Sağlığı','Bağışıklık Sistemi','Çocuk Vitaminleri'],
   'cocuk_kemik':['D Vitamini','Kalsiyum','Çocuk Sağlığı'],
-  'cocuk_sindirim':['Probiyotik','Çocuk Sağlığı','Sindirim'],
+  'cocuk_sindirim':['Probiyotik','Çocuk Sağlığı','Sindirim Sağlığı'],
   'cocuk_beyin':['Omega 3','Çocuk Omega 3','Çocuk Sağlığı'],
   'cocuk_dis':['Çocuk Diş Bakımı','Diş Macunu','Diş Fırçası'],
   'cocuk_gunes':['Çocuk ve Bebek Güneş Koruma'],
@@ -993,8 +992,8 @@ const categoryMapping = {
   'yasli_kalp':['Kalp ve Damar Sağlığı','Omega 3','Koenzim Q10','Resveratrol'],
   'yasli_kemik':['D Vitamini','Kalsiyum','Magnezyum','Kemik ve Eklem Sağlığı'],
   'yasli_hafiza':['Beyin ve Hafıza','Omega 3','Ginkgo Biloba'],
-  'yasli_goz':['Göz','Göz Damlası'],
-  'yasli_sindirim':['Probiyotik','Probiyotik ve Prebiyotik','Sindirim'],
+  'yasli_goz':['Göz Sağlığı','Göz Damlası'],
+  'yasli_sindirim':['Probiyotik','Probiyotik ve Prebiyotik','Sindirim Sağlığı'],
   'yasli_multivitamin':['Multivitamin','Mineraller']
 };
 
@@ -1004,7 +1003,7 @@ const categoryReasons = {
   'Propolis':'Propolis desteğiniz','Beta Glukan':'Beta Glukan takviyeniz',
   'Bağışıklık Sistemi':'Bağışıklık desteğiniz','Soğuk Algınlığı ve Grip':'Mevsimsel koruma',
   'Probiyotik':'Probiyotik desteğiniz','Probiyotik ve Prebiyotik':'Sindirim floranız',
-  'Sindirim':'Sindirim desteğiniz','Sindirim Enzimleri':'Sindirim enzim desteği',
+  'Sindirim Sağlığı':'Sindirim desteğiniz','Sindirim Enzimleri':'Sindirim enzim desteği',
   'Kemik ve Eklem Sağlığı':'Eklem desteğiniz','Eklem ve Kemik Sağlığı':'Eklem desteğiniz',
   'Kolajen Takviyeleri':'Kolajen desteğiniz','Hidrolize Kolajen':'Kolajen takviyeniz',
   'Glukozamin':'Glukozamin desteğiniz','Magnezyum':'Magnezyum takviyeniz',
@@ -1015,10 +1014,10 @@ const categoryReasons = {
   'Stres ve Uyku Düzeni':'Uyku & stres desteğiniz',
   'Kalp ve Damar Sağlığı':'Kalp & damar desteğiniz','Resveratrol':'Antioksidan desteğiniz',
   'Beyin ve Hafıza':'Beyin & hafıza desteğiniz','Ginkgo Biloba':'Hafıza desteğiniz',
-  'Göz':'Göz sağlığı desteğiniz','Göz Damlası':'Göz bakım desteğiniz',
-  'Metabolizma ve Kilo & Form':'Kilo yönetim desteğiniz','L-Karnitin':'Yağ yakım desteğiniz',
+  'Göz Sağlığı':'Göz sağlığı desteğiniz','Göz Damlası':'Göz bakım desteğiniz',
+  'Metabolizma ve Kilo Yönetimi':'Kilo yönetim desteğiniz','L-Karnitin':'Yağ yakım desteğiniz',
   'L-Arjinin':'Sporcu desteğiniz','Sporcu Takviyeleri':'Sporcu desteğiniz',
-  'Kadın':'Kadın sağlığı desteğiniz',
+  'Kadın Sağlığı':'Kadın sağlığı desteğiniz',
   'Multivitamin':'Multivitamin desteğiniz','Mineraller':'Mineral desteğiniz',
   'Karaciğer Sağlığı':'Karaciğer desteğiniz',
   'Onarıcı Bakım':'Onarıcı bakımınız','Onarıcı Kremler':'Onarıcı bakımınız',
@@ -1027,7 +1026,7 @@ const categoryReasons = {
   'Nemlendiriciler':'Nemlendirici bakımınız',
   'Saç, Cilt ve Tırnak':'Saç & tırnak desteğiniz','Saç Cilt Tırnak':'Saç & cilt desteğiniz',
   'Biotin (B7 Vitamini)':'Biotin desteğiniz','Saç Bakımı':'Saç bakım desteğiniz',
-  'Saç Dökülmesi':'Saç bakımı','Dökülme Karşıtı':'Dökülme karşıtı bakım',
+  'Saç Dökülmesi':'Saç güçlendirme','Dökülme Karşıtı':'Dökülme karşıtı bakım',
   'Kepek Karşıtı':'Kepek bakımınız','Şampuanlar':'Saç bakım desteğiniz',
   'Cilt Bakımı':'Cilt bakım desteğiniz','Nemlendirici':'Nemlendirici bakımınız',
   'Nemlendirici Kremler':'Nemlendirici kremleri','Temizleyiciler':'Cilt temizleme',
@@ -1072,7 +1071,7 @@ const detailMap = {
   bagisiklik:{icon:'&#128737;&#65039;',question:'Bağışıklık desteğini neden düşünüyorsunuz?',options:[
     {value:'mevsim',label:'Mevsim Geçişleri',desc:'Kış ve geçiş dönemlerinde korunma'},
     {value:'sik',label:'Sık Hastalanıyorum',desc:'Direnci artırmak istiyorum'},
-    {value:'onlem',label:'Önlem Amaçlı',desc:'Genel bağışıklık rutini'}
+    {value:'onlem',label:'Önlem Amaçlı',desc:'Genel bağışıklık güçlendirme'}
   ]},
   enerji:{icon:'&#9889;',question:'Yorgunluğunuzu nasıl tanımlarsınız?',options:[
     {value:'sabah',label:'Sabahları Zor Kalkıyorum',desc:'Güne başlamakta zorlanma'},
@@ -1121,10 +1120,10 @@ const detailMap = {
   goz:{icon:'&#128065;&#65039;',question:'Göz sağlığı ihtiyacınız?',options:[
     {value:'ekran',label:'Ekran Yorgunluğu',desc:'Uzun süre bilgisayar/telefon'},
     {value:'kuruluk',label:'Kuru Göz',desc:'Yanma, batma, kuruluk hissi'},
-    {value:'genel',label:'Genel Göz',desc:'Görüş kalitesi ve koruma'}
+    {value:'genel',label:'Genel Göz Sağlığı',desc:'Görüş kalitesi ve koruma'}
   ]},
   kilo:{icon:'&#9878;&#65039;',question:'Kilo yönetimi hedefiniz?',options:[
-    {value:'yakim',label:'Yağ Yakımı',desc:'Form ve metabolizma'},
+    {value:'yakim',label:'Yağ Yakımı',desc:'Metabolizmayı hızlandırma'},
     {value:'istah',label:'İştah Kontrolü',desc:'Aşırı yeme alışkanlığı'},
     {value:'metabolizma',label:'Metabolizma Desteği',desc:'Yavaş metabolizma'}
   ]},
@@ -1158,7 +1157,7 @@ const lifestyleOptions = [
 const needLabels = {
   bagisiklik:'Bağışıklık',enerji:'Enerji',cilt:'Cilt Bakımı',sac:'Saç & Tırnak',
   sindirim:'Sindirim',uyku:'Uyku & Stres',eklem:'Eklem & Kemik',kalp:'Kalp & Damar',
-  beyin:'Beyin & Hafıza',goz:'Göz',kilo:'Kilo & Form',kadin:'Kadın',
+  beyin:'Beyin & Hafıza',goz:'Göz Sağlığı',kilo:'Kilo Yönetimi',kadin:'Kadın Sağlığı',
   multivitamin:'Multivitamin',sporcu:'Sporcu',multi:'Multivitamin',kemik:'Kemik & Diş',
   dis:'Diş Bakımı',gunes:'Güneş Koruma',vitamin:'Genel Vitamin',demir:'Demir & Folat',
   omega:'Omega-3',bulanti:'Bulantı Desteği',hafiza:'Hafıza'
@@ -1229,20 +1228,25 @@ function startQuiz(){
 function onNameEmailInput(){
   const name=document.getElementById('nameInput').value.trim();
   document.getElementById('nameInput').style.borderColor=name?'':'';
-  /* 22 Eyl 2026: isim/e-posta zorunlu değil — sonuç kapısı kaldırıldı (bir ayda 7 tamamlama) */
+  document.getElementById('btnEmail').disabled=!name;
 }
 
 function submitFinal(){
   const name=document.getElementById('nameInput').value.trim();
+  if(!name){
+    document.getElementById('nameInput').focus();
+    document.getElementById('nameInput').style.borderColor='#D94F3F';
+    return;
+  }
   state.name=name;
   const emailVal=document.getElementById('emailInput').value.trim();
-  if(emailVal && !validateEmail(emailVal)){
+  if(!validateEmail(emailVal)){
     document.getElementById('emailInput').focus();
     document.getElementById('emailInput').style.borderColor='#D94F3F';
     return;
   }
-  state.email=emailVal||null;
-  trackEvent('quiz_submit',{name:!!name,email_provided:!!emailVal});
+  state.email=emailVal;
+  trackEvent('quiz_submit',{name:true,email_provided:true});
   // NOT: /api/analiz/submit fetch'i showResults() içinde, renderProducts() ÖNERİLERİ
   // hesapladıktan SONRA gönderilir (aksi halde recommended_slugs boş gider → bildirimde 0 ürün).
   showLoading();
@@ -1472,10 +1476,6 @@ function updateProgress(step){
 function validateEmail(s){return /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(s)}
 
 function showLoading(){
-  /* 10 Eyl 2026: AI ürün seçimi yükleme animasyonu sırasında hazırlanır.
-     renderProducts() adayları hesaplar ve /api/analiz/secim isteğini başlatır
-     (window.__eeAi); showResults cevabı (en fazla 9 sn) bekler, sonra yeniden çizer. */
-  try{ window.__eeAi=null; renderProducts(); }catch(e){}
   document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
   document.getElementById('stepLoading').classList.add('active');
   document.getElementById('progressBar').style.width='85%';
@@ -1530,13 +1530,6 @@ function showLoading(){
 }
 
 function showResults(){
-  var _ai=window.__eeAi;
-  if(_ai&&_ai.p&&!_ai.done){
-    _ai.done=true;
-    var _t=null;
-    Promise.race([_ai.p,new Promise(function(r){_t=setTimeout(r,20000);})])  /* 22 Eyl: reasoning modeli 9 sn'ye sığmıyordu */.then(function(){if(_t)clearTimeout(_t);showResults();});
-    return;
-  }
   document.querySelectorAll('.step').forEach(s=>s.classList.remove('active'));
   document.getElementById('stepResults').classList.add('active');
   document.getElementById('progressBar').style.width='100%';
@@ -1578,18 +1571,18 @@ function getCategoryReason(cat, needKey){
   if(needLabel && base){
     // Map need to action phrase
     const needActions = {
-      bagisiklik:'Bağışıklık hedefiniz için',enerji:'Enerji hedefiniz için',
-      cilt:'Cilt bakımınız için',sac:'Saç bakımınız için',
-      sindirim:'Sindirim hedefiniz için',uyku:'Uyku rutininiz için',
-      eklem:'Eklem ve kemik hedefiniz için',kalp:'Kalp dostu rutininiz için',
-      beyin:'Odak hedefiniz için',goz:'Göz rutininiz için',
-      kilo:'Form hedefiniz için',kadin:'Kadın sağlığı rutininiz için',
-      multivitamin:'Günlük vitamin ihtiyacınız için',sporcu:'Antrenman rutininiz için',
-      multi:'Çocuğunuzun günlük rutini için',kemik:'Kemik rutininiz için',
+      bagisiklik:'Bağışıklığını güçlendirmek için',enerji:'Enerjini artırmak için',
+      cilt:'Cildini beslemek için',sac:'Saçlarını güçlendirmek için',
+      sindirim:'Sindirimi desteklemek için',uyku:'Rahat uyumak için',
+      eklem:'Eklemlerini desteklemek için',kalp:'Kalp sağlığın için',
+      beyin:'Beyin fonksiyonlarını desteklemek için',goz:'Göz sağlığın için',
+      kilo:'Metabolizmayı hızlandırmak için',kadin:'Kadın sağlığını desteklemek için',
+      multivitamin:'Günlük vitamin ihtiyacınız için',sporcu:'Performansını artırmak için',
+      multi:'Büyüme desteği için',kemik:'Kemik sağlığı için',
       dis:'Diş bakımı için',gunes:'Güneşten korunmak için',
-      vitamin:'Hamilelik rutininiz için',demir:'Demir ihtiyacınız için',
-      omega:'Omega-3 rutininiz için',bulanti:'Hamilelik döneminiz için',
-      hafiza:'Odak hedefiniz için'
+      vitamin:'Genel sağlık desteğin için',demir:'Demir ihtiyacınız için',
+      omega:'Omega-3 desteğin için',bulanti:'Bulantıyı hafifletmek için',
+      hafiza:'Hafızayı güçlendirmek için'
     };
     const action = needActions[needKey];
     if(action){
@@ -1611,9 +1604,9 @@ const detailBias = {
   cilt_yagli:['Akne ve Sivilce Bakımı','Temizleyiciler'],
   cilt_karma:['Nemlendirici','Temizleyiciler'],
   cilt_hassas:['Hassas ve Kızarık Cilt','Onarıcı Bakım'],
-  sindirim_siskinlik:['Sindirim Enzimleri','Sindirim'],
+  sindirim_siskinlik:['Sindirim Enzimleri','Sindirim Sağlığı'],
   sindirim_kabizlik:['Probiyotik','Probiyotik ve Prebiyotik'],
-  sindirim_reflu:['Sindirim'],
+  sindirim_reflu:['Sindirim Sağlığı'],
   sindirim_flora:['Probiyotik','Probiyotik ve Prebiyotik'],
   uyku_dalamama:['Stres ve Uyku Düzeni','Magnezyum'],
   uyku_bolunme:['Magnezyum','Magnezyum Bisglisinat'],
@@ -1625,10 +1618,10 @@ const detailBias = {
   bagisiklik_mevsim:['C Vitamini','Kara Mürver (Sambucus)','Çinko'],
   bagisiklik_sik:['Beta Glukan','Propolis','Çinko'],
   bagisiklik_onlem:['D Vitamini','C Vitamini'],
-  kadin_vajinal:['Kadın','Probiyotik ve Prebiyotik'],
-  kadin_idrar:['Turna Yemişi (Cranberry)','Kadın'],
-  kadin_pms:['Kadın','Magnezyum'],
-  kadin_hormonal:['Kadın','Folik Asit (B9 Vitamini)'],
+  kadin_vajinal:['Kadın Sağlığı','Probiyotik ve Prebiyotik'],
+  kadin_idrar:['Turna Yemişi (Cranberry)','Kadın Sağlığı'],
+  kadin_pms:['Kadın Sağlığı','Magnezyum'],
+  kadin_hormonal:['Kadın Sağlığı','Folik Asit (B9 Vitamini)'],
   // 12 Tem 2026: her detay cevabı ürün seçimini etkilesin (21 eksik kombinasyon eklendi)
   eklem_agri:['Glukozamin','Kemik ve Eklem Sağlığı','Eklem ve Kemik Sağlığı'],
   eklem_esneklik:['Kolajen Takviyeleri','Hidrolize Kolajen','Glukozamin'],
@@ -1639,12 +1632,12 @@ const detailBias = {
   beyin_konsantrasyon:['Omega 3','Beyin ve Hafıza'],
   beyin_hafiza:['Ginkgo Biloba','Beyin ve Hafıza'],
   beyin_berraklik:['Beyin ve Hafıza','Omega 3'],
-  goz_ekran:['Göz'],
-  goz_kuruluk:['Göz Damlası','Göz'],
-  goz_genel:['Göz'],
-  kilo_yakim:['L-Karnitin','Metabolizma ve Kilo & Form'],
-  kilo_istah:['Metabolizma ve Kilo & Form'],
-  kilo_metabolizma:['Metabolizma ve Kilo & Form','L-Karnitin'],
+  goz_ekran:['Göz Sağlığı'],
+  goz_kuruluk:['Göz Damlası','Göz Sağlığı'],
+  goz_genel:['Göz Sağlığı'],
+  kilo_yakim:['L-Karnitin','Metabolizma ve Kilo Yönetimi'],
+  kilo_istah:['Metabolizma ve Kilo Yönetimi'],
+  kilo_metabolizma:['Metabolizma ve Kilo Yönetimi','L-Karnitin'],
   sporcu_kas:['Sporcu Takviyeleri','L-Arjinin'],
   sporcu_dayaniklilik:['L-Karnitin','Sporcu Takviyeleri'],
   sporcu_toparlanma:['Sporcu Takviyeleri','L-Karnitin'],
@@ -1735,15 +1728,10 @@ function renderProducts(){
   // kullandığı ürünler plana OTOMATİK EKLENMEZ (yeniden önerme). Sadece yazarak
   // açıkça istediği ürünler (typedProducts) pinlenir.
   // Yazarak eklenen ürünler → katalogda bulunursa TAM O ÜRÜN plana pinlenir
-  /* 22 Eyl 2026 (kullanıcı: "kullandığı ürünler için AYRICA öner aynılarından; asıl
-     öneriler kullanmadıklarından, ihtiyacına en etkili"): kullandığı içerikler ana plana
-     GİRMEZ, ayrı "Kullandıklarınızın devamı" bölümünde sunulur; yazdığı ürünler de orada. */
-  const usedCats=new Set((state.currentProducts||[]).filter(v=>v&&v!=='Diğer'));
-  const devamSet=[]; _devamSet=devamSet;
   if(state.typedProducts && state.typedProducts.length){
     for(const txt of state.typedProducts){
       const hit=findProductByText(txt);
-      if(hit&&(hit.stock||0)>0&&!devamSet.some(x=>x.slug===hit.slug)){usedCats.add(hit.cat);devamSet.push({...hit,_fromCat:hit.cat,_devam:'Yazdığınız ürün'});}
+      if(hit) needGroups.push({need:'yenileme', cats:[hit.cat], pin:hit.slug});
     }
   }
 
@@ -1755,7 +1743,6 @@ function renderProducts(){
     const n=p.name||'';
     if(state.who!=='hamile' && /hamile|gebelik|pregna|prenatal|lohusa/i.test(n)) return false;
     if(state.who!=='cocuk' && /bebek|bebe |kids|çocuk|cocuk|junior|pediatr/i.test(n)) return false;
-    if(/\b(men|women|erkek|kadın|kadin)\b/i.test(n)) return false; // cinsiyet sorulmuyor → cinsiyete özel ürün otomatik seçilmez (22 Eyl)
     return true;
   }
 
@@ -1846,14 +1833,10 @@ function renderProducts(){
 
   // Madde-bazlı dedup: aynı içerik (ör. iki C vitamini / iki magnezyum, farklı marka) iki kez girmesin
   const usedIng=new Set();
-  const ING_SIGNS=['krill','c vitamini','d vitamini','d3','b12','b kompleks','b vitamin','magnezyum','çinko','omega','balık yağı','biotin','kolajen','demir','koenzim q10','q10','probiyotik','multivitamin','kalsiyum','k2','folik','ginkgo','glukozamin','melatonin','propolis','beta glukan','kara mürver','resveratrol','selenyum','l-karnitin','lutein'];
+  const ING_SIGNS=['c vitamini','d vitamini','d3','b12','b kompleks','b vitamin','magnezyum','çinko','omega','balık yağı','biotin','kolajen','demir','koenzim q10','q10','probiyotik','multivitamin','kalsiyum','k2','folik','ginkgo','glukozamin','melatonin','propolis','beta glukan','kara mürver','resveratrol','selenyum','l-karnitin','lutein'];
   function ingsOf(p){const n=(p.name||'').toLowerCase();const f=ING_SIGNS.filter(s=>n.includes(s));const c=(p._fromCat||'').toLowerCase();if(c)f.push('cat:'+c);return f.length?f:['?'+n.slice(0,14)];}
   function hasDupIng(p){return ingsOf(p).some(s=>usedIng.has(s));}
   function markIng(p){ingsOf(p).forEach(s=>usedIng.add(s));}
-  // 22 Eyl 2026: kullandığı içerikler (ör. Magnezyum) başka kategoriden de (Stres ve Uyku) plana giremez
-  usedCats.forEach(function(cat){const c=cat.toLowerCase();ING_SIGNS.forEach(function(sg){if(c.includes(sg))usedIng.add(sg);});
-    usedIng.add('cat:'+c);
-    if(c.includes('omega')){usedIng.add('balık yağı');usedIng.add('krill');usedIng.add('cat:balık yağı');} if(c.includes('d vitamini')){usedIng.add('d3');} if(c.includes('probiyotik')){usedIng.add('probiyotik');}});
 
   // Her ihtiyaç için en alakalı (detay-biaslı) uygun ürün — içerik tekrarından kaçın
   function pickValue(group){
@@ -1868,21 +1851,7 @@ function renderProducts(){
         }
       }
     }
-    // AI ana seçimi (10 Eyl 2026): sunucu 'ne işe yarar' özetlerine bakarak seçti → sabitlenir
-    const _ai=_aiNeeds&&_aiNeeds[group.need];
-    if(_ai&&_ai.ana&&_ai.ana.length){
-      for(const a of _ai.ana){
-        const hit=_findSlug(a.slug, group.cats);
-        if(hit&&(usedCats.has(hit.cat)||hasDupIng({...hit.p,_fromCat:hit.cat}))) continue;
-        if(hit&&!pickedSlugs.has(hit.p.slug)&&(hit.p.stock||0)>0){
-          const cand={...hit.p,_fromCat:hit.cat,_pinned:true,_ai:true};
-          pickedSlugs.add(hit.p.slug); markIng(cand);
-          return {need:group.need, reason:a.why||getCategoryReason(hit.cat, group.need), value:cand};
-        }
-      }
-    }
-    let pool=poolFor(group.cats);
-    if(usedCats.size){const alt=pool.filter(p=>!usedCats.has(p._fromCat)); if(alt.length) pool=alt; else return null;}
+    const pool=poolFor(group.cats);
     if(!pool.length) return null;
     // aynı içerikte: önce stok bucket (bol olan), sonra uygun fiyat — etkinlik korunur, OOS riski düşer
     const _sb=x=>{const s=x.stock||0;return s>=10?2:(s>=4?1:0);};
@@ -1924,33 +1893,11 @@ function renderProducts(){
     return null;
   }
 
-  // AI seçim isteği (bir kez): her ihtiyaç için en iyi 8 aday → /api/analiz/secim
-  if(!window.__eeAi){
-    window.__eeAi={p:null,r:null,done:false};
-    try{
-      const _payload={who:state.who, form:state.form||'', detail:state.details||{}, kullanilan:Array.from(usedCats).concat(state.typedProducts||[]).slice(0,12),
-        needs:needGroups.filter(g=>!g.pin).slice(0,6).map(g=>({need:g.need, reason:getCategoryReason(g.cats[0],g.need)||'',
-          cands:poolFor(g.cats).slice(0,8).map(p=>({slug:p.slug,name:p.name,brand:p.brand||'',cat:p._fromCat,price:p.discount_price||p.price}))}))};
-      if(_payload.needs.some(n=>n.cands.length)){
-        window.__eeAi.p=fetch('https://whatsapp-chatbot-production-9af2.up.railway.app/api/analiz/secim',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(_payload)})
-          .then(r=>r.json()).then(j=>{if(j&&j.success&&j.needs){window.__eeAi.r=j;}return j;}).catch(()=>null);
-      }
-    }catch(e){}
-  }
-  const _aiNeeds=(window.__eeAi&&window.__eeAi.r&&window.__eeAi.r.needs)||null;
-  function _findSlug(slug, cats){
-    for(const cat of (cats||[])){const p=(quizData.categories[cat]||[]).find(x=>x.slug===slug);if(p)return {p,cat};}
-    for(const cat in quizData.categories){const p=quizData.categories[cat].find(x=>x.slug===slug);if(p)return {p,cat};}
-    return null;
-  }
-  // Öncelik: AI'nın etki sırası (siralama) varsa o; ana plan en fazla 5 ürün (8 ihtiyaç = 8 ürün "bunaltıcı"ydı)
-  const _sira=(window.__eeAi&&window.__eeAi.r&&window.__eeAi.r.siralama)||null;
-  const orderedGroups=_sira?needGroups.slice().sort((a,b)=>{const ia=_sira.indexOf(a.need),ib=_sira.indexOf(b.need);return (ia<0?99:ia)-(ib<0?99:ib);}):needGroups;
   const pairs=[];
-  for(const g of orderedGroups){
+  for(const g of needGroups){
     const pr=pickValue(g);
     if(pr) pairs.push(pr);
-    if(pairs.length>=5) break;
+    if(pairs.length>=6) break;
   }
 
   if(!pairs.length){
@@ -1982,38 +1929,12 @@ function renderProducts(){
     }
   }
 
-  // AI ikinci ANA ürün (ihtiyaç iki farklı işlev gerektiriyorsa) → Temel plana
-  if(_aiNeeds){
-    for(const g of needGroups){
-      const a=_aiNeeds[g.need]; if(!a||!a.ana||a.ana.length<2) continue;
-      const x=a.ana[1]; if(valueSet.some(p=>p.slug===x.slug)) continue;
-      const hit=_findSlug(x.slug, g.cats);
-      if(hit&&!pickedSlugs.has(hit.p.slug)&&(hit.p.stock||0)>0&&!hasDupIng({...hit.p,_fromCat:hit.cat})){
-        const cand={...hit.p,_fromCat:hit.cat,_pinned:true,_ai:true,_need:g.need,_reason:x.why||getCategoryReason(hit.cat,g.need)};
-        pickedSlugs.add(hit.p.slug); markIng(cand); valueSet.push(cand);
-      }
-    }
-  }
   // Tam Plan: Temel'in tümü + kofaktör sinerji ürünleri (alakalı, orantılı)
   const premiumSet=valueSet.map(p=>({...p, _new:false}));
   const inSet=new Set(premiumSet.map(p=>p.slug));
-  // AI DESTEKLEYİCİ ürünler (her ihtiyaç için en fazla 2) — kofaktörlerden önce, sabitlenmiş
-  if(_aiNeeds){
-    for(const g of needGroups){
-      const a=_aiNeeds[g.need]; if(!a||!a.destek) continue;
-      for(const x of a.destek.slice(0,2)){
-        if(inSet.has(x.slug)) continue;
-        const hit=_findSlug(x.slug, g.cats);
-        if(!hit||(hit.p.stock||0)<=0||pickedSlugs.has(hit.p.slug)||hasDupIng({...hit.p,_fromCat:hit.cat})) continue;
-        pickedSlugs.add(hit.p.slug); markIng({...hit.p,_fromCat:hit.cat});
-        premiumSet.push({...hit.p,_fromCat:hit.cat,_need:g.need,_reason:x.why||getCategoryReason(hit.cat,g.need),_new:true,_pinned:true,_ai:true});
-        inSet.add(hit.p.slug);
-      }
-    }
-  }
   // Odaklı Tam Plan: temelden birkaç sinerji ürünü fazlası — 10+ ürün "en etkili" değil,
   // bunaltıcı + içerik tekrarı (B12+B kompleks+multivitamin). Net upgrade, şişkin değil.
-  const maxPrem=Math.min(7, valueSet.length+2);
+  const maxPrem=Math.min(8, valueSet.length+3);
   for(const p of valueSet){
     if(premiumSet.length>=maxPrem) break;
     let cofs=COFACTORS[p._fromCat]||[];
@@ -2115,12 +2036,6 @@ function renderProducts(){
     }
   })();
 
-  // Kullandıklarınızın devamı: kullandığı her içerik için aynı türden 1 ürün (plan DIŞI, sayılmaz)
-  usedCats.forEach(function(cat){
-    if(devamSet.some(x=>x._fromCat===cat)) return;
-    const cs=scoreCandidates(quizData.categories[cat]||[], cat).filter(p=>(p.stock||0)>0&&_segOk(p)&&!pickedSlugs.has(p.slug));
-    if(cs.length) devamSet.push({...cs[0],_fromCat:cat,_devam:'Kullandığınız: '+cat});
-  });
   // Tam Plan tavanı: çok-ihtiyaçlı senaryoda bile makul kalsın (~4.500). Sadece premium-only ekstraları indir/trimle.
   (function enforceTamBand(){
     var HI=4500;
@@ -2186,44 +2101,47 @@ const NEED_HEADER={
   bulanti:'Bulantı desteği için',temel:'Günlük temel destek',kan:'Kan testine göre',diger:'Size özel',yenileme:'Düzenli kullandıklarınız'
 };
 function needHeader(n){return NEED_HEADER[n]||'Size özel öneri';}
-const GOAL_SHORT={bagisiklik:'Bağışıklık',enerji:'Enerji',uyku:'Uyku',cilt:'Cilt',sac:'Saç',sindirim:'Sindirim',eklem:'Eklem & Kemik',kalp:'Kalp & Damar',beyin:'Hafıza',hafiza:'Hafıza',goz:'Göz',kilo:'Kilo',kadin:'Kadın',multivitamin:'Multivitamin',sporcu:'Sporcu',longevity:'Longevity',multi:'Çocuk',kemik:'Kemik',dis:'Diş',gunes:'Güneş Koruma',vitamin:'Hamilelik',demir:'Demir',omega:'Omega-3',bulanti:'Bulantı',kan:'Kan testi',yenileme:'Yenileme'};
+const GOAL_SHORT={bagisiklik:'Bağışıklık',enerji:'Enerji',uyku:'Uyku',cilt:'Cilt',sac:'Saç',sindirim:'Sindirim',eklem:'Eklem & Kemik',kalp:'Kalp & Damar',beyin:'Hafıza',hafiza:'Hafıza',goz:'Göz',kilo:'Kilo',kadin:'Kadın Sağlığı',multivitamin:'Multivitamin',sporcu:'Sporcu',longevity:'Longevity',multi:'Çocuk',kemik:'Kemik',dis:'Diş',gunes:'Güneş Koruma',vitamin:'Hamilelik',demir:'Demir',omega:'Omega-3',bulanti:'Bulantı',kan:'Kan testi',yenileme:'Yenileme'};
 
 // Sonuç odaklı satış: hayal edilen sonuç (dream) + mevcut sorun (pain)
 const OUTCOME={
-  bagisiklik:{dream:'Bağışıklık rutininiz için seçilmiş içerikler'},
-  enerji:{dream:'Enerji hedefiniz için günlük destek rutini'},
-  uyku:{dream:'Akşam rutininiz için rahatlatıcı seçenekler'},
-  cilt:{dream:'Cilt tipinize uygun günlük bakım rutini'},
-  sac:{dream:'Saç ve tırnak bakım rutininiz için seçilmiş içerikler'},
-  sindirim:{dream:'Sindirim rutininiz için seçilmiş içerikler'},
-  eklem:{dream:'Hareketli yaşam için eklem ve kemik rutini'},
-  kalp:{dream:'Kalp dostu yaşam tarzınıza eşlik eden içerikler'},
-  beyin:{dream:'Odak ve zihinsel performans rutini'},
-  hafiza:{dream:'Odak ve zihinsel performans rutini'},
-  goz:{dream:'Ekran yoğun günler için göz rutini'},
-  kilo:{dream:'Form hedefinize eşlik eden beslenme destekleri'},
-  kadin:{dream:'Kadınlara özel günlük rutin'},
-  multivitamin:{dream:'Günlük vitamin ve mineral rutini'},
-  sporcu:{dream:'Antrenman rutininize uygun sporcu besinleri'},
-  longevity:{dream:'Uzun vadeli sağlıklı yaşam rutini'},
-  multi:{dream:'Çocuğunuz için günlük vitamin rutini'},
-  kemik:{dream:'Kemik rutininiz için seçilmiş içerikler'},
-  dis:{dream:'Diş ve diş eti bakım rutini'},
-  gunes:{dream:'Güneş koruma rutini'},
-  vitamin:{dream:'Hamilelik dönemi için uygun içerikler'},
-  demir:{dream:'Demir içeren günlük rutin'},
-  omega:{dream:'Omega-3 içeren günlük rutin'},
-  bulanti:{dream:'Hamilelik döneminiz için uygun seçenekler'},
-  diger:{dream:'Anlattığınız ihtiyaca göre seçilmiş içerikler'}
+  bagisiklik:{dream:'Güçlü, dirençli ve sağlam bir bağışıklık'},
+  enerji:{dream:'Sabahtan akşama yüksek enerji — öğleden sonra çöküşe son'},
+  uyku:{dream:'Gece deliksiz uyu, sabah dinlenmiş ve zinde uyan'},
+  cilt:{dream:'Aynaya baktığında ışıldayan, pürüzsüz ve sağlıklı bir cilt'},
+  sac:{dream:'Dökülmesi duran, gürleşen ve yeniden canlanan saçlar'},
+  sindirim:{dream:'Şişkinlik olmadan hafif, rahat ve düzenli bir sindirim'},
+  eklem:{dream:'Ağrı olmadan rahatça hareket et — esnek, güçlü eklemler'},
+  kalp:{dream:'Güçlü bir kalp ve sağlıklı damarlarla için rahat'},
+  beyin:{dream:'Berrak bir zihin, güçlü hafıza ve keskin odak'},
+  hafiza:{dream:'Berrak bir zihin, güçlü hafıza ve keskin odak'},
+  goz:{dream:'Ekran karşısında yorulmayan, net gören dinç gözler'},
+  kilo:{dream:'Hızlanan metabolizmayla hedef kilona daha kolay ulaş'},
+  kadin:{dream:'Dengeli, güçlü ve kendini iyi hissettiren bir kadın sağlığı'},
+  multivitamin:{dream:'Günün her ihtiyacınızı karşılayan eksiksiz günlük destek'},
+  sporcu:{dream:'Daha güçlü performans, antrenman sonrası daha hızlı toparlanma'},
+  longevity:{dream:'Daha uzun, dinç ve genç bir yaşam — hücreden yenilen'},
+  multi:{dream:'Çocuğunun sağlıklı, güçlü ve dinç gelişimi'},
+  kemik:{dream:'Yıllar geçse de güçlü, dayanıklı kemikler'},
+  dis:{dream:'Sağlıklı, güçlü dişler ve sağlam diş etleri'},
+  gunes:{dream:'Güneşe karşı tam korunan, lekesiz ve sağlıklı bir cilt'},
+  vitamin:{dream:'Sağlıklı bir hamilelik ve sağlıklı gelişen bebek'},
+  demir:{dream:'Halsizliği geride bırak — demir deposu dolu, enerjik bir beden'},
+  omega:{dream:'Kalbin, beynin ve gözlerin için güçlü omega-3 desteği'},
+  bulanti:{dream:'Bulantısız, daha konforlu bir hamilelik dönemi'},
+  temel:{dream:'Eksiksiz koruma — vücudun baştan sona güçlü ve dinç'},
+  kan:{dream:'Kan testindeki eksikleri tam ve hedefli kapat'},
+  yenileme:{dream:'Düzenli kullandığınız ürünler — planınızda eksiksiz devam'},
+  diger:{dream:'Size özel seçilmiş, hedefinize uygun destek'}
 };
-function outcomeOf(n){return OUTCOME[n]||{dream:'Günlük sağlık rutininiz için temel destek',pain:''};}
+function outcomeOf(n){return OUTCOME[n]||{dream:'Sağlığını bir üst seviyeye taşı',pain:''};}
 
 // Empati: kişinin cevaplarını birebir yansıt — "anlaşıldım" hissi (önce problem, sonra çözüm)
 const PAIN_REFLECT={
-  bagisiklik:'bağışıklık rutini oluşturmak istiyorsunuz',
+  bagisiklik:'bağışıklığınızı güçlendirmek istiyorsunuz',
   bagisiklik_mevsim:'mevsim geçişlerinde direnciniz düşüyor',
   bagisiklik_sik:'sık sık hastalanıyorsunuz',
-  bagisiklik_onlem:'önlem amaçlı bir rutin istiyorsunuz',
+  bagisiklik_onlem:'bağışıklığınızı korumak istiyorsunuz',
   enerji:'daha enerjik olmak istiyorsunuz',
   enerji_sabah:'sabahları zor kalkıyorsunuz',
   enerji_ogleden:'öğleden sonra enerjiniz çöküyor',
@@ -2233,47 +2151,47 @@ const PAIN_REFLECT={
   uyku_bolunme:'gece sık sık uyanıyorsunuz',
   uyku_yorgun:'uyusan da yorgun uyanıyorsunuz',
   uyku_stres:'stres yüzünden huzursuz uyuyorsunuz',
-  cilt:'cilt bakımınızı düzenlemek istiyorsunuz',
+  cilt:'cildinizi iyileştirmek istiyorsunuz',
   cilt_kuru:'cildiniz kuru ve gergin',
   cilt_yagli:'cildiniz yağlı ve sivilceye eğilimli',
   cilt_karma:'karma cildinizi dengelemek istiyorsunuz',
   cilt_hassas:'cildiniz hassas ve kolay kızarıyor',
-  sac:'saç bakım rutini istiyorsunuz',
+  sac:'saçlarınızı güçlendirmek istiyorsunuz',
   sac_dokulme:'saçlarınız dökülüyor ve inceliyor',
   sac_kepek:'kepek ve kaşıntı sizi rahatsız ediyor',
   sac_parlaklik:'saçlarınız cansız ve mat',
-  sac_genel:'saç, cilt ve tırnak bakımı istiyorsunuz',
-  sindirim:'sindirim rutininizi düzenlemek istiyorsunuz',
+  sac_genel:'saç, cilt ve tırnaklarını güçlendirmek istiyorsunuz',
+  sindirim:'sindirimini rahatlatmak istiyorsunuz',
   sindirim_siskinlik:'yemek sonrası şişkinlik yaşıyorsunuz',
   sindirim_kabizlik:'sindirimin düzensiz',
   sindirim_reflu:'mide hassasiyetin var',
-  sindirim_flora:'probiyotik içeren bir rutin istiyorsunuz',
-  eklem:'hareketli yaşamınız için bir rutin istiyorsunuz',
+  sindirim_flora:'bağırsak floranı desteklemek istiyorsunuz',
+  eklem:'eklemlerini korumak istiyorsunuz',
   eklem_agri:'eklemleriniz ağrıyor',
   eklem_esneklik:'hareketlerinde kısıtlılık var',
-  eklem_onlem:'eklem ve kemik rutini istiyorsunuz',
-  kalp:'kalp dostu bir rutin istiyorsunuz',
+  eklem_onlem:'eklem ve kemik sağlığını korumak istiyorsunuz',
+  kalp:'kalp sağlığını korumak istiyorsunuz',
   kalp_kolesterol:'kolesterolünüzü dengede tutmak istiyorsunuz',
   kalp_tansiyon:'tansiyonunuzu desteklemek istiyorsunuz',
-  kalp_genel:'kalp dostu bir yaşam rutini istiyorsunuz',
+  kalp_genel:'kalp ve damar sağlığını korumak istiyorsunuz',
   beyin:'zihinsel performansını artırmak istiyorsunuz',
   beyin_konsantrasyon:'odaklanmakta zorlanıyorsunuz',
   beyin_hafiza:'unutkanlık yaşıyorsunuz',
   beyin_berraklik:'zihniniz bulanık hissettiriyor',
-  goz:'gözleriniz için bir rutin istiyorsunuz',
+  goz:'göz sağlığını korumak istiyorsunuz',
   goz_ekran:'gözleriniz ekrandan yoruluyor',
   goz_kuruluk:'gözleriniz kuru ve yanıyor',
-  goz_genel:'gözleriniz için bir rutin istiyorsunuz',
+  goz_genel:'göz sağlığını korumak istiyorsunuz',
   kilo:'kilonuzu yönetmek istiyorsunuz',
   kilo_yakim:'yağ yakmakta zorlanıyorsunuz',
   kilo_istah:'iştahınızı kontrol etmek istiyorsunuz',
   kilo_metabolizma:'metabolizmanız yavaş çalışıyor',
-  kadin:'kadınlara özel bir rutin istiyorsunuz',
+  kadin:'kadın sağlığını desteklemek istiyorsunuz',
   kadin_vajinal:'pH dengesi, mantar veya kaşıntı sizi zorluyor',
   kadin_idrar:'sık idrar yolu sıkıntısı yaşıyorsunuz',
   kadin_pms:'regl döneminde ağrı ve şişkinlik çekiyorsunuz',
   kadin_hormonal:'hormonal denginizi düzenlemek istiyorsunuz',
-  multivitamin:'genel bir günlük rutin istiyorsunuz',
+  multivitamin:'genel sağlığını desteklemek istiyorsunuz',
   multivitamin_eksiklik:'vitamin eksikliğin var',
   multivitamin_genel:'günlük temel desteğe ihtiyacınız var',
   multivitamin_yas:'yaşına uygun bir destek arıyorsunuz',
@@ -2298,7 +2216,7 @@ function painReflect(){
   else list=parts.slice(0,-1).join(', ')+' ve '+parts[parts.length-1];
   // ilk harfi büyüt
   list=list.charAt(0).toLocaleUpperCase('tr-TR')+list.slice(1);
-  return list+'. Planınızı bu tercihlerinize göre hazırladık; sağlık durumunuzla ilgili kararlar için hekiminize danışınız.';
+  return list+'. Planınızı tam bunun için, size göre hazırladık.';
 }
 
 // Ürün adından kullanım zamanı + nasıl kuralı (yerleşik, genel geçer bilgiler).
@@ -2485,7 +2403,7 @@ function recomputePlan(){
       '<div style="font-size:14px;font-weight:700;color:#1a1a1a;line-height:1.3;">'+esc(o.dream)+'</div>'+
     '</div>';
   });
-  ben.innerHTML='<div style="font-size:12px;font-weight:800;color:#0a4c32;text-transform:uppercase;letter-spacing:.4px;margin-bottom:2px;">Planınız hangi hedeflerinize göre seçildi</div>'+rows;
+  ben.innerHTML='<div style="font-size:12px;font-weight:800;color:#0a4c32;text-transform:uppercase;letter-spacing:.4px;margin-bottom:2px;">Bu plan size ne kazandırır</div>'+rows;
   grid.appendChild(ben);
 
   // Eğitici uyarı + teşvik: çoğu kişi doğal yolla yeterince alamıyor
@@ -2518,26 +2436,14 @@ function recomputePlan(){
 
   // Kullandığı takviyeler plana girdiyse bunu görünür söyle (sayı verme —
   // kofaktörler de yenileme etiketi taşıyabiliyor, yanlış sayı güven kırar)
-  // Kullandıklarınızın devamı: kullandığı her içerik için aynı türden 1 ürün (plan DIŞI, sayılmaz)
-  (function(){
-    const devamSet=_devamSet||[];
-    if(!devamSet.length) return;
-    const box=document.createElement('div');
-    box.style.cssText='margin:14px 0 4px;padding:14px 16px;background:#fff;border:1.5px solid #cfe5d8;border-radius:12px;';
-    window._devamSecili=window._devamSecili||{};
-    let rows='';
-    devamSet.slice(0,6).forEach(function(p){
-      const pr=p.discount_price||p.price, on=!!window._devamSecili[p.slug];
-      rows+='<label style="display:flex;align-items:center;gap:10px;padding:8px 0;border-top:1px solid #f0f4f1;color:#1a1a1a;cursor:pointer;">'
-        +'<input type="checkbox" '+(on?'checked':'')+' onchange="toggleDevam(\''+esc(p.slug)+'\',this.checked)" style="width:18px;height:18px;accent-color:#0a4c32;flex-shrink:0;">'
-        +'<div style="width:44px;height:44px;flex-shrink:0;border:1px solid #e5e7eb;border-radius:8px;background:#fff;display:flex;align-items:center;justify-content:center;overflow:hidden;"><img src="'+esc(p.image||'')+'" alt="" loading="lazy" style="width:100%;height:100%;object-fit:contain;"></div>'
-        +'<div style="flex:1;min-width:0;"><div style="font-size:13px;font-weight:700;line-height:1.3;">'+esc(p.name||'')+'</div><div style="font-size:11px;color:#6b7280;">'+esc(p._devam||'')+'</div></div>'
-        +'<div style="font-weight:800;color:#0a4c32;font-size:13.5px;white-space:nowrap;">'+fmt(pr)+'</div></label>';
-    });
-    box.innerHTML='<div style="font-weight:800;color:#0a4c32;font-size:13.5px;">&#8635; Kullandıklarınızın devamı</div>'
-      +'<div style="font-size:12px;color:#6b7280;margin:2px 0 6px;line-height:1.45;">Düzenli kullandığınız takviyeler planınıza tekrar eklenmedi. Yenilemek istediklerinizi işaretleyin, planınızla birlikte sepete eklensin:</div>'+rows;
-    grid.appendChild(box);
-  })();
+  const _hasRenewal=((state.currentProducts&&state.currentProducts.length)||(state.typedProducts&&state.typedProducts.length))
+    && tierSet.some(function(p){return p._need==='yenileme';});
+  if(_hasRenewal){
+    const rn=document.createElement('div');
+    rn.style.cssText='margin:10px 0 0;padding:10px 14px;background:#eef6f1;border:1px solid #cfe5d8;border-radius:10px;font-size:12.5px;color:#0a4c32;font-weight:700;';
+    rn.innerHTML='&#10003; Düzenli kullandığınız takviyeleri de planınıza ekledik — tek sepette tamamlayın.';
+    grid.appendChild(rn);
+  }
 
   // Fiyat kademeleri + kür upsell — value/fayda gösterildikten SONRA (most conversion)
   if(tierSeg) grid.appendChild(tierSeg);
@@ -2572,8 +2478,6 @@ function buyNow(ev){
   var btn = ev && ev.currentTarget ? ev.currentTarget : null;
   var prods = (typeof selectedProductsFromPlan==='function') ? selectedProductsFromPlan() : [];
   var items = (prods||[]).filter(function(p){return p&&p.slug;}).map(function(p){return {slug:p.slug, qty:(p._qty||1), name:p.name};});
-  // 22 Eyl 2026: "Kullandıklarınızın devamı"nda işaretlenenler de sepete (planın dışında, isteğe bağlı)
-  try{(_devamSet||[]).forEach(function(p){ if(window._devamSecili&&window._devamSecili[p.slug]&&!items.some(function(i){return i.slug===p.slug;})) items.push({slug:p.slug,qty:1,name:p.name}); });}catch(e){}
   if(!items.length){ _waFallback(); return; }
   _buying=true;
   var orig = btn ? btn.innerHTML : '';
@@ -2597,7 +2501,6 @@ function buyNow(ev){
     })
     .catch(function(){ _buying=false; if(btn) btn.innerHTML=orig; _waFallback(); });
 }
-function toggleDevam(slug,on){window._devamSecili=window._devamSecili||{};if(on)window._devamSecili[slug]=1;else delete window._devamSecili[slug];}
 function selectTier(t){
   const plan=window._plan;
   if(!plan) return;
@@ -2647,11 +2550,11 @@ const BUNDLE_UPSELL_MAP = {
          {key:'yaslanma-karsiti-paketi',name:'Yaşlanma Karşıtı Bakım',problem:'Yaşlanma Karşıtı',discount:10,product_count:3,slug:'yaslanma-karsiti-paketi'}],
   sac: [{key:'sac-dokulmesi-paketi',name:'Saç Dökülmesi Paketi',problem:'Saç Dökülmesi ve İncelmesi',discount:10,product_count:4,slug:'sac-dokulmesi-paketi'}],
   bagisiklik: [{key:'bagisiklik-paketi',name:'Bağışıklık Destek Paketi',problem:'Zayıf Bağışıklık',discount:12,product_count:4,slug:'bagisiklik-paketi'}],
-  sindirim: [{key:'sindirim-sagligi-paketi',name:'Sindirim Paketi',problem:'Sindirim Sorunları',discount:10,product_count:3,slug:'sindirim-sagligi-paketi'}],
+  sindirim: [{key:'sindirim-sagligi-paketi',name:'Sindirim Sağlığı Paketi',problem:'Sindirim Sorunları',discount:10,product_count:3,slug:'sindirim-sagligi-paketi'}],
   enerji: [{key:'enerji-paketi',name:'Enerji ve Canlılık Paketi',problem:'Kronik Yorgunluk',discount:10,product_count:3,slug:'enerji-paketi'},
            {key:'hucresel-saglik-paketi',name:'Hücresel Sağlık Paketi',problem:'Hücresel Enerji',discount:10,product_count:3,slug:'hucresel-saglik-paketi'}],
   eklem: [{key:'eklem-kemik-paketi',name:'Eklem & Kemik Destek Paketi',problem:'Eklem ve Kemik Sağlığı',discount:10,product_count:3,slug:'eklem-kemik-paketi'}],
-  kilo: [{key:'kilo-verme-paketi',name:'Kilo Verme Destek Paketi',problem:'Kilo & Form',discount:10,product_count:3,slug:'kilo-verme-paketi'}],
+  kilo: [{key:'kilo-verme-paketi',name:'Kilo Verme Destek Paketi',problem:'Kilo Yönetimi',discount:10,product_count:3,slug:'kilo-verme-paketi'}],
   vajinal: [{key:'vajinal-saglik-paketi',name:'Vajinal Sağlık Paketi',problem:'Vajinal Sağlık',discount:10,product_count:3,slug:'vajinal-saglik-paketi'}],
   bebek: [{key:'yenidogan-hediye-seti',name:'Yenidoğan Bebek Hediye Seti',problem:'Yenidoğan Bakımı',discount:8,product_count:3,slug:'yenidogan-hediye-seti'}],
 };
