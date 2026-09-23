@@ -7896,7 +7896,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 221
+        "stock": 220
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -11538,23 +11538,6 @@
           "Magnezyum Sitrat",
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
-        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
-        "brand": "Solgar",
-        "price": 678.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "B Vitaminleri"
         ],
         "stock": 2
       },
@@ -18387,7 +18370,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Minion Mavi Stres Topu",
@@ -21611,22 +21594,7 @@
         "stock": 11
       },
       {
-        "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
-        "slug": "ocean-methyl-b12-1000-mcg-dilalti-sprey-5-ml-sise",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89d7471d-9111-43a1-a270-9c3b1d07286e/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Ocean Methyl B12 1000 mcg Sprey",
+        "name": "Ocean Methyl B12 1000 mcg Sprey 15 ml",
         "slug": "ocean-methyl-b12-1000-mcg-sprey",
         "brand": "Ocean",
         "price": 547.5,
@@ -21641,40 +21609,7 @@
         "stock": 24
       },
       {
-        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
-        "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "B3 Vitamini (Niasin)",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Orzax Ocean Metil B12 Dilaltı Sprey 1000 mcg",
-        "slug": "orzax-ocean-metil-b12-dilalti-sprey-1000-mcg",
-        "brand": "Orzax",
-        "price": 487.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0096e492-35ce-4af6-bcf8-5070c1e8365a/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 18
-      },
-      {
-        "name": "Orzax Ocean Metil B12 Dilaltı Sprey 500 mcg",
+        "name": "Ocean Metil B12 Dilaltı Sprey 500 mcg",
         "slug": "orzax-ocean-metil-b12-dilalti-sprey-500-mcg",
         "brand": "Orzax",
         "price": 348.5,
@@ -21690,7 +21625,7 @@
         "stock": 11
       },
       {
-        "name": "Orzax Ocean Metil B12 Dilaltı Sprey 500 mcg",
+        "name": "Ocean Metil B12 Dilaltı Sprey 500 mcg",
         "slug": "orzax-ocean-metil-b12-dilalti-sprey-500-mcg",
         "brand": "Orzax",
         "price": 348.5,
@@ -21746,23 +21681,6 @@
           "Beyin ve Hafıza",
           "Enerji ve Zindelik",
           "Sinir Sistemi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
-        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
-        "brand": "Solgar",
-        "price": 678.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "B Vitaminleri"
         ],
         "stock": 2
       },
@@ -22693,22 +22611,7 @@
         "stock": 6
       },
       {
-        "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
-        "slug": "ocean-methyl-b12-1000-mcg-dilalti-sprey-5-ml-sise",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89d7471d-9111-43a1-a270-9c3b1d07286e/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Ocean Methyl B12 1000 mcg Sprey",
+        "name": "Ocean Methyl B12 1000 mcg Sprey 15 ml",
         "slug": "ocean-methyl-b12-1000-mcg-sprey",
         "brand": "Ocean",
         "price": 547.5,
@@ -22723,23 +22626,20 @@
         "stock": 24
       },
       {
-        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
+        "name": "Ocean Metil B12 Dilaltı Sprey 500 mcg",
+        "slug": "orzax-ocean-metil-b12-dilalti-sprey-500-mcg",
         "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
+        "price": 348.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ee8df8cb-b1ac-4fdf-89b9-2e42a5f0d54e/image_1950.webp",
         "cats": [
-          "B2 Vitamini (Riboflavin)",
+          "B12 Vitamini",
           "B12 Vitamini",
           "Beyin ve Hafıza",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "B3 Vitamini (Niasin)",
-          "Sinir Sistemi"
+          "Çocuk Vitaminleri",
+          "Enerji ve Zindelik"
         ],
-        "stock": 6
+        "stock": 11
       },
       {
         "name": "Ocean Plus Balık Yağı 50 Kapsül",
@@ -22944,36 +22844,6 @@
           "Stres ve Uyku Düzeni"
         ],
         "stock": 14
-      },
-      {
-        "name": "Orzax Ocean Metil B12 Dilaltı Sprey 1000 mcg",
-        "slug": "orzax-ocean-metil-b12-dilalti-sprey-1000-mcg",
-        "brand": "Orzax",
-        "price": 487.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0096e492-35ce-4af6-bcf8-5070c1e8365a/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 18
-      },
-      {
-        "name": "Orzax Ocean Metil B12 Dilaltı Sprey 500 mcg",
-        "slug": "orzax-ocean-metil-b12-dilalti-sprey-500-mcg",
-        "brand": "Orzax",
-        "price": 348.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ee8df8cb-b1ac-4fdf-89b9-2e42a5f0d54e/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Çocuk Vitaminleri",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 11
       },
       {
         "name": "Orzax Ocean Multi Balık Yağı Şurup Vitamin Mineral 150 ml",
@@ -23214,23 +23084,6 @@
           "Stres ve Uyku Düzeni"
         ],
         "stock": 3
-      },
-      {
-        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
-        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
-        "brand": "Solgar",
-        "price": 678.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "B Vitaminleri"
-        ],
-        "stock": 2
       },
       {
         "name": "Solgar Metilkobalamin B12 1000 mcg Dilaltı 30 Tablet",
@@ -23957,6 +23810,22 @@
         "stock": 5
       },
       {
+        "name": "Ocean Metil B12 Dilaltı Sprey 500 mcg",
+        "slug": "orzax-ocean-metil-b12-dilalti-sprey-500-mcg",
+        "brand": "Orzax",
+        "price": 348.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ee8df8cb-b1ac-4fdf-89b9-2e42a5f0d54e/image_1950.webp",
+        "cats": [
+          "B12 Vitamini",
+          "B12 Vitamini",
+          "Beyin ve Hafıza",
+          "Çocuk Vitaminleri",
+          "Enerji ve Zindelik"
+        ],
+        "stock": 11
+      },
+      {
         "name": "Orzax Ocean Gummies Defence 60 Adet",
         "slug": "orzax-ocean-gummies-defence-60-adet",
         "brand": "Orzax",
@@ -23985,22 +23854,6 @@
           "Çocuk Sağlığı"
         ],
         "stock": 8
-      },
-      {
-        "name": "Orzax Ocean Metil B12 Dilaltı Sprey 500 mcg",
-        "slug": "orzax-ocean-metil-b12-dilalti-sprey-500-mcg",
-        "brand": "Orzax",
-        "price": 348.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ee8df8cb-b1ac-4fdf-89b9-2e42a5f0d54e/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Çocuk Vitaminleri",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 11
       },
       {
         "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
@@ -24830,7 +24683,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "NBT Life Endofer Demir Takviyesi 30 Kapsül",
@@ -25291,7 +25144,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -25384,22 +25237,7 @@
         "stock": 11
       },
       {
-        "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
-        "slug": "ocean-methyl-b12-1000-mcg-dilalti-sprey-5-ml-sise",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89d7471d-9111-43a1-a270-9c3b1d07286e/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Ocean Methyl B12 1000 mcg Sprey",
+        "name": "Ocean Methyl B12 1000 mcg Sprey 15 ml",
         "slug": "ocean-methyl-b12-1000-mcg-sprey",
         "brand": "Ocean",
         "price": 547.5,
@@ -25414,23 +25252,20 @@
         "stock": 24
       },
       {
-        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
+        "name": "Ocean Metil B12 Dilaltı Sprey 500 mcg",
+        "slug": "orzax-ocean-metil-b12-dilalti-sprey-500-mcg",
         "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
+        "price": 348.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ee8df8cb-b1ac-4fdf-89b9-2e42a5f0d54e/image_1950.webp",
         "cats": [
-          "B2 Vitamini (Riboflavin)",
+          "B12 Vitamini",
           "B12 Vitamini",
           "Beyin ve Hafıza",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "B3 Vitamini (Niasin)",
-          "Sinir Sistemi"
+          "Çocuk Vitaminleri",
+          "Enerji ve Zindelik"
         ],
-        "stock": 6
+        "stock": 11
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -25501,36 +25336,6 @@
           "Stres ve Uyku Düzeni"
         ],
         "stock": 1
-      },
-      {
-        "name": "Orzax Ocean Metil B12 Dilaltı Sprey 1000 mcg",
-        "slug": "orzax-ocean-metil-b12-dilalti-sprey-1000-mcg",
-        "brand": "Orzax",
-        "price": 487.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0096e492-35ce-4af6-bcf8-5070c1e8365a/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 18
-      },
-      {
-        "name": "Orzax Ocean Metil B12 Dilaltı Sprey 500 mcg",
-        "slug": "orzax-ocean-metil-b12-dilalti-sprey-500-mcg",
-        "brand": "Orzax",
-        "price": 348.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ee8df8cb-b1ac-4fdf-89b9-2e42a5f0d54e/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Çocuk Vitaminleri",
-          "Enerji ve Zindelik"
-        ],
-        "stock": 11
       },
       {
         "name": "Orzax Ocean Microfer Demir Saşe Kolay Emilim 30 Poşet",
@@ -26086,23 +25891,6 @@
           "Enerji ve Zindelik",
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
-        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
-        "brand": "Solgar",
-        "price": 678.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "B Vitaminleri"
         ],
         "stock": 2
       },
@@ -26786,22 +26574,7 @@
         "stock": 11
       },
       {
-        "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
-        "slug": "ocean-methyl-b12-1000-mcg-dilalti-sprey-5-ml-sise",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89d7471d-9111-43a1-a270-9c3b1d07286e/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Enerji ve Zindelik",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Ocean Methyl B12 1000 mcg Sprey",
+        "name": "Ocean Methyl B12 1000 mcg Sprey 15 ml",
         "slug": "ocean-methyl-b12-1000-mcg-sprey",
         "brand": "Ocean",
         "price": 547.5,
@@ -26814,25 +26587,6 @@
           "Sinir Sistemi"
         ],
         "stock": 24
-      },
-      {
-        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
-        "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "B3 Vitamini (Niasin)",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
       },
       {
         "name": "Sjømann’s Vitamin B12 Çiğnenebilir Jel 30 Adet",
@@ -27352,7 +27106,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Gummies Kids Multivitamin Çiğnenebilir Form, Multivitamin ve Multimineral, 60 Adet",
@@ -31338,21 +31092,6 @@
           "Nemlendiriciler"
         ],
         "stock": 3
-      },
-      {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 95.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
       },
       {
         "name": "Veet Professional Krem Promo 200 ml",
@@ -44528,7 +44267,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Microbon K Tablet Kalsiyum Magnezyum K Vitamini Takviyesi 30 Tablet",
@@ -46053,7 +45792,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 221
+        "stock": 220
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -49596,7 +49335,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 221
+        "stock": 220
       },
       {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
@@ -50224,7 +49963,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 221
+        "stock": 220
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -52552,21 +52291,6 @@
           "Nemlendiriciler"
         ],
         "stock": 3
-      },
-      {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 95.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
       },
       {
         "name": "b-good Nemlendirici Vücut Kremi Atopik Ciltler Bebek ve Çocuk 150 ml",
@@ -57138,7 +56862,7 @@
           "Hassas Ciltler İçin",
           "Temizleyiciler"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Bioderma Sensibio H2O Micellar Su 850 ml",
@@ -58193,7 +57917,7 @@
           "Hassas Ciltler İçin",
           "Temizleyiciler"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Bioderma Sensibio H2O Micellar Su 500 ml İkiz Set",
@@ -58208,7 +57932,7 @@
           "Hassas Ciltler İçin",
           "Temizleyiciler"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Bioderma Sensibio H2O Micellar Su 850 ml",
@@ -59412,21 +59136,6 @@
           "Nemlendiriciler"
         ],
         "stock": 3
-      },
-      {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 95.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
       }
     ],
     "Onarıcı El Kremi": [
@@ -60205,7 +59914,7 @@
           "Hassas Ciltler İçin",
           "Temizleyiciler"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Bioderma Sensibio H2O Micellar Su 850 ml",
@@ -65812,21 +65521,6 @@
           "Nemlendiriciler"
         ],
         "stock": 3
-      },
-      {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 95.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
       }
     ],
     "Vitaminler": [
@@ -66095,23 +65789,6 @@
           "Kemik ve Eklem",
           "Vitaminler",
           "Kas ve Kramp"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
-        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
-        "brand": "Solgar",
-        "price": 678.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "B Vitaminleri"
         ],
         "stock": 2
       },
@@ -68198,25 +67875,6 @@
           "B5 Vitamini (Pantotenik Asit)"
         ],
         "stock": 2
-      },
-      {
-        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
-        "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "B3 Vitamini (Niasin)",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -72119,7 +71777,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Marincor Yumuşak Kapsül, Omega-3 (EPA ve DHA) Balık Yağı, 60 Kapsül",
@@ -72715,7 +72373,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 221
+        "stock": 220
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -75463,7 +75121,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Panax Ginseng İçeren Takviye Edici Gıda 60 Kapsül",
@@ -87958,23 +87616,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
-        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
-        "brand": "Solgar",
-        "price": 678.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "B Vitaminleri"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
         "slug": "velavit-nr-nikotinamid-ribozid-kapsul-30-kapsul",
         "brand": "Velavit",
@@ -89025,7 +88666,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -90972,25 +90613,6 @@
         "stock": 2
       },
       {
-        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
-        "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "B3 Vitamini (Niasin)",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
-      },
-      {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "ocean-microfer-kapsul-mikroenkapsule-demir-ve-c-vitamini-iceren",
         "brand": "Orzax",
@@ -91559,26 +91181,59 @@
         "stock": 1
       }
     ],
-    "B2 Vitamini (Riboflavin)": [
+    "Folat (B9 Vitamini)": [
       {
-        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
+        "name": "Ocean Methyl Folat Tablet 30 Tablet",
+        "slug": "ocean-methyl-folat-tablet-30-tablet",
         "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
+        "price": 394.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc6e8c8f-46f6-4fb2-871b-3421a3eef6ed/image_1950.webp",
         "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "B3 Vitamini (Niasin)",
-          "Sinir Sistemi"
+          "Hamilelik Planlama",
+          "Hamilelik ve Emzirme",
+          "Hamilelik ve Emzirme",
+          "Folat (B9 Vitamini)"
         ],
-        "stock": 6
+        "stock": 29
       },
+      {
+        "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
+        "slug": "solgar-folate-as-metafolin-400-mcg-tablet-folat-takviyesi-50-tablet",
+        "brand": "Solgar",
+        "price": 590.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06742538-1da4-43ce-9cfe-c7948fdd388f/image_1950.webp",
+        "cats": [
+          "Hamilelik Planlama",
+          "Folik Asit (B9 Vitamini)",
+          "Hamilelik ve Emzirme",
+          "Hamile Vitamini",
+          "Folat (B9 Vitamini)"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Venatura B-Trio ODT Tablet, B12, Folat ve B6 30 Tablet",
+        "slug": "venatura-b-trio-odt-tablet-b12-folat-ve-b6-30-tablet",
+        "brand": "VeNatura",
+        "price": 290.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a8103e10-6d86-4104-9672-fbec36822669/image_1950.webp",
+        "cats": [
+          "B12 Vitamini",
+          "Vitamin ve Takviye",
+          "Vitaminler",
+          "Enerji ve Zindelik",
+          "B6 Vitamini",
+          "Sinir Sistemi",
+          "Folat (B9 Vitamini)",
+          "B Vitaminleri"
+        ],
+        "stock": 1
+      }
+    ],
+    "B2 Vitamini (Riboflavin)": [
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "ocean-microfer-kapsul-mikroenkapsule-demir-ve-c-vitamini-iceren",
@@ -91614,25 +91269,6 @@
       }
     ],
     "B3 Vitamini (Niasin)": [
-      {
-        "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
-        "slug": "ocean-methyl-b12-500-mcg-dilalti-sprey-b12-vitamini-iceren-takviye",
-        "brand": "Orzax",
-        "price": 424.5,
-        "discount_price": 284.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
-        "cats": [
-          "B2 Vitamini (Riboflavin)",
-          "B12 Vitamini",
-          "Beyin ve Hafıza",
-          "B6 Vitamini (Piridoksin)",
-          "B5 Vitamini (Pantotenik Asit)",
-          "Enerji ve Zindelik",
-          "B3 Vitamini (Niasin)",
-          "Sinir Sistemi"
-        ],
-        "stock": 6
-      },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "ocean-microfer-kapsul-mikroenkapsule-demir-ve-c-vitamini-iceren",
@@ -91681,58 +91317,6 @@
           "Vitaminler",
           "Enerji ve Zindelik",
           "B3 Vitamini (Niasin)",
-          "B Vitaminleri"
-        ],
-        "stock": 1
-      }
-    ],
-    "Folat (B9 Vitamini)": [
-      {
-        "name": "Ocean Methyl Folat Tablet 30 Tablet",
-        "slug": "ocean-methyl-folat-tablet-30-tablet",
-        "brand": "Orzax",
-        "price": 394.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc6e8c8f-46f6-4fb2-871b-3421a3eef6ed/image_1950.webp",
-        "cats": [
-          "Hamilelik Planlama",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Folat (B9 Vitamini)"
-        ],
-        "stock": 29
-      },
-      {
-        "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
-        "slug": "solgar-folate-as-metafolin-400-mcg-tablet-folat-takviyesi-50-tablet",
-        "brand": "Solgar",
-        "price": 590.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06742538-1da4-43ce-9cfe-c7948fdd388f/image_1950.webp",
-        "cats": [
-          "Hamilelik Planlama",
-          "Folik Asit (B9 Vitamini)",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Folat (B9 Vitamini)"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura B-Trio ODT Tablet, B12, Folat ve B6 30 Tablet",
-        "slug": "venatura-b-trio-odt-tablet-b12-folat-ve-b6-30-tablet",
-        "brand": "VeNatura",
-        "price": 290.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a8103e10-6d86-4104-9672-fbec36822669/image_1950.webp",
-        "cats": [
-          "B12 Vitamini",
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Enerji ve Zindelik",
-          "B6 Vitamini",
-          "Sinir Sistemi",
-          "Folat (B9 Vitamini)",
           "B Vitaminleri"
         ],
         "stock": 1
@@ -96116,9 +95700,9 @@
     ]
   },
   "stats": {
-    "total_products": 6143,
+    "total_products": 6118,
     "total_categories": 687,
-    "generated": "2026-09-23 11:00",
+    "generated": "2026-09-23 15:00",
     "source": "ikas_api_live"
   }
 }
