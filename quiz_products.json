@@ -555,19 +555,6 @@
         "stock": 1
       },
       {
-        "name": "Bepanthol Sensiderm Kaşıntı Giderici Krem 50 g",
-        "slug": "bepanthol-sensiderm-kasinti-giderici-krem-50-g",
-        "brand": "Bepanthol",
-        "price": 524.9,
-        "discount_price": 345.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c665c05-56cc-43eb-97d5-65f51c98fb15/image_1950.webp",
-        "cats": [
-          "Atopik ve Kuru Cilt",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Atoderm Intensive Jel-Krem 75 ml",
         "slug": "bioderma-atoderm-intensive-jel-krem-75-ml",
         "brand": "Bioderma",
@@ -2904,7 +2891,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Multi Balık Yağı Şurup 150 ml (1+1 Paket)",
@@ -10992,7 +10979,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -11573,22 +11560,6 @@
           "B Vitaminleri"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Passiflora Complex 30 Kapsül",
-        "slug": "solgar-passiflora-complex-30-kapsul",
-        "brand": "Solgar",
-        "price": 864.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4b01833-1457-42a8-876f-802f87aaed9a/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Pasiflora",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
@@ -17824,22 +17795,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Passiflora Complex 30 Kapsül",
-        "slug": "solgar-passiflora-complex-30-kapsul",
-        "brand": "Solgar",
-        "price": 864.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4b01833-1457-42a8-876f-802f87aaed9a/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Pasiflora",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
         "slug": "solgar-psyllium-husks-500-mg-200-kapsul",
         "brand": "Solgar",
@@ -18865,7 +18820,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -18999,22 +18954,6 @@
           "Stres ve Uyku Düzeni"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Passiflora Complex 30 Kapsül",
-        "slug": "solgar-passiflora-complex-30-kapsul",
-        "brand": "Solgar",
-        "price": 864.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4b01833-1457-42a8-876f-802f87aaed9a/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Pasiflora",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
       },
       {
         "name": "Sorvagen Magnezyum Malat Taurin B6 Vitamini PSP 60 Tablet",
@@ -19588,7 +19527,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Velavit V-Selenium 200 Tablet 60 Tablet",
@@ -22677,7 +22616,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Krill Oil 30 Kapsül (%50 Daha Fazla)",
@@ -22795,7 +22734,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -23360,7 +23299,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "UpVita Memory Sitikolin Kapsül 60 Kapsül",
@@ -26166,7 +26105,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "VeNatura Magnezyum Malat 100 mg 60 Kapsül",
@@ -27552,7 +27491,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Supradyn Kids Çiğnenebilir Multivitamin ve Mineral 60 Adet",
@@ -35286,22 +35225,6 @@
           "Cilt",
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Passiflora Complex 30 Kapsül",
-        "slug": "solgar-passiflora-complex-30-kapsul",
-        "brand": "Solgar",
-        "price": 864.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4b01833-1457-42a8-876f-802f87aaed9a/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Pasiflora",
-          "Stres ve Uyku Düzeni"
         ],
         "stock": 1
       },
@@ -44775,7 +44698,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -47208,7 +47131,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "Potasyum Sitrat 250 Gr Suvar",
@@ -52076,19 +51999,6 @@
           "Vücut Kremi",
           "Atopik ve Kuru Cilt",
           "Bariyer Krem",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bepanthol Sensiderm Kaşıntı Giderici Krem 50 g",
-        "slug": "bepanthol-sensiderm-kasinti-giderici-krem-50-g",
-        "brand": "Bepanthol",
-        "price": 524.9,
-        "discount_price": 345.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c665c05-56cc-43eb-97d5-65f51c98fb15/image_1950.webp",
-        "cats": [
-          "Atopik ve Kuru Cilt",
           "Kaşıntı ve Tahriş Bakımı"
         ],
         "stock": 1
@@ -71102,7 +71012,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -71225,7 +71135,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -72436,7 +72346,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Koenzim Q10 200 mg Kapsül 30 Kapsül",
@@ -72588,7 +72498,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -75590,7 +75500,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Vitacomplex Multivitamin Multimineral ve Kore Ginsengi Yumuşak Kapsül 30 Kapsül",
@@ -81429,7 +81339,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Multi Balık Yağı Şurup 150 ml (1+1 Paket)",
@@ -83401,7 +83311,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 4
       },
       {
         "name": "Solgar Magnezyum B6 Vitamini 100 Tablet",
@@ -90199,22 +90109,6 @@
           "Stres ve Uyku Düzeni"
         ],
         "stock": 52
-      },
-      {
-        "name": "Solgar Passiflora Complex 30 Kapsül",
-        "slug": "solgar-passiflora-complex-30-kapsul",
-        "brand": "Solgar",
-        "price": 864.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4b01833-1457-42a8-876f-802f87aaed9a/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Pasiflora",
-          "Stres ve Uyku Düzeni"
-        ],
-        "stock": 1
       }
     ],
     "Bant (Çocuk)": [
@@ -96264,9 +96158,9 @@
     ]
   },
   "stats": {
-    "total_products": 6153,
+    "total_products": 6146,
     "total_categories": 689,
-    "generated": "2026-09-24 07:46",
+    "generated": "2026-09-24 12:25",
     "source": "ikas_api_live"
   }
 }
