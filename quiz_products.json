@@ -4492,7 +4492,7 @@
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Duobalance Mood Kapsül Probiyotik 30 Adet",
@@ -5309,7 +5309,7 @@
           "Kemik ve Eklem",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ocean Daily One Energy (1+1 Paket)",
@@ -8307,7 +8307,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Newvit Demir Damla 100 ml",
@@ -17932,7 +17932,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Kiperin Mind Focus 60 Kapsül",
@@ -18011,7 +18011,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Miraderm Passiflora Valerian Vitamin Takviye Edici Gıda 30 Kapsül",
@@ -18412,7 +18412,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 11
+        "stock": 8
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -19041,7 +19041,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Newvit Demir Damla 100 ml",
@@ -21999,7 +21999,7 @@
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Duobalance Mood Kapsül Probiyotik 30 Adet",
@@ -22217,7 +22217,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "GoodDay Minions Sıvı Takviye Arjinin Multivitamin Multimineral Fosfatidilserin 150 ml",
@@ -22730,7 +22730,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 18
+        "stock": 16
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -22892,7 +22892,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean L-Teanin 200 mg 30 Kapsül",
@@ -24611,7 +24611,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "GoodDay Mitoby Saşe (Kreatin L-Karnitin Vitamin ve Mineral) 30 Saşe",
@@ -24777,7 +24777,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "NBT Life Endofer Demir Takviyesi 30 Kapsül",
@@ -25267,7 +25267,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar"
         ],
-        "stock": 49
+        "stock": 47
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -26545,7 +26545,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "GoodDay Vitamin B Complex Tablet (P5P Folik Asit Biotin Metilkobalamin) 60 Tablet",
@@ -27051,24 +27051,6 @@
         "cats": [
           "Vitamin ve Takviye",
           "Multivitamin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 750.0,
-        "discount_price": 580.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar"
         ],
         "stock": 1
       },
@@ -44947,7 +44929,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Microbon K Tablet Kalsiyum Magnezyum K Vitamini Takviyesi 30 Tablet",
@@ -44963,7 +44945,7 @@
           "K Vitamini",
           "Kas ve Kramp"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Moodify Safran Kapsül Safran Magnezyum Valerian B6 Vitamini Takviye Edici Gıda 30 Kapsül",
@@ -45061,7 +45043,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -45235,7 +45217,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 11
+        "stock": 8
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -46100,7 +46082,7 @@
           "K Vitamini",
           "Kas ve Kramp"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBT Life Magnezyum P5P B6 Vitamini İçeren Takviye 60 Kapsül",
@@ -46317,7 +46299,7 @@
           "Kemik ve Eklem",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -47418,7 +47400,7 @@
           "K Vitamini",
           "Kas ve Kramp"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "NBT Life Magnezyum P5P B6 Vitamini İçeren Takviye 60 Kapsül",
@@ -47621,7 +47603,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 11
+        "stock": 8
       },
       {
         "name": "Potasyum Sitrat 250 Gr Suvar",
@@ -49680,7 +49662,7 @@
           "Kemik ve Eklem",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ocean Pulse Yumuşak Jelatin Kapsül, Balık Yağı, K2, D Vitamini ve Koenzim Q10, 30 Kapsül",
@@ -49937,7 +49919,7 @@
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -50227,7 +50209,7 @@
           "Kemik ve Eklem",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -50245,7 +50227,7 @@
           "Kemik ve Eklem",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
@@ -65901,24 +65883,6 @@
         "stock": 2
       },
       {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 750.0,
-        "discount_price": 580.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Lacmix Kapsül Vitamin Mineral Omega 3 Bitki Ekstresi Takviyesi 60 Kapsül",
         "slug": "lacmix-kapsul-vitamin-mineral-omega-3-bitki-ekstresi-60-kapsul",
         "brand": "Lacmix",
@@ -68549,7 +68513,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -69442,7 +69406,7 @@
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Diofol S L-Methylfolat Ağızda Dağılan 30 Tablet",
@@ -71129,24 +71093,6 @@
         "stock": 3
       },
       {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 750.0,
-        "discount_price": 580.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Lacmix Kapsül Vitamin Mineral Omega 3 Bitki Ekstresi Takviyesi 60 Kapsül",
         "slug": "lacmix-kapsul-vitamin-mineral-omega-3-bitki-ekstresi-60-kapsul",
         "brand": "Lacmix",
@@ -71680,7 +71626,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 18
+        "stock": 16
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -71825,7 +71771,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Multi Balık Yağı Şurup Vitamin Mineral 150 ml",
@@ -72537,24 +72483,6 @@
         "stock": 3
       },
       {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 750.0,
-        "discount_price": 580.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Lacmix Kapsül Vitamin Mineral Omega 3 Bitki Ekstresi Takviyesi 60 Kapsül",
         "slug": "lacmix-kapsul-vitamin-mineral-omega-3-bitki-ekstresi-60-kapsul",
         "brand": "Lacmix",
@@ -72604,7 +72532,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Marincor Yumuşak Kapsül, Omega-3 (EPA ve DHA) Balık Yağı, 60 Kapsül",
@@ -72917,7 +72845,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar"
         ],
-        "stock": 49
+        "stock": 47
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -73026,7 +72954,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 18
+        "stock": 16
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -73218,7 +73146,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Multi Balık Yağı Şurup Vitamin Mineral 150 ml",
@@ -75451,7 +75379,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "GoodDay Vitamin B Complex Tablet (P5P Folik Asit Biotin Metilkobalamin) 60 Tablet",
@@ -79340,7 +79268,7 @@
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Diofol S L-Methylfolat Ağızda Dağılan 30 Tablet",
@@ -79502,7 +79430,7 @@
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Diofol L-Methylfolat Tablet Folik Asit ve D3 Vitamini Takviyesi 60 Adet (Ekonomik Boy)",
@@ -79521,7 +79449,7 @@
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Diofol S L-Methylfolat Ağızda Dağılan 30 Tablet",
@@ -79694,42 +79622,6 @@
           "Kalp ve Damar"
         ],
         "stock": 3
-      },
-      {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 750.0,
-        "discount_price": 580.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 750.0,
-        "discount_price": 580.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
       },
       {
         "name": "Mustela Çatlak Göğüs Ucu Kremi Emzirme Dönemi İçin 30 ml",
@@ -80065,7 +79957,7 @@
           "Hamilelik ve Emzirme",
           "Hamile Vitamini"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Diofol S L-Methylfolat Ağızda Dağılan 30 Tablet",
@@ -80168,24 +80060,6 @@
           "Kalp ve Damar"
         ],
         "stock": 3
-      },
-      {
-        "name": "Innate Pronatal Kapsül Gebelik İçin Omega 3 Vitamin Mineral Takviyesi 30 Kapsül",
-        "slug": "innate-pronatal-kapsul-gebelik-icin-omega-3-vitamin-mineral-30-kapsul",
-        "brand": "Innate",
-        "price": 750.0,
-        "discount_price": 580.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2c0e9b4-1532-4052-8668-727d6bdec75c/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Multivitamin",
-          "Omega 3",
-          "Hamilelik ve Emzirme",
-          "Hamilelik ve Emzirme",
-          "Hamile Vitamini",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
       },
       {
         "name": "NBL Pregna Omega 3 Multivitamin 30 Kapsül",
@@ -83204,7 +83078,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 11
+        "stock": 8
       },
       {
         "name": "Solgar Magnezyum B6 Vitamini 100 Tablet",
@@ -86245,7 +86119,7 @@
           "Sinir Sistemi",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       }
     ],
     "Çocuk Multivitamin": [
@@ -86629,7 +86503,7 @@
           "Enerji ve Zindelik",
           "Kalp ve Damar"
         ],
-        "stock": 49
+        "stock": 47
       },
       {
         "name": "Ocean Koenzim QH Kapsül, 30 Kapsül",
@@ -88808,7 +88682,7 @@
           "Kalp ve Damar",
           "Magnezyum Taurat"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -89031,7 +88905,7 @@
           "K Vitamini",
           "Kas ve Kramp"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
@@ -89189,7 +89063,7 @@
           "K Vitamini",
           "Kas ve Kramp"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -89207,7 +89081,7 @@
           "Kemik ve Eklem",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 7
       }
     ],
     "Kediotu (Valerian)": [
@@ -89868,7 +89742,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -90634,7 +90508,7 @@
           "Kemik ve Eklem",
           "K Vitamini"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -94703,20 +94577,6 @@
         "stock": 1
       }
     ],
-    "Temizleme Fırçası": [
-      {
-        "name": "Wee Biberon Temizleme Fırça Seti 106",
-        "slug": "wee-biberon-temizleme-firca-seti-106",
-        "brand": "Wee",
-        "price": 239.99,
-        "discount_price": 158.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b03bf89f-61ee-47bc-9e51-31e2414e220c/image_1950.webp",
-        "cats": [
-          "Temizleme Fırçası"
-        ],
-        "stock": 1
-      }
-    ],
     "Burun Bakımı": [
       {
         "name": "Wee Burun Aspiratör Klasik 860",
@@ -95262,9 +95122,9 @@
     ]
   },
   "stats": {
-    "total_products": 6114,
-    "total_categories": 655,
-    "generated": "2026-10-13 08:12",
+    "total_products": 6106,
+    "total_categories": 654,
+    "generated": "2026-10-13 12:02",
     "source": "ikas_api_live"
   }
 }
