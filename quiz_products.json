@@ -1016,7 +1016,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Orzax SHINIQ Akne Karşıtı Matlaştırıcı Temizleme Jeli",
@@ -2475,7 +2475,7 @@
           "Yüz Bakımı",
           "Temizleme Jeli"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Atoderm Intensive Köpük Jel 200 ml",
@@ -3133,7 +3133,7 @@
           "Cilt",
           "Yüz Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Capicade Gündüz Bakım Kremi 30 ml",
@@ -4547,27 +4547,6 @@
         "stock": 2
       },
       {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Easyvit EasyFishoil Beta Glukan Çiğnenebilir Jel Meyve Aromalı 30 Adet",
         "slug": "easyvit-easyfishoil-beta-glukan-cignenebilir-jel-meyve-aromali-30-adet",
         "brand": "EasyVit",
@@ -4583,7 +4562,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -4649,7 +4628,7 @@
           "Probiyotik",
           "Sindirim"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Enterogermina Kids Probiyotik Mikroorganizma Takviyesi 10x5 ml",
@@ -5425,7 +5404,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Vitamin C 1000 mg 60 Tablet (1+1 Paket)",
@@ -5439,7 +5418,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean Vitamin C-SR 30 Tablet",
@@ -5572,7 +5551,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 199
+        "stock": 198
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -6707,7 +6686,7 @@
         "slug": "yesilmarka-whey-protein-tozu-100-g-ananas",
         "brand": "Yeşilmarka",
         "price": 619.0,
-        "discount_price": 523.0,
+        "discount_price": 524.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a18796cb-74f0-466a-85a3-6051885f3142/image_1950.webp",
         "cats": [
           "Spor ve Egzersiz",
@@ -7028,7 +7007,7 @@
         "name": "BMT S1 Magnezyum Yağı Sprey 100 ml",
         "slug": "bmt-s1-magnezyum-yagi-sprey-100-ml",
         "brand": "Biomet",
-        "price": 387.0,
+        "price": 1076.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/427ec028-face-4b71-8842-c3bcc4ffd112/image_1950.webp",
         "cats": [
@@ -7255,7 +7234,7 @@
         "name": "EasyVit EasyFishoil Omega 3 Çilek 30 Jel Form",
         "slug": "easyvit-easyfishoil-omega-3-cilek-30-jel-form",
         "brand": "EasyVit",
-        "price": 929.0,
+        "price": 998.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd5c893a-69e5-445c-880e-5b9897437cf7/image_1950.webp",
         "cats": [
@@ -7731,7 +7710,7 @@
         "slug": "magnesium-plus-magnezyum-sitrat-tablet-30-tablet",
         "brand": "Goodday",
         "price": 549.0,
-        "discount_price": 311.0,
+        "discount_price": 208.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/860f20ea-34cd-4ec0-9f33-ff7765dfedfc/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -8329,7 +8308,7 @@
         "slug": "newvit-demir-damla-100-ml",
         "brand": "Newvit",
         "price": 700.0,
-        "discount_price": 430.0,
+        "discount_price": 452.0,
         "image": "",
         "cats": [
           "Mineraller",
@@ -8744,7 +8723,7 @@
         "slug": "ocean-dim-ultra-30-tablet",
         "brand": "Ocean",
         "price": 974.5,
-        "discount_price": 769.0,
+        "discount_price": 818.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d839391c-905f-4980-b062-da8c19f36455/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -9050,7 +9029,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean VM Şurup Portakal Aromalı 150 ml Şişe",
@@ -11549,7 +11528,7 @@
         "slug": "dentiste-agiz-spreyi-ekstra-ferah-3-ml",
         "brand": "Dentiste",
         "price": 295.0,
-        "discount_price": 155.0,
+        "discount_price": 237.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/092ed55b-1219-412d-ad65-16a5192bef15/image_1950.webp",
         "cats": [
           "Beyazlatıcı",
@@ -12688,7 +12667,7 @@
         "name": "Ceradolin Losyon Lipo 500 ml",
         "slug": "ceradolin-losyon-lipo-500-ml",
         "brand": "Ceradolin",
-        "price": 780.0,
+        "price": 1799.0,
         "discount_price": null,
         "image": "",
         "cats": [
@@ -13831,19 +13810,6 @@
         "stock": 2
       },
       {
-        "name": "Talya Hint Yağı 50 ml Saç ve Cilt Bakım",
-        "slug": "talya-hint-yagi-50-ml-sac-ve-cilt-bakim",
-        "brand": "Talya",
-        "price": 232.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f15d79ca-bf7c-4fcf-b253-3987be73de6f/image_1950.webp",
-        "cats": [
-          "Saç Bakım Yağları",
-          "Hint Yağı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Talya Jojoba Yağı 20 ml Cilt Bakım",
         "slug": "talya-jojoba-yagi-20-ml-cilt-bakim",
         "brand": "Talya",
@@ -14256,7 +14222,7 @@
           "Saç, Cilt ve Tırnak",
           "Tırnak Kremi"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "FEB Biotin Tablet Saç 60 Kapsül",
@@ -14879,7 +14845,7 @@
           "Saç, Cilt ve Tırnak",
           "Saç Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml",
@@ -15047,7 +15013,7 @@
           "Probiyotik",
           "Sindirim"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Enterogermina Kids Probiyotik Mikroorganizma Takviyesi 10x5 ml",
@@ -15406,7 +15372,7 @@
           "Probiyotik",
           "Sindirim"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Enterogermina Kids Probiyotik Mikroorganizma Takviyesi 10x5 ml",
@@ -15719,7 +15685,7 @@
           "Probiyotik",
           "Sindirim"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Enterogermina Kids Probiyotik Mikroorganizma Takviyesi 10x5 ml",
@@ -17636,7 +17602,7 @@
         "name": "BMT S1 Magnezyum Yağı Sprey 100 ml",
         "slug": "bmt-s1-magnezyum-yagi-sprey-100-ml",
         "brand": "Biomet",
-        "price": 387.0,
+        "price": 1076.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/427ec028-face-4b71-8842-c3bcc4ffd112/image_1950.webp",
         "cats": [
@@ -17971,7 +17937,7 @@
         "slug": "magnesium-plus-magnezyum-sitrat-tablet-30-tablet",
         "brand": "Goodday",
         "price": 549.0,
-        "discount_price": 311.0,
+        "discount_price": 208.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/860f20ea-34cd-4ec0-9f33-ff7765dfedfc/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -19033,7 +18999,7 @@
         "slug": "newvit-demir-damla-100-ml",
         "brand": "Newvit",
         "price": 700.0,
-        "discount_price": 430.0,
+        "discount_price": 452.0,
         "image": "",
         "cats": [
           "Mineraller",
@@ -19830,7 +19796,7 @@
           "Cilt",
           "Bakım Kremi"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Capicade Demoxcade Vücut Losyonu 220 ml",
@@ -19871,7 +19837,7 @@
           "Cilt",
           "Yüz Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Capicade Molex Dermal Solüsyon 3 gr",
@@ -22040,27 +22006,6 @@
         "stock": 2
       },
       {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Easyvit EasyFishoil Beta Glukan Çiğnenebilir Jel Meyve Aromalı 30 Adet",
         "slug": "easyvit-easyfishoil-beta-glukan-cignenebilir-jel-meyve-aromali-30-adet",
         "brand": "EasyVit",
@@ -22076,7 +22021,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Plus Balık Yağı Çiğnenebilir Jel Tutti Frutti 30 Adet",
@@ -22093,7 +22038,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -22749,7 +22694,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Ultimate Kapsül, Balık Yağı İçeren Takviye Edici Gıda 30 kapsül",
@@ -22874,7 +22819,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Orzax Ocean L-Teanin 200 mg 30 Kapsül",
@@ -23586,27 +23531,6 @@
         "stock": 2
       },
       {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Easyvit EasyFishoil Beta Glukan Çiğnenebilir Jel Meyve Aromalı 30 Adet",
         "slug": "easyvit-easyfishoil-beta-glukan-cignenebilir-jel-meyve-aromali-30-adet",
         "brand": "EasyVit",
@@ -23622,7 +23546,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Multi Balık Yağı Çiğnenebilir Jel Multivitamin ve Omega 3 30 Adet",
@@ -23656,7 +23580,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -28334,27 +28258,6 @@
         "stock": 2
       },
       {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Easyvit EasyFishoil Beta Glukan Çiğnenebilir Jel Meyve Aromalı 30 Adet",
         "slug": "easyvit-easyfishoil-beta-glukan-cignenebilir-jel-meyve-aromali-30-adet",
         "brand": "EasyVit",
@@ -28370,7 +28273,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Multi Balık Yağı Çiğnenebilir Jel Multivitamin ve Omega 3 30 Adet",
@@ -28404,7 +28307,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -29685,7 +29588,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Orzax Ocean Selenyum 100 mcg 30 Tablet",
@@ -30559,7 +30462,7 @@
           "Bağışıklık Sistemi",
           "C Vitamini"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean Vitamin C-SR 30 Tablet",
@@ -33287,8 +33190,8 @@
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
         "slug": "rocs-junior-gokkusagi-meyve-aromali-cocuk-dis-macunu-6-12-yas",
         "brand": "Rocs",
-        "price": 379.0,
-        "discount_price": 240.0,
+        "price": 448.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45f0dc-f1f6-424f-8f33-ee4b3b452a65/image_1950.webp",
         "cats": [
           "6+ Yaş",
@@ -33447,7 +33350,7 @@
         "name": "Sensodyne Çok Yönlü Koruma Gelişmiş Beyazlık Diş Macunu 50 ml",
         "slug": "sensodyne-cok-yonlu-koruma-gelismis-beyazlik-dis-macunu-50-ml",
         "brand": "Sensodyne",
-        "price": 150.0,
+        "price": 230.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37af4405-2115-49b5-a6cc-2a2b59f9775b/image_1950.webp",
         "cats": [
@@ -33492,7 +33395,7 @@
         "slug": "dentiste-agiz-spreyi-ekstra-ferah-3-ml",
         "brand": "Dentiste",
         "price": 295.0,
-        "discount_price": 155.0,
+        "discount_price": 237.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/092ed55b-1219-412d-ad65-16a5192bef15/image_1950.webp",
         "cats": [
           "Beyazlatıcı",
@@ -33882,7 +33785,7 @@
         "name": "Bit Rozeti New",
         "slug": "bit-rozeti-new",
         "brand": "Bit Rozeti",
-        "price": 49.0,
+        "price": 178.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ebf70d5d-2688-47df-83fc-e098ee2efd71/image_1950.webp",
         "cats": [
@@ -34106,7 +34009,7 @@
         "name": "Otifleks Doğal Balmumlu Kulak Tıkacı 2'li",
         "slug": "otifleks-dogal-balmumlu-kulak-tikaci-2-li",
         "brand": "Otifleks",
-        "price": 329.0,
+        "price": 501.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0626c876-b58c-44dc-b850-51dfec069385/image_1950.webp",
         "cats": [
@@ -34121,7 +34024,7 @@
         "name": "Otifleks Doğal Balmumlu Kulak Tıkacı 4'lü",
         "slug": "otifleks-dogal-balmumlu-kulak-tikaci-4-lu",
         "brand": "Otifleks",
-        "price": 458.0,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/583d4011-9c59-4422-91d4-202a1883da96/image_1950.webp",
         "cats": [
@@ -34529,7 +34432,7 @@
         "name": "Otifleks Doğal Balmumlu Kulak Tıkacı 2'li",
         "slug": "otifleks-dogal-balmumlu-kulak-tikaci-2-li",
         "brand": "Otifleks",
-        "price": 329.0,
+        "price": 501.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0626c876-b58c-44dc-b850-51dfec069385/image_1950.webp",
         "cats": [
@@ -34544,7 +34447,7 @@
         "name": "Otifleks Doğal Balmumlu Kulak Tıkacı 2'li",
         "slug": "otifleks-dogal-balmumlu-kulak-tikaci-2-li",
         "brand": "Otifleks",
-        "price": 329.0,
+        "price": 501.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0626c876-b58c-44dc-b850-51dfec069385/image_1950.webp",
         "cats": [
@@ -34559,7 +34462,7 @@
         "name": "Otifleks Doğal Balmumlu Kulak Tıkacı 4'lü",
         "slug": "otifleks-dogal-balmumlu-kulak-tikaci-4-lu",
         "brand": "Otifleks",
-        "price": 458.0,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/583d4011-9c59-4422-91d4-202a1883da96/image_1950.webp",
         "cats": [
@@ -34574,7 +34477,7 @@
         "name": "Otifleks Doğal Balmumlu Kulak Tıkacı 4'lü",
         "slug": "otifleks-dogal-balmumlu-kulak-tikaci-4-lu",
         "brand": "Otifleks",
-        "price": 458.0,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/583d4011-9c59-4422-91d4-202a1883da96/image_1950.webp",
         "cats": [
@@ -35654,7 +35557,7 @@
         "slug": "ocean-dim-ultra-30-tablet",
         "brand": "Ocean",
         "price": 974.5,
-        "discount_price": 769.0,
+        "discount_price": 818.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d839391c-905f-4980-b062-da8c19f36455/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -41301,7 +41204,7 @@
           "Yüz Bakımı",
           "Temizleme Jeli"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Hydrabio Foaming Gel 400 ml",
@@ -42320,7 +42223,7 @@
         "slug": "wee-emzik-silikon-damakli-seffaf-desen-no-1-836",
         "brand": "Wee",
         "price": 239.99,
-        "discount_price": 166.0,
+        "discount_price": 161.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8da0a41c-4895-479c-bba3-7a1cc064575c/image_1950.webp",
         "cats": [
           "0-6 Ay",
@@ -42458,7 +42361,7 @@
         "slug": "wee-emzik-silikon-damakli-seffaf-desen-no-1-836",
         "brand": "Wee",
         "price": 239.99,
-        "discount_price": 166.0,
+        "discount_price": 161.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8da0a41c-4895-479c-bba3-7a1cc064575c/image_1950.webp",
         "cats": [
           "0-6 Ay",
@@ -42932,7 +42835,7 @@
           "Cilt",
           "Bakım Kremi"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ducray Keracnyl Jel 400 ml",
@@ -44583,7 +44486,7 @@
         "name": "BMT S1 Magnezyum Yağı Sprey 100 ml",
         "slug": "bmt-s1-magnezyum-yagi-sprey-100-ml",
         "brand": "Biomet",
-        "price": 387.0,
+        "price": 1076.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/427ec028-face-4b71-8842-c3bcc4ffd112/image_1950.webp",
         "cats": [
@@ -45494,7 +45397,7 @@
         "name": "BMT S1 Magnezyum Yağı Sprey 100 ml",
         "slug": "bmt-s1-magnezyum-yagi-sprey-100-ml",
         "brand": "Biomet",
-        "price": 387.0,
+        "price": 1076.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/427ec028-face-4b71-8842-c3bcc4ffd112/image_1950.webp",
         "cats": [
@@ -45625,7 +45528,7 @@
         "name": "BMT S1 Magnezyum Yağı Sprey 100 ml",
         "slug": "bmt-s1-magnezyum-yagi-sprey-100-ml",
         "brand": "Biomet",
-        "price": 387.0,
+        "price": 1076.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/427ec028-face-4b71-8842-c3bcc4ffd112/image_1950.webp",
         "cats": [
@@ -46017,7 +45920,7 @@
         "slug": "magnesium-plus-magnezyum-sitrat-tablet-30-tablet",
         "brand": "Goodday",
         "price": 549.0,
-        "discount_price": 311.0,
+        "discount_price": 208.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/860f20ea-34cd-4ec0-9f33-ff7765dfedfc/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -46328,7 +46231,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Vitamin D 1000 IU Sprey",
@@ -46422,7 +46325,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 199
+        "stock": 198
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -47085,7 +46988,7 @@
         "name": "BMT S1 Magnezyum Yağı Sprey 100 ml",
         "slug": "bmt-s1-magnezyum-yagi-sprey-100-ml",
         "brand": "Biomet",
-        "price": 387.0,
+        "price": 1076.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/427ec028-face-4b71-8842-c3bcc4ffd112/image_1950.webp",
         "cats": [
@@ -47335,7 +47238,7 @@
         "slug": "magnesium-plus-magnezyum-sitrat-tablet-30-tablet",
         "brand": "Goodday",
         "price": 549.0,
-        "discount_price": 311.0,
+        "discount_price": 208.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/860f20ea-34cd-4ec0-9f33-ff7765dfedfc/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -49644,7 +49547,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -49677,7 +49580,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 199
+        "stock": 198
       },
       {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
@@ -49922,48 +49825,6 @@
           "Kalp ve Damar"
         ],
         "stock": 2
-      },
-      {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
       },
       {
         "name": "GoodDay Vitamin D3K2 Oral Damla 20 ml",
@@ -50226,7 +50087,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Vitamin D 1000 IU Sprey",
@@ -50354,7 +50215,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 199
+        "stock": 198
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -51094,7 +50955,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Omepa DHA Yumuşak Kapsül Balık Yağı Astaksantin Takviyesi 30 Kapsül",
@@ -51771,7 +51632,7 @@
         "slug": "vichy-liftactiv-b3-retinol-gece-kremi-leke-ve-kirisiklik-karsiti-50-ml",
         "brand": "Vichy",
         "price": 3849.9,
-        "discount_price": 1987.0,
+        "discount_price": 1998.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18bc5c2a-4431-4e40-9327-0c980b38cebf/image_1950.webp",
         "cats": [
           "Gece Kremi",
@@ -53042,7 +52903,7 @@
         "name": "Ceradolin Losyon Lipo 500 ml",
         "slug": "ceradolin-losyon-lipo-500-ml",
         "brand": "Ceradolin",
-        "price": 780.0,
+        "price": 1799.0,
         "discount_price": null,
         "image": "",
         "cats": [
@@ -53478,20 +53339,6 @@
           "Kişisel Bakım",
           "Dudak Stick",
           "Dudak Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioxcin Şampuan Keratin Argan 3 Al 2 Öde Kampanya",
-        "slug": "bioxcin-sampuan-keratin-argan-3-al-2-ode-kampanya",
-        "brand": "Bioxcin",
-        "price": 487.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/668a2a04-bba8-41d0-9f37-f029edca4a8f/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Kuru ve Hassas Saçlar İçin",
-          "Onarıcı"
         ],
         "stock": 1
       },
@@ -54934,20 +54781,6 @@
         "stock": 19
       },
       {
-        "name": "Bioxcin Şampuan Keratin Argan 3 Al 2 Öde Kampanya",
-        "slug": "bioxcin-sampuan-keratin-argan-3-al-2-ode-kampanya",
-        "brand": "Bioxcin",
-        "price": 487.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/668a2a04-bba8-41d0-9f37-f029edca4a8f/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Kuru ve Hassas Saçlar İçin",
-          "Onarıcı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Ducray Anaphase Chronic Şampuan 400 ml",
         "slug": "ducray-anaphase-chronic-sampuan-400-ml",
         "brand": "Ducray",
@@ -55177,7 +55010,7 @@
           "Saç, Cilt ve Tırnak",
           "Saç Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Dercos Anti-Dandruff Normal/Yağlı Saçlar Şampuanı 390 ml",
@@ -55598,7 +55431,7 @@
           "Saç, Cilt ve Tırnak",
           "Saç Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Dercos Anti-Dandruff Normal/Yağlı Saçlar Şampuanı 390 ml",
@@ -58761,7 +58594,7 @@
         "name": "Sensodyne Çok Yönlü Koruma Gelişmiş Beyazlık Diş Macunu 50 ml",
         "slug": "sensodyne-cok-yonlu-koruma-gelismis-beyazlik-dis-macunu-50-ml",
         "brand": "Sensodyne",
-        "price": 150.0,
+        "price": 230.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37af4405-2115-49b5-a6cc-2a2b59f9775b/image_1950.webp",
         "cats": [
@@ -59052,7 +58885,7 @@
           "Yüz Bakımı",
           "Temizleme Jeli"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Atoderm Intensive Köpük Jel 200 ml",
@@ -59257,7 +59090,7 @@
         "name": "Ceradolin Losyon Lipo 500 ml",
         "slug": "ceradolin-losyon-lipo-500-ml",
         "brand": "Ceradolin",
-        "price": 780.0,
+        "price": 1799.0,
         "discount_price": null,
         "image": "",
         "cats": [
@@ -60653,7 +60486,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Toleriane Creme Cleansing 400 ml",
@@ -61816,7 +61649,7 @@
           "Saç, Cilt ve Tırnak",
           "Saç Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Vichy Dercos Anti-Dandruff Normal/Yağlı Saçlar Şampuanı 390 ml",
@@ -64563,20 +64396,6 @@
         "stock": 1
       },
       {
-        "name": "Bioxcin Şampuan Keratin Argan 3 Al 2 Öde Kampanya",
-        "slug": "bioxcin-sampuan-keratin-argan-3-al-2-ode-kampanya",
-        "brand": "Bioxcin",
-        "price": 487.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/668a2a04-bba8-41d0-9f37-f029edca4a8f/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Kuru ve Hassas Saçlar İçin",
-          "Onarıcı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Mustela Cold Cream Besleyici Şampuan Kuru Saç ve Saç Derisi İçin 300 ml",
         "slug": "mustela-cold-cream-besleyici-sampuan-kuru-sac-derisi-300-ml",
         "brand": "Mustela",
@@ -67072,7 +66891,7 @@
         "name": "Sıhhat Amonyak Çözeltisi 50 ml",
         "slug": "sihhat-amonyak-cozeltisi-50-ml",
         "brand": "Sıhhat",
-        "price": 72.0,
+        "price": 138.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/362f27a9-0729-4e55-9bd9-f6abda3e7502/image_1950.webp",
         "cats": [
@@ -68489,7 +68308,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -68779,7 +68598,7 @@
           "Cilt",
           "Yüz Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "La Roche Posay Hyalu B5 Göz Çevresi Kremi 15 ml",
@@ -69978,7 +69797,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Mela B3 Serum",
@@ -70157,7 +69976,7 @@
         "slug": "vichy-liftactiv-retinol-serum",
         "brand": "Vichy",
         "price": 3849.9,
-        "discount_price": 2409.0,
+        "discount_price": 2298.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a7f84de3-dfdd-462c-9424-339dc734bd28/image_1950.webp",
         "cats": [
           "Retinol Serum",
@@ -70252,7 +70071,7 @@
         "slug": "vichy-liftactiv-b3-retinol-gece-kremi-leke-ve-kirisiklik-karsiti-50-ml",
         "brand": "Vichy",
         "price": 3849.9,
-        "discount_price": 1987.0,
+        "discount_price": 1998.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18bc5c2a-4431-4e40-9327-0c980b38cebf/image_1950.webp",
         "cats": [
           "Gece Kremi",
@@ -70266,7 +70085,7 @@
         "slug": "vichy-liftactiv-retinol-serum",
         "brand": "Vichy",
         "price": 3849.9,
-        "discount_price": 2409.0,
+        "discount_price": 2298.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a7f84de3-dfdd-462c-9424-339dc734bd28/image_1950.webp",
         "cats": [
           "Retinol Serum",
@@ -70477,7 +70296,7 @@
         "slug": "vichy-liftactiv-b3-retinol-gece-kremi-leke-ve-kirisiklik-karsiti-50-ml",
         "brand": "Vichy",
         "price": 3849.9,
-        "discount_price": 1987.0,
+        "discount_price": 1998.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18bc5c2a-4431-4e40-9327-0c980b38cebf/image_1950.webp",
         "cats": [
           "Gece Kremi",
@@ -70491,7 +70310,7 @@
         "slug": "vichy-liftactiv-retinol-serum",
         "brand": "Vichy",
         "price": 3849.9,
-        "discount_price": 2409.0,
+        "discount_price": 2298.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a7f84de3-dfdd-462c-9424-339dc734bd28/image_1950.webp",
         "cats": [
           "Retinol Serum",
@@ -70727,7 +70546,7 @@
         "name": "EasyVit EasyFishoil Omega 3 Çilek 30 Jel Form",
         "slug": "easyvit-easyfishoil-omega-3-cilek-30-jel-form",
         "brand": "EasyVit",
-        "price": 929.0,
+        "price": 998.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd5c893a-69e5-445c-880e-5b9897437cf7/image_1950.webp",
         "cats": [
@@ -70780,48 +70599,6 @@
         "stock": 2
       },
       {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Easyvit EasyFishoil Beta Glukan Çiğnenebilir Jel Meyve Aromalı 30 Adet",
         "slug": "easyvit-easyfishoil-beta-glukan-cignenebilir-jel-meyve-aromali-30-adet",
         "brand": "EasyVit",
@@ -70837,7 +70614,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Multi Balık Yağı Çiğnenebilir Jel Multivitamin ve Omega 3 30 Adet",
@@ -70888,7 +70665,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Easyvit EasyFishoil Plus Balık Yağı Çiğnenebilir Jel Tutti Frutti 30 Adet",
@@ -70905,7 +70682,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -71657,7 +71434,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Ultimate Kapsül, Balık Yağı İçeren Takviye Edici Gıda 30 kapsül",
@@ -71765,7 +71542,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Orzax Ocean Multi Balık Yağı Şurup Vitamin Mineral 150 ml",
@@ -72210,27 +71987,6 @@
         "stock": 2
       },
       {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Easyvit EasyFishoil Beta Glukan Çiğnenebilir Jel Meyve Aromalı 30 Adet",
         "slug": "easyvit-easyfishoil-beta-glukan-cignenebilir-jel-meyve-aromali-30-adet",
         "brand": "EasyVit",
@@ -72246,7 +72002,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Easyvit EasyFishoil Multi Balık Yağı Çiğnenebilir Jel Multivitamin ve Omega 3 30 Adet",
@@ -72280,7 +72036,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Easyvit EasyFishoil Propolis Balık Yağı Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -73003,7 +72759,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Resveratrol Kapsül 30 Kapsül",
@@ -73018,7 +72774,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Ocean Ultimate Kapsül, Balık Yağı İçeren Takviye Edici Gıda 30 kapsül",
@@ -73126,7 +72882,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 199
+        "stock": 198
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -73158,7 +72914,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Orzax Ocean Multi Balık Yağı Şurup Vitamin Mineral 150 ml",
@@ -76894,7 +76650,7 @@
         "name": "Sensodyne Çok Yönlü Koruma Gelişmiş Beyazlık Diş Macunu 50 ml",
         "slug": "sensodyne-cok-yonlu-koruma-gelismis-beyazlik-dis-macunu-50-ml",
         "brand": "Sensodyne",
-        "price": 150.0,
+        "price": 230.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37af4405-2115-49b5-a6cc-2a2b59f9775b/image_1950.webp",
         "cats": [
@@ -77952,7 +77708,7 @@
         "name": "Talya Ylang Ylang Yağı 20 cc",
         "slug": "talya-ylang-ylang-yagi-20-cc",
         "brand": "Talya",
-        "price": 300.0,
+        "price": 791.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/601fea99-e188-444c-aab0-a29f69e09fb7/image_1950.webp",
         "cats": [
@@ -78071,7 +77827,7 @@
         "slug": "dentiste-agiz-spreyi-ekstra-ferah-3-ml",
         "brand": "Dentiste",
         "price": 295.0,
-        "discount_price": 155.0,
+        "discount_price": 237.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/092ed55b-1219-412d-ad65-16a5192bef15/image_1950.webp",
         "cats": [
           "Beyazlatıcı",
@@ -78187,7 +77943,7 @@
         "slug": "dentiste-agiz-spreyi-ekstra-ferah-3-ml",
         "brand": "Dentiste",
         "price": 295.0,
-        "discount_price": 155.0,
+        "discount_price": 237.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/092ed55b-1219-412d-ad65-16a5192bef15/image_1950.webp",
         "cats": [
           "Beyazlatıcı",
@@ -78474,8 +78230,8 @@
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
         "slug": "rocs-junior-gokkusagi-meyve-aromali-cocuk-dis-macunu-6-12-yas",
         "brand": "Rocs",
-        "price": 379.0,
-        "discount_price": 240.0,
+        "price": 448.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45f0dc-f1f6-424f-8f33-ee4b3b452a65/image_1950.webp",
         "cats": [
           "6+ Yaş",
@@ -78628,8 +78384,8 @@
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
         "slug": "rocs-junior-gokkusagi-meyve-aromali-cocuk-dis-macunu-6-12-yas",
         "brand": "Rocs",
-        "price": 379.0,
-        "discount_price": 240.0,
+        "price": 448.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45f0dc-f1f6-424f-8f33-ee4b3b452a65/image_1950.webp",
         "cats": [
           "6+ Yaş",
@@ -79052,7 +78808,7 @@
           "Saç, Cilt ve Tırnak",
           "Tırnak Kremi"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Orzax SHINIQ Besleyici ve Koruyucu El & Tırnak Kremi",
@@ -80725,7 +80481,7 @@
         "name": "EasyVit EasyFishoil Omega 3 Çilek 30 Jel Form",
         "slug": "easyvit-easyfishoil-omega-3-cilek-30-jel-form",
         "brand": "EasyVit",
-        "price": 929.0,
+        "price": 998.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd5c893a-69e5-445c-880e-5b9897437cf7/image_1950.webp",
         "cats": [
@@ -80937,7 +80693,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Omepa 2000 Balık Yağı 30 Yumuşak Kapsül",
@@ -81021,141 +80777,6 @@
         "stock": 1
       }
     ],
-    "Çocuk Omega 3": [
-      {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 1167.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Bağışıklık Sistemi",
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
-        "slug": "moller-s-omega-3-cod-liver-oil-dogal-elma-aromali-150-ml",
-        "brand": "Möller's",
-        "price": 1122.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
-        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
-        "brand": "Nutraxin",
-        "price": 795.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "İhtiyaca Göre",
-          "Omega 3",
-          "Çocuk Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
-        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
-        "brand": "Nutraxin",
-        "price": 795.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "İhtiyaca Göre",
-          "Omega 3",
-          "Çocuk Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Ocean Karışık Meyve Aromalı Balık Yağı 150 ml Şişe",
-        "slug": "ocean-karisik-meyve-aromali-balik-yagi-150-ml-sise",
-        "brand": "Orzax",
-        "price": 764.5,
-        "discount_price": 408.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73ebc079-3aae-452a-8165-6681059ea395/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 20
-      },
-      {
-        "name": "Ocean Multi Balık Yağı Şurup 150 ml (1+1 Paket)",
-        "slug": "ocean-multi-balik-yagi-surup-150-ml-1-alana-1-bedava",
-        "brand": "Orzax",
-        "price": 624.5,
-        "discount_price": 446.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f81a9861-e961-47e9-a79c-b4b9ced2a6e3/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Omega 3",
-          "Omega 3",
-          "Çocuk Sağlığı",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
-        "slug": "orzax-ocean-portakal-aromali-balik-yagi-surubu-cocuklar-icin-150-ml",
-        "brand": "Orzax",
-        "price": 764.5,
-        "discount_price": 408.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/413f7851-9c0d-4063-ab1e-18985249f22f/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Beyin ve Hafıza",
-          "Çocuk Vitaminleri",
-          "Omega 3",
-          "Çocuk Sağlığı"
-        ],
-        "stock": 24
-      }
-    ],
     "Beta Glukan": [
       {
         "name": "Easyvit EasyFishoil Beta Glukan Çiğnenebilir Jel Meyve Aromalı 30 Adet",
@@ -81173,7 +80794,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Firigus Kara Mürver Beta Glukan C Vitamini Takviyesi 100 ml",
@@ -83563,7 +83184,7 @@
         "slug": "yesilmarka-whey-protein-tozu-100-g-ananas",
         "brand": "Yeşilmarka",
         "price": 619.0,
-        "discount_price": 523.0,
+        "discount_price": 524.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a18796cb-74f0-466a-85a3-6051885f3142/image_1950.webp",
         "cats": [
           "Spor ve Egzersiz",
@@ -84485,7 +84106,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Resvega Kapsül Resveratrol Balık Yağı Lutein Zeaksantin D Vitamini Takviyesi 60 Kapsül",
@@ -84860,7 +84481,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Orzax Ocean Selenyum 100 mcg 30 Tablet",
@@ -86033,7 +85654,7 @@
         "slug": "magnesium-plus-magnezyum-sitrat-tablet-30-tablet",
         "brand": "Goodday",
         "price": 549.0,
-        "discount_price": 311.0,
+        "discount_price": 208.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/860f20ea-34cd-4ec0-9f33-ff7765dfedfc/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -86590,7 +86211,7 @@
           "Antioksidanlar",
           "Kalp ve Damar"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Orzax Ocean Pulse 30 Kapsül",
@@ -87130,7 +86751,7 @@
         "slug": "yesilmarka-whey-protein-tozu-100-g-ananas",
         "brand": "Yeşilmarka",
         "price": 619.0,
-        "discount_price": 523.0,
+        "discount_price": 524.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a18796cb-74f0-466a-85a3-6051885f3142/image_1950.webp",
         "cats": [
           "Spor ve Egzersiz",
@@ -88213,7 +87834,7 @@
         "name": "Wee Biberon Emzik Geniş Ağız Damla No:1 794",
         "slug": "wee-biberon-emzik-genis-agiz-damla-no-1-794",
         "brand": "Wee",
-        "price": 136.0,
+        "price": 142.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f484db9-28f7-401b-bede-4e903c66a7bb/image_1950.webp",
         "cats": [
@@ -89592,6 +89213,120 @@
         "stock": 2
       }
     ],
+    "Çocuk Omega 3": [
+      {
+        "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
+        "slug": "moller-s-omega-3-cod-liver-oil-dogal-elma-aromali-150-ml",
+        "brand": "Möller's",
+        "price": 1122.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
+        "cats": [
+          "Çocuk Omega 3",
+          "Balık Yağı ve Omega",
+          "Beyin ve Hafıza",
+          "Vitamin ve Takviye",
+          "Omega 3",
+          "Çocuk Vitaminleri",
+          "Omega 3",
+          "Çocuk Sağlığı",
+          "Kalp ve Damar"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
+        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
+        "brand": "Nutraxin",
+        "price": 795.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
+        "cats": [
+          "Çocuk Omega 3 ve Balık Yağı",
+          "Çocuk Omega 3",
+          "Balık Yağı ve Omega",
+          "Beyin ve Hafıza",
+          "Vitamin ve Takviye",
+          "Omega 3",
+          "İhtiyaca Göre",
+          "Omega 3",
+          "Çocuk Omega 3",
+          "Çocuk Sağlığı",
+          "Kalp ve Damar"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
+        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
+        "brand": "Nutraxin",
+        "price": 795.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
+        "cats": [
+          "Çocuk Omega 3 ve Balık Yağı",
+          "Çocuk Omega 3",
+          "Balık Yağı ve Omega",
+          "Beyin ve Hafıza",
+          "Vitamin ve Takviye",
+          "Omega 3",
+          "İhtiyaca Göre",
+          "Omega 3",
+          "Çocuk Omega 3",
+          "Çocuk Sağlığı",
+          "Kalp ve Damar"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Ocean Karışık Meyve Aromalı Balık Yağı 150 ml Şişe",
+        "slug": "ocean-karisik-meyve-aromali-balik-yagi-150-ml-sise",
+        "brand": "Orzax",
+        "price": 764.5,
+        "discount_price": 408.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73ebc079-3aae-452a-8165-6681059ea395/image_1950.webp",
+        "cats": [
+          "Çocuk Omega 3",
+          "Beyin ve Hafıza",
+          "Omega 3",
+          "Çocuk Sağlığı",
+          "Kalp ve Damar"
+        ],
+        "stock": 20
+      },
+      {
+        "name": "Ocean Multi Balık Yağı Şurup 150 ml (1+1 Paket)",
+        "slug": "ocean-multi-balik-yagi-surup-150-ml-1-alana-1-bedava",
+        "brand": "Orzax",
+        "price": 624.5,
+        "discount_price": 446.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f81a9861-e961-47e9-a79c-b4b9ced2a6e3/image_1950.webp",
+        "cats": [
+          "Çocuk Omega 3",
+          "Omega 3",
+          "Omega 3",
+          "Çocuk Sağlığı",
+          "Kalp ve Damar"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
+        "slug": "orzax-ocean-portakal-aromali-balik-yagi-surubu-cocuklar-icin-150-ml",
+        "brand": "Orzax",
+        "price": 764.5,
+        "discount_price": 408.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/413f7851-9c0d-4063-ab1e-18985249f22f/image_1950.webp",
+        "cats": [
+          "Çocuk Omega 3",
+          "Beyin ve Hafıza",
+          "Çocuk Vitaminleri",
+          "Omega 3",
+          "Çocuk Sağlığı"
+        ],
+        "stock": 24
+      }
+    ],
     "Synbiyotik": [
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -89786,7 +89521,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -91059,7 +90794,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -92293,7 +92028,7 @@
         "name": "Otifleks Doğal Balmumlu Kulak Tıkacı 2'li",
         "slug": "otifleks-dogal-balmumlu-kulak-tikaci-2-li",
         "brand": "Otifleks",
-        "price": 329.0,
+        "price": 501.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0626c876-b58c-44dc-b850-51dfec069385/image_1950.webp",
         "cats": [
@@ -92308,7 +92043,7 @@
         "name": "Otifleks Doğal Balmumlu Kulak Tıkacı 4'lü",
         "slug": "otifleks-dogal-balmumlu-kulak-tikaci-4-lu",
         "brand": "Otifleks",
-        "price": 458.0,
+        "price": 899.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/583d4011-9c59-4422-91d4-202a1883da96/image_1950.webp",
         "cats": [
@@ -92916,8 +92651,8 @@
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
         "slug": "rocs-junior-gokkusagi-meyve-aromali-cocuk-dis-macunu-6-12-yas",
         "brand": "Rocs",
-        "price": 379.0,
-        "discount_price": 240.0,
+        "price": 448.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad45f0dc-f1f6-424f-8f33-ee4b3b452a65/image_1950.webp",
         "cats": [
           "6+ Yaş",
@@ -93100,7 +92835,7 @@
         "name": "Sleepy Natural Premature Bebek Bezi No 0 0-3 kg 44'lü",
         "slug": "sleepy-natural-premature-bebek-bezi-no-0-0-3-kg-44-lu",
         "brand": "Sleepy",
-        "price": 340.0,
+        "price": 398.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89eca83d-29c0-4bff-b508-2026e0ac3ba8/image_1950.webp",
         "cats": [
@@ -93115,7 +92850,7 @@
         "name": "Sleepy Natural Premature Bebek Bezi No 0 0-3 kg 44'lü",
         "slug": "sleepy-natural-premature-bebek-bezi-no-0-0-3-kg-44-lu",
         "brand": "Sleepy",
-        "price": 340.0,
+        "price": 398.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89eca83d-29c0-4bff-b508-2026e0ac3ba8/image_1950.webp",
         "cats": [
@@ -93542,7 +93277,7 @@
         "name": "Sıhhat Amonyak Çözeltisi 50 ml",
         "slug": "sihhat-amonyak-cozeltisi-50-ml",
         "brand": "Sıhhat",
-        "price": 72.0,
+        "price": 138.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/362f27a9-0729-4e55-9bd9-f6abda3e7502/image_1950.webp",
         "cats": [
@@ -93733,21 +93468,6 @@
           "Saç, Cilt ve Tırnak"
         ],
         "stock": 2
-      }
-    ],
-    "Hint Yağı": [
-      {
-        "name": "Talya Hint Yağı 50 ml Saç ve Cilt Bakım",
-        "slug": "talya-hint-yagi-50-ml-sac-ve-cilt-bakim",
-        "brand": "Talya",
-        "price": 232.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f15d79ca-bf7c-4fcf-b253-3987be73de6f/image_1950.webp",
-        "cats": [
-          "Saç Bakım Yağları",
-          "Hint Yağı"
-        ],
-        "stock": 1
       }
     ],
     "Ağız Bakım Yağı": [
@@ -93999,7 +93719,7 @@
         "name": "Talya Ylang Ylang Yağı 20 cc",
         "slug": "talya-ylang-ylang-yagi-20-cc",
         "brand": "Talya",
-        "price": 300.0,
+        "price": 791.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/601fea99-e188-444c-aab0-a29f69e09fb7/image_1950.webp",
         "cats": [
@@ -94554,7 +94274,7 @@
         "name": "Wee Biberon Emzik Geniş Ağız Damla No:1 794",
         "slug": "wee-biberon-emzik-genis-agiz-damla-no-1-794",
         "brand": "Wee",
-        "price": 136.0,
+        "price": 142.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f484db9-28f7-401b-bede-4e903c66a7bb/image_1950.webp",
         "cats": [
@@ -94659,7 +94379,7 @@
         "slug": "wee-dislik-sulu-859",
         "brand": "Wee",
         "price": 199.99,
-        "discount_price": 136.0,
+        "discount_price": 134.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/04039bd8-ca79-44c9-a918-f1c7b0438bf0/image_1950.webp",
         "cats": [
           "Diş Kaşıyıcı"
@@ -94671,7 +94391,7 @@
         "slug": "wee-silikon-dis-kasiyici-kalpli-912",
         "brand": "Wee",
         "price": 179.99,
-        "discount_price": 114.0,
+        "discount_price": 123.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/414d8c71-5323-41e0-b82e-40880b1d07b6/image_1950.webp",
         "cats": [
           "Diş Kaşıyıcı"
@@ -94754,7 +94474,7 @@
         "slug": "wee-emzik-silikon-damakli-seffaf-desen-no-1-836",
         "brand": "Wee",
         "price": 239.99,
-        "discount_price": 166.0,
+        "discount_price": 161.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8da0a41c-4895-479c-bba3-7a1cc064575c/image_1950.webp",
         "cats": [
           "0-6 Ay",
@@ -95166,9 +94886,9 @@
     ]
   },
   "stats": {
-    "total_products": 6109,
-    "total_categories": 653,
-    "generated": "2026-10-14 11:26",
+    "total_products": 6094,
+    "total_categories": 652,
+    "generated": "2026-10-14 15:00",
     "source": "ikas_api_live"
   }
 }
