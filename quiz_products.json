@@ -7424,7 +7424,7 @@
           "Kemik ve Eklem",
           "Hyalüronik Asit İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Hünnap Kabak Çekirdeği Yağı 100 ml",
@@ -13140,20 +13140,6 @@
         "stock": 1
       },
       {
-        "name": "Samila Gliserin Cilt Nemlendirici ve Bakım 20 ml",
-        "slug": "samila-gliserin-cilt-nemlendirici-ve-bakim-20-ml",
-        "brand": "Samila",
-        "price": 68.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b479d5b6-499e-4c82-8e21-4383fc8e728a/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Nemlendirici Yağ ve Serumlar",
-          "Nemlendiriciler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Sebamed Baby Bebek Masaj Yağı 150 ml",
         "slug": "sebamed-baby-bebek-masaj-yagi-150-ml",
         "brand": "Sebamed",
@@ -14367,7 +14353,7 @@
           "Kemik ve Eklem",
           "Hyalüronik Asit İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Juvera Radix Dökülme Karşıtı Losyon Saç Güçlendirici 60 ml",
@@ -45924,7 +45910,7 @@
           "Kemik ve Eklem",
           "Hyalüronik Asit İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Kartix Glucosamine Complex Tablet 60 Tablet",
@@ -57383,7 +57369,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b479d5b6-499e-4c82-8e21-4383fc8e728a/image_1950.webp",
         "cats": [
-          "Vücut Bakımı",
           "Nemlendirici Yağ ve Serumlar",
           "Nemlendiriciler"
         ],
@@ -59444,7 +59429,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b479d5b6-499e-4c82-8e21-4383fc8e728a/image_1950.webp",
         "cats": [
-          "Vücut Bakımı",
           "Nemlendirici Yağ ve Serumlar",
           "Nemlendiriciler"
         ],
@@ -61121,7 +61105,7 @@
           "Kemik ve Eklem",
           "Hyalüronik Asit İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "La Roche Posay Hyalu B5 Göz Çevresi Kremi 15 ml",
@@ -71493,7 +71477,7 @@
         "cats": [
           "Omega 3"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -95182,9 +95166,9 @@
     ]
   },
   "stats": {
-    "total_products": 6110,
+    "total_products": 6109,
     "total_categories": 653,
-    "generated": "2026-10-14 07:03",
+    "generated": "2026-10-14 11:26",
     "source": "ikas_api_live"
   }
 }
