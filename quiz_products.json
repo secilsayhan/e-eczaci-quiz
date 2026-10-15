@@ -5317,7 +5317,7 @@
           "C Vitamini",
           "Vitaminler"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Ocean Gummies Kids Sambucus Çiğnenebilir 60 Adet",
@@ -6865,19 +6865,6 @@
         "stock": 1
       },
       {
-        "name": "İmuneks Farma Lacnerex Kapsül 60 Kapsül",
-        "slug": "imuneks-farma-lacnerex-kapsul-60-kapsul",
-        "brand": "İmuneks Farma",
-        "price": 1995.0,
-        "discount_price": 1256.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8f836a69-d8e4-480d-9f01-34df8c88077d/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
-          "İhtiyaca Göre"
-        ],
-        "stock": 1
-      },
-      {
         "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
         "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
         "brand": "İmuneks",
@@ -7601,7 +7588,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Toleriane Foam Cleansing 400 ml",
@@ -8464,7 +8451,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
@@ -8771,7 +8758,7 @@
           "C Vitamini",
           "Vitaminler"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Ocean Extramag Bisglisinat 60 Tablet",
@@ -9538,23 +9525,6 @@
           "B Vitaminleri"
         ],
         "stock": 3
-      },
-      {
-        "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
-        "slug": "solgar-psyllium-husks-500-mg-200-kapsul",
-        "brand": "Solgar",
-        "price": 1238.5,
-        "discount_price": 1159.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f5c6ff5-b1df-4a42-ba66-c4070725c4f0/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Kolesterol",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Kabızlık",
-          "Sindirim"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
@@ -16314,23 +16284,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
-        "slug": "solgar-psyllium-husks-500-mg-200-kapsul",
-        "brand": "Solgar",
-        "price": 1238.5,
-        "discount_price": 1159.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f5c6ff5-b1df-4a42-ba66-c4070725c4f0/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Kolesterol",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Kabızlık",
-          "Sindirim"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Symbiosys Alflorex Kapsül Probiyotik Mikroorganizma Takviyesi 30 Kapsül",
         "slug": "symbiosys-alflorex-kapsul-probiyotik-mikroorganizma-30-kapsul",
         "brand": "Biocodex",
@@ -17113,7 +17066,7 @@
           "C Vitamini",
           "Vitaminler"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Ocean Enzymes Lactase Oral Damla 20 ml",
@@ -17297,23 +17250,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
-        "slug": "solgar-psyllium-husks-500-mg-200-kapsul",
-        "brand": "Solgar",
-        "price": 1238.5,
-        "discount_price": 1159.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f5c6ff5-b1df-4a42-ba66-c4070725c4f0/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Kolesterol",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Kabızlık",
-          "Sindirim"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
         "slug": "solgar-quercetin-complex-with-ester-c-plus-50-kapsul",
         "brand": "Solgar",
@@ -17389,7 +17325,7 @@
           "Kadın",
           "Kadın Takviyeleri"
         ],
-        "stock": 57
+        "stock": 56
       },
       {
         "name": "Umkaİmun EF Tablet 1+1 20 Tablet",
@@ -17460,19 +17396,6 @@
         "cats": [
           "Bağışıklık Sistemi",
           "Vitamin ve Takviye",
-          "İhtiyaca Göre"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "İmuneks Farma Lacnerex Kapsül 60 Kapsül",
-        "slug": "imuneks-farma-lacnerex-kapsul-60-kapsul",
-        "brand": "İmuneks Farma",
-        "price": 1995.0,
-        "discount_price": 1256.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8f836a69-d8e4-480d-9f01-34df8c88077d/image_1950.webp",
-        "cats": [
-          "Bağışıklık Sistemi",
           "İhtiyaca Göre"
         ],
         "stock": 1
@@ -18073,7 +17996,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "New Life Mag 4 Day Night Magnezyum B6 Gündüz Gece 60 Tablet",
@@ -18126,7 +18049,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -24601,7 +24524,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Ligone Methyl B12 Dilalti Sprey, B12 Vitamini İçeren Takviye Edici Gıda 2x20ml Şişe",
@@ -24771,7 +24694,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Neujoys Methyl B12 Emme Tablet 30 Tablet",
@@ -25006,7 +24929,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -25048,7 +24971,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean B Complex 60 Kapsül",
@@ -27142,7 +27065,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nutraxin Vitals Multivitamin Mineral Energy Tablet, 60 Tablet",
@@ -27158,7 +27081,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ocean B Complex 60 Kapsül",
@@ -27764,7 +27687,7 @@
           "L-Arjinin",
           "Güç ve Performans"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -29905,21 +29828,6 @@
         "stock": 1
       },
       {
-        "name": "VeNatura Lipozomal L-Glutatyon 250 mg 30 Kapsül",
-        "slug": "venatura-lipozomal-l-glutatyon-250-mg-30-kapsul",
-        "brand": "VeNatura",
-        "price": 989.0,
-        "discount_price": 826.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f9adbf9-4021-4eed-aa20-c127708a744a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Glutatyon",
-          "Antioksidan Destek",
-          "Detoks ve Karaciğer"
-        ],
-        "stock": 1
-      },
-      {
         "name": "VeNatura Lipozomal Resveratrol 125 mg 60 Kapsül",
         "slug": "venatura-lipozomal-resveratrol-125-mg-60-kapsul",
         "brand": "VeNatura",
@@ -30413,7 +30321,7 @@
           "C Vitamini",
           "Vitaminler"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -35120,7 +35028,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "HHS A1 Bitkisel 30 Kapsül",
@@ -35665,23 +35573,6 @@
           "Cilt",
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
-        "slug": "solgar-psyllium-husks-500-mg-200-kapsul",
-        "brand": "Solgar",
-        "price": 1238.5,
-        "discount_price": 1159.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f5c6ff5-b1df-4a42-ba66-c4070725c4f0/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Kolesterol",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Kabızlık",
-          "Sindirim"
         ],
         "stock": 1
       },
@@ -44831,7 +44722,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "New Life Mag 4 Day Night Magnezyum B6 Gündüz Gece 60 Tablet",
@@ -44898,7 +44789,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -45606,7 +45497,7 @@
           "Kondroitin",
           "Kemik ve Eklem"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Limon ve Portakal 30 Adet",
@@ -45977,7 +45868,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "New Life AlgoSte K2 Tablet, K2 Vitamini ve Mineral 60 Tablet",
@@ -46076,7 +45967,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -47281,7 +47172,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "New Life Mag 4 Day Night Magnezyum B6 Gündüz Gece 60 Tablet",
@@ -47334,7 +47225,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -48535,21 +48426,6 @@
           "Vitamin ve Takviye",
           "İhtiyaca Göre",
           "Glutatyon",
-          "Detoks ve Karaciğer"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "VeNatura Lipozomal L-Glutatyon 250 mg 30 Kapsül",
-        "slug": "venatura-lipozomal-l-glutatyon-250-mg-30-kapsul",
-        "brand": "VeNatura",
-        "price": 989.0,
-        "discount_price": 826.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f9adbf9-4021-4eed-aa20-c127708a744a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Glutatyon",
-          "Antioksidan Destek",
           "Detoks ve Karaciğer"
         ],
         "stock": 1
@@ -50736,7 +50612,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Pure Vitamin C12 Serum Cilt Tonu Eşitleyici",
@@ -50923,7 +50799,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Omepa DHA Yumuşak Kapsül Balık Yağı Astaksantin Takviyesi 30 Kapsül",
@@ -51103,21 +50979,6 @@
           "Antioksidan",
           "Kuersetin",
           "Antioksidan Destek"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "VeNatura Lipozomal L-Glutatyon 250 mg 30 Kapsül",
-        "slug": "venatura-lipozomal-l-glutatyon-250-mg-30-kapsul",
-        "brand": "VeNatura",
-        "price": 989.0,
-        "discount_price": 826.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f9adbf9-4021-4eed-aa20-c127708a744a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Glutatyon",
-          "Antioksidan Destek",
-          "Detoks ve Karaciğer"
         ],
         "stock": 1
       },
@@ -65023,7 +64884,7 @@
           "L-Arjinin",
           "Güç ve Performans"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nutraxin Vitals Mens Multi Vitamin Complex Tablet 60 Tablet",
@@ -65887,7 +65748,7 @@
           "Kadın",
           "Kadın Takviyeleri"
         ],
-        "stock": 57
+        "stock": 56
       },
       {
         "name": "Velavit V-Women's Daily Kadın Multivitamin ve Mineral 30 Tablet",
@@ -66243,7 +66104,7 @@
           "Vitaminler",
           "Enerji ve Zindelik"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
@@ -66337,7 +66198,7 @@
           "C Vitamini",
           "Vitaminler"
         ],
-        "stock": 21
+        "stock": 20
       },
       {
         "name": "Ocean Vitamin D 1000 IU Sprey",
@@ -67519,7 +67380,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "GoodDay Glukomannan Max Saşe Konjak Glukomannan ve Vitamin Kompleksi 30 Saşe",
@@ -67659,7 +67520,7 @@
           "İnositol (Myo & D-Chiro)",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 47
+        "stock": 46
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Limonata Aromalı",
@@ -68428,7 +68289,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Nbtlife Narla Kapsül Alfa Lipoik Asit İçeren Takviye Edici Gıda 30 Kapsül",
@@ -71165,18 +71026,6 @@
         "stock": 4
       },
       {
-        "name": "Nutraxin Vitals Omega 3 Balık Yağı 2000 mg 60 Yumuşak Kapsül",
-        "slug": "nutraxin-vitals-omega-3-balik-yagi-2000-mg-60-yumusak-kapsul",
-        "brand": "Nutraxin",
-        "price": 899.99,
-        "discount_price": 480.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1177658d-8ed2-4e5b-bf18-28c3acfd70f9/image_1950.webp",
-        "cats": [
-          "Omega 3"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
         "slug": "nutrof-total-balik-yagi-lutein-resveratrol-zeaksantin-d3-vitamini-30",
         "brand": "Nutrof",
@@ -72694,7 +72543,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Ocean Ultimate Kapsül, Balık Yağı İçeren Takviye Edici Gıda 30 kapsül",
@@ -73664,7 +73513,7 @@
           "Kadın",
           "Kadın Takviyeleri"
         ],
-        "stock": 57
+        "stock": 56
       }
     ],
     "L-Teanin": [
@@ -74578,7 +74427,7 @@
           "Kondroitin",
           "Kemik ve Eklem"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Cosakondrin Plus Tablet 60 Adet",
@@ -74594,7 +74443,7 @@
           "Kondroitin",
           "Kemik ve Eklem"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Kondromin Art Tablet 90 Tablet",
@@ -74785,7 +74634,7 @@
           "Kondroitin",
           "Kemik ve Eklem"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Cosakondrin Plus Tablet 60 Adet",
@@ -74801,7 +74650,7 @@
           "Kondroitin",
           "Kemik ve Eklem"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Kartix Glucosamine Complex Tablet 60 Tablet",
@@ -82563,7 +82412,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "New Life B Active Trio B6 B12 Folik Asit Takviyesi 30 Tablet",
@@ -83082,7 +82931,7 @@
           "L-Arjinin",
           "Güç ve Performans"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Proteinocean Taurine Takviyesi 400 g",
@@ -83649,7 +83498,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "NBTLIFE Lifecose Çiğnenebilir Form, Dut Ekstresi ve Krom 60 Adet",
@@ -84026,7 +83875,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Resvega Kapsül Resveratrol Balık Yağı Lutein Zeaksantin D Vitamini Takviyesi 60 Kapsül",
@@ -84300,7 +84149,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Lipozone Glutatyon 30 Kapsül",
@@ -84770,7 +84619,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "NBTLIFE Lifecose Çiğnenebilir Form, Dut Ekstresi ve Krom 60 Adet",
@@ -84831,7 +84680,7 @@
           "Kadın",
           "Kadın Takviyeleri"
         ],
-        "stock": 57
+        "stock": 56
       }
     ],
     "İnositol": [
@@ -84850,7 +84699,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -84910,7 +84759,7 @@
           "İnositol",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Orzax Ocean Polysitol Miyoinositol D-Kiroinositol Takviye 30 Saşe",
@@ -84925,7 +84774,7 @@
           "İnositol (Myo & D-Chiro)",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 47
+        "stock": 46
       }
     ],
     "İştah Kontrolü": [
@@ -85601,7 +85450,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -86017,7 +85866,7 @@
           "Alfa Lipoik Asit",
           "Antioksidan Destek"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "New Life CoenzQH Yumuşak Jelatin Kapsül 30 Kapsül",
@@ -86554,7 +86403,7 @@
           "Kadın",
           "Kadın Takviyeleri"
         ],
-        "stock": 57
+        "stock": 56
       }
     ],
     "İlaç Kutusu (Kesicili)": [
@@ -89785,23 +89634,6 @@
           "Bergamot"
         ],
         "stock": 21
-      },
-      {
-        "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
-        "slug": "solgar-psyllium-husks-500-mg-200-kapsul",
-        "brand": "Solgar",
-        "price": 1238.5,
-        "discount_price": 1159.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f5c6ff5-b1df-4a42-ba66-c4070725c4f0/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Kolesterol",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Kabızlık",
-          "Sindirim"
-        ],
-        "stock": 1
       }
     ],
     "Bergamot": [
@@ -90017,7 +89849,7 @@
           "L-Arjinin",
           "Güç ve Performans"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Tedafarma Vipros Kapsül Cüce Palmiye Isırgan Likopen Takviyesi 30 Kapsül",
@@ -90714,7 +90546,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -91203,7 +91035,7 @@
           "İnositol (Myo & D-Chiro)",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 47
+        "stock": 46
       }
     ],
     "İnositol (Myo & D-Chiro)": [
@@ -91220,7 +91052,7 @@
           "İnositol (Myo & D-Chiro)",
           "PCOS ve Hormonal Denge"
         ],
-        "stock": 47
+        "stock": 46
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -92170,21 +92002,6 @@
         "stock": 1
       },
       {
-        "name": "VeNatura Lipozomal L-Glutatyon 250 mg 30 Kapsül",
-        "slug": "venatura-lipozomal-l-glutatyon-250-mg-30-kapsul",
-        "brand": "VeNatura",
-        "price": 989.0,
-        "discount_price": 826.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f9adbf9-4021-4eed-aa20-c127708a744a/image_1950.webp",
-        "cats": [
-          "Antioksidan",
-          "Glutatyon",
-          "Antioksidan Destek",
-          "Detoks ve Karaciğer"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Velavit Glutathione With Liposomal",
         "slug": "velavit-glutathione-with-liposomal",
         "brand": "Velavit",
@@ -93031,25 +92848,6 @@
           "Enzimler",
           "C Vitamini",
           "Kuersetin"
-        ],
-        "stock": 1
-      }
-    ],
-    "Kabızlık": [
-      {
-        "name": "Solgar Psyllium Husks 500 mg 200 Kapsül",
-        "slug": "solgar-psyllium-husks-500-mg-200-kapsul",
-        "brand": "Solgar",
-        "price": 1238.5,
-        "discount_price": 1159.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f5c6ff5-b1df-4a42-ba66-c4070725c4f0/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Kolesterol",
-          "İhtiyaca Göre",
-          "Bitkisel Takviyeler",
-          "Kabızlık",
-          "Sindirim"
         ],
         "stock": 1
       }
@@ -94806,9 +94604,9 @@
     ]
   },
   "stats": {
-    "total_products": 6089,
-    "total_categories": 652,
-    "generated": "2026-10-14 21:42",
+    "total_products": 6076,
+    "total_categories": 651,
+    "generated": "2026-10-15 09:25",
     "source": "ikas_api_live"
   }
 }
