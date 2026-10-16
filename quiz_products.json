@@ -2449,20 +2449,6 @@
         "stock": 4
       },
       {
-        "name": "Bioderma Atoderm Intensive Foaming Gel 1000 ml",
-        "slug": "bioderma-atoderm-intensive-foaming-gel-1000-ml-ozel-fiyat",
-        "brand": "Bioderma",
-        "price": 1939.0,
-        "discount_price": 1496.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37bf903f-ca0d-444f-91d4-ec9d226418f2/image_1950.webp",
-        "cats": [
-          "Duş Jeli",
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Atoderm Intensive Köpük Jel 200 ml",
         "slug": "bioderma-atoderm-intensive-kopuk-jel-200-ml",
         "brand": "Bioderma",
@@ -5759,7 +5745,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Resvega Kapsül Resveratrol Balık Yağı Lutein Zeaksantin D Vitamini Takviyesi 60 Kapsül",
@@ -5879,7 +5865,7 @@
           "Kara Mürver",
           "Çocuk Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Sambuvit Plus Sprey Kara Mürver Ekstresi B5 Vitamini Takviyesi 25 ml Şişe",
@@ -8802,7 +8788,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Ocean Krill Oil 30 Kapsül (%50 Daha Fazla)",
@@ -10064,22 +10050,6 @@
         "stock": 1
       },
       {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Venatura Vefa Magnezyum Malat Tablet 60 Tablet",
         "slug": "venatura-vefa-magnezyum-malat-tablet-60-tablet",
         "brand": "VeNatura",
@@ -10728,7 +10698,7 @@
           "Kara Mürver",
           "Çocuk Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
@@ -18291,7 +18261,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -18419,7 +18389,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
@@ -18917,7 +18887,7 @@
           "L-Karnitin",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Redoxon Pro Efervesan Tablet Vitamin Mineral Takviyesi 15 Tablet",
@@ -18932,7 +18902,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "S1 Kalsiyum Magnezyum Çinko Vitamin D 60 Tablet",
@@ -21581,7 +21551,7 @@
           "Sitikolin",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Venatura B-Trio ODT Tablet, B12, Folat ve B6 30 Tablet",
@@ -22089,7 +22059,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
@@ -22847,7 +22817,7 @@
           "Omega 9",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Ginkgo Biloba 60 Kapsül",
@@ -23027,7 +22997,7 @@
           "Sitikolin",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Supradyn Focus Film Kaplı Tablet (Multivitamin Mineral Ginseng) 30 Tablet",
@@ -23102,22 +23072,6 @@
         "price": 628.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/27234376-3f13-4de0-b4e1-9178c5e0ca89/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
         "cats": [
           "Balık Yağı ve Omega",
           "Beyin ve Hafıza",
@@ -23495,7 +23449,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
@@ -23738,7 +23692,7 @@
           "Kara Mürver",
           "Çocuk Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Kangavites Multivitamin & Mineral 60 Tablet",
@@ -24914,7 +24868,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -25344,7 +25298,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Sambuvit Plus Sprey Kara Mürver Ekstresi B5 Vitamini Takviyesi 25 ml Şişe",
@@ -25679,7 +25633,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -25889,7 +25843,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
@@ -27024,7 +26978,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Ocean Day2Day Gummies 60 Adet",
@@ -27180,7 +27134,7 @@
           "L-Karnitin",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Redoxon Pro Efervesan Tablet Vitamin Mineral Takviyesi 15 Tablet",
@@ -27195,7 +27149,7 @@
           "Multivitamin",
           "Enerji ve Zindelik"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Regenesis Max Plus",
@@ -28365,7 +28319,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
@@ -28769,7 +28723,7 @@
           "Kara Mürver",
           "Çocuk Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Sidefer Damla Sukrozomiyal Demir Takviyesi 30 ml Şişe + 1 Adet Toz",
@@ -29144,7 +29098,7 @@
           "Kara Mürver",
           "Çocuk Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Sambuvit Plus Sprey Kara Mürver Ekstresi B5 Vitamini Takviyesi 25 ml Şişe",
@@ -30449,7 +30403,7 @@
           "Kara Mürver",
           "Çocuk Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Sidefer Kapsül Sukrozomiyal Demir C Vitamini B12 Vitamini Takviyesi 30 Kapsül",
@@ -31850,7 +31804,7 @@
           "Kara Mürver",
           "Çocuk Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Sambuvit Plus Sprey Kara Mürver Ekstresi B5 Vitamini Takviyesi 25 ml Şişe",
@@ -39718,20 +39672,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Atoderm Intensive Foaming Gel 1000 ml",
-        "slug": "bioderma-atoderm-intensive-foaming-gel-1000-ml-ozel-fiyat",
-        "brand": "Bioderma",
-        "price": 1939.0,
-        "discount_price": 1496.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37bf903f-ca0d-444f-91d4-ec9d226418f2/image_1950.webp",
-        "cats": [
-          "Duş Jeli",
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Hydrabio Foaming Gel 400 ml",
         "slug": "bioderma-hydrabio-foaming-gel-400-ml",
         "brand": "Bioderma",
@@ -45095,7 +45035,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -45200,7 +45140,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
@@ -46056,7 +45996,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Solgar Magnezyum Sitrat Yüksek Emilim 200 mg 60 Tablet",
@@ -46127,7 +46067,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Magnezyum Sitrat B6 90 Kapsül Yüksek Emilim",
@@ -47445,7 +47385,7 @@
           "Kara Mürver",
           "Çocuk Sağlığı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Beta Glucans Tablet 60 Tablet",
@@ -57190,20 +57130,6 @@
         "stock": 2
       },
       {
-        "name": "Bioderma Atoderm Intensive Foaming Gel 1000 ml",
-        "slug": "bioderma-atoderm-intensive-foaming-gel-1000-ml-ozel-fiyat",
-        "brand": "Bioderma",
-        "price": 1939.0,
-        "discount_price": 1496.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37bf903f-ca0d-444f-91d4-ec9d226418f2/image_1950.webp",
-        "cats": [
-          "Duş Jeli",
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Atoderm Intensive Köpük Jel 200 ml",
         "slug": "bioderma-atoderm-intensive-kopuk-jel-200-ml",
         "brand": "Bioderma",
@@ -63988,7 +63914,7 @@
           "L-Karnitin",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Solgar Kore Ginsengi 50 Kapsül",
@@ -64094,7 +64020,7 @@
           "L-Karnitin",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Solgar L-Arginine 500 mg L-Arjinin Takviyesi 50 Kapsül",
@@ -67743,7 +67669,7 @@
           "Sitikolin",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "UpVita Memory Sitikolin Kapsül 60 Kapsül",
@@ -69676,7 +69602,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Möller's Omega 3 Balık Yağı Tutti Frutti Aromalı 150 ml",
@@ -69693,7 +69619,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
@@ -70407,7 +70333,7 @@
           "Omega 9",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
@@ -70564,7 +70490,7 @@
           "Sitikolin",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Venatura Omega 3 1600 Balık Yağı Kapsül 30 Kapsül",
@@ -70589,22 +70515,6 @@
         "price": 628.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/27234376-3f13-4de0-b4e1-9178c5e0ca89/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
         "cats": [
           "Balık Yağı ve Omega",
           "Beyin ve Hafıza",
@@ -71031,7 +70941,7 @@
           "Çocuk Sağlığı",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
@@ -71753,7 +71663,7 @@
           "Omega 9",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
@@ -72015,7 +71925,7 @@
           "Sitikolin",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "VeNatura D3K2 1000 IU D3 11.25 mcg K2 Vitamini Damla 20 ml",
@@ -72067,7 +71977,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Vitamin K2 MK-7 100 mcg 60 Kapsül",
@@ -72143,22 +72053,6 @@
         "price": 628.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/27234376-3f13-4de0-b4e1-9178c5e0ca89/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
         "cats": [
           "Balık Yağı ve Omega",
           "Beyin ve Hafıza",
@@ -73994,7 +73888,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Ocean Panax Ginseng İçeren Takviye Edici Gıda 60 Kapsül",
@@ -79102,7 +78996,7 @@
           "Omega 9",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Sindirim ve Bağırsak": [
@@ -79531,22 +79425,6 @@
         "price": 628.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/27234376-3f13-4de0-b4e1-9178c5e0ca89/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Beyin ve Hafıza",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Kalp ve Damar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1025.0,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
         "cats": [
           "Balık Yağı ve Omega",
           "Beyin ve Hafıza",
@@ -81820,7 +81698,7 @@
           "L-Karnitin",
           "Cinsel Sağlık ve Performans"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Solgar L-Carnitine 500 Mg Tablet 30 Tablet",
@@ -84126,7 +84004,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Venatura Magnezyum Bisglisinat Kapsül 60 Kapsül",
@@ -84291,7 +84169,7 @@
           "Stres ve Uyku Düzeni",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Venatura Vefa Magnezyum Malat Tablet 60 Tablet",
@@ -92021,7 +91899,7 @@
           "Omega 9",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
@@ -92057,7 +91935,7 @@
           "Omega 9",
           "Kalp ve Damar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
@@ -93866,9 +93744,9 @@
     ]
   },
   "stats": {
-    "total_products": 6031,
+    "total_products": 6023,
     "total_categories": 643,
-    "generated": "2026-10-15 19:01",
+    "generated": "2026-10-16 08:35",
     "source": "ikas_api_live"
   }
 }
