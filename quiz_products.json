@@ -5227,7 +5227,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -18006,7 +18006,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -20279,7 +20279,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 13
+        "stock": 12
       }
     ],
     "Hemoroid Kremi": [
@@ -20294,7 +20294,7 @@
           "Anal ve Rektal Sağlık",
           "Hemoroid Kremi"
         ],
-        "stock": 13
+        "stock": 12
       }
     ],
     "Başlangıç (0-6 Ay)": [
@@ -24847,7 +24847,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -43576,7 +43576,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -44722,7 +44722,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -45924,7 +45924,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -48518,7 +48518,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
@@ -49387,7 +49387,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -52234,7 +52234,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocuvite Complete Kapsül, Balık Yağı, Lutein, Zeaksantin, Vitamin ve Çinko, 60 Kapsül",
@@ -70040,7 +70040,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean DHA 30 Kapsül",
@@ -71329,7 +71329,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Karışık Meyve Aromalı Balık Yağı 150 ml Şişe",
@@ -82810,7 +82810,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocean Resveratrol Kapsül 30 Kapsül",
@@ -83311,7 +83311,7 @@
           "Antioksidan Destek",
           "Kalp ve Damar"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Resvega Kapsül Resveratrol Balık Yağı Lutein Zeaksantin D Vitamini Takviyesi 60 Kapsül",
@@ -94006,7 +94006,7 @@
   "stats": {
     "total_products": 6042,
     "total_categories": 644,
-    "generated": "2026-10-18 12:04",
+    "generated": "2026-10-18 15:00",
     "source": "ikas_api_live"
   }
 }
