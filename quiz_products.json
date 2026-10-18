@@ -13383,7 +13383,7 @@
           "Vazelin",
           "Nemlendiriciler"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Veet Men Duşta Tüy Dökücü Krem 150 ml",
@@ -18006,7 +18006,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -21359,7 +21359,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -22503,7 +22503,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -24847,7 +24847,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -25025,7 +25025,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -26427,7 +26427,7 @@
           "Enerji ve Zindelik",
           "Sinir Sistemi"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml",
@@ -43576,7 +43576,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -44722,7 +44722,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -45924,7 +45924,7 @@
           "Kas ve Kramp",
           "Stres ve Uyku Düzeni"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -50955,7 +50955,7 @@
           "Vazelin",
           "Nemlendiriciler"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "b-good Nemlendirici Vücut Kremi Atopik Ciltler Bebek ve Çocuk 150 ml",
@@ -57748,7 +57748,7 @@
           "Vazelin",
           "Nemlendiriciler"
         ],
-        "stock": 8
+        "stock": 6
       }
     ],
     "Balsam": [
@@ -65746,7 +65746,7 @@
           "Kolajen Takviyeleri",
           "Cilt, Saç ve Tırnak"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "FEB Biotin Tablet Saç 60 Kapsül",
@@ -70164,7 +70164,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -71468,7 +71468,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -73810,7 +73810,7 @@
           "Kolajen Takviyeleri",
           "Cilt, Saç ve Tırnak"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Day2day The Collagen Multi Toz",
@@ -93031,7 +93031,7 @@
           "Vazelin",
           "Nemlendiriciler"
         ],
-        "stock": 8
+        "stock": 6
       }
     ],
     "Tüy Dökücü Krem": [
@@ -94006,7 +94006,7 @@
   "stats": {
     "total_products": 6042,
     "total_categories": 644,
-    "generated": "2026-10-18 08:30",
+    "generated": "2026-10-18 12:04",
     "source": "ikas_api_live"
   }
 }
