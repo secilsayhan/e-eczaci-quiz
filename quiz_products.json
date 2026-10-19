@@ -1016,7 +1016,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Orzax SHINIQ Akne Karşıtı Matlaştırıcı Temizleme Jeli",
@@ -5458,7 +5458,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 190
+        "stock": 189
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -5564,7 +5564,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
@@ -8986,7 +8986,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -22661,7 +22661,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Osende 2M Ağızda Dağılan Tablet Metilfolat Metilkobalamin Takviyesi 30 Tablet",
@@ -24878,7 +24878,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ocean Extramag 90 Tablet (%50 Daha Fazla)",
@@ -26971,7 +26971,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ocean Day2Day Gummies 60 Adet",
@@ -30223,7 +30223,7 @@
         "cats": [
           "C Vitamini"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -35098,22 +35098,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Photoderm AR SPF50+ Kızarıklık Karşıtı Güneş Kremi 30 ml",
-        "slug": "bioderma-photoderm-ar-spf50-plus-kizariklik-karsiti-gunes-kremi-30-ml",
-        "brand": "Bioderma",
-        "price": 1580.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6692ae-7803-4367-82c5-b9ebec924159/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
         "slug": "bioderma-photoderm-ar-plus-ultra-fluid-spf50-plus-40-ml",
         "brand": "Bioderma",
@@ -35160,21 +35144,6 @@
         "stock": 3
       },
       {
-        "name": "Bioderma Photoderm Ar Kızarıklık Karşıtı Güneş Kremi Spf50+ 30 ml",
-        "slug": "bioderma-photoderm-ar-kizariklik-karsiti-gunes-kremi-spf50-plus-30-ml",
-        "brand": "Bioderma",
-        "price": 1539.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ea262e76-b87a-4af2-903e-cb6536418559/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Hassas ve Kızarık Cilt",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Bioderma Photoderm Bronz Brume Kuru Yağ Güneş Spreyi SPF30 200 ml",
         "slug": "bioderma-photoderm-bronz-brume-kuru-yag-gunes-spreyi-spf30-200-ml",
         "brand": "Bioderma",
@@ -35184,22 +35153,6 @@
         "cats": [
           "Güneş Koruma",
           "SPF 30"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Bronz Dry Oil SPF30 Sprey 200 ml",
-        "slug": "bioderma-photoderm-bronz-dry-oil-spf30-sprey-200-ml",
-        "brand": "Bioderma",
-        "price": 2799.0,
-        "discount_price": 2489.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22acbe6c-5e1c-4464-b6c3-d79fbc3d1a3e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "SPF 30",
-          "Yüz Güneş Koruma"
         ],
         "stock": 2
       },
@@ -35216,21 +35169,6 @@
           "SPF 50+"
         ],
         "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Family Sprey SPF50+ 300 ml",
-        "slug": "bioderma-photoderm-family-sprey-spf50-plus-300-ml",
-        "brand": "Bioderma",
-        "price": 3246.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/71a5e5b5-f65c-44bd-865d-f1f4898ea979/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma"
-        ],
-        "stock": 1
       },
       {
         "name": "Bioderma Photoderm Invisible Sprey SPF50+ 200 ml",
@@ -35275,21 +35213,6 @@
         "stock": 3
       },
       {
-        "name": "Bioderma Photoderm M Spf 50+",
-        "slug": "bioderma-photoderm-m-spf-50-plus",
-        "brand": "Bioderma",
-        "price": 2031.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7bdbe8f4-610b-47bb-94a3-728c53fb896e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Renkli SPF 50+",
-          "SPF 50+",
-          "Leke Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm Mineral Fluid Spf50 Hassas Cilt 75 ml",
         "slug": "bioderma-photoderm-mineral-fluid-spf50-hassas-cilt-75-ml",
         "brand": "Bioderma",
@@ -35312,69 +35235,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/65c1888e-c210-403a-b23c-7631ecd4e1f3/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
           "Yüz Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Pediatrics Güneş Spreyi SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-pediatrics-gunes-spreyi-spf50-plus-200-ml",
-        "brand": "Bioderma",
-        "price": 2201.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72f1ef18-5f24-4f92-9f6e-1d6fc721cccb/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Spreyi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Pediatrics Güneş Spreyi SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-pediatrics-gunes-spreyi-spf50-plus-200-ml",
-        "brand": "Bioderma",
-        "price": 2201.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72f1ef18-5f24-4f92-9f6e-1d6fc721cccb/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Spreyi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Pediatrics Lait Güneş Sütü SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-pediatrics-lait-gunes-sutu-spf50-plus-200-ml",
-        "brand": "Bioderma",
-        "price": 2201.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c0b782d9-1f56-414b-a3fe-bf6854fd9443/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Pediatrics Lait Güneş Sütü SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-pediatrics-lait-gunes-sutu-spf50-plus-200-ml",
-        "brand": "Bioderma",
-        "price": 2201.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c0b782d9-1f56-414b-a3fe-bf6854fd9443/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
         ],
         "stock": 1
       },
@@ -35453,22 +35315,6 @@
         "stock": 6
       },
       {
-        "name": "Bioderma Photoderm XDefense SPF50+ 40 ml",
-        "slug": "bioderma-photoderm-xdefense-spf50-plus-40-ml",
-        "brand": "Bioderma",
-        "price": 1503.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8462b6d1-f5dd-46b6-8627-bc3e3f77ea76/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Bioderma Photoderm XDefense Spf50+ Tüm Cilt Tipleri İçin Renksiz Güneş Kremi 40 ml",
         "slug": "bioderma-photoderm-xdefense-spf50-tum-cilt-tipleri-icin-renksiz-gunes-kremi-40-ml",
         "brand": "Bioderma",
@@ -35483,19 +35329,6 @@
         "stock": 10
       },
       {
-        "name": "Bioderma Photoderm XDefense Ultra-Fluid SPF50+ Light 40 ml",
-        "slug": "bioderma-photoderm-xdefense-ultra-fluid-spf50-light-40-ml",
-        "brand": "Bioderma",
-        "price": 1476.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6011d284-39ca-4200-8b5c-73ecf48e75df/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Renkli SPF 50+"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Bioderma Photoderm XDefense Ultra-Fluid SPF50+ Very Light 40 ml",
         "slug": "bioderma-photoderm-xdefense-ultra-fluid-spf50-very-light-40-ml",
         "brand": "Bioderma",
@@ -35507,19 +35340,6 @@
           "Renkli SPF 50+"
         ],
         "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Xdefense Spf50+ 40 ML",
-        "slug": "bioderma-photoderm-xdefense-spf50-40-ml",
-        "brand": "Bioderma",
-        "price": 1503.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/83f7262f-a15e-46ed-92e9-4783d1a0ea59/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 10
       },
       {
         "name": "Bioderma Sebium Kerato+ SPF30 Akne Karşıtı Bakım Kremi 30 ml",
@@ -36879,22 +36699,6 @@
         "stock": 2
       },
       {
-        "name": "Bioderma Photoderm AR SPF50+ Kızarıklık Karşıtı Güneş Kremi 30 ml",
-        "slug": "bioderma-photoderm-ar-spf50-plus-kizariklik-karsiti-gunes-kremi-30-ml",
-        "brand": "Bioderma",
-        "price": 1580.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6692ae-7803-4367-82c5-b9ebec924159/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
         "slug": "bioderma-photoderm-ar-plus-ultra-fluid-spf50-plus-40-ml",
         "brand": "Bioderma",
@@ -36926,37 +36730,6 @@
         "stock": 3
       },
       {
-        "name": "Bioderma Photoderm Ar Kızarıklık Karşıtı Güneş Kremi Spf50+ 30 ml",
-        "slug": "bioderma-photoderm-ar-kizariklik-karsiti-gunes-kremi-spf50-plus-30-ml",
-        "brand": "Bioderma",
-        "price": 1539.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ea262e76-b87a-4af2-903e-cb6536418559/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Hassas ve Kızarık Cilt",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Bronz Dry Oil SPF30 Sprey 200 ml",
-        "slug": "bioderma-photoderm-bronz-dry-oil-spf30-sprey-200-ml",
-        "brand": "Bioderma",
-        "price": 2799.0,
-        "discount_price": 2489.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22acbe6c-5e1c-4464-b6c3-d79fbc3d1a3e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "SPF 30",
-          "Yüz Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Bioderma Photoderm Creme SPF50+ 40 ml",
         "slug": "bioderma-photoderm-creme-spf50-plus-40-ml",
         "brand": "Bioderma",
@@ -36983,21 +36756,6 @@
           "SPF 50+"
         ],
         "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Family Sprey SPF50+ 300 ml",
-        "slug": "bioderma-photoderm-family-sprey-spf50-plus-300-ml",
-        "brand": "Bioderma",
-        "price": 3246.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/71a5e5b5-f65c-44bd-865d-f1f4898ea979/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma"
-        ],
-        "stock": 1
       },
       {
         "name": "Bioderma Photoderm Invisible Sprey SPF50+ 200 ml",
@@ -37058,21 +36816,6 @@
         "stock": 3
       },
       {
-        "name": "Bioderma Photoderm M Spf 50+",
-        "slug": "bioderma-photoderm-m-spf-50-plus",
-        "brand": "Bioderma",
-        "price": 2031.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7bdbe8f4-610b-47bb-94a3-728c53fb896e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Renkli SPF 50+",
-          "SPF 50+",
-          "Leke Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm Max Lait 50+ 200 ml",
         "slug": "bioderma-photoderm-max-lait-50-plus-200-ml",
         "brand": "Bioderma",
@@ -37108,7 +36851,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/65c1888e-c210-403a-b23c-7631ecd4e1f3/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
           "Yüz Güneş Koruma"
         ],
@@ -37159,38 +36901,6 @@
         "stock": 6
       },
       {
-        "name": "Bioderma Photoderm XDefense SPF50+ 40 ml",
-        "slug": "bioderma-photoderm-xdefense-spf50-plus-40-ml",
-        "brand": "Bioderma",
-        "price": 1503.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8462b6d1-f5dd-46b6-8627-bc3e3f77ea76/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm XDefense SPF50+ 40 ml",
-        "slug": "bioderma-photoderm-xdefense-spf50-plus-40-ml",
-        "brand": "Bioderma",
-        "price": 1503.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8462b6d1-f5dd-46b6-8627-bc3e3f77ea76/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Bioderma Photoderm XDefense Spf50+ Tüm Cilt Tipleri İçin Renksiz Güneş Kremi 40 ml",
         "slug": "bioderma-photoderm-xdefense-spf50-tum-cilt-tipleri-icin-renksiz-gunes-kremi-40-ml",
         "brand": "Bioderma",
@@ -37201,19 +36911,6 @@
           "Güneş Koruma",
           "SPF 50+",
           "Güneş Kremi"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Bioderma Photoderm Xdefense Spf50+ 40 ML",
-        "slug": "bioderma-photoderm-xdefense-spf50-40-ml",
-        "brand": "Bioderma",
-        "price": 1503.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/83f7262f-a15e-46ed-92e9-4783d1a0ea59/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 50+"
         ],
         "stock": 10
       },
@@ -38685,21 +38382,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Photoderm M Spf 50+",
-        "slug": "bioderma-photoderm-m-spf-50-plus",
-        "brand": "Bioderma",
-        "price": 2031.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7bdbe8f4-610b-47bb-94a3-728c53fb896e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Renkli SPF 50+",
-          "SPF 50+",
-          "Leke Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm Spot Spf 50 150 ml",
         "slug": "bioderma-photoderm-spot-spf-50-150-ml",
         "brand": "Bioderma",
@@ -39089,21 +38771,6 @@
           "Güneş Kremi"
         ],
         "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Ar Kızarıklık Karşıtı Güneş Kremi Spf50+ 30 ml",
-        "slug": "bioderma-photoderm-ar-kizariklik-karsiti-gunes-kremi-spf50-plus-30-ml",
-        "brand": "Bioderma",
-        "price": 1539.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ea262e76-b87a-4af2-903e-cb6536418559/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Hassas ve Kızarık Cilt",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 2
       },
       {
         "name": "Bioderma Photoderm XDefense Spf50+ Tüm Cilt Tipleri İçin Renksiz Güneş Kremi 40 ml",
@@ -41738,22 +41405,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Photoderm AR SPF50+ Kızarıklık Karşıtı Güneş Kremi 30 ml",
-        "slug": "bioderma-photoderm-ar-spf50-plus-kizariklik-karsiti-gunes-kremi-30-ml",
-        "brand": "Bioderma",
-        "price": 1580.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6692ae-7803-4367-82c5-b9ebec924159/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
         "slug": "bioderma-photoderm-ar-plus-ultra-fluid-spf50-plus-40-ml",
         "brand": "Bioderma",
@@ -41766,37 +41417,6 @@
           "SPF 50+",
           "Yüz Güneş Koruma",
           "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Bronz Dry Oil SPF30 Sprey 200 ml",
-        "slug": "bioderma-photoderm-bronz-dry-oil-spf30-sprey-200-ml",
-        "brand": "Bioderma",
-        "price": 2799.0,
-        "discount_price": 2489.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22acbe6c-5e1c-4464-b6c3-d79fbc3d1a3e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "SPF 30",
-          "Yüz Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Family Sprey SPF50+ 300 ml",
-        "slug": "bioderma-photoderm-family-sprey-spf50-plus-300-ml",
-        "brand": "Bioderma",
-        "price": 3246.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/71a5e5b5-f65c-44bd-865d-f1f4898ea979/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma"
         ],
         "stock": 1
       },
@@ -41815,37 +41435,6 @@
           "SPF 50+"
         ],
         "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Mist SPF50 150 ml",
-        "slug": "bioderma-photoderm-mist-spf50-150-ml",
-        "brand": "Bioderma",
-        "price": 2137.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/65c1888e-c210-403a-b23c-7631ecd4e1f3/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm XDefense SPF50+ 40 ml",
-        "slug": "bioderma-photoderm-xdefense-spf50-plus-40-ml",
-        "brand": "Bioderma",
-        "price": 1503.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8462b6d1-f5dd-46b6-8627-bc3e3f77ea76/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 2
       },
       {
         "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
@@ -42349,22 +41938,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Photoderm AR SPF50+ Kızarıklık Karşıtı Güneş Kremi 30 ml",
-        "slug": "bioderma-photoderm-ar-spf50-plus-kizariklik-karsiti-gunes-kremi-30-ml",
-        "brand": "Bioderma",
-        "price": 1580.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6692ae-7803-4367-82c5-b9ebec924159/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
         "slug": "bioderma-photoderm-ar-plus-ultra-fluid-spf50-plus-40-ml",
         "brand": "Bioderma",
@@ -42381,37 +41954,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Photoderm Bronz Dry Oil SPF30 Sprey 200 ml",
-        "slug": "bioderma-photoderm-bronz-dry-oil-spf30-sprey-200-ml",
-        "brand": "Bioderma",
-        "price": 2799.0,
-        "discount_price": 2489.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22acbe6c-5e1c-4464-b6c3-d79fbc3d1a3e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "SPF 30",
-          "Yüz Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Family Sprey SPF50+ 300 ml",
-        "slug": "bioderma-photoderm-family-sprey-spf50-plus-300-ml",
-        "brand": "Bioderma",
-        "price": 3246.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/71a5e5b5-f65c-44bd-865d-f1f4898ea979/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm Mist SPF50 150 ml",
         "slug": "bioderma-photoderm-mist-spf50-150-ml",
         "brand": "Bioderma",
@@ -42420,27 +41962,10 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/65c1888e-c210-403a-b23c-7631ecd4e1f3/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Güneş Bakımı",
           "SPF 50+",
           "Yüz Güneş Koruma"
         ],
         "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm XDefense SPF50+ 40 ml",
-        "slug": "bioderma-photoderm-xdefense-spf50-plus-40-ml",
-        "brand": "Bioderma",
-        "price": 1503.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8462b6d1-f5dd-46b6-8627-bc3e3f77ea76/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+"
-        ],
-        "stock": 2
       },
       {
         "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
@@ -44732,7 +44257,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 190
+        "stock": 189
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -47208,7 +46733,7 @@
           "Vitamin ve Takviye",
           "Bağışıklık"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
@@ -47845,7 +47370,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 190
+        "stock": 189
       },
       {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
@@ -48486,7 +48011,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 190
+        "stock": 189
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -58638,7 +58163,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "La Roche Posay Toleriane Creme Cleansing 400 ml",
@@ -59900,22 +59425,6 @@
     ],
     "Rozasea": [
       {
-        "name": "Bioderma Photoderm AR SPF50+ Kızarıklık Karşıtı Güneş Kremi 30 ml",
-        "slug": "bioderma-photoderm-ar-spf50-plus-kizariklik-karsiti-gunes-kremi-30-ml",
-        "brand": "Bioderma",
-        "price": 1580.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6692ae-7803-4367-82c5-b9ebec924159/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
         "slug": "bioderma-photoderm-ar-plus-ultra-fluid-spf50-plus-40-ml",
         "brand": "Bioderma",
@@ -60040,129 +59549,6 @@
         "stock": 1
       }
     ],
-    "Hassas ve Kızarık Cilt": [
-      {
-        "name": "Bioderma Photoderm Ar Kızarıklık Karşıtı Güneş Kremi Spf50+ 30 ml",
-        "slug": "bioderma-photoderm-ar-kizariklik-karsiti-gunes-kremi-spf50-plus-30-ml",
-        "brand": "Bioderma",
-        "price": 1539.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ea262e76-b87a-4af2-903e-cb6536418559/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Hassas ve Kızarık Cilt",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
-        "slug": "bioderma-sensibio-ar-plus-cc-krem-spf50-light-40-ml",
-        "brand": "Bioderma",
-        "price": 2369.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/480f4cf9-0dea-4a4d-a11a-2f612be42ddc/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Renkli SPF 50+",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Hassas ve Kızarık Cilt",
-          "Rozasea",
-          "Yüz Bakımı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Bioderma Sensibio AR+ Micellar Temizleme Jeli Hassas Ciltler İçin 250 ml",
-        "slug": "bioderma-sensibio-ar-plus-micellar-temizleme-jeli-hassas-cilt-250-ml",
-        "brand": "Bioderma",
-        "price": 1499.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e1ac070-0a68-4adf-ba5c-cfe18939c99b/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Cilt",
-          "Micellar Su",
-          "Hassas Ciltler İçin",
-          "Hassas ve Kızarık Cilt",
-          "Hassas Ciltler",
-          "Temizleme Jeli"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Bioderma Sensibio Defensive Serum",
-        "slug": "bioderma-sensibio-defensive-serum",
-        "brand": "Bioderma",
-        "price": 3689.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc94ce13-d191-475e-ac73-7bb188b6206f/image_1950.webp",
-        "cats": [
-          "Serumlar",
-          "Hassas ve Kızarık Cilt",
-          "Yüz Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Sensibio H2O Micellar Su 850 ml",
-        "slug": "bioderma-sensibio-h2o-micellar-su-850-ml",
-        "brand": "Bioderma",
-        "price": 2049.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8dee458b-1a9f-4c67-b09f-8099fc8723f1/image_1950.webp",
-        "cats": [
-          "Micellar Su",
-          "Hassas Ciltler İçin",
-          "Temizleyiciler",
-          "Hassas ve Kızarık Cilt",
-          "Yüz Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Sensibio Micellar Cleansing Oil 300 ml",
-        "slug": "bioderma-sensibio-micellar-cleansing-oil-150-ml",
-        "brand": "Bioderma",
-        "price": 2419.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d56faefe-bd5a-43cc-9444-01c0c4396e0e/image_1950.webp",
-        "cats": [
-          "Hassas ve Kızarık Cilt",
-          "Temizleyiciler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "La Roche Posay Lotion Apaisante Physiologic",
-        "slug": "la-roche-posay-lotion-apaisante-physiologic",
-        "brand": "La Roche-Posay",
-        "price": 1599.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5292faf-4814-471a-8775-5055184dfa3d/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Hassas ve Kızarık Cilt"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Shiniq Anti-Redness Care",
-        "slug": "shiniq-anti-redness-care",
-        "brand": "SHINIQ",
-        "price": 1615.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8f8a8edf-87ac-41dd-b033-e56fd61b4fdc/image_1950.webp",
-        "cats": [
-          "Hassas ve Kızarık Cilt",
-          "Yüz Bakımı"
-        ],
-        "stock": 2
-      }
-    ],
     "SPF 30": [
       {
         "name": "Bioderma Photoderm Bronz Brume Kuru Yağ Güneş Spreyi SPF30 200 ml",
@@ -60174,22 +59560,6 @@
         "cats": [
           "Güneş Koruma",
           "SPF 30"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Photoderm Bronz Dry Oil SPF30 Sprey 200 ml",
-        "slug": "bioderma-photoderm-bronz-dry-oil-spf30-sprey-200-ml",
-        "brand": "Bioderma",
-        "price": 2799.0,
-        "discount_price": 2489.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22acbe6c-5e1c-4464-b6c3-d79fbc3d1a3e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Bakımı",
-          "SPF 50+",
-          "SPF 30",
-          "Yüz Güneş Koruma"
         ],
         "stock": 2
       }
@@ -60227,35 +59597,389 @@
         "stock": 6
       }
     ],
-    "Renkli SPF 50+": [
+    "Mineral SPF 50+": [
       {
-        "name": "Bioderma Photoderm M Spf 50+",
-        "slug": "bioderma-photoderm-m-spf-50-plus",
+        "name": "Bioderma Photoderm Mineral Fluid Spf50 Hassas Cilt 75 ml",
+        "slug": "bioderma-photoderm-mineral-fluid-spf50-hassas-cilt-75-ml",
         "brand": "Bioderma",
-        "price": 2031.0,
+        "price": 2243.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7bdbe8f4-610b-47bb-94a3-728c53fb896e/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5d918c82-d6d8-4051-960a-49ee8166627a/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Renkli SPF 50+",
+          "Mineral SPF 50+",
+          "SPF 50+"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Shiniq UV Mineral Fluid SPF 50 100 Ml",
+        "slug": "shiniq-uv-mineral-fluid-spf-50-100-ml",
+        "brand": "SHINIQ",
+        "price": 1615.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3972c202-f456-40bd-a43f-1141b5a88013/image_1950.webp",
+        "cats": [
+          "Güneş Bakımı",
           "SPF 50+",
-          "Leke Karşıtı"
+          "Mineral SPF 50+",
+          "Yüz Güneş Koruma"
+        ],
+        "stock": 1
+      }
+    ],
+    "Güneş Losyonu": [
+      {
+        "name": "Bioderma Photoderm Pediatrics Lait SPF50+ 100 ml",
+        "slug": "bioderma-photoderm-pediatrics-lait-spf50-100-ml",
+        "brand": "Bioderma",
+        "price": 1456.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/946478bf-4740-4a5c-a808-b718bcdbaea0/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Koruma",
+          "Güneş Losyonu",
+          "Çocuk ve Bebek Güneş Koruma"
         ],
         "stock": 1
       },
       {
-        "name": "Bioderma Photoderm XDefense Ultra-Fluid SPF50+ Light 40 ml",
-        "slug": "bioderma-photoderm-xdefense-ultra-fluid-spf50-light-40-ml",
-        "brand": "Bioderma",
-        "price": 1476.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6011d284-39ca-4200-8b5c-73ecf48e75df/image_1950.webp",
+        "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
+        "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
+        "brand": "Mustela",
+        "price": 1679.9,
+        "discount_price": 946.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
         "cats": [
           "Güneş Koruma",
-          "Renkli SPF 50+"
+          "Güneş Koruma",
+          "Güneş Losyonu",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Mustela Güneş Losyonu Spf 50 Bebek ve Çocuklar İçin 200 ml",
+        "slug": "mustela-gunes-losyonu-spf-50-bebek-ve-cocuklar-icin-200-ml",
+        "brand": "Mustela",
+        "price": 1679.9,
+        "discount_price": 946.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da1778f3-7da2-4f28-8d7d-c28ae3dcc09e/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Losyonu",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
+        "slug": "mustela-spf-50-plus-cok-yuksek-korumali-bebek-gunes-losyonu-40-ml",
+        "brand": "Mustela",
+        "price": 1680.0,
+        "discount_price": 975.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db8114d-f957-49f9-aad3-1fcf8fa69c09/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Koruma",
+          "Güneş Losyonu",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 2
+      }
+    ],
+    "Çocuk ve Bebek Güneş Koruma": [
+      {
+        "name": "Bioderma Photoderm Pediatrics Lait SPF50+ 100 ml",
+        "slug": "bioderma-photoderm-pediatrics-lait-spf50-100-ml",
+        "brand": "Bioderma",
+        "price": 1456.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/946478bf-4740-4a5c-a808-b718bcdbaea0/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Koruma",
+          "Güneş Losyonu",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Capicade Sun Krem Çocuk SPF 50+ 100 ml",
+        "slug": "capicade-sun-krem-cocuk-spf-50-plus-100-ml",
+        "brand": "Capicade",
+        "price": 1500.0,
+        "discount_price": 1202.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25d89116-ca7a-4a71-9fb0-b2c2b59e4e2e/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Kremi",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 16
+      },
+      {
+        "name": "Incia Bebek Güneş Kremi Mineral Filtreli SPF50 50 ml",
+        "slug": "incia-bebek-gunes-kremi-mineral-filtreli-spf50-50-ml",
+        "brand": "Incia",
+        "price": 1200.0,
+        "discount_price": 945.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/020413bf-a777-440c-a8e7-8d29b259d66f/image_1950.webp",
+        "cats": [
+          "Bebek Güneş Ürünleri",
+          "Güneş Kremi",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "La Roche Posay Milk Dream Pediatric UVmune SPF50 Bebek Güneş Sütü 75 ml",
+        "slug": "la-roche-posay-milk-dream-pediatric-uvmune-spf50-gunes-sutu-75-ml",
+        "brand": "La Roche-Posay",
+        "price": 1250.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/400adacd-242d-41a3-8057-ca6e24b7d5ca/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Koruma",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
+        "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
+        "brand": "Mustela",
+        "price": 1679.9,
+        "discount_price": 946.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Koruma",
+          "Güneş Losyonu",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Mustela Güneş Losyonu Spf 50 Bebek ve Çocuklar İçin 200 ml",
+        "slug": "mustela-gunes-losyonu-spf-50-bebek-ve-cocuklar-icin-200-ml",
+        "brand": "Mustela",
+        "price": 1679.9,
+        "discount_price": 946.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da1778f3-7da2-4f28-8d7d-c28ae3dcc09e/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Losyonu",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
+        "slug": "mustela-spf-50-plus-cok-yuksek-korumali-bebek-gunes-losyonu-40-ml",
+        "brand": "Mustela",
+        "price": 1680.0,
+        "discount_price": 975.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db8114d-f957-49f9-aad3-1fcf8fa69c09/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Koruma",
+          "Güneş Losyonu",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Sebamed Sun Baby Güneş Spreyi SPF50+ 200 ml",
+        "slug": "sebamed-sun-baby-gunes-spreyi-spf50-plus-200-ml",
+        "brand": "Sebamed",
+        "price": 1689.99,
+        "discount_price": 976.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81a23dc7-5bff-4ce9-a92d-30485147a7d5/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Spreyi",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Sebamed Sun Baby Sprey SPF 50",
+        "slug": "sebamed-sun-baby-sprey-spf-50",
+        "brand": "Sebamed",
+        "price": 1689.99,
+        "discount_price": 976.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c44f4678-e949-4484-a1df-433960ca4c24/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Spreyi",
+          "Güneş Kremi",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 10
+      }
+    ],
+    "Anti-Age SPF 50+": [
+      {
+        "name": "Bioderma Photoderm Spot-Age Spf50+ 40 ml",
+        "slug": "bioderma-photoderm-spot-age-spf50-plus-40-ml",
+        "brand": "Bioderma",
+        "price": 1872.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1fdf1a04-aacd-4640-935c-c25c94ae47e8/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "SPF 50+",
+          "Leke Karşıtı",
+          "Anti-Age SPF 50+"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "La Roche Posay Anthelios Age Correct Renkli Yaşlanma Karşıtı Güneş Kremi",
+        "slug": "la-roche-posay-anthelios-age-correct-renkli-yaslanma-karsiti-gunes",
+        "brand": "La Roche-Posay",
+        "price": 2149.9,
+        "discount_price": 1843.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e4c525db-5392-45e6-a5a9-1a9fb4f566cc/image_1950.webp",
+        "cats": [
+          "Renkli SPF 50+",
+          "Anti-Age SPF 50+",
+          "Güneş Kremi"
         ],
         "stock": 3
       },
+      {
+        "name": "La Roche Posay Anthelios Age Correct SPF50 50 ml",
+        "slug": "la-roche-posay-anthelios-age-correct-spf50-50-ml",
+        "brand": "La Roche-Posay",
+        "price": 2099.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/faa52d33-d0a4-40b4-b38e-c4dd0635903d/image_1950.webp",
+        "cats": [
+          "Güneş Bakımı",
+          "SPF 50+",
+          "Yüz Güneş Koruma",
+          "SPF 50+",
+          "Anti-Age SPF 50+"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "La Roche Posay Anthelios Age Correct Yaşlanma Karşıtı Güneş Kremi",
+        "slug": "la-roche-posay-anthelios-age-correct-yaslanma-karsiti-gunes-kremi",
+        "brand": "La Roche-Posay",
+        "price": 2099.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d29d234a-bfcb-48fe-aba5-982e496d7e9f/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "Anti-Age SPF 50+",
+          "Güneş Kremi"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Vichy Capital Soleil UV Age Daily SPF50+ 40 ml",
+        "slug": "vichy-capital-soleil-uv-age-daily-spf50-40-ml",
+        "brand": "Vichy",
+        "price": 1699.9,
+        "discount_price": 1124.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/592e4d0f-3709-43ca-9fd0-d93c75684a07/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Sağlıklı Yaş Alma",
+          "SPF 50+",
+          "Anti-Age SPF 50+"
+        ],
+        "stock": 3
+      }
+    ],
+    "Stick SPF 50+": [
+      {
+        "name": "Bioderma Photoderm Stick Spf50+ Yüksek Korumalı Güneş Stick 8 gr",
+        "slug": "bioderma-photoderm-stick-spf50-plus-yuksek-korumali-gunes-stick-8-gr",
+        "brand": "Bioderma",
+        "price": 1471.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/febb0ab9-0110-4b47-86f9-22b58a11f34b/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Stick",
+          "SPF 50+",
+          "Stick SPF 50+"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "La Roche-Posay Anthelios UVAir SPF50+ Stick 10 ml",
+        "slug": "la-roche-posay-anthelios-uvair-spf50-stick-10-ml",
+        "brand": "La Roche-Posay",
+        "price": 1565.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/50f5b5f4-0e96-4f66-b9bf-2b337a566bf0/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "Stick SPF 50+"
+        ],
+        "stock": 23
+      }
+    ],
+    "Genel": [
+      {
+        "name": "Bioderma Photoderm XDefense Spf50+ Renkli Güneş Kremi 40 ml - Light",
+        "slug": "bioderma-photoderm-xdefense-spf50-renkli-gunes-kremi-40-ml-light",
+        "brand": "",
+        "price": 1503.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e33521d8-4dd6-4c1a-81ed-46da7019e78f/image_1950.webp",
+        "cats": [],
+        "stock": 2
+      },
+      {
+        "name": "Mustela 3 Etkili Avokado Balsam 75 ml",
+        "slug": "mustela-3-etkili-avokado-balsam-75-ml",
+        "brand": "Mustela",
+        "price": 599.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/257feb9c-72f9-419b-818d-94e4ce1b2be0/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      },
+      {
+        "name": "Mustela Maternite Stretch Marks Prevention Çatlak Önleyici Yağ 105 ml",
+        "slug": "mustela-maternite-stretch-marks-prevention-catlak-onleyici-yag-105-ml",
+        "brand": "Mustela",
+        "price": 1499.9,
+        "discount_price": 1402.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/711efb1a-cf6a-4439-afc9-c84f03ed0e4d/image_1950.webp",
+        "cats": [],
+        "stock": 3
+      },
+      {
+        "name": "Takviyelerin Tam Rehberi — 260+ Sayfa Bilimsel E-Kitap",
+        "slug": "takviyelerin-tam-rehberi-e-kitap",
+        "brand": "",
+        "price": 497.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c30418ef-e4cd-4fe9-a1f6-df8d3a89e897/image_1950.webp",
+        "cats": [],
+        "stock": 9999
+      },
+      {
+        "name": "Zade Vital Aspir Yağı 60 Kapsül",
+        "slug": "zade-vital-aspir-yagi-60-kapsul",
+        "brand": "Zade Vital",
+        "price": 702.9,
+        "discount_price": 352.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb9985ce-a9ab-4ebc-85e2-51e3aabee8b5/image_1950.webp",
+        "cats": [],
+        "stock": 1
+      }
+    ],
+    "Renkli SPF 50+": [
       {
         "name": "Bioderma Photoderm XDefense Ultra-Fluid SPF50+ Very Light 40 ml",
         "slug": "bioderma-photoderm-xdefense-ultra-fluid-spf50-very-light-40-ml",
@@ -60553,479 +60277,6 @@
           "SPF 50+",
           "Leke Karşıtı"
         ],
-        "stock": 1
-      }
-    ],
-    "Mineral SPF 50+": [
-      {
-        "name": "Bioderma Photoderm Mineral Fluid Spf50 Hassas Cilt 75 ml",
-        "slug": "bioderma-photoderm-mineral-fluid-spf50-hassas-cilt-75-ml",
-        "brand": "Bioderma",
-        "price": 2243.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5d918c82-d6d8-4051-960a-49ee8166627a/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Mineral SPF 50+",
-          "SPF 50+"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Shiniq UV Mineral Fluid SPF 50 100 Ml",
-        "slug": "shiniq-uv-mineral-fluid-spf-50-100-ml",
-        "brand": "SHINIQ",
-        "price": 1615.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3972c202-f456-40bd-a43f-1141b5a88013/image_1950.webp",
-        "cats": [
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Mineral SPF 50+",
-          "Yüz Güneş Koruma"
-        ],
-        "stock": 1
-      }
-    ],
-    "Güneş Spreyi": [
-      {
-        "name": "Bioderma Photoderm Pediatrics Güneş Spreyi SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-pediatrics-gunes-spreyi-spf50-plus-200-ml",
-        "brand": "Bioderma",
-        "price": 2201.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72f1ef18-5f24-4f92-9f6e-1d6fc721cccb/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Spreyi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sebamed Sun Baby Güneş Spreyi SPF50+ 200 ml",
-        "slug": "sebamed-sun-baby-gunes-spreyi-spf50-plus-200-ml",
-        "brand": "Sebamed",
-        "price": 1689.99,
-        "discount_price": 976.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81a23dc7-5bff-4ce9-a92d-30485147a7d5/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Spreyi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Sebamed Sun Baby Sprey SPF 50",
-        "slug": "sebamed-sun-baby-sprey-spf-50",
-        "brand": "Sebamed",
-        "price": 1689.99,
-        "discount_price": 976.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c44f4678-e949-4484-a1df-433960ca4c24/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Spreyi",
-          "Güneş Kremi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 10
-      }
-    ],
-    "Çocuk ve Bebek Güneş Koruma": [
-      {
-        "name": "Bioderma Photoderm Pediatrics Güneş Spreyi SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-pediatrics-gunes-spreyi-spf50-plus-200-ml",
-        "brand": "Bioderma",
-        "price": 2201.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72f1ef18-5f24-4f92-9f6e-1d6fc721cccb/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Spreyi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Pediatrics Lait Güneş Sütü SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-pediatrics-lait-gunes-sutu-spf50-plus-200-ml",
-        "brand": "Bioderma",
-        "price": 2201.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c0b782d9-1f56-414b-a3fe-bf6854fd9443/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Pediatrics Lait SPF50+ 100 ml",
-        "slug": "bioderma-photoderm-pediatrics-lait-spf50-100-ml",
-        "brand": "Bioderma",
-        "price": 1456.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/946478bf-4740-4a5c-a808-b718bcdbaea0/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Capicade Sun Krem Çocuk SPF 50+ 100 ml",
-        "slug": "capicade-sun-krem-cocuk-spf-50-plus-100-ml",
-        "brand": "Capicade",
-        "price": 1500.0,
-        "discount_price": 1202.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25d89116-ca7a-4a71-9fb0-b2c2b59e4e2e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Kremi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 16
-      },
-      {
-        "name": "Incia Bebek Güneş Kremi Mineral Filtreli SPF50 50 ml",
-        "slug": "incia-bebek-gunes-kremi-mineral-filtreli-spf50-50-ml",
-        "brand": "Incia",
-        "price": 1200.0,
-        "discount_price": 945.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/020413bf-a777-440c-a8e7-8d29b259d66f/image_1950.webp",
-        "cats": [
-          "Bebek Güneş Ürünleri",
-          "Güneş Kremi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "La Roche Posay Milk Dream Pediatric UVmune SPF50 Bebek Güneş Sütü 75 ml",
-        "slug": "la-roche-posay-milk-dream-pediatric-uvmune-spf50-gunes-sutu-75-ml",
-        "brand": "La Roche-Posay",
-        "price": 1250.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/400adacd-242d-41a3-8057-ca6e24b7d5ca/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
-        "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
-        "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Mustela Güneş Losyonu Spf 50 Bebek ve Çocuklar İçin 200 ml",
-        "slug": "mustela-gunes-losyonu-spf-50-bebek-ve-cocuklar-icin-200-ml",
-        "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da1778f3-7da2-4f28-8d7d-c28ae3dcc09e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
-        "slug": "mustela-spf-50-plus-cok-yuksek-korumali-bebek-gunes-losyonu-40-ml",
-        "brand": "Mustela",
-        "price": 1680.0,
-        "discount_price": 975.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db8114d-f957-49f9-aad3-1fcf8fa69c09/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Sebamed Sun Baby Güneş Spreyi SPF50+ 200 ml",
-        "slug": "sebamed-sun-baby-gunes-spreyi-spf50-plus-200-ml",
-        "brand": "Sebamed",
-        "price": 1689.99,
-        "discount_price": 976.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81a23dc7-5bff-4ce9-a92d-30485147a7d5/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Spreyi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Sebamed Sun Baby Sprey SPF 50",
-        "slug": "sebamed-sun-baby-sprey-spf-50",
-        "brand": "Sebamed",
-        "price": 1689.99,
-        "discount_price": 976.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c44f4678-e949-4484-a1df-433960ca4c24/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Spreyi",
-          "Güneş Kremi",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 10
-      }
-    ],
-    "Güneş Losyonu": [
-      {
-        "name": "Bioderma Photoderm Pediatrics Lait Güneş Sütü SPF50+ 200 ml",
-        "slug": "bioderma-photoderm-pediatrics-lait-gunes-sutu-spf50-plus-200-ml",
-        "brand": "Bioderma",
-        "price": 2201.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c0b782d9-1f56-414b-a3fe-bf6854fd9443/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm Pediatrics Lait SPF50+ 100 ml",
-        "slug": "bioderma-photoderm-pediatrics-lait-spf50-100-ml",
-        "brand": "Bioderma",
-        "price": 1456.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/946478bf-4740-4a5c-a808-b718bcdbaea0/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
-        "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
-        "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Mustela Güneş Losyonu Spf 50 Bebek ve Çocuklar İçin 200 ml",
-        "slug": "mustela-gunes-losyonu-spf-50-bebek-ve-cocuklar-icin-200-ml",
-        "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da1778f3-7da2-4f28-8d7d-c28ae3dcc09e/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
-        "slug": "mustela-spf-50-plus-cok-yuksek-korumali-bebek-gunes-losyonu-40-ml",
-        "brand": "Mustela",
-        "price": 1680.0,
-        "discount_price": 975.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5db8114d-f957-49f9-aad3-1fcf8fa69c09/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      }
-    ],
-    "Anti-Age SPF 50+": [
-      {
-        "name": "Bioderma Photoderm Spot-Age Spf50+ 40 ml",
-        "slug": "bioderma-photoderm-spot-age-spf50-plus-40-ml",
-        "brand": "Bioderma",
-        "price": 1872.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1fdf1a04-aacd-4640-935c-c25c94ae47e8/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "SPF 50+",
-          "Leke Karşıtı",
-          "Anti-Age SPF 50+"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "La Roche Posay Anthelios Age Correct Renkli Yaşlanma Karşıtı Güneş Kremi",
-        "slug": "la-roche-posay-anthelios-age-correct-renkli-yaslanma-karsiti-gunes",
-        "brand": "La Roche-Posay",
-        "price": 2149.9,
-        "discount_price": 1843.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e4c525db-5392-45e6-a5a9-1a9fb4f566cc/image_1950.webp",
-        "cats": [
-          "Renkli SPF 50+",
-          "Anti-Age SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "La Roche Posay Anthelios Age Correct SPF50 50 ml",
-        "slug": "la-roche-posay-anthelios-age-correct-spf50-50-ml",
-        "brand": "La Roche-Posay",
-        "price": 2099.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/faa52d33-d0a4-40b4-b38e-c4dd0635903d/image_1950.webp",
-        "cats": [
-          "Güneş Bakımı",
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "SPF 50+",
-          "Anti-Age SPF 50+"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "La Roche Posay Anthelios Age Correct Yaşlanma Karşıtı Güneş Kremi",
-        "slug": "la-roche-posay-anthelios-age-correct-yaslanma-karsiti-gunes-kremi",
-        "brand": "La Roche-Posay",
-        "price": 2099.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d29d234a-bfcb-48fe-aba5-982e496d7e9f/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Anti-Age SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vichy Capital Soleil UV Age Daily SPF50+ 40 ml",
-        "slug": "vichy-capital-soleil-uv-age-daily-spf50-40-ml",
-        "brand": "Vichy",
-        "price": 1699.9,
-        "discount_price": 1124.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/592e4d0f-3709-43ca-9fd0-d93c75684a07/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Sağlıklı Yaş Alma",
-          "SPF 50+",
-          "Anti-Age SPF 50+"
-        ],
-        "stock": 3
-      }
-    ],
-    "Stick SPF 50+": [
-      {
-        "name": "Bioderma Photoderm Stick Spf50+ Yüksek Korumalı Güneş Stick 8 gr",
-        "slug": "bioderma-photoderm-stick-spf50-plus-yuksek-korumali-gunes-stick-8-gr",
-        "brand": "Bioderma",
-        "price": 1471.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/febb0ab9-0110-4b47-86f9-22b58a11f34b/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Stick",
-          "SPF 50+",
-          "Stick SPF 50+"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "La Roche-Posay Anthelios UVAir SPF50+ Stick 10 ml",
-        "slug": "la-roche-posay-anthelios-uvair-spf50-stick-10-ml",
-        "brand": "La Roche-Posay",
-        "price": 1565.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/50f5b5f4-0e96-4f66-b9bf-2b337a566bf0/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Stick SPF 50+"
-        ],
-        "stock": 23
-      }
-    ],
-    "Genel": [
-      {
-        "name": "Bioderma Photoderm XDefense Spf50+ Renkli Güneş Kremi 40 ml - Light",
-        "slug": "bioderma-photoderm-xdefense-spf50-renkli-gunes-kremi-40-ml-light",
-        "brand": "",
-        "price": 1503.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e33521d8-4dd6-4c1a-81ed-46da7019e78f/image_1950.webp",
-        "cats": [],
-        "stock": 2
-      },
-      {
-        "name": "Mustela 3 Etkili Avokado Balsam 75 ml",
-        "slug": "mustela-3-etkili-avokado-balsam-75-ml",
-        "brand": "Mustela",
-        "price": 599.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/257feb9c-72f9-419b-818d-94e4ce1b2be0/image_1950.webp",
-        "cats": [],
-        "stock": 1
-      },
-      {
-        "name": "Mustela Maternite Stretch Marks Prevention Çatlak Önleyici Yağ 105 ml",
-        "slug": "mustela-maternite-stretch-marks-prevention-catlak-onleyici-yag-105-ml",
-        "brand": "Mustela",
-        "price": 1499.9,
-        "discount_price": 1402.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/711efb1a-cf6a-4439-afc9-c84f03ed0e4d/image_1950.webp",
-        "cats": [],
-        "stock": 3
-      },
-      {
-        "name": "Takviyelerin Tam Rehberi — 260+ Sayfa Bilimsel E-Kitap",
-        "slug": "takviyelerin-tam-rehberi-e-kitap",
-        "brand": "",
-        "price": 497.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c30418ef-e4cd-4fe9-a1f6-df8d3a89e897/image_1950.webp",
-        "cats": [],
-        "stock": 9999
-      },
-      {
-        "name": "Zade Vital Aspir Yağı 60 Kapsül",
-        "slug": "zade-vital-aspir-yagi-60-kapsul",
-        "brand": "Zade Vital",
-        "price": 702.9,
-        "discount_price": 352.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb9985ce-a9ab-4ebc-85e2-51e3aabee8b5/image_1950.webp",
-        "cats": [],
         "stock": 1
       }
     ],
@@ -61985,6 +61236,114 @@
         "stock": 4
       }
     ],
+    "Hassas ve Kızarık Cilt": [
+      {
+        "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
+        "slug": "bioderma-sensibio-ar-plus-cc-krem-spf50-light-40-ml",
+        "brand": "Bioderma",
+        "price": 2369.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/480f4cf9-0dea-4a4d-a11a-2f612be42ddc/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Renkli SPF 50+",
+          "Güneş Bakımı",
+          "SPF 50+",
+          "Yüz Güneş Koruma",
+          "Hassas ve Kızarık Cilt",
+          "Rozasea",
+          "Yüz Bakımı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Bioderma Sensibio AR+ Micellar Temizleme Jeli Hassas Ciltler İçin 250 ml",
+        "slug": "bioderma-sensibio-ar-plus-micellar-temizleme-jeli-hassas-cilt-250-ml",
+        "brand": "Bioderma",
+        "price": 1499.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e1ac070-0a68-4adf-ba5c-cfe18939c99b/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Cilt",
+          "Micellar Su",
+          "Hassas Ciltler İçin",
+          "Hassas ve Kızarık Cilt",
+          "Hassas Ciltler",
+          "Temizleme Jeli"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Bioderma Sensibio Defensive Serum",
+        "slug": "bioderma-sensibio-defensive-serum",
+        "brand": "Bioderma",
+        "price": 3689.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bc94ce13-d191-475e-ac73-7bb188b6206f/image_1950.webp",
+        "cats": [
+          "Serumlar",
+          "Hassas ve Kızarık Cilt",
+          "Yüz Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Bioderma Sensibio H2O Micellar Su 850 ml",
+        "slug": "bioderma-sensibio-h2o-micellar-su-850-ml",
+        "brand": "Bioderma",
+        "price": 2049.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8dee458b-1a9f-4c67-b09f-8099fc8723f1/image_1950.webp",
+        "cats": [
+          "Micellar Su",
+          "Hassas Ciltler İçin",
+          "Temizleyiciler",
+          "Hassas ve Kızarık Cilt",
+          "Yüz Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Sensibio Micellar Cleansing Oil 300 ml",
+        "slug": "bioderma-sensibio-micellar-cleansing-oil-150-ml",
+        "brand": "Bioderma",
+        "price": 2419.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d56faefe-bd5a-43cc-9444-01c0c4396e0e/image_1950.webp",
+        "cats": [
+          "Hassas ve Kızarık Cilt",
+          "Temizleyiciler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "La Roche Posay Lotion Apaisante Physiologic",
+        "slug": "la-roche-posay-lotion-apaisante-physiologic",
+        "brand": "La Roche-Posay",
+        "price": 1599.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5292faf-4814-471a-8775-5055184dfa3d/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Hassas ve Kızarık Cilt"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Shiniq Anti-Redness Care",
+        "slug": "shiniq-anti-redness-care",
+        "brand": "SHINIQ",
+        "price": 1615.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8f8a8edf-87ac-41dd-b033-e56fd61b4fdc/image_1950.webp",
+        "cats": [
+          "Hassas ve Kızarık Cilt",
+          "Yüz Bakımı"
+        ],
+        "stock": 2
+      }
+    ],
     "Seboreik Dermatit": [
       {
         "name": "Bioderma Sensibio DS+ Hassas Ciltler İçin Köpük Jel",
@@ -62289,18 +61648,6 @@
           "Yara Bandı"
         ],
         "stock": 1
-      },
-      {
-        "name": "Okey Klasik 10'lu",
-        "slug": "okey-klasik-10-lu",
-        "brand": "Okey",
-        "price": 210.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/facff91a-9a0f-4e1a-8240-260836c6e29c/image_1950.webp",
-        "cats": [
-          "Medikal Ürünler"
-        ],
-        "stock": 3
       },
       {
         "name": "Opsite Sprey",
@@ -68186,6 +67533,22 @@
       },
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -68196,22 +67559,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -68291,7 +67638,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "La Roche Posay Mela B3 Serum",
@@ -68402,6 +67749,22 @@
     "Retinol Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -68412,22 +67775,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -68483,6 +67830,22 @@
     "Retinol İçeren Ürünler": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -68493,22 +67856,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -68592,6 +67939,22 @@
     "Anti-Aging Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -68602,22 +67965,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -68724,6 +68071,22 @@
     "Retinol": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -68734,22 +68097,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -69736,7 +69083,7 @@
         "cats": [
           "Omega 3"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -70094,7 +69441,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -71321,7 +70668,7 @@
           "Kemik ve Eklem",
           "Kalp ve Damar"
         ],
-        "stock": 190
+        "stock": 189
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -71429,7 +70776,7 @@
           "Omega 3",
           "Kalp ve Damar"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -73791,7 +73138,7 @@
           "Enerji ve Zindelik",
           "Ginseng"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ocean Panax Ginseng İçeren Takviye Edici Gıda 60 Kapsül",
@@ -91591,6 +90938,37 @@
         "stock": 1
       }
     ],
+    "Güneş Spreyi": [
+      {
+        "name": "Sebamed Sun Baby Güneş Spreyi SPF50+ 200 ml",
+        "slug": "sebamed-sun-baby-gunes-spreyi-spf50-plus-200-ml",
+        "brand": "Sebamed",
+        "price": 1689.99,
+        "discount_price": 976.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/81a23dc7-5bff-4ce9-a92d-30485147a7d5/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Spreyi",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Sebamed Sun Baby Sprey SPF 50",
+        "slug": "sebamed-sun-baby-sprey-spf-50",
+        "brand": "Sebamed",
+        "price": 1689.99,
+        "discount_price": 976.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c44f4678-e949-4484-a1df-433960ca4c24/image_1950.webp",
+        "cats": [
+          "Güneş Koruma",
+          "Güneş Spreyi",
+          "Güneş Kremi",
+          "Çocuk ve Bebek Güneş Koruma"
+        ],
+        "stock": 10
+      }
+    ],
     "Tüy Sarartıcı": [
       {
         "name": "Sesu Tüy Sarartıcı Krem 35 gr + 18 gr",
@@ -93676,9 +93054,9 @@
     ]
   },
   "stats": {
-    "total_products": 6019,
+    "total_products": 5978,
     "total_categories": 643,
-    "generated": "2026-10-19 11:17",
+    "generated": "2026-10-19 15:00",
     "source": "ikas_api_live"
   }
 }
