@@ -111,7 +111,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 30 gr",
@@ -125,7 +125,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 50 gr",
@@ -11564,7 +11564,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 10
+        "stock": 6
       },
       {
         "name": "Meridol Gum Health Diş Macunu Diş Eti Sağlığı 75 ml",
@@ -14289,7 +14289,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutrafarm Medohbiotin 5 mg Tablet Biotin Takviyesi 60 Tablet",
@@ -24746,7 +24746,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Iron Max 3 Al 2 Öde 90",
@@ -27857,7 +27857,7 @@
           "Pişik Kremi",
           "Çocuk Sağlığı"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Bepanthol Baby Pişik Merhemi 50 gr",
@@ -32687,7 +32687,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 10
+        "stock": 6
       },
       {
         "name": "Meridol Gentle White Diş Macunu 75 ml",
@@ -38582,20 +38582,6 @@
           "Antioksidan Destek"
         ],
         "stock": 3
-      },
-      {
-        "name": "La Roche-Posay Mela B3 Koyu Leke Karşıtı Serum 30 ml",
-        "slug": "la-roche-posay-mela-b3-serum-30-ml",
-        "brand": "La Roche-Posay",
-        "price": 3599.9,
-        "discount_price": 2541.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ce59491a-caf3-4239-b252-e075611df031/image_1950.webp",
-        "cats": [
-          "Niasinamid İçeren Ürünler",
-          "Serum",
-          "Leke Karşıtı"
-        ],
-        "stock": 2
       },
       {
         "name": "La Roche-Posay Mela B3 Serum 30 ml + Anti-Dark Spots SPF50+ 50 ml Set",
@@ -49563,20 +49549,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Sensibio Eye Krem",
-        "slug": "bioderma-sensibio-eye-krem",
-        "brand": "Bioderma",
-        "price": 1959.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e96f9e1c-5aad-4243-90e5-5c083effc0c4/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Hassas Göz Çevresi",
-          "Hassas Cilt"
-        ],
-        "stock": 3
-      },
-      {
         "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
         "slug": "la-roche-posay-effaclar-h-hassas-ciltler-icin-kopuk-temizleyici",
         "brand": "La Roche-Posay",
@@ -54300,20 +54272,6 @@
         "stock": 12
       },
       {
-        "name": "Bioderma Sensibio Eye Krem",
-        "slug": "bioderma-sensibio-eye-krem",
-        "brand": "Bioderma",
-        "price": 1959.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e96f9e1c-5aad-4243-90e5-5c083effc0c4/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Hassas Göz Çevresi",
-          "Hassas Cilt"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Capicade Gündüz Bakım Kremi 30 ml",
         "slug": "capicade-gunduz-bakim-kremi-30-ml",
         "brand": "Capicade",
@@ -55917,7 +55875,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 10
+        "stock": 6
       },
       {
         "name": "Meridol Gentle White Diş Macunu 75 ml",
@@ -57381,32 +57339,6 @@
           "Temizleyiciler",
           "Micellar Su",
           "Yüz Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Sensibio H2O Eye Çift Fazlı Makyaj Temizleyici 125 ml",
-        "slug": "bioderma-sensibio-h2o-eye-125-ml",
-        "brand": "Bioderma",
-        "price": 1244.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ddfb747d-4fb0-4774-8265-20a140140e13/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleyiciler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Sensibio H2O Eye Çift Fazlı Makyaj Temizleyici 125 ml",
-        "slug": "bioderma-sensibio-h2o-eye-125-ml",
-        "brand": "Bioderma",
-        "price": 1244.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ddfb747d-4fb0-4774-8265-20a140140e13/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleyiciler"
         ],
         "stock": 2
       },
@@ -60391,20 +60323,6 @@
         "stock": 3
       },
       {
-        "name": "La Roche-Posay Mela B3 Koyu Leke Karşıtı Serum 30 ml",
-        "slug": "la-roche-posay-mela-b3-serum-30-ml",
-        "brand": "La Roche-Posay",
-        "price": 3599.9,
-        "discount_price": 2541.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ce59491a-caf3-4239-b252-e075611df031/image_1950.webp",
-        "cats": [
-          "Niasinamid İçeren Ürünler",
-          "Serum",
-          "Leke Karşıtı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "La Roche-Posay Mela B3 Serum 30 ml + Anti-Dark Spots SPF50+ 50 ml Set",
         "slug": "la-roche-posay-mela-b3-serum-30-ml-plus-anti-dark-spots-spf50-plus-50",
         "brand": "La Roche-Posay",
@@ -61387,64 +61305,6 @@
           "Kaşıntı ve Tahriş Bakımı"
         ],
         "stock": 11
-      }
-    ],
-    "Hassas Göz Çevresi": [
-      {
-        "name": "Bioderma Sensibio Eye Krem",
-        "slug": "bioderma-sensibio-eye-krem",
-        "brand": "Bioderma",
-        "price": 1959.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e96f9e1c-5aad-4243-90e5-5c083effc0c4/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Hassas Göz Çevresi",
-          "Hassas Cilt"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "La Roche Posay Toleriane Dermallergo Yeux Göz Çevresi Kremi",
-        "slug": "la-roche-posay-toleriane-dermallergo-yeux-goz-cevresi-kremi",
-        "brand": "La Roche-Posay",
-        "price": 2049.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f496a0b3-e9c0-4f62-8d7c-340ead429d15/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Hassas Göz Çevresi",
-          "Cilt"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Orzax SHINIQ Hassas Ciltler için Göz Çevresi Bakım Kremi",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-goz-cevresi-bakim-kremi",
-        "brand": "Orzax",
-        "price": 1104.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b5a29313-c553-416a-a235-5924bdc711de/image_1950.webp",
-        "cats": [
-          "Hassas Göz Çevresi",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Lansmana Özel"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Shiniq Ss Hassas Göz Çevresi Kremi 15 Ml",
-        "slug": "shiniq-ss-hassas-goz-cevresi-kremi-15-ml",
-        "brand": "SHINIQ",
-        "price": 1104.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad6a2b4c-ec32-4893-b247-c7105f5fccf1/image_1950.webp",
-        "cats": [
-          "Hassas Göz Çevresi",
-          "Yüz Bakımı"
-        ],
-        "stock": 2
       }
     ],
     "Böcek Yemi": [
@@ -63041,7 +62901,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Ultra Men Tablet L-Arginin ve Standardize Bitkisel Ekstreler İçeren Takviye Edici Gıda 60 Tablet",
@@ -65092,7 +64952,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutrafarm Medohbiotin 5 mg Tablet Biotin Takviyesi 60 Tablet",
@@ -67533,22 +67393,6 @@
       },
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -67559,6 +67403,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -67671,20 +67531,6 @@
         "stock": 3
       },
       {
-        "name": "La Roche-Posay Mela B3 Koyu Leke Karşıtı Serum 30 ml",
-        "slug": "la-roche-posay-mela-b3-serum-30-ml",
-        "brand": "La Roche-Posay",
-        "price": 3599.9,
-        "discount_price": 2541.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ce59491a-caf3-4239-b252-e075611df031/image_1950.webp",
-        "cats": [
-          "Niasinamid İçeren Ürünler",
-          "Serum",
-          "Leke Karşıtı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "La Roche-Posay Mela B3 Serum 30 ml + Anti-Dark Spots SPF50+ 50 ml Set",
         "slug": "la-roche-posay-mela-b3-serum-30-ml-plus-anti-dark-spots-spf50-plus-50",
         "brand": "La Roche-Posay",
@@ -67749,22 +67595,6 @@
     "Retinol Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -67775,6 +67605,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -67830,22 +67676,6 @@
     "Retinol İçeren Ürünler": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -67856,6 +67686,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -67939,22 +67785,6 @@
     "Anti-Aging Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -67965,6 +67795,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -68071,22 +67917,6 @@
     "Retinol": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -68097,6 +67927,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -72247,7 +72093,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 10
+        "stock": 6
       },
       {
         "name": "Opalescence Macun Hassas Beyaz Diş Macunu 133 gr",
@@ -72337,7 +72183,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 10
+        "stock": 6
       },
       {
         "name": "Meridol Gum Health Diş Macunu Diş Eti Sağlığı 75 ml",
@@ -72992,7 +72838,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -74201,7 +74047,7 @@
           "Ağız ve Diş Sağlığı",
           "Diş Eti Bakımı"
         ],
-        "stock": 10
+        "stock": 6
       },
       {
         "name": "Meridol Gentle White Diş Macunu 75 ml",
@@ -85508,7 +85354,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitamin B12 Sprey 15 ml",
@@ -85890,6 +85736,50 @@
           "Hyaluronik Asit Serum"
         ],
         "stock": 1
+      }
+    ],
+    "Hassas Göz Çevresi": [
+      {
+        "name": "La Roche Posay Toleriane Dermallergo Yeux Göz Çevresi Kremi",
+        "slug": "la-roche-posay-toleriane-dermallergo-yeux-goz-cevresi-kremi",
+        "brand": "La Roche-Posay",
+        "price": 2049.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f496a0b3-e9c0-4f62-8d7c-340ead429d15/image_1950.webp",
+        "cats": [
+          "Nemlendirici",
+          "Hassas Göz Çevresi",
+          "Cilt"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Orzax SHINIQ Hassas Ciltler için Göz Çevresi Bakım Kremi",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-goz-cevresi-bakim-kremi",
+        "brand": "Orzax",
+        "price": 1104.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b5a29313-c553-416a-a235-5924bdc711de/image_1950.webp",
+        "cats": [
+          "Hassas Göz Çevresi",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Lansmana Özel"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Shiniq Ss Hassas Göz Çevresi Kremi 15 Ml",
+        "slug": "shiniq-ss-hassas-goz-cevresi-kremi-15-ml",
+        "brand": "SHINIQ",
+        "price": 1104.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ad6a2b4c-ec32-4893-b247-c7105f5fccf1/image_1950.webp",
+        "cats": [
+          "Hassas Göz Çevresi",
+          "Yüz Bakımı"
+        ],
+        "stock": 2
       }
     ],
     "Göğüs Ucu Çıkartıcı": [
@@ -93054,9 +92944,9 @@
     ]
   },
   "stats": {
-    "total_products": 5978,
+    "total_products": 5970,
     "total_categories": 643,
-    "generated": "2026-10-19 15:00",
+    "generated": "2026-10-19 19:34",
     "source": "ikas_api_live"
   }
 }
