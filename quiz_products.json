@@ -9723,7 +9723,7 @@
           "Multivitamin",
           "Hamile Vitamini"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Elenatal 2 Kapsül Multivitamin Mineral ve Omega 3 Takviyesi 30 Kapsül",
@@ -11508,7 +11508,7 @@
           "Omega 3",
           "Sitikolin"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Venatura B-Trio ODT Tablet, B12, Folat ve B6 30 Tablet",
@@ -12255,7 +12255,7 @@
           "Multivitamin",
           "Hamile Vitamini"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Elenatal 2 Kapsül Multivitamin Mineral ve Omega 3 Takviyesi 30 Kapsül",
@@ -12585,7 +12585,7 @@
           "Multivitamin",
           "Ginseng"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Day2Day Gummies 60 Adet",
@@ -13877,7 +13877,7 @@
         "cats": [
           "C Vitamini"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Efervit Vit C 20 Efervesan Tablet",
@@ -40741,7 +40741,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 5
       },
       {
         "name": "Nutrafarm Medohbiotin 5 mg Tablet Biotin Takviyesi 60 Tablet",
@@ -41920,7 +41920,7 @@
           "Omega 3",
           "Sitikolin"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "UpVita Memory Sitikolin Kapsül 60 Kapsül",
@@ -44276,18 +44276,6 @@
         "stock": 12
       },
       {
-        "name": "Orzax Ocean Saf Balık Yağı Omega 3 EPA DHA 500 mg 60 Kapsül",
-        "slug": "orzax-ocean-saf-balik-yagi-omega-3-epa-dha-500-mg-60-kapsul",
-        "brand": "Orzax",
-        "price": 374.5,
-        "discount_price": 202.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d21f912e-e182-4709-87e8-89492fe393b2/image_1950.webp",
-        "cats": [
-          "Omega 3"
-        ],
-        "stock": 5
-      },
-      {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
         "brand": "Peptiline",
@@ -44495,7 +44483,7 @@
           "Omega 3",
           "Sitikolin"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Venatura Omega 3 1600 Balık Yağı Kapsül 30 Kapsül",
@@ -45599,7 +45587,7 @@
         "cats": [
           "Kolajen Takviyeleri"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Day2day The Collagen Multi Toz",
@@ -45715,7 +45703,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 5
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -45843,7 +45831,7 @@
           "Multivitamin",
           "Ginseng"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Panax Ginseng İçeren Takviye Edici Gıda 60 Kapsül",
@@ -48673,7 +48661,7 @@
           "Multivitamin",
           "Hamile Vitamini"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Elenatal 2 Kapsül Multivitamin Mineral ve Omega 3 Takviyesi 30 Kapsül",
@@ -49433,7 +49421,7 @@
           "Multivitamin",
           "Hamile Vitamini"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Elenatal 2 Kapsül Multivitamin Mineral ve Omega 3 Takviyesi 30 Kapsül",
@@ -54776,7 +54764,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 5
       },
       {
         "name": "Nutraxin Vitamin B12 Sprey 15 ml",
@@ -61208,9 +61196,9 @@
     ]
   },
   "stats": {
-    "total_products": 4252,
+    "total_products": 4251,
     "total_categories": 583,
-    "generated": "2026-10-21 15:02",
+    "generated": "2026-10-21 19:11",
     "source": "ikas_api_live"
   }
 }
