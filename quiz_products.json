@@ -5611,7 +5611,7 @@
           "Vitamin ve Takviye",
           "Selenyum"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Skin Nails & Hair MSM 60 Tablet",
@@ -15814,7 +15814,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -19567,7 +19567,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -19580,7 +19580,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -29847,7 +29847,7 @@
         "cats": [
           "Demir"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Tabvitamins Feritinol Direct Saşe, Mikroenkapsüle Demir 30 Saşe",
@@ -38784,18 +38784,6 @@
         "stock": 8
       },
       {
-        "name": "Capicade Saç Bakım Serumu 50 ml",
-        "slug": "capicade-sac-bakim-serumu-50-ml",
-        "brand": "Capicade",
-        "price": 1200.0,
-        "discount_price": 919.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0805b478-c02d-4506-9a6f-845d9ba579cf/image_1950.webp",
-        "cats": [
-          "Saç Serumları ve Losyonları"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Ducray Kelual Squanorm Losyon 200 ml",
         "slug": "ducray-kelual-squanorm-losyon-200-ml",
         "brand": "Ducray",
@@ -44297,7 +44285,7 @@
         "cats": [
           "Omega 3"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
@@ -45559,7 +45547,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Parodontax Diş Macunu Ferah Tam Koruma 75 ml",
@@ -56936,7 +56924,7 @@
           "Vitamin ve Takviye",
           "Selenyum"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Selenyum 100 mcg 100 Tablet",
@@ -61220,9 +61208,9 @@
     ]
   },
   "stats": {
-    "total_products": 4253,
+    "total_products": 4252,
     "total_categories": 583,
-    "generated": "2026-10-21 12:46",
+    "generated": "2026-10-21 15:02",
     "source": "ikas_api_live"
   }
 }
