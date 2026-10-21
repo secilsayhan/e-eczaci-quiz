@@ -4739,7 +4739,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ocean Daily One Energy Tablet 30 Tablet",
@@ -11143,7 +11143,7 @@
           "B Kompleks",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "GoodDay Vitamin B12 Kapsül (Metilkobalamin ve Hidroksokobalamin) 60 Kapsül",
@@ -17657,7 +17657,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ocean Green Tea 500 mg 60 Kapsül",
@@ -19567,7 +19567,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -19580,7 +19580,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -20520,20 +20520,6 @@
           "Bakım Kremi",
           "SPF 50+",
           "Yüz Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
-        "slug": "vichy-mineral-89-spf-50-plus-nemlendirici-ve-koruyucu-gunduz-kremi",
-        "brand": "Vichy",
-        "price": 2949.9,
-        "discount_price": 1428.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67daf432-d2aa-430a-bfa9-b5d05375e6b9/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Hassas Cilt",
-          "SPF’li Nemlendirici"
         ],
         "stock": 1
       }
@@ -27705,20 +27691,6 @@
           "Tüy Dökücü Sprey"
         ],
         "stock": 1
-      },
-      {
-        "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
-        "slug": "vichy-mineral-89-spf-50-plus-nemlendirici-ve-koruyucu-gunduz-kremi",
-        "brand": "Vichy",
-        "price": 2949.9,
-        "discount_price": 1428.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67daf432-d2aa-430a-bfa9-b5d05375e6b9/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Hassas Cilt",
-          "SPF’li Nemlendirici"
-        ],
-        "stock": 1
       }
     ],
     "Merhem": [
@@ -28422,20 +28394,6 @@
           "SPF’li Nemlendirici"
         ],
         "stock": 3
-      },
-      {
-        "name": "Vichy Mineral 89 Spf 50+ Nemlendirici ve Koruyucu Gündüz Kremi",
-        "slug": "vichy-mineral-89-spf-50-plus-nemlendirici-ve-koruyucu-gunduz-kremi",
-        "brand": "Vichy",
-        "price": 2949.9,
-        "discount_price": 1428.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67daf432-d2aa-430a-bfa9-b5d05375e6b9/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Hassas Cilt",
-          "SPF’li Nemlendirici"
-        ],
-        "stock": 1
       }
     ],
     "Vücut Losyonu": [
@@ -40739,7 +40697,7 @@
           "B Kompleks",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Mx Pecia Tablet Saw Palmetto Biotin Çinko Keratin 60 Tablet",
@@ -42102,7 +42060,7 @@
           "B Kompleks",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "New Life B Active Trio B6 B12 Folik Asit Takviyesi 30 Tablet",
@@ -45728,7 +45686,7 @@
           "B Kompleks",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Ligone Vitamin B Complex 30 Kapsül",
@@ -61262,9 +61220,9 @@
     ]
   },
   "stats": {
-    "total_products": 4256,
+    "total_products": 4253,
     "total_categories": 583,
-    "generated": "2026-10-21 07:26",
+    "generated": "2026-10-21 12:46",
     "source": "ikas_api_live"
   }
 }
