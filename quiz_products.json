@@ -993,7 +993,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 3
+        "stock": 4
       },
       {
         "name": "Orzax SHINIQ Akne Karşıtı Matlaştırıcı Temizleme Jeli",
@@ -13092,7 +13092,7 @@
           "L-Arjinin",
           "L-Karnitin"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Solgar L-Arginine 500 mg L-Arjinin Takviyesi 50 Kapsül",
@@ -19679,7 +19679,7 @@
           "SPF 50+",
           "Leke Karşıtı"
         ],
-        "stock": 4
+        "stock": 5
       },
       {
         "name": "La Roche Posay Anthelios UVmune 400 Invisible Fluid Spf 50 ml",
@@ -20653,7 +20653,7 @@
           "SPF 50+",
           "Leke Karşıtı"
         ],
-        "stock": 4
+        "stock": 5
       },
       {
         "name": "La Roche Posay Pure Vitamin C12 Serum Cilt Tonu Eşitleyici",
@@ -35057,7 +35057,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 3
+        "stock": 4
       },
       {
         "name": "La Roche Posay Toleriane Creme Cleansing 400 ml",
@@ -42551,7 +42551,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 3
+        "stock": 4
       },
       {
         "name": "La Roche Posay Mela B3 Serum",
@@ -51131,7 +51131,7 @@
           "L-Arjinin",
           "L-Karnitin"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Limonata Aromalı",
@@ -61080,7 +61080,7 @@
   "stats": {
     "total_products": 4243,
     "total_categories": 583,
-    "generated": "2026-10-22 17:11",
+    "generated": "2026-10-22 20:01",
     "source": "ikas_api_live"
   }
 }
