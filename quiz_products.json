@@ -993,7 +993,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Orzax SHINIQ Akne Karşıtı Matlaştırıcı Temizleme Jeli",
@@ -3836,20 +3836,6 @@
           "Magnezyum Sitrat"
         ],
         "stock": 5
-      },
-      {
-        "name": "Marincor Yumuşak Kapsül, Omega-3 (EPA ve DHA) Balık Yağı, 60 Kapsül",
-        "slug": "marincor-yumusak-kapsul-omega-3-epa-ve-dha-balik-yagi-60-kapsul",
-        "brand": "Marincor",
-        "price": 482.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ae84c2c7-63b5-4e93-ba56-0714bbc6c009/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 1
       },
       {
         "name": "Mirabalance Oral Damla 5 ml",
@@ -19553,7 +19539,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -19566,7 +19552,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 14
+        "stock": 13
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -19669,7 +19655,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "La Roche Posay Anthelios Tinted UVmune 400 Renkli Güneş Kremi 50 ml",
@@ -19735,7 +19721,7 @@
           "SPF 50+",
           "Leke Karşıtı"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "La Roche Posay Anthelios UVmune 400 Invisible Fluid Spf 50 ml",
@@ -20709,7 +20695,7 @@
           "SPF 50+",
           "Leke Karşıtı"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "La Roche Posay Pure Vitamin C12 Serum Cilt Tonu Eşitleyici",
@@ -21213,7 +21199,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "La Roche Posay Anthelios Tinted UVmune 400 Renkli Güneş Kremi 50 ml",
@@ -35128,7 +35114,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "La Roche Posay Toleriane Creme Cleansing 400 ml",
@@ -36671,7 +36657,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "La Roche Posay Anthelios Tinted UVmune 400 Renkli Güneş Kremi 50 ml",
@@ -42637,7 +42623,7 @@
           "Niasinamid İçeren Ürünler",
           "Temizleyici"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "La Roche Posay Mela B3 Serum",
@@ -43674,20 +43660,6 @@
           "Resveratrol"
         ],
         "stock": 3
-      },
-      {
-        "name": "Marincor Yumuşak Kapsül, Omega-3 (EPA ve DHA) Balık Yağı, 60 Kapsül",
-        "slug": "marincor-yumusak-kapsul-omega-3-epa-ve-dha-balik-yagi-60-kapsul",
-        "brand": "Marincor",
-        "price": 482.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ae84c2c7-63b5-4e93-ba56-0714bbc6c009/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 1
       },
       {
         "name": "Möller's Omega 3 Balık Yağı Kapsül 60 Adet",
@@ -54987,7 +54959,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "La Roche Posay Anthelios Tinted UVmune 400 Renkli Güneş Kremi 50 ml",
@@ -55584,232 +55556,6 @@
           "Magnezyum Taurat"
         ],
         "stock": 3
-      }
-    ],
-    "Balık Yağı ve Omega": [
-      {
-        "name": "Marincor Yumuşak Kapsül, Omega-3 (EPA ve DHA) Balık Yağı, 60 Kapsül",
-        "slug": "marincor-yumusak-kapsul-omega-3-epa-ve-dha-balik-yagi-60-kapsul",
-        "brand": "Marincor",
-        "price": 482.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ae84c2c7-63b5-4e93-ba56-0714bbc6c009/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
-        "slug": "moller-s-omega-3-cod-liver-oil-dogal-elma-aromali-150-ml",
-        "brand": "Möller's",
-        "price": 1122.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "NBTLIFE Duosvit VMO Kapsül, Omega-3, Multivitamin ve Mineraller 30 Kapsül",
-        "slug": "nbtlife-duosvit-vmo-kapsul-omega-3-multivitamin-ve-mineraller-30-kapsu",
-        "brand": "Nbtlife",
-        "price": 945.0,
-        "discount_price": 632.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08e671c0-29ec-490e-8774-232bfb65fc67/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Vitaminler"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "NBTLIFE Krill Oil Kapsül, Krill Yağı 30 Kapsül",
-        "slug": "nbtlife-krill-oil-kapsul-krill-yagi-30-kapsul",
-        "brand": "Nbtlife",
-        "price": 1149.0,
-        "discount_price": 791.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c676631-a7c5-46c0-8ba2-003b7b62775f/image_1950.webp",
-        "cats": [
-          "Krill Yağı",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "Nbtlife Omegalife 2400 Combotech 60 Kapsül",
-        "slug": "nbtlife-omegalife-2400-combotech-60-kapsul",
-        "brand": "Nbtlife",
-        "price": 1599.0,
-        "discount_price": 1112.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6a3e3c35-6a51-4893-bf1b-3b779a64332f/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "New Life EFA Liquid Tutti Frutti Balık Yağı Sıvı Form 150ml Şişe",
-        "slug": "new-life-efa-liquid-tutti-frutti-balik-yagi-sivi-form-150ml-sise",
-        "brand": "New Life",
-        "price": 845.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/facd08d8-2eee-44cd-ae80-83dc68aa1e6c/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Nordic Bork Omega-3 Kapsül 30 Kapsül",
-        "slug": "nordic-bork-omega-3-kapsul-30-kapsul",
-        "brand": "Nordic Bork",
-        "price": 635.0,
-        "discount_price": 424.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/48e51ba6-ad8e-4b87-bba1-5f13875db820/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
-        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
-        "brand": "Nutraxin",
-        "price": 795.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Omega 3",
-          "Çocuk Omega 3"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Ocean DHA 30 Kapsül",
-        "slug": "ocean-dha-30-kapsul",
-        "brand": "Ocean",
-        "price": 974.5,
-        "discount_price": 714.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c26cc2bf-8d3e-4781-8368-f5433b4501a1/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
-        "slug": "ocean-omega-3-ve-qh-omega-3-ve-koenzim-q10-30-kapsul",
-        "brand": "Ocean",
-        "price": 1494.5,
-        "discount_price": 926.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/826853d5-b9e6-4e64-9319-2bc3bb8b8c9a/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Antioksidanlar"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Omepa 2000 Balık Yağı 30 Yumuşak Kapsül",
-        "slug": "omepa-2000-balik-yagi-30-yumusak-kapsul",
-        "brand": "Omepa",
-        "price": 1298.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da4c06fe-d2dd-4a13-87a5-6a7c2b17f138/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
-        "slug": "solgar-efa-1300-mg-omega-3-6-9-kapsul-60-kapsul",
-        "brand": "Solgar",
-        "price": 1398.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/405b6256-8410-4c65-85ab-2e7a064c5a98/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Omega 6",
-          "Omega 9"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Venatura Omega 3 1600 Balık Yağı Kapsül 30 Kapsül",
-        "slug": "venatura-omega-3-1600-balik-yagi-kapsul-30-kapsul",
-        "brand": "VeNatura",
-        "price": 640.0,
-        "discount_price": 567.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/78fd14f6-792b-456f-9102-a15752f2c685/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 628.0,
-        "discount_price": 562.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/27234376-3f13-4de0-b4e1-9178c5e0ca89/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
-        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 1569.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
-        "cats": [
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3"
-        ],
-        "stock": 2
       }
     ],
     "Koruyucu ve Bariyer Kremler": [
@@ -56546,6 +56292,218 @@
         "cats": [
           "Temizleme Yağı",
           "Atopik ve Kuru Cilt"
+        ],
+        "stock": 2
+      }
+    ],
+    "Balık Yağı ve Omega": [
+      {
+        "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
+        "slug": "moller-s-omega-3-cod-liver-oil-dogal-elma-aromali-150-ml",
+        "brand": "Möller's",
+        "price": 1122.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
+        "cats": [
+          "Çocuk Omega 3",
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3",
+          "Çocuk Vitaminleri",
+          "Omega 3"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "NBTLIFE Duosvit VMO Kapsül, Omega-3, Multivitamin ve Mineraller 30 Kapsül",
+        "slug": "nbtlife-duosvit-vmo-kapsul-omega-3-multivitamin-ve-mineraller-30-kapsu",
+        "brand": "Nbtlife",
+        "price": 945.0,
+        "discount_price": 632.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08e671c0-29ec-490e-8774-232bfb65fc67/image_1950.webp",
+        "cats": [
+          "Multivitamin",
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3",
+          "Vitaminler"
+        ],
+        "stock": 12
+      },
+      {
+        "name": "NBTLIFE Krill Oil Kapsül, Krill Yağı 30 Kapsül",
+        "slug": "nbtlife-krill-oil-kapsul-krill-yagi-30-kapsul",
+        "brand": "Nbtlife",
+        "price": 1149.0,
+        "discount_price": 791.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c676631-a7c5-46c0-8ba2-003b7b62775f/image_1950.webp",
+        "cats": [
+          "Krill Yağı",
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
+        ],
+        "stock": 9
+      },
+      {
+        "name": "Nbtlife Omegalife 2400 Combotech 60 Kapsül",
+        "slug": "nbtlife-omegalife-2400-combotech-60-kapsul",
+        "brand": "Nbtlife",
+        "price": 1599.0,
+        "discount_price": 1112.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6a3e3c35-6a51-4893-bf1b-3b779a64332f/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "New Life EFA Liquid Tutti Frutti Balık Yağı Sıvı Form 150ml Şişe",
+        "slug": "new-life-efa-liquid-tutti-frutti-balik-yagi-sivi-form-150ml-sise",
+        "brand": "New Life",
+        "price": 845.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/facd08d8-2eee-44cd-ae80-83dc68aa1e6c/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Nordic Bork Omega-3 Kapsül 30 Kapsül",
+        "slug": "nordic-bork-omega-3-kapsul-30-kapsul",
+        "brand": "Nordic Bork",
+        "price": 635.0,
+        "discount_price": 424.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/48e51ba6-ad8e-4b87-bba1-5f13875db820/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
+        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
+        "brand": "Nutraxin",
+        "price": 795.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
+        "cats": [
+          "Çocuk Omega 3 ve Balık Yağı",
+          "Çocuk Omega 3",
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3",
+          "Omega 3",
+          "Çocuk Omega 3"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Ocean DHA 30 Kapsül",
+        "slug": "ocean-dha-30-kapsul",
+        "brand": "Ocean",
+        "price": 974.5,
+        "discount_price": 714.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c26cc2bf-8d3e-4781-8368-f5433b4501a1/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
+        "slug": "ocean-omega-3-ve-qh-omega-3-ve-koenzim-q10-30-kapsul",
+        "brand": "Ocean",
+        "price": 1494.5,
+        "discount_price": 926.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/826853d5-b9e6-4e64-9319-2bc3bb8b8c9a/image_1950.webp",
+        "cats": [
+          "Koenzim Q10",
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3",
+          "Antioksidanlar"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Omepa 2000 Balık Yağı 30 Yumuşak Kapsül",
+        "slug": "omepa-2000-balik-yagi-30-yumusak-kapsul",
+        "brand": "Omepa",
+        "price": 1298.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da4c06fe-d2dd-4a13-87a5-6a7c2b17f138/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
+        "slug": "solgar-efa-1300-mg-omega-3-6-9-kapsul-60-kapsul",
+        "brand": "Solgar",
+        "price": 1398.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/405b6256-8410-4c65-85ab-2e7a064c5a98/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3",
+          "Omega 6",
+          "Omega 9"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Venatura Omega 3 1600 Balık Yağı Kapsül 30 Kapsül",
+        "slug": "venatura-omega-3-1600-balik-yagi-kapsul-30-kapsul",
+        "brand": "VeNatura",
+        "price": 640.0,
+        "discount_price": 567.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/78fd14f6-792b-456f-9102-a15752f2c685/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Venatura Omega 3 Kapsül 60 Kapsül",
+        "slug": "venatura-omega-3-kapsul-60-kapsul",
+        "brand": "VeNatura",
+        "price": 628.0,
+        "discount_price": 562.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/27234376-3f13-4de0-b4e1-9178c5e0ca89/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Venatura Ultra Omega 3 Kapsül 60 Kapsül",
+        "slug": "venatura-ultra-omega-3-kapsul-60-kapsul",
+        "brand": "VeNatura",
+        "price": 1569.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/904f7360-9755-43ba-971c-69b090850e6d/image_1950.webp",
+        "cats": [
+          "Balık Yağı ve Omega",
+          "Vitamin ve Takviye",
+          "Omega 3"
         ],
         "stock": 2
       }
@@ -61192,9 +61150,9 @@
     ]
   },
   "stats": {
-    "total_products": 4251,
+    "total_products": 4248,
     "total_categories": 583,
-    "generated": "2026-10-22 08:31",
+    "generated": "2026-10-22 11:35",
     "source": "ikas_api_live"
   }
 }
