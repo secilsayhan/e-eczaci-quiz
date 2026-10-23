@@ -102,7 +102,7 @@
         "slug": "bepanthol-baby-pisik-merhemi-30-gr",
         "brand": "Bepanthol",
         "price": 324.9,
-        "discount_price": null,
+        "discount_price": 254.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cf92234-8743-47d2-8051-1197b119d0b1/image_1950.webp",
         "cats": [
           "Pişik Kremi",
@@ -115,7 +115,7 @@
         "slug": "bepanthol-baby-pisik-merhemi-30-gr",
         "brand": "Bepanthol",
         "price": 324.9,
-        "discount_price": null,
+        "discount_price": 254.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cf92234-8743-47d2-8051-1197b119d0b1/image_1950.webp",
         "cats": [
           "Pişik Kremi",
@@ -985,7 +985,7 @@
         "name": "La Roche Posay Mela B3 Leke Karşıtı Temizleyici Krem 200 ml",
         "slug": "la-roche-posay-mela-b3-leke-karsiti-temizleyici-krem-200-ml",
         "brand": "La Roche-Posay",
-        "price": 1118.0,
+        "price": 1211.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/591ac464-8e8a-424f-9fe1-085b27430cae/image_1950.webp",
         "cats": [
@@ -3364,7 +3364,7 @@
         "slug": "dr-gulzari-probien-dr-caps-kapsul-30-kapsul",
         "brand": "Dr. Gulzari",
         "price": 1050.0,
-        "discount_price": 772.0,
+        "discount_price": 784.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6e308119-0d0e-4647-a69b-e64406e7a52d/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye"
@@ -3419,7 +3419,7 @@
         "slug": "fonksiyonel-tip-gstexra-sase-30-sase",
         "brand": "Goodday",
         "price": 1499.0,
-        "discount_price": 1103.0,
+        "discount_price": 1260.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f563a30a-dd5c-4ab3-bc3c-02e124f9b2d2/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye"
@@ -4269,8 +4269,8 @@
         "name": "New Life CoenzQH Yumuşak Jelatin Kapsül 30 Kapsül",
         "slug": "new-life-coenzqh-yumusak-jelatin-kapsul-30-kapsul",
         "brand": "New Life",
-        "price": 1179.0,
-        "discount_price": 1046.0,
+        "price": 1298.0,
+        "discount_price": 1240.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c4f697a-5380-45bd-aa50-26d064b5dc98/image_1950.webp",
         "cats": [
           "Koenzim Q10",
@@ -4283,8 +4283,8 @@
         "name": "New Life EFA Liquid Tutti Frutti Balık Yağı Sıvı Form 150ml Şişe",
         "slug": "new-life-efa-liquid-tutti-frutti-balik-yagi-sivi-form-150ml-sise",
         "brand": "New Life",
-        "price": 845.0,
-        "discount_price": null,
+        "price": 829.0,
+        "discount_price": 707.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/facd08d8-2eee-44cd-ae80-83dc68aa1e6c/image_1950.webp",
         "cats": [
           "Balık Yağı ve Omega",
@@ -4483,7 +4483,7 @@
         "slug": "nutraxin-vitals-multivitamin-mineral-energy-tablet-60-tablet",
         "brand": "Nutraxin",
         "price": 619.99,
-        "discount_price": 377.0,
+        "discount_price": 438.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ea66b14-df0c-4eb5-ad48-cb0026d32f03/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -4651,7 +4651,7 @@
         "slug": "ocean-cogniven-30-kapsul",
         "brand": "Ocean",
         "price": 1349.5,
-        "discount_price": 865.0,
+        "discount_price": 986.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9c03d71-35f4-46c0-b177-5f563e17dd96/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -4772,7 +4772,7 @@
         "slug": "ocean-extramag-bisglisinat-60-tablet",
         "brand": "Ocean",
         "price": 654.5,
-        "discount_price": 447.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1cc201eb-f317-4ed2-a3e9-3f66c230dce1/image_1950.webp",
         "cats": [
           "Mineraller",
@@ -4890,7 +4890,7 @@
         "slug": "ocean-milk-thistle-30-kapsul",
         "brand": "Orzax",
         "price": 624.5,
-        "discount_price": 341.0,
+        "discount_price": 493.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/acdf7b8d-1c5c-4d11-be2e-a88a2b4a233d/image_1950.webp",
         "cats": [
           "Deve Dikeni (Milk Thistle)",
@@ -5016,20 +5016,6 @@
           "Vitamin ve Takviye"
         ],
         "stock": 12
-      },
-      {
-        "name": "Ocean Vitamin D 1000 IU Sprey",
-        "slug": "ocean-vitamin-d-1000-iu-sprey",
-        "brand": "Ocean",
-        "price": 344.5,
-        "discount_price": 259.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/95598c46-73fa-4c6c-b47c-43ca7b128243/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Vitaminler"
-        ],
-        "stock": 10
       },
       {
         "name": "Ocean Çörek Otu Yağı 1000mg 60 Kapsül",
@@ -5194,7 +5180,7 @@
         "name": "ProteinOcean L-Carnitine 150 gr Limonata Aromalı",
         "slug": "proteinocean-l-carnitine-150-gr-limonata-aromali",
         "brand": "Proteinocean",
-        "price": 648.0,
+        "price": 677.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a8c4c74b-0439-4d3e-ad80-f7cab8b3b7ef/image_1950.webp",
         "cats": [
@@ -7676,7 +7662,7 @@
         "name": "Ayak Spreyi Duransol 50 ml",
         "slug": "ayak-spreyi-duransol-50-ml",
         "brand": "Duransol",
-        "price": 259.0,
+        "price": 280.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bea828d0-a471-41cd-8aea-848a15f44a9f/image_1950.webp",
         "cats": [
@@ -9757,7 +9743,7 @@
         "slug": "ligone-kids-beta-glucan-multivitamin-mineral-surup-cocuklar-icin-150",
         "brand": "Ligone",
         "price": 750.0,
-        "discount_price": 375.0,
+        "discount_price": 394.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7af825f7-9af4-4aed-a000-97f560c0b845/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -9888,7 +9874,7 @@
         "slug": "ocean-extramag-bisglisinat-60-tablet",
         "brand": "Ocean",
         "price": 654.5,
-        "discount_price": 447.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1cc201eb-f317-4ed2-a3e9-3f66c230dce1/image_1950.webp",
         "cats": [
           "Mineraller",
@@ -11104,7 +11090,7 @@
         "slug": "goodday-vitamin-b-complex-tablet-p5p-folik-asit-biotin-metilkobalamin",
         "brand": "Goodday",
         "price": 599.0,
-        "discount_price": 320.0,
+        "discount_price": 364.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc4823c-7bcb-40e9-b586-234fd4c7e9e0/image_1950.webp",
         "cats": [
           "B12 Vitamini",
@@ -11119,7 +11105,7 @@
         "slug": "goodday-vitamin-b12-kapsul-metilkobalamin-ve-hidroksokobalamin-60",
         "brand": "Goodday",
         "price": 499.0,
-        "discount_price": 267.0,
+        "discount_price": 276.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/93f3bfc7-316b-4417-aec1-ac74cc0d89fc/image_1950.webp",
         "cats": [
           "B12 Vitamini"
@@ -11601,7 +11587,7 @@
         "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
         "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
         "brand": "EasyVit",
-        "price": 899.0,
+        "price": 929.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
@@ -11723,7 +11709,7 @@
         "slug": "ligone-kids-beta-glucan-multivitamin-mineral-surup-cocuklar-icin-150",
         "brand": "Ligone",
         "price": 750.0,
-        "discount_price": 375.0,
+        "discount_price": 394.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7af825f7-9af4-4aed-a000-97f560c0b845/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -12275,8 +12261,8 @@
         "name": "GoodDay Minions Sıvı Takviye Arjinin Multivitamin Multimineral Fosfatidilserin 150 ml",
         "slug": "goodday-minions-sivi-arjinin-multivitamin-multimineral-150-ml",
         "brand": "Goodday",
-        "price": 916.0,
-        "discount_price": null,
+        "price": 899.0,
+        "discount_price": 655.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8117cda6-ad61-4d63-88b2-b552b800b7d2/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -12363,7 +12349,7 @@
         "slug": "ligone-kids-beta-glucan-multivitamin-mineral-surup-cocuklar-icin-150",
         "brand": "Ligone",
         "price": 750.0,
-        "discount_price": 375.0,
+        "discount_price": 394.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7af825f7-9af4-4aed-a000-97f560c0b845/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -12478,7 +12464,7 @@
         "slug": "nutraxin-vitals-multivitamin-mineral-energy-tablet-60-tablet",
         "brand": "Nutraxin",
         "price": 619.99,
-        "discount_price": 377.0,
+        "discount_price": 438.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ea66b14-df0c-4eb5-ad48-cb0026d32f03/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -12493,7 +12479,7 @@
         "slug": "nutraxin-vitals-multivitamin-mineral-energy-tablet-60-tablet",
         "brand": "Nutraxin",
         "price": 619.99,
-        "discount_price": 377.0,
+        "discount_price": 438.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ea66b14-df0c-4eb5-ad48-cb0026d32f03/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -13006,8 +12992,8 @@
         "name": "GoodDay Minions Sıvı Takviye Arjinin Multivitamin Multimineral Fosfatidilserin 150 ml",
         "slug": "goodday-minions-sivi-arjinin-multivitamin-multimineral-150-ml",
         "brand": "Goodday",
-        "price": 916.0,
-        "discount_price": null,
+        "price": 899.0,
+        "discount_price": 655.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8117cda6-ad61-4d63-88b2-b552b800b7d2/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -13174,8 +13160,8 @@
         "name": "GoodDay Minions Sıvı Takviye Arjinin Multivitamin Multimineral Fosfatidilserin 150 ml",
         "slug": "goodday-minions-sivi-arjinin-multivitamin-multimineral-150-ml",
         "brand": "Goodday",
-        "price": 916.0,
-        "discount_price": null,
+        "price": 899.0,
+        "discount_price": 655.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8117cda6-ad61-4d63-88b2-b552b800b7d2/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -13568,8 +13554,8 @@
         "name": "GoodDay Vitamin C 1000 mg Kapsül 60 Kapsül",
         "slug": "goodday-vitamin-c-1000-mg-kapsul-60-kapsul",
         "brand": "Goodday",
-        "price": 508.0,
-        "discount_price": null,
+        "price": 499.0,
+        "discount_price": 320.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e4ef8206-4bb5-4550-b8a2-d1dfbbb2e567/image_1950.webp",
         "cats": [
           "C Vitamini",
@@ -14450,8 +14436,8 @@
         "name": "GoodDay Vitamin C 1000 mg Kapsül 60 Kapsül",
         "slug": "goodday-vitamin-c-1000-mg-kapsul-60-kapsul",
         "brand": "Goodday",
-        "price": 508.0,
-        "discount_price": null,
+        "price": 499.0,
+        "discount_price": 320.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e4ef8206-4bb5-4550-b8a2-d1dfbbb2e567/image_1950.webp",
         "cats": [
           "C Vitamini",
@@ -15922,7 +15908,7 @@
         "name": "Rocs Diş Macunu Teen Yaban Mersinli",
         "slug": "rocs-dis-macunu-teen-yaban-mersinli",
         "brand": "Rocs",
-        "price": 395.0,
+        "price": 440.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a44ffd34-ac5d-42c5-9bda-11908816634c/image_1950.webp",
         "cats": [
@@ -17197,7 +17183,7 @@
         "slug": "goodday-fonksiyonel-tip-gstexra-n-asetil-d-glikozamin-l-karnosin-30",
         "brand": "Goodday",
         "price": 1499.0,
-        "discount_price": 1103.0,
+        "discount_price": 1260.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0bc20291-75d8-4090-a76c-112ec0b8f467/image_1950.webp",
         "cats": [
           "L-Karnosin",
@@ -17553,7 +17539,7 @@
         "slug": "ocean-cogniven-30-kapsul",
         "brand": "Ocean",
         "price": 1349.5,
-        "discount_price": 865.0,
+        "discount_price": 986.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9c03d71-35f4-46c0-b177-5f563e17dd96/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -18227,7 +18213,7 @@
         "name": "La Roche Posay Cicaplast Baume B5 Onarıcı Krem 40 ml",
         "slug": "la-roche-posay-cicaplast-baume-b5-onarici-krem-40-ml",
         "brand": "La Roche-Posay",
-        "price": 721.0,
+        "price": 672.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cec41727-03df-47e1-aa39-475720b94a03/image_1950.webp",
         "cats": [
@@ -18561,15 +18547,15 @@
         "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
         "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
         "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
+        "price": 1707.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
         "cats": [
           "Güneş Koruma",
           "Güneş Losyonu",
           "Çocuk ve Bebek Güneş Koruma"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
@@ -19697,8 +19683,8 @@
         "name": "La Roche Posay Anthelios XL Ultra Light Sprey Güneş Kremi SPF50+ 200 ml",
         "slug": "la-roche-posay-anthelios-xl-ultra-light-sprey-spf50-plus-200-ml",
         "brand": "La Roche-Posay",
-        "price": 1899.9,
-        "discount_price": 950.0,
+        "price": 1996.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5dea4f0c-92f4-4a65-8a7a-5fc42ed20c53/image_1950.webp",
         "cats": [
           "SPF 50+",
@@ -20330,7 +20316,7 @@
         "name": "Vichy Capital Soleil Anti-Dark Spot Tinted SPF50+ 50 ml",
         "slug": "vichy-capital-soleil-anti-dark-spot-tinted-spf50-plus-50-ml",
         "brand": "Vichy",
-        "price": 1245.0,
+        "price": 1254.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6bd1ac04-1f7f-4e94-83a6-3b5e5cf35377/image_1950.webp",
         "cats": [
@@ -20345,7 +20331,7 @@
         "name": "Vichy Capital Soleil Anti-Dark Spot Tinted SPF50+ 50 ml",
         "slug": "vichy-capital-soleil-anti-dark-spot-tinted-spf50-plus-50-ml",
         "brand": "Vichy",
-        "price": 1245.0,
+        "price": 1254.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6bd1ac04-1f7f-4e94-83a6-3b5e5cf35377/image_1950.webp",
         "cats": [
@@ -20398,7 +20384,7 @@
         "slug": "vichy-capital-soleil-yagli-cilt-spf-50",
         "brand": "Vichy",
         "price": 1699.9,
-        "discount_price": 850.0,
+        "discount_price": 1225.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73234633-6100-4402-bb69-92c3d65cf9e9/image_1950.webp",
         "cats": [
           "Güneş Bakımı",
@@ -20413,7 +20399,7 @@
         "slug": "vichy-capital-soleil-yagli-cilt-spf-50",
         "brand": "Vichy",
         "price": 1699.9,
-        "discount_price": 850.0,
+        "discount_price": 1225.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73234633-6100-4402-bb69-92c3d65cf9e9/image_1950.webp",
         "cats": [
           "Güneş Bakımı",
@@ -20822,7 +20808,7 @@
         "name": "Vichy Capital Soleil Anti-Dark Spot Tinted SPF50+ 50 ml",
         "slug": "vichy-capital-soleil-anti-dark-spot-tinted-spf50-plus-50-ml",
         "brand": "Vichy",
-        "price": 1245.0,
+        "price": 1254.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6bd1ac04-1f7f-4e94-83a6-3b5e5cf35377/image_1950.webp",
         "cats": [
@@ -21192,8 +21178,8 @@
         "name": "La Roche Posay Anthelios XL Ultra Light Sprey Güneş Kremi SPF50+ 200 ml",
         "slug": "la-roche-posay-anthelios-xl-ultra-light-sprey-spf50-plus-200-ml",
         "brand": "La Roche-Posay",
-        "price": 1899.9,
-        "discount_price": 950.0,
+        "price": 1996.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5dea4f0c-92f4-4a65-8a7a-5fc42ed20c53/image_1950.webp",
         "cats": [
           "SPF 50+",
@@ -22747,7 +22733,7 @@
         "name": "La Roche Posay Cicaplast Baume B5 Onarıcı Krem 40 ml",
         "slug": "la-roche-posay-cicaplast-baume-b5-onarici-krem-40-ml",
         "brand": "La Roche-Posay",
-        "price": 721.0,
+        "price": 672.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cec41727-03df-47e1-aa39-475720b94a03/image_1950.webp",
         "cats": [
@@ -23039,7 +23025,7 @@
         "name": "La Roche Posay Cicaplast Baume B5 Onarıcı Krem 40 ml",
         "slug": "la-roche-posay-cicaplast-baume-b5-onarici-krem-40-ml",
         "brand": "La Roche-Posay",
-        "price": 721.0,
+        "price": 672.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cec41727-03df-47e1-aa39-475720b94a03/image_1950.webp",
         "cats": [
@@ -23067,8 +23053,8 @@
         "name": "La Roche Posay Effaclar Duo+ M 40 ml Kampanyalı Fiyat",
         "slug": "la-roche-posay-effaclar-duo-plus-m-40-ml-kampanyali-fiyat",
         "brand": "La Roche-Posay",
-        "price": 1059.0,
-        "discount_price": null,
+        "price": 1170.0,
+        "discount_price": 1145.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f639e243-aeef-4da1-a0bd-b0b0a9acd3bf/image_1950.webp",
         "cats": [
           "Bakım Kremi",
@@ -23080,8 +23066,8 @@
         "name": "La Roche Posay Effaclar Duo+ M 40 ml Kampanyalı Fiyat",
         "slug": "la-roche-posay-effaclar-duo-plus-m-40-ml-kampanyali-fiyat",
         "brand": "La Roche-Posay",
-        "price": 1059.0,
-        "discount_price": null,
+        "price": 1170.0,
+        "discount_price": 1145.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f639e243-aeef-4da1-a0bd-b0b0a9acd3bf/image_1950.webp",
         "cats": [
           "Bakım Kremi",
@@ -23847,7 +23833,7 @@
         "slug": "vichy-capital-soleil-yagli-cilt-spf-50",
         "brand": "Vichy",
         "price": 1699.9,
-        "discount_price": 850.0,
+        "discount_price": 1225.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73234633-6100-4402-bb69-92c3d65cf9e9/image_1950.webp",
         "cats": [
           "Güneş Bakımı",
@@ -24386,7 +24372,7 @@
         "slug": "vichy-capital-soleil-yagli-cilt-spf-50",
         "brand": "Vichy",
         "price": 1699.9,
-        "discount_price": 850.0,
+        "discount_price": 1225.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73234633-6100-4402-bb69-92c3d65cf9e9/image_1950.webp",
         "cats": [
           "Güneş Bakımı",
@@ -24402,7 +24388,7 @@
         "name": "Ayak Spreyi Duransol 50 ml",
         "slug": "ayak-spreyi-duransol-50-ml",
         "brand": "Duransol",
-        "price": 259.0,
+        "price": 280.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bea828d0-a471-41cd-8aea-848a15f44a9f/image_1950.webp",
         "cats": [
@@ -24432,7 +24418,7 @@
         "name": "Ayak Spreyi Duransol 50 ml",
         "slug": "ayak-spreyi-duransol-50-ml",
         "brand": "Duransol",
-        "price": 259.0,
+        "price": 280.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bea828d0-a471-41cd-8aea-848a15f44a9f/image_1950.webp",
         "cats": [
@@ -24632,7 +24618,7 @@
         "slug": "goodday-magnesium-plus-s-g-kapsul-magnezyum-ve-p5p-30-kapsul",
         "brand": "Goodday",
         "price": 579.0,
-        "discount_price": 310.0,
+        "discount_price": 320.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b0e6d822-9dad-4ad4-969d-086ccbdd3161/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -24825,7 +24811,7 @@
         "slug": "nutraxin-vitals-daily-magnesium-d3-k2-vitamini-magnezyum-b6-60-tablet",
         "brand": "Nutraxin",
         "price": 599.99,
-        "discount_price": 374.0,
+        "discount_price": 424.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c6d395d-02b5-4f3d-9c28-04ad244f5188/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -24863,7 +24849,7 @@
         "slug": "ocean-extramag-bisglisinat-60-tablet",
         "brand": "Ocean",
         "price": 654.5,
-        "discount_price": 447.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1cc201eb-f317-4ed2-a3e9-3f66c230dce1/image_1950.webp",
         "cats": [
           "Mineraller",
@@ -25503,7 +25489,7 @@
         "slug": "probien-probiyotik-mikroorganizma-ve-prebiyotik-30-kapsul",
         "brand": "Probien",
         "price": 1050.0,
-        "discount_price": 772.0,
+        "discount_price": 784.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a19ae89a-9cd7-46da-a5e2-60c0a12ee448/image_1950.webp",
         "cats": [
           "Probiyotik ve Prebiyotik",
@@ -26057,7 +26043,7 @@
         "slug": "nutraxin-vitals-daily-magnesium-d3-k2-vitamini-magnezyum-b6-60-tablet",
         "brand": "Nutraxin",
         "price": 599.99,
-        "discount_price": 374.0,
+        "discount_price": 424.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c6d395d-02b5-4f3d-9c28-04ad244f5188/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -26326,7 +26312,7 @@
         "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
         "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
         "brand": "EasyVit",
-        "price": 899.0,
+        "price": 929.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
@@ -26343,7 +26329,7 @@
         "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
         "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
         "brand": "EasyVit",
-        "price": 899.0,
+        "price": 929.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
@@ -26478,7 +26464,7 @@
         "slug": "nutraxin-vitals-daily-magnesium-d3-k2-vitamini-magnezyum-b6-60-tablet",
         "brand": "Nutraxin",
         "price": 599.99,
-        "discount_price": 374.0,
+        "discount_price": 424.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c6d395d-02b5-4f3d-9c28-04ad244f5188/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -26571,9 +26557,7 @@
         "discount_price": 259.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/95598c46-73fa-4c6c-b47c-43ca7b128243/image_1950.webp",
         "cats": [
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Vitaminler"
+          "D Vitamini"
         ],
         "stock": 10
       },
@@ -26657,7 +26641,7 @@
         "cats": [
           "D Vitamini"
         ],
-        "stock": 9
+        "stock": 10
       },
       {
         "name": "Orzax Ocean D3K2 Damla 2'li Avantaj Paketi",
@@ -28182,7 +28166,7 @@
         "name": "Mustela Hydra Bebe Nemlendirici Yüz Kremi Bebekler İçin 40 ml",
         "slug": "mustela-hydra-bebe-nemlendirici-yuz-kremi-bebekler-icin-40-ml",
         "brand": "Mustela",
-        "price": 749.9,
+        "price": 822.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f56e86f-9f21-4837-9f88-2b31db3548be/image_1950.webp",
         "cats": [
@@ -28196,7 +28180,7 @@
         "name": "Mustela Hydra Bebe Yüz Kremi",
         "slug": "mustela-hydra-bebe-yuz-kremi",
         "brand": "Mustela",
-        "price": 749.9,
+        "price": 822.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1dbc737-5b62-4af4-b312-1b7a0adf21db/image_1950.webp",
         "cats": [
@@ -30066,7 +30050,7 @@
         "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
         "slug": "bioxcin-sampuan-collagen-biotin-3-al-2-ode-kampanya",
         "brand": "Bioxcin",
-        "price": 459.98,
+        "price": 493.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b6761be2-1e1f-4e26-b34f-9b69e84abea9/image_1950.webp",
         "cats": [
@@ -30109,7 +30093,7 @@
         "slug": "ducray-anaphase-reactiv-sampuan-400-ml",
         "brand": "Ducray",
         "price": 1784.9,
-        "discount_price": 1388.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8dccb404-b121-4c04-9d2d-81dd21d2eb24/image_1950.webp",
         "cats": [
           "Şampuanlar",
@@ -30303,7 +30287,7 @@
         "name": "Vichy Dercos Anti-Dandruff Normal/Yağlı Saçlar Şampuanı 390 ml",
         "slug": "vichy-dercos-anti-dandruff-normal-yagli-saclar-sampuani-390-ml",
         "brand": "Vichy",
-        "price": 1570.0,
+        "price": 1558.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/038b80af-9a7e-4876-9843-a63309ea9112/image_1950.webp",
         "cats": [
@@ -30317,7 +30301,7 @@
         "name": "Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml",
         "slug": "vichy-dercos-anti-pelliculaire-sampuan-hassas-ve-kasintili-sac-derisi",
         "brand": "Vichy",
-        "price": 1430.0,
+        "price": 1495.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/83e8ed61-cfe1-4c76-9147-6bcffdf2460c/image_1950.webp",
         "cats": [
@@ -30541,7 +30525,7 @@
         "slug": "ducray-anaphase-reactiv-sampuan-400-ml",
         "brand": "Ducray",
         "price": 1784.9,
-        "discount_price": 1388.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8dccb404-b121-4c04-9d2d-81dd21d2eb24/image_1950.webp",
         "cats": [
           "Şampuanlar",
@@ -30695,7 +30679,7 @@
         "name": "Vichy Dercos Anti-Dandruff Normal/Yağlı Saçlar Şampuanı 390 ml",
         "slug": "vichy-dercos-anti-dandruff-normal-yagli-saclar-sampuani-390-ml",
         "brand": "Vichy",
-        "price": 1570.0,
+        "price": 1558.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/038b80af-9a7e-4876-9843-a63309ea9112/image_1950.webp",
         "cats": [
@@ -30709,7 +30693,7 @@
         "name": "Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml",
         "slug": "vichy-dercos-anti-pelliculaire-sampuan-hassas-ve-kasintili-sac-derisi",
         "brand": "Vichy",
-        "price": 1430.0,
+        "price": 1495.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/83e8ed61-cfe1-4c76-9147-6bcffdf2460c/image_1950.webp",
         "cats": [
@@ -30919,7 +30903,7 @@
         "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
         "slug": "bioxcin-sampuan-collagen-biotin-3-al-2-ode-kampanya",
         "brand": "Bioxcin",
-        "price": 459.98,
+        "price": 493.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b6761be2-1e1f-4e26-b34f-9b69e84abea9/image_1950.webp",
         "cats": [
@@ -30985,7 +30969,7 @@
         "slug": "ducray-anaphase-reactiv-sampuan-400-ml",
         "brand": "Ducray",
         "price": 1784.9,
-        "discount_price": 1388.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8dccb404-b121-4c04-9d2d-81dd21d2eb24/image_1950.webp",
         "cats": [
           "Şampuanlar",
@@ -33878,7 +33862,7 @@
         "name": "Mustela Hydra Bebe Nemlendirici Yüz Kremi Bebekler İçin 40 ml",
         "slug": "mustela-hydra-bebe-nemlendirici-yuz-kremi-bebekler-icin-40-ml",
         "brand": "Mustela",
-        "price": 749.9,
+        "price": 822.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f56e86f-9f21-4837-9f88-2b31db3548be/image_1950.webp",
         "cats": [
@@ -35075,7 +35059,7 @@
         "name": "La Roche Posay Mela B3 Leke Karşıtı Temizleyici Krem 200 ml",
         "slug": "la-roche-posay-mela-b3-leke-karsiti-temizleyici-krem-200-ml",
         "brand": "La Roche-Posay",
-        "price": 1118.0,
+        "price": 1211.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/591ac464-8e8a-424f-9fe1-085b27430cae/image_1950.webp",
         "cats": [
@@ -36122,7 +36106,7 @@
         "slug": "sebamed-anti-dandruff-kepek-karsiti-sampuan-200-ml",
         "brand": "Sebamed",
         "price": 648.99,
-        "discount_price": 325.0,
+        "discount_price": 368.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7faf4e66-b285-4625-9932-a1f937d82d45/image_1950.webp",
         "cats": [
           "Bugüne Özel",
@@ -36224,7 +36208,7 @@
         "name": "Vichy Dercos Anti-Dandruff Normal/Yağlı Saçlar Şampuanı 390 ml",
         "slug": "vichy-dercos-anti-dandruff-normal-yagli-saclar-sampuani-390-ml",
         "brand": "Vichy",
-        "price": 1570.0,
+        "price": 1558.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/038b80af-9a7e-4876-9843-a63309ea9112/image_1950.webp",
         "cats": [
@@ -36238,7 +36222,7 @@
         "name": "Vichy Dercos Anti-Pelliculaire Şampuan Hassas ve Kaşıntılı Saç Derisi 200 ml",
         "slug": "vichy-dercos-anti-pelliculaire-sampuan-hassas-ve-kasintili-sac-derisi",
         "brand": "Vichy",
-        "price": 1430.0,
+        "price": 1495.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/83e8ed61-cfe1-4c76-9147-6bcffdf2460c/image_1950.webp",
         "cats": [
@@ -36783,7 +36767,7 @@
         "name": "Vichy Capital Soleil Anti-Dark Spot Tinted SPF50+ 50 ml",
         "slug": "vichy-capital-soleil-anti-dark-spot-tinted-spf50-plus-50-ml",
         "brand": "Vichy",
-        "price": 1245.0,
+        "price": 1254.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6bd1ac04-1f7f-4e94-83a6-3b5e5cf35377/image_1950.webp",
         "cats": [
@@ -36844,22 +36828,22 @@
         "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
         "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
         "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
+        "price": 1707.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
         "cats": [
           "Güneş Koruma",
           "Güneş Losyonu",
           "Çocuk ve Bebek Güneş Koruma"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Mustela Güneş Losyonu Spf 50 Bebek ve Çocuklar İçin 200 ml",
         "slug": "mustela-gunes-losyonu-spf-50-bebek-ve-cocuklar-icin-200-ml",
         "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
+        "price": 1707.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da1778f3-7da2-4f28-8d7d-c28ae3dcc09e/image_1950.webp",
         "cats": [
           "Güneş Losyonu",
@@ -36941,22 +36925,22 @@
         "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
         "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
         "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
+        "price": 1707.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
         "cats": [
           "Güneş Koruma",
           "Güneş Losyonu",
           "Çocuk ve Bebek Güneş Koruma"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Mustela Güneş Losyonu Spf 50 Bebek ve Çocuklar İçin 200 ml",
         "slug": "mustela-gunes-losyonu-spf-50-bebek-ve-cocuklar-icin-200-ml",
         "brand": "Mustela",
-        "price": 1679.9,
-        "discount_price": 946.0,
+        "price": 1707.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/da1778f3-7da2-4f28-8d7d-c28ae3dcc09e/image_1950.webp",
         "cats": [
           "Güneş Losyonu",
@@ -39190,7 +39174,7 @@
         "slug": "sebamed-anti-dandruff-kepek-karsiti-sampuan-200-ml",
         "brand": "Sebamed",
         "price": 648.99,
-        "discount_price": 325.0,
+        "discount_price": 368.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7faf4e66-b285-4625-9932-a1f937d82d45/image_1950.webp",
         "cats": [
           "Bugüne Özel",
@@ -39258,7 +39242,7 @@
         "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
         "slug": "bioxcin-sampuan-collagen-biotin-3-al-2-ode-kampanya",
         "brand": "Bioxcin",
-        "price": 459.98,
+        "price": 493.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b6761be2-1e1f-4e26-b34f-9b69e84abea9/image_1950.webp",
         "cats": [
@@ -39730,8 +39714,8 @@
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
         "slug": "feb-vit-women-kadinlara-ozel-vitamin-takviyesi-60-kapsul",
         "brand": "FEB",
-        "price": 1184.73,
-        "discount_price": 804.0,
+        "price": 1274.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb5bf074-ca33-4139-a910-a15860be1d6d/image_1950.webp",
         "cats": [
           "Kadın",
@@ -39744,8 +39728,8 @@
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
         "slug": "feb-vit-women-kadinlara-ozel-vitamin-takviyesi-60-kapsul",
         "brand": "FEB",
-        "price": 1184.73,
-        "discount_price": 804.0,
+        "price": 1274.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb5bf074-ca33-4139-a910-a15860be1d6d/image_1950.webp",
         "cats": [
           "Kadın",
@@ -40040,7 +40024,7 @@
         "slug": "nutraxin-vitals-multivitamin-mineral-energy-tablet-60-tablet",
         "brand": "Nutraxin",
         "price": 619.99,
-        "discount_price": 377.0,
+        "discount_price": 438.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ea66b14-df0c-4eb5-ad48-cb0026d32f03/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -40134,20 +40118,6 @@
           "Vitaminler"
         ],
         "stock": 17
-      },
-      {
-        "name": "Ocean Vitamin D 1000 IU Sprey",
-        "slug": "ocean-vitamin-d-1000-iu-sprey",
-        "brand": "Ocean",
-        "price": 344.5,
-        "discount_price": 259.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/95598c46-73fa-4c6c-b47c-43ca7b128243/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Vitaminler"
-        ],
-        "stock": 10
       },
       {
         "name": "Pharmaton 50 Plus 30 Kapsül",
@@ -40615,7 +40585,7 @@
         "slug": "goodday-vitamin-b-complex-tablet-p5p-folik-asit-biotin-metilkobalamin",
         "brand": "Goodday",
         "price": 599.0,
-        "discount_price": 320.0,
+        "discount_price": 364.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc4823c-7bcb-40e9-b586-234fd4c7e9e0/image_1950.webp",
         "cats": [
           "B12 Vitamini",
@@ -41991,7 +41961,7 @@
         "slug": "goodday-vitamin-b-complex-tablet-p5p-folik-asit-biotin-metilkobalamin",
         "brand": "Goodday",
         "price": 599.0,
-        "discount_price": 320.0,
+        "discount_price": 364.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc4823c-7bcb-40e9-b586-234fd4c7e9e0/image_1950.webp",
         "cats": [
           "B12 Vitamini",
@@ -42226,7 +42196,7 @@
         "slug": "ocean-cogniven-30-kapsul",
         "brand": "Ocean",
         "price": 1349.5,
-        "discount_price": 865.0,
+        "discount_price": 986.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9c03d71-35f4-46c0-b177-5f563e17dd96/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
@@ -42569,7 +42539,7 @@
         "name": "La Roche Posay Mela B3 Leke Karşıtı Temizleyici Krem 200 ml",
         "slug": "la-roche-posay-mela-b3-leke-karsiti-temizleyici-krem-200-ml",
         "brand": "La Roche-Posay",
-        "price": 1118.0,
+        "price": 1211.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/591ac464-8e8a-424f-9fe1-085b27430cae/image_1950.webp",
         "cats": [
@@ -43335,7 +43305,7 @@
         "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
         "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
         "brand": "EasyVit",
-        "price": 899.0,
+        "price": 929.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
@@ -43352,7 +43322,7 @@
         "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
         "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
         "brand": "EasyVit",
-        "price": 899.0,
+        "price": 929.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
@@ -43795,8 +43765,8 @@
         "name": "New Life EFA Liquid Tutti Frutti Balık Yağı Sıvı Form 150ml Şişe",
         "slug": "new-life-efa-liquid-tutti-frutti-balik-yagi-sivi-form-150ml-sise",
         "brand": "New Life",
-        "price": 845.0,
-        "discount_price": null,
+        "price": 829.0,
+        "discount_price": 707.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/facd08d8-2eee-44cd-ae80-83dc68aa1e6c/image_1950.webp",
         "cats": [
           "Balık Yağı ve Omega",
@@ -44021,13 +43991,13 @@
           "Krill Yağı",
           "Omega 3"
         ],
-        "stock": 12
+        "stock": 15
       },
       {
         "name": "Ocuvite Max Kapsül Omega 3 Lutein Zeaksantin Vitamin Ekstre Takviyesi 60 Kapsül",
         "slug": "ocuvite-max-kapsul-omega-3-lutein-zeaksantin-vitamin-ekstre-60-kapsul",
         "brand": "Ocuvite",
-        "price": 1614.0,
+        "price": 1488.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0bd91f6-5583-40db-9890-a360c15a82e4/image_1950.webp",
         "cats": [
@@ -45561,7 +45531,7 @@
         "slug": "goodday-vitamin-b-complex-tablet-p5p-folik-asit-biotin-metilkobalamin",
         "brand": "Goodday",
         "price": 599.0,
-        "discount_price": 320.0,
+        "discount_price": 364.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc4823c-7bcb-40e9-b586-234fd4c7e9e0/image_1950.webp",
         "cats": [
           "B12 Vitamini",
@@ -49087,7 +49057,7 @@
         "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
         "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
         "brand": "EasyVit",
-        "price": 899.0,
+        "price": 929.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
@@ -49577,7 +49547,7 @@
         "slug": "orzax-ocean-bromelain-complex-60-tablet",
         "brand": "Orzax",
         "price": 754.5,
-        "discount_price": 387.0,
+        "discount_price": 595.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/821c134b-ff67-455e-b5a0-744ff9f79ed6/image_1950.webp",
         "cats": [
           "Bromelain",
@@ -49591,7 +49561,7 @@
         "slug": "orzax-ocean-bromelain-complex-60-tablet",
         "brand": "Orzax",
         "price": 754.5,
-        "discount_price": 387.0,
+        "discount_price": 595.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/821c134b-ff67-455e-b5a0-744ff9f79ed6/image_1950.webp",
         "cats": [
           "Bromelain",
@@ -50432,8 +50402,8 @@
         "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
         "slug": "feb-vit-women-kadinlara-ozel-vitamin-takviyesi-60-kapsul",
         "brand": "FEB",
-        "price": 1184.73,
-        "discount_price": 804.0,
+        "price": 1274.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb5bf074-ca33-4139-a910-a15860be1d6d/image_1950.webp",
         "cats": [
           "Kadın",
@@ -50645,7 +50615,7 @@
         "slug": "solgar-5-htp-5-hydroxytryptophan-complex-kapsul-30-kapsul",
         "brand": "Solgar",
         "price": 835.5,
-        "discount_price": null,
+        "discount_price": 714.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8aa55057-aed7-407c-af9f-81b5d0ead2d5/image_1950.webp",
         "cats": [
           "Nootropikler",
@@ -50724,7 +50694,7 @@
         "slug": "solgar-5-htp-5-hydroxytryptophan-complex-kapsul-30-kapsul",
         "brand": "Solgar",
         "price": 835.5,
-        "discount_price": null,
+        "discount_price": 714.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8aa55057-aed7-407c-af9f-81b5d0ead2d5/image_1950.webp",
         "cats": [
           "Nootropikler",
@@ -50836,7 +50806,7 @@
         "slug": "goodday-magnesium-plus-s-g-kapsul-magnezyum-ve-p5p-30-kapsul",
         "brand": "Goodday",
         "price": 579.0,
-        "discount_price": 310.0,
+        "discount_price": 320.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b0e6d822-9dad-4ad4-969d-086ccbdd3161/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -51163,7 +51133,7 @@
         "name": "ProteinOcean L-Carnitine 150 gr Limonata Aromalı",
         "slug": "proteinocean-l-carnitine-150-gr-limonata-aromali",
         "brand": "Proteinocean",
-        "price": 648.0,
+        "price": 677.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a8c4c74b-0439-4d3e-ad80-f7cab8b3b7ef/image_1950.webp",
         "cats": [
@@ -51177,7 +51147,7 @@
         "name": "ProteinOcean L-Carnitine 150 gr Limonata Aromalı",
         "slug": "proteinocean-l-carnitine-150-gr-limonata-aromali",
         "brand": "Proteinocean",
-        "price": 648.0,
+        "price": 677.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a8c4c74b-0439-4d3e-ad80-f7cab8b3b7ef/image_1950.webp",
         "cats": [
@@ -51606,7 +51576,7 @@
         "slug": "zade-vital-curcumin-zerdecal-forte-daily-yumusak-kapsul-60-kapsul",
         "brand": "Zade Vital",
         "price": 1349.0,
-        "discount_price": 1191.0,
+        "discount_price": 675.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/393255e1-515c-40a9-956e-efa29a67992b/image_1950.webp",
         "cats": [
           "Zerdeçal",
@@ -51660,7 +51630,7 @@
         "slug": "zade-vital-curcumin-zerdecal-forte-daily-yumusak-kapsul-60-kapsul",
         "brand": "Zade Vital",
         "price": 1349.0,
-        "discount_price": 1191.0,
+        "discount_price": 675.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/393255e1-515c-40a9-956e-efa29a67992b/image_1950.webp",
         "cats": [
           "Zerdeçal",
@@ -52025,7 +51995,7 @@
         "slug": "ocean-resveratrol-kapsul-30-kapsul",
         "brand": "Orzax",
         "price": 1099.5,
-        "discount_price": 564.0,
+        "discount_price": 845.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9f86715c-ac52-41dd-9f35-3723a2c575f4/image_1950.webp",
         "cats": [
           "Resveratrol"
@@ -52248,8 +52218,8 @@
         "name": "New Life CoenzQH Yumuşak Jelatin Kapsül 30 Kapsül",
         "slug": "new-life-coenzqh-yumusak-jelatin-kapsul-30-kapsul",
         "brand": "New Life",
-        "price": 1179.0,
-        "discount_price": 1046.0,
+        "price": 1298.0,
+        "discount_price": 1240.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c4f697a-5380-45bd-aa50-26d064b5dc98/image_1950.webp",
         "cats": [
           "Koenzim Q10",
@@ -52511,7 +52481,7 @@
         "slug": "goodday-fonksiyonel-tip-gstexra-n-asetil-d-glikozamin-l-karnosin-30",
         "brand": "Goodday",
         "price": 1499.0,
-        "discount_price": 1103.0,
+        "discount_price": 1260.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0bc20291-75d8-4090-a76c-112ec0b8f467/image_1950.webp",
         "cats": [
           "L-Karnosin",
@@ -52792,7 +52762,7 @@
         "slug": "ocean-milk-thistle-30-kapsul",
         "brand": "Orzax",
         "price": 624.5,
-        "discount_price": 341.0,
+        "discount_price": 493.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/acdf7b8d-1c5c-4d11-be2e-a88a2b4a233d/image_1950.webp",
         "cats": [
           "Deve Dikeni (Milk Thistle)",
@@ -52903,7 +52873,7 @@
         "slug": "goodday-magnesium-plus-s-g-kapsul-magnezyum-ve-p5p-30-kapsul",
         "brand": "Goodday",
         "price": 579.0,
-        "discount_price": 310.0,
+        "discount_price": 320.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b0e6d822-9dad-4ad4-969d-086ccbdd3161/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -53160,7 +53130,7 @@
         "slug": "goodday-magnesium-plus-s-g-kapsul-magnezyum-ve-p5p-30-kapsul",
         "brand": "Goodday",
         "price": 579.0,
-        "discount_price": 310.0,
+        "discount_price": 320.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b0e6d822-9dad-4ad4-969d-086ccbdd3161/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -53262,8 +53232,8 @@
         "name": "GoodDay Minions Sıvı Takviye Arjinin Multivitamin Multimineral Fosfatidilserin 150 ml",
         "slug": "goodday-minions-sivi-arjinin-multivitamin-multimineral-150-ml",
         "brand": "Goodday",
-        "price": 916.0,
-        "discount_price": null,
+        "price": 899.0,
+        "discount_price": 655.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8117cda6-ad61-4d63-88b2-b552b800b7d2/image_1950.webp",
         "cats": [
           "Multivitamin",
@@ -53479,8 +53449,8 @@
         "name": "New Life CoenzQH Yumuşak Jelatin Kapsül 30 Kapsül",
         "slug": "new-life-coenzqh-yumusak-jelatin-kapsul-30-kapsul",
         "brand": "New Life",
-        "price": 1179.0,
-        "discount_price": 1046.0,
+        "price": 1298.0,
+        "discount_price": 1240.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c4f697a-5380-45bd-aa50-26d064b5dc98/image_1950.webp",
         "cats": [
           "Koenzim Q10",
@@ -53506,7 +53476,7 @@
         "slug": "ocean-koenzim-q10-200-mg-kapsul-30-kapsul",
         "brand": "Orzax",
         "price": 1124.5,
-        "discount_price": 577.0,
+        "discount_price": 721.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ab6582f4-57f7-4e18-a3dc-57e1d75eaa98/image_1950.webp",
         "cats": [
           "Koenzim Q10"
@@ -56107,7 +56077,7 @@
         "name": "Mustela Hydra Bebe Nemlendirici Yüz Kremi Bebekler İçin 40 ml",
         "slug": "mustela-hydra-bebe-nemlendirici-yuz-kremi-bebekler-icin-40-ml",
         "brand": "Mustela",
-        "price": 749.9,
+        "price": 822.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f56e86f-9f21-4837-9f88-2b31db3548be/image_1950.webp",
         "cats": [
@@ -56121,7 +56091,7 @@
         "name": "Mustela Hydra Bebe Yüz Kremi",
         "slug": "mustela-hydra-bebe-yuz-kremi",
         "brand": "Mustela",
-        "price": 749.9,
+        "price": 822.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1dbc737-5b62-4af4-b312-1b7a0adf21db/image_1950.webp",
         "cats": [
@@ -56329,8 +56299,8 @@
         "name": "New Life EFA Liquid Tutti Frutti Balık Yağı Sıvı Form 150ml Şişe",
         "slug": "new-life-efa-liquid-tutti-frutti-balik-yagi-sivi-form-150ml-sise",
         "brand": "New Life",
-        "price": 845.0,
-        "discount_price": null,
+        "price": 829.0,
+        "discount_price": 707.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/facd08d8-2eee-44cd-ae80-83dc68aa1e6c/image_1950.webp",
         "cats": [
           "Balık Yağı ve Omega",
@@ -56506,7 +56476,7 @@
         "slug": "probien-probiyotik-mikroorganizma-ve-prebiyotik-30-kapsul",
         "brand": "Probien",
         "price": 1050.0,
-        "discount_price": 772.0,
+        "discount_price": 784.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a19ae89a-9cd7-46da-a5e2-60c0a12ee448/image_1950.webp",
         "cats": [
           "Probiyotik ve Prebiyotik",
@@ -56631,7 +56601,7 @@
           "Krill Yağı",
           "Omega 3"
         ],
-        "stock": 12
+        "stock": 15
       },
       {
         "name": "Orzax Ocean Krill Yağı Omega 3 Fosfolipid 500 mg 30 Kapsül",
@@ -57354,7 +57324,7 @@
         "slug": "ocean-enzymes-pancron-60-kapsul",
         "brand": "Ocean",
         "price": 949.5,
-        "discount_price": 695.0,
+        "discount_price": 851.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/197280f6-b5f1-47c9-8226-a4f984eafa9c/image_1950.webp",
         "cats": [
           "Sindirim Enzimleri"
@@ -57761,7 +57731,7 @@
         "slug": "orzax-ocean-bromelain-complex-60-tablet",
         "brand": "Orzax",
         "price": 754.5,
-        "discount_price": 387.0,
+        "discount_price": 595.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/821c134b-ff67-455e-b5a0-744ff9f79ed6/image_1950.webp",
         "cats": [
           "Bromelain",
@@ -58949,7 +58919,7 @@
         "name": "Rocs Diş Macunu Teen Yaban Mersinli",
         "slug": "rocs-dis-macunu-teen-yaban-mersinli",
         "brand": "Rocs",
-        "price": 395.0,
+        "price": 440.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a44ffd34-ac5d-42c5-9bda-11908816634c/image_1950.webp",
         "cats": [
@@ -61104,9 +61074,9 @@
     ]
   },
   "stats": {
-    "total_products": 4245,
+    "total_products": 4243,
     "total_categories": 583,
-    "generated": "2026-10-23 08:30",
+    "generated": "2026-10-23 11:32",
     "source": "ikas_api_live"
   }
 }
