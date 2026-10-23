@@ -8083,7 +8083,7 @@
         "slug": "lapiden-krem-normal-ciltler-icin",
         "brand": "Lapiden",
         "price": 265.0,
-        "discount_price": null,
+        "discount_price": 261.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bea4992f-cc23-4019-9b7d-99bc143e76e8/image_1950.webp",
         "cats": [
           "Normal Cilt",
@@ -8758,7 +8758,7 @@
         "name": "Wee 905 Kulak Çubuğu 100'lü",
         "slug": "wee-905-kulak-cubugu-100-lu",
         "brand": "Wee",
-        "price": 179.0,
+        "price": 69.99,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4830c9f2-79bc-4566-81da-677bb4fe518c/image_1950.webp",
         "cats": [
@@ -10480,7 +10480,7 @@
         "name": "Dalin Klasik Bebek Şampuanı Göz Yakmayan 200 ml",
         "slug": "dalin-klasik-bebek-sampuani-goz-yakmayan-200-ml",
         "brand": "Dalin",
-        "price": 373.0,
+        "price": 99.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c892b5f3-480d-4b6a-8f06-918416c1ed2b/image_1950.webp",
         "cats": [
@@ -15538,7 +15538,7 @@
         "name": "Dentiste Seyahat Boyu Diş Macunu",
         "slug": "dentiste-seyahat-boyu-dis-macunu",
         "brand": "Dentiste",
-        "price": 549.0,
+        "price": 250.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a7864cda-0715-4f0f-a440-06cf928a8f7f/image_1950.webp",
         "cats": [
@@ -16067,8 +16067,8 @@
         "name": "Sensodyne Tam Koruma Hassasiyet Giderici Diş Macunu 75 ml",
         "slug": "sensodyne-tam-koruma-hassasiyet-giderici-dis-macunu-75-ml",
         "brand": "Sensodyne",
-        "price": 494.0,
-        "discount_price": null,
+        "price": 309.95,
+        "discount_price": 237.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ab81d350-34d6-4bd1-b596-3e30ab9b0654/image_1950.webp",
         "cats": [
           "Hassasiyet Giderici",
@@ -18544,20 +18544,6 @@
         "stock": 1
       },
       {
-        "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
-        "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
-        "brand": "Mustela",
-        "price": 1707.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Mustela Spf 50+ Çok Yüksek Korumalı Bebek Güneş Losyonu 40 ml",
         "slug": "mustela-spf-50-plus-cok-yuksek-korumali-bebek-gunes-losyonu-40-ml",
         "brand": "Mustela",
@@ -18605,8 +18591,8 @@
         "name": "Vichy Capital Soleil Yağlı Ciltler İçin Güneş Kremi Spf 50",
         "slug": "vichy-capital-soleil-yagli-ciltler-icin-gunes-kremi-spf-50",
         "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
+        "price": 1699.9,
+        "discount_price": 1225.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d62d72e6-7b35-4a49-87db-3dbc5a8b1279/image_1950.webp",
         "cats": [
           "Yağlı Ciltler İçin Güneş Kremi",
@@ -19483,7 +19469,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 13
+        "stock": 11
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -19496,7 +19482,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 13
+        "stock": 11
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -20413,8 +20399,8 @@
         "name": "Vichy Capital Soleil Yağlı Ciltler İçin Güneş Kremi Spf 50",
         "slug": "vichy-capital-soleil-yagli-ciltler-icin-gunes-kremi-spf-50",
         "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
+        "price": 1699.9,
+        "discount_price": 1225.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d62d72e6-7b35-4a49-87db-3dbc5a8b1279/image_1950.webp",
         "cats": [
           "Yağlı Ciltler İçin Güneş Kremi",
@@ -21271,8 +21257,8 @@
         "name": "Vichy Capital Soleil Yağlı Ciltler İçin Güneş Kremi Spf 50",
         "slug": "vichy-capital-soleil-yagli-ciltler-icin-gunes-kremi-spf-50",
         "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
+        "price": 1699.9,
+        "discount_price": 1225.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d62d72e6-7b35-4a49-87db-3dbc5a8b1279/image_1950.webp",
         "cats": [
           "Yağlı Ciltler İçin Güneş Kremi",
@@ -31592,7 +31578,7 @@
         "name": "Dalin Klasik Bebek Şampuanı Göz Yakmayan 200 ml",
         "slug": "dalin-klasik-bebek-sampuani-goz-yakmayan-200-ml",
         "brand": "Dalin",
-        "price": 373.0,
+        "price": 99.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c892b5f3-480d-4b6a-8f06-918416c1ed2b/image_1950.webp",
         "cats": [
@@ -31724,7 +31710,7 @@
         "name": "Dalin Klasik Bebek Şampuanı Göz Yakmayan 200 ml",
         "slug": "dalin-klasik-bebek-sampuani-goz-yakmayan-200-ml",
         "brand": "Dalin",
-        "price": 373.0,
+        "price": 99.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c892b5f3-480d-4b6a-8f06-918416c1ed2b/image_1950.webp",
         "cats": [
@@ -31817,7 +31803,7 @@
         "name": "Dalin Klasik Bebek Şampuanı Göz Yakmayan 200 ml",
         "slug": "dalin-klasik-bebek-sampuani-goz-yakmayan-200-ml",
         "brand": "Dalin",
-        "price": 373.0,
+        "price": 99.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c892b5f3-480d-4b6a-8f06-918416c1ed2b/image_1950.webp",
         "cats": [
@@ -33391,7 +33377,7 @@
         "name": "Nivea Lip Black Berry Böğürtlen Aromalı Dudak Bakım Kremi 4.8 gr",
         "slug": "nivea-lip-black-berry-bogurtlen-aromali-dudak-bakim-kremi-4-8-gr",
         "brand": "Nivea",
-        "price": 293.0,
+        "price": 186.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c95957f6-b6f1-4e7b-b0e2-836b14c8dfa2/image_1950.webp",
         "cats": [
@@ -33456,7 +33442,7 @@
         "name": "Nivea Lip Black Berry Böğürtlen Aromalı Dudak Bakım Kremi 4.8 gr",
         "slug": "nivea-lip-black-berry-bogurtlen-aromali-dudak-bakim-kremi-4-8-gr",
         "brand": "Nivea",
-        "price": 293.0,
+        "price": 186.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c95957f6-b6f1-4e7b-b0e2-836b14c8dfa2/image_1950.webp",
         "cats": [
@@ -36825,20 +36811,6 @@
         "stock": 1
       },
       {
-        "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
-        "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
-        "brand": "Mustela",
-        "price": 1707.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Mustela Güneş Losyonu Spf 50 Bebek ve Çocuklar İçin 200 ml",
         "slug": "mustela-gunes-losyonu-spf-50-bebek-ve-cocuklar-icin-200-ml",
         "brand": "Mustela",
@@ -36920,20 +36892,6 @@
           "Çocuk ve Bebek Güneş Koruma"
         ],
         "stock": 1
-      },
-      {
-        "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
-        "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
-        "brand": "Mustela",
-        "price": 1707.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bb26a79f-996c-4e80-93d8-ce4b401c3775/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Güneş Losyonu",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 2
       },
       {
         "name": "Mustela Güneş Losyonu Spf 50 Bebek ve Çocuklar İçin 200 ml",
@@ -38484,7 +38442,7 @@
         "name": "Otifleks Poliüretan Kulak Tıkacı 2'li",
         "slug": "otifleks-poliuretan-kulak-tikaci-2-li",
         "brand": "Otifleks",
-        "price": 266.0,
+        "price": 158.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49f4045b-56b1-42b2-a71c-eb36914caeaa/image_1950.webp",
         "cats": [
@@ -39018,7 +38976,7 @@
         "slug": "lapiden-krem-normal-ciltler-icin",
         "brand": "Lapiden",
         "price": 265.0,
-        "discount_price": null,
+        "discount_price": 261.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bea4992f-cc23-4019-9b7d-99bc143e76e8/image_1950.webp",
         "cats": [
           "Normal Cilt",
@@ -42445,22 +42403,6 @@
       },
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42471,6 +42413,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42644,22 +42602,6 @@
     "Retinol Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42670,6 +42612,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42725,22 +42683,6 @@
     "Retinol İçeren Ürünler": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42751,6 +42693,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42834,22 +42792,6 @@
     "Anti-Aging Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42860,6 +42802,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42964,22 +42922,6 @@
     "Retinol": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42990,6 +42932,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -45331,8 +45289,8 @@
         "name": "Sensodyne Tam Koruma Hassasiyet Giderici Diş Macunu 75 ml",
         "slug": "sensodyne-tam-koruma-hassasiyet-giderici-dis-macunu-75-ml",
         "brand": "Sensodyne",
-        "price": 494.0,
-        "discount_price": null,
+        "price": 309.95,
+        "discount_price": 237.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ab81d350-34d6-4bd1-b596-3e30ab9b0654/image_1950.webp",
         "cats": [
           "Hassasiyet Giderici",
@@ -45452,7 +45410,7 @@
         "cats": [
           "Kolajen Takviyeleri"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Day2Day The Collagen Beauty Core",
@@ -46618,7 +46576,7 @@
         "name": "Dalin Klasik Bebek Şampuanı Göz Yakmayan 200 ml",
         "slug": "dalin-klasik-bebek-sampuani-goz-yakmayan-200-ml",
         "brand": "Dalin",
-        "price": 373.0,
+        "price": 99.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c892b5f3-480d-4b6a-8f06-918416c1ed2b/image_1950.webp",
         "cats": [
@@ -47328,7 +47286,7 @@
         "name": "Dentiste Seyahat Boyu Diş Macunu",
         "slug": "dentiste-seyahat-boyu-dis-macunu",
         "brand": "Dentiste",
-        "price": 549.0,
+        "price": 250.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a7864cda-0715-4f0f-a440-06cf928a8f7f/image_1950.webp",
         "cats": [
@@ -54505,7 +54463,7 @@
         "name": "Otifleks Poliüretan Kulak Tıkacı 2'li",
         "slug": "otifleks-poliuretan-kulak-tikaci-2-li",
         "brand": "Otifleks",
-        "price": 266.0,
+        "price": 158.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49f4045b-56b1-42b2-a71c-eb36914caeaa/image_1950.webp",
         "cats": [
@@ -54519,7 +54477,7 @@
         "name": "Otifleks Poliüretan Kulak Tıkacı 2'li",
         "slug": "otifleks-poliuretan-kulak-tikaci-2-li",
         "brand": "Otifleks",
-        "price": 266.0,
+        "price": 158.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/49f4045b-56b1-42b2-a71c-eb36914caeaa/image_1950.webp",
         "cats": [
@@ -60272,8 +60230,8 @@
         "name": "Vichy Capital Soleil Yağlı Ciltler İçin Güneş Kremi Spf 50",
         "slug": "vichy-capital-soleil-yagli-ciltler-icin-gunes-kremi-spf-50",
         "brand": "Vichy",
-        "price": 1222.0,
-        "discount_price": null,
+        "price": 1699.9,
+        "discount_price": 1225.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d62d72e6-7b35-4a49-87db-3dbc5a8b1279/image_1950.webp",
         "cats": [
           "Yağlı Ciltler İçin Güneş Kremi",
@@ -60382,7 +60340,7 @@
         "name": "Wee 905 Kulak Çubuğu 100'lü",
         "slug": "wee-905-kulak-cubugu-100-lu",
         "brand": "Wee",
-        "price": 179.0,
+        "price": 69.99,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4830c9f2-79bc-4566-81da-677bb4fe518c/image_1950.webp",
         "cats": [
@@ -61074,9 +61032,9 @@
     ]
   },
   "stats": {
-    "total_products": 4243,
+    "total_products": 4240,
     "total_categories": 583,
-    "generated": "2026-10-23 11:32",
+    "generated": "2026-10-23 15:00",
     "source": "ikas_api_live"
   }
 }
