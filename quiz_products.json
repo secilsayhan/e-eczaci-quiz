@@ -24488,7 +24488,7 @@
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "GoodDay Magnesium Plus Mag GT Tablet (Magnezyum L-Treonat ve Bisglisinat) 30 Tablet",
@@ -40620,7 +40620,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutrafarm Medohbiotin 5 mg Tablet Biotin Takviyesi 60 Tablet",
@@ -45538,7 +45538,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -50701,7 +50701,7 @@
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -52782,7 +52782,7 @@
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "GoodDay Magnesium Plus Mag GT Tablet (Magnezyum L-Treonat ve Bisglisinat) 30 Tablet",
@@ -52911,7 +52911,7 @@
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Malat Saşe 30 Saşe",
@@ -54640,7 +54640,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitamin B12 Sprey 15 ml",
@@ -61034,7 +61034,7 @@
   "stats": {
     "total_products": 4240,
     "total_categories": 583,
-    "generated": "2026-10-23 19:00",
+    "generated": "2026-10-24 08:07",
     "source": "ikas_api_live"
   }
 }
