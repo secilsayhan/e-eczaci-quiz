@@ -17967,7 +17967,7 @@
           "Koruyucu ve Bariyer Kremler",
           "Bariyer Krem"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Med-Cover Bariyer Krem Cilt Koruyucu 120 gr",
@@ -17981,7 +17981,7 @@
           "Koruyucu ve Bariyer Kremler",
           "Bariyer Krem"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Oksizinc Krem %40 Yoğun Çinko Oksit Krem 40 gr",
@@ -55465,7 +55465,7 @@
           "Koruyucu ve Bariyer Kremler",
           "Bariyer Krem"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Topicure Krem %25 Çinko Oksit 100 ml",
@@ -61034,7 +61034,7 @@
   "stats": {
     "total_products": 4240,
     "total_categories": 583,
-    "generated": "2026-10-24 08:07",
+    "generated": "2026-10-24 11:06",
     "source": "ikas_api_live"
   }
 }
