@@ -11232,7 +11232,7 @@
           "B5 Vitamini (Pantotenik Asit)",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 7
+        "stock": 5
       },
       {
         "name": "Ocean Metil B12 Dilaltı Sprey 500 mcg",
@@ -15702,7 +15702,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -24804,7 +24804,7 @@
         "cats": [
           "Magnezyum"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -26613,7 +26613,7 @@
         "cats": [
           "D Vitamini"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "Orzax Ocean D3K2 Damla 2'li Avantaj Paketi",
@@ -41008,7 +41008,7 @@
           "Tip 1 ve 3 Kolajen",
           "Tablet Kolajen"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Tablet Kolajen": [
@@ -41053,7 +41053,7 @@
           "Tip 1 ve 3 Kolajen",
           "Tablet Kolajen"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Astaksantin": [
@@ -41182,7 +41182,7 @@
           "B5 Vitamini (Pantotenik Asit)",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 7
+        "stock": 5
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -45357,7 +45357,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Parodontax Diş Macunu Ferah Tam Koruma 75 ml",
@@ -46623,7 +46623,7 @@
           "Tip 1 ve 3 Kolajen",
           "Tablet Kolajen"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Toz Kolajen": [
@@ -56806,7 +56806,7 @@
           "B5 Vitamini (Pantotenik Asit)",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 7
+        "stock": 5
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -57280,7 +57280,7 @@
           "B5 Vitamini (Pantotenik Asit)",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 7
+        "stock": 5
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -57327,7 +57327,7 @@
           "B5 Vitamini (Pantotenik Asit)",
           "B3 Vitamini (Niasin)"
         ],
-        "stock": 7
+        "stock": 5
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -61006,7 +61006,7 @@
   "stats": {
     "total_products": 4238,
     "total_categories": 582,
-    "generated": "2026-10-25 15:08",
+    "generated": "2026-10-25 19:38",
     "source": "ikas_api_live"
   }
 }
