@@ -27328,20 +27328,6 @@
         "stock": 1
       },
       {
-        "name": "Vichy Liftactiv B3 Retinol Gece Kremi Leke ve Kırışıklık Karşıtı 50 ml",
-        "slug": "vichy-liftactiv-b3-retinol-gece-kremi-leke-ve-kirisiklik-karsiti-50-ml",
-        "brand": "Vichy",
-        "price": 3849.9,
-        "discount_price": 1998.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18bc5c2a-4431-4e40-9327-0c980b38cebf/image_1950.webp",
-        "cats": [
-          "Gece Kremi",
-          "Retinol İçeren Ürünler",
-          "Retinol"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vichy Liftactiv Collagen Specialist Gece Kremi 50 ml",
         "slug": "vichy-liftactiv-collagen-specialist-gece-kremi-50-ml",
         "brand": "Vichy",
@@ -42816,20 +42802,6 @@
         "stock": 5
       },
       {
-        "name": "Vichy Liftactiv B3 Retinol Gece Kremi Leke ve Kırışıklık Karşıtı 50 ml",
-        "slug": "vichy-liftactiv-b3-retinol-gece-kremi-leke-ve-kirisiklik-karsiti-50-ml",
-        "brand": "Vichy",
-        "price": 3849.9,
-        "discount_price": 1998.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18bc5c2a-4431-4e40-9327-0c980b38cebf/image_1950.webp",
-        "cats": [
-          "Gece Kremi",
-          "Retinol İçeren Ürünler",
-          "Retinol"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Vichy Liftactiv Retinol Serum",
         "slug": "vichy-liftactiv-retinol-serum",
         "brand": "Vichy",
@@ -43037,20 +43009,6 @@
           "Retinol"
         ],
         "stock": 5
-      },
-      {
-        "name": "Vichy Liftactiv B3 Retinol Gece Kremi Leke ve Kırışıklık Karşıtı 50 ml",
-        "slug": "vichy-liftactiv-b3-retinol-gece-kremi-leke-ve-kirisiklik-karsiti-50-ml",
-        "brand": "Vichy",
-        "price": 3849.9,
-        "discount_price": 1998.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18bc5c2a-4431-4e40-9327-0c980b38cebf/image_1950.webp",
-        "cats": [
-          "Gece Kremi",
-          "Retinol İçeren Ürünler",
-          "Retinol"
-        ],
-        "stock": 1
       },
       {
         "name": "Vichy Liftactiv Retinol Serum",
@@ -61086,9 +61044,9 @@
     ]
   },
   "stats": {
-    "total_products": 4244,
+    "total_products": 4241,
     "total_categories": 583,
-    "generated": "2026-10-25 07:01",
+    "generated": "2026-10-25 11:05",
     "source": "ikas_api_live"
   }
 }
