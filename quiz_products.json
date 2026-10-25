@@ -9254,19 +9254,6 @@
         "stock": 9
       },
       {
-        "name": "Solgar Advanced 40+ Acidophilus Probiyotik Mikroorganizma Takviyesi 60 Kapsül",
-        "slug": "solgar-advanced-40-plus-acidophilus-probiyotik-mikroorganizma-60",
-        "brand": "Solgar",
-        "price": 1429.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9b06386-e532-4da1-867c-0774d5655370/image_1950.webp",
-        "cats": [
-          "Sindirim Probiyotikleri",
-          "Probiyotik ve Prebiyotik"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Solgar Advanced Acidophilus Plus 60 Kapsül",
         "slug": "solgar-advanced-acidophilus-plus-60-kapsul",
         "brand": "Solgar",
@@ -12630,7 +12617,7 @@
           "Kadın Multivitamin",
           "Glutatyon"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Proxeed Plus Saşe Karnitin Vitamin Mineral Takviyesi 30 Saşe",
@@ -19481,7 +19468,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -19494,7 +19481,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -25523,19 +25510,6 @@
           "Bebek Sütü (0-6 Ay)"
         ],
         "stock": 1
-      },
-      {
-        "name": "Solgar Advanced 40+ Acidophilus Probiyotik Mikroorganizma Takviyesi 60 Kapsül",
-        "slug": "solgar-advanced-40-plus-acidophilus-probiyotik-mikroorganizma-60",
-        "brand": "Solgar",
-        "price": 1429.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9b06386-e532-4da1-867c-0774d5655370/image_1950.webp",
-        "cats": [
-          "Sindirim Probiyotikleri",
-          "Probiyotik ve Prebiyotik"
-        ],
-        "stock": 2
       },
       {
         "name": "Trubiotic Duo Oral Damla, Probiyotik 8ml",
@@ -42458,6 +42432,22 @@
       },
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42468,22 +42458,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42643,6 +42617,22 @@
     "Retinol Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42653,22 +42643,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42724,6 +42698,22 @@
     "Retinol İçeren Ürünler": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42734,22 +42724,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42819,6 +42793,22 @@
     "Anti-Aging Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42829,22 +42819,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42949,6 +42923,22 @@
     "Retinol": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42959,22 +42949,6 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -45835,20 +45809,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8ffc23f3-0e0d-4e4a-9759-66c9593b9008/image_1950.webp",
         "cats": [
           "Şeker Ölçüm Aksesuarları"
-        ],
-        "stock": 3
-      }
-    ],
-    "Prezervatif Sonda": [
-      {
-        "name": "Conveen Large Prezervatif Sonda 30 mm",
-        "slug": "conveen-large-prezervatif-sonda-30-mm",
-        "brand": "Conveen",
-        "price": 51.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/78023319-7efc-4ce6-b8d8-b39e113c95e5/image_1950.webp",
-        "cats": [
-          "Prezervatif Sonda"
         ],
         "stock": 3
       }
@@ -50412,7 +50372,7 @@
           "Kadın Multivitamin",
           "Glutatyon"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Prowomen Kadın Multivitamin ve Mineral Takviye 30 Saşe",
@@ -51697,7 +51657,7 @@
           "Kadın Multivitamin",
           "Glutatyon"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Profolmix Women Saşe Myo-İnositol L-Arjinin Vitamin C Koenzim Q10 Folik Asit Takviyesi 30 Saşe",
@@ -52563,7 +52523,7 @@
           "Kadın Multivitamin",
           "Glutatyon"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Profolmix Women Saşe Myo-İnositol L-Arjinin Vitamin C Koenzim Q10 Folik Asit Takviyesi 30 Saşe",
@@ -53514,7 +53474,7 @@
           "Kadın Multivitamin",
           "Glutatyon"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -54766,7 +54726,7 @@
           "Kadın Multivitamin",
           "Glutatyon"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Reduced L-Glutathione 250 mg 30 Kapsül",
@@ -57844,7 +57804,7 @@
           "Kadın Multivitamin",
           "Glutatyon"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Lansmana Özel": [
@@ -61044,9 +61004,9 @@
     ]
   },
   "stats": {
-    "total_products": 4241,
-    "total_categories": 583,
-    "generated": "2026-10-25 11:05",
+    "total_products": 4238,
+    "total_categories": 582,
+    "generated": "2026-10-25 15:08",
     "source": "ikas_api_live"
   }
 }
