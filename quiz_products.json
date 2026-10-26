@@ -4739,7 +4739,7 @@
           "Vitamin ve Takviye",
           "Vitaminler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Ocean Efervit C Vitamini 20 Efervesan Tablet 2'li Kampanya Paketi",
@@ -12600,24 +12600,6 @@
           "Ginseng"
         ],
         "stock": 7
-      },
-      {
-        "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
-        "slug": "proceive-f-sase-inositol-koenzim-q10-glutatyon-vitamin-mineral-30-sase",
-        "brand": "Orzax",
-        "price": 2340.0,
-        "discount_price": 1952.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Multivitamin",
-          "İnositol",
-          "İnositol (Myo & D-Chiro)",
-          "Hormonal Denge",
-          "Kadın Multivitamin",
-          "Glutatyon"
-        ],
-        "stock": 1
       },
       {
         "name": "Proxeed Plus Saşe Karnitin Vitamin Mineral Takviyesi 30 Saşe",
@@ -21527,7 +21509,7 @@
         "cats": [
           "Temizleme Jeli"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "La Roche Posay Effaclar Mikro Peeling Jel Yüz ve Vücut",
@@ -23047,7 +23029,7 @@
           "Bakım Kremi",
           "Bakım Kremi"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "La Roche Posay Effaclar Duo+ M 40 ml Kampanyalı Fiyat",
@@ -23060,7 +23042,7 @@
           "Bakım Kremi",
           "Bakım Kremi"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "La Roche Posay Effaclar Duo+ M Akne ve Sivilce Kremi 40 ml",
@@ -31076,7 +31058,7 @@
           "Sarımsaklı",
           "Dökülme Karşıtı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Tto Dökülme Karşiti Şampuan 250 ML",
@@ -39125,7 +39107,7 @@
           "Sarımsaklı",
           "Dökülme Karşıtı"
         ],
-        "stock": 5
+        "stock": 4
       }
     ],
     "Bugüne Özel": [
@@ -40077,7 +40059,7 @@
           "Vitamin ve Takviye",
           "Vitaminler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Ocean Efervit C Vitamini 20 Efervesan Tablet 2'li Kampanya Paketi",
@@ -50326,7 +50308,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
         "cats": [
           "Koenzim Q10",
-          "Multivitamin",
           "İnositol",
           "İnositol (Myo & D-Chiro)",
           "Hormonal Denge",
@@ -51611,7 +51592,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
         "cats": [
           "Koenzim Q10",
-          "Multivitamin",
           "İnositol",
           "İnositol (Myo & D-Chiro)",
           "Hormonal Denge",
@@ -52477,7 +52457,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
         "cats": [
           "Koenzim Q10",
-          "Multivitamin",
           "İnositol",
           "İnositol (Myo & D-Chiro)",
           "Hormonal Denge",
@@ -53428,7 +53407,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
         "cats": [
           "Koenzim Q10",
-          "Multivitamin",
           "İnositol",
           "İnositol (Myo & D-Chiro)",
           "Hormonal Denge",
@@ -54625,7 +54603,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
         "cats": [
           "Koenzim Q10",
-          "Multivitamin",
           "İnositol",
           "İnositol (Myo & D-Chiro)",
           "Hormonal Denge",
@@ -57745,7 +57722,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
         "cats": [
           "Koenzim Q10",
-          "Multivitamin",
           "İnositol",
           "İnositol (Myo & D-Chiro)",
           "Hormonal Denge",
@@ -60952,9 +60928,9 @@
     ]
   },
   "stats": {
-    "total_products": 4234,
+    "total_products": 4233,
     "total_categories": 582,
-    "generated": "2026-10-26 15:02",
+    "generated": "2026-10-26 20:01",
     "source": "ikas_api_live"
   }
 }
