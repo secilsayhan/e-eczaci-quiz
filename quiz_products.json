@@ -40430,19 +40430,6 @@
           "Burun Spreyi"
         ],
         "stock": 3
-      },
-      {
-        "name": "Imumax Burun Spreyi Burun Tıkanıklığı İçin 15 ml",
-        "slug": "imumax-burun-spreyi-burun-tikanikligi-icin-15-ml",
-        "brand": "İmuneks",
-        "price": 528.0,
-        "discount_price": 409.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5004cf8-8a66-4875-8722-e9f874c5c898/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Spreyi"
-        ],
-        "stock": 3
       }
     ],
     "Sıcak Su Torbası": [
@@ -53980,61 +53967,6 @@
         "stock": 5
       }
     ],
-    "Burun ve Sinüs Sağlığı": [
-      {
-        "name": "Imumax Burun Spreyi Burun Tıkanıklığı İçin 15 ml",
-        "slug": "imumax-burun-spreyi-burun-tikanikligi-icin-15-ml",
-        "brand": "İmuneks",
-        "price": 528.0,
-        "discount_price": 409.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5004cf8-8a66-4875-8722-e9f874c5c898/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Spreyi"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Nose Clip Burun Aparatı Horlama Önleyici",
-        "slug": "nose-clip-burun-aparati-horlama-onleyici",
-        "brand": "",
-        "price": 124.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f21aab40-888a-48e4-bc62-d54bb0cacbaa/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Aparatı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Wee Burun Aspiratör Klasik 860",
-        "slug": "wee-burun-aspirator-klasik-860",
-        "brand": "Wee",
-        "price": 223.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1919a519-5e97-4268-be87-dd92a4127fe0/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Burun Bakımı",
-          "Burun Aspiratörü"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Zade Vital Nigefix Nazal Sprey 15 ml",
-        "slug": "zade-vital-nigefix-nazal-sprey-15-ml",
-        "brand": "Zade Vital",
-        "price": 479.0,
-        "discount_price": 240.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67ad77cf-7dab-4310-99eb-583f0fe4298f/image_1950.webp",
-        "cats": [
-          "Burun ve Sinüs Sağlığı",
-          "Medikal Ürünler"
-        ],
-        "stock": 1
-      }
-    ],
     "Bebek Güneş Ürünleri": [
       {
         "name": "Incia Bebek Güneş Kremi Mineral Filtreli SPF50 50 ml",
@@ -56881,6 +56813,48 @@
           "Nemlendirici Kremler"
         ],
         "stock": 3
+      }
+    ],
+    "Burun ve Sinüs Sağlığı": [
+      {
+        "name": "Nose Clip Burun Aparatı Horlama Önleyici",
+        "slug": "nose-clip-burun-aparati-horlama-onleyici",
+        "brand": "",
+        "price": 124.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f21aab40-888a-48e4-bc62-d54bb0cacbaa/image_1950.webp",
+        "cats": [
+          "Burun ve Sinüs Sağlığı",
+          "Burun Aparatı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Wee Burun Aspiratör Klasik 860",
+        "slug": "wee-burun-aspirator-klasik-860",
+        "brand": "Wee",
+        "price": 223.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1919a519-5e97-4268-be87-dd92a4127fe0/image_1950.webp",
+        "cats": [
+          "Burun ve Sinüs Sağlığı",
+          "Burun Bakımı",
+          "Burun Aspiratörü"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Zade Vital Nigefix Nazal Sprey 15 ml",
+        "slug": "zade-vital-nigefix-nazal-sprey-15-ml",
+        "brand": "Zade Vital",
+        "price": 479.0,
+        "discount_price": 240.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/67ad77cf-7dab-4310-99eb-583f0fe4298f/image_1950.webp",
+        "cats": [
+          "Burun ve Sinüs Sağlığı",
+          "Medikal Ürünler"
+        ],
+        "stock": 1
       }
     ],
     "Burun Aparatı": [
@@ -60978,9 +60952,9 @@
     ]
   },
   "stats": {
-    "total_products": 4236,
+    "total_products": 4234,
     "total_categories": 582,
-    "generated": "2026-10-26 11:17",
+    "generated": "2026-10-26 15:02",
     "source": "ikas_api_live"
   }
 }
