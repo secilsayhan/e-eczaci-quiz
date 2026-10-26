@@ -15482,19 +15482,6 @@
         "stock": 3
       },
       {
-        "name": "Colgate Hassasiyete Anında Çözüm Onarım ve Hassas Beyazlık Diş Macunu 75 ml",
-        "slug": "colgate-hassasiyete-cozum-onarim-hassas-beyazlik-dis-macunu-75-ml",
-        "brand": "Colgate",
-        "price": 212.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/949902ca-5605-4614-a19d-cf5781c9ca4e/image_1950.webp",
-        "cats": [
-          "Hassasiyet Giderici",
-          "Diş Macunu"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Dentiste Seyahat Boyu Diş Macunu",
         "slug": "dentiste-seyahat-boyu-dis-macunu",
         "brand": "Dentiste",
@@ -19468,7 +19455,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -19481,7 +19468,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -25378,7 +25365,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 29
+        "stock": 28
       },
       {
         "name": "NBL Probiotic ATP 20 Saşe",
@@ -45230,19 +45217,6 @@
         "stock": 3
       },
       {
-        "name": "Colgate Hassasiyete Anında Çözüm Onarım ve Hassas Beyazlık Diş Macunu 75 ml",
-        "slug": "colgate-hassasiyete-cozum-onarim-hassas-beyazlik-dis-macunu-75-ml",
-        "brand": "Colgate",
-        "price": 212.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/949902ca-5605-4614-a19d-cf5781c9ca4e/image_1950.webp",
-        "cats": [
-          "Hassasiyet Giderici",
-          "Diş Macunu"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Meridol Diş Macunu Parodont Expert 75 ml",
         "slug": "meridol-dis-macunu-parodont-expert-75-ml",
         "brand": "Meridol",
@@ -48892,7 +48866,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 29
+        "stock": 28
       },
       {
         "name": "Vimesa Kapsül 30 Kapsül",
@@ -48937,7 +48911,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 29
+        "stock": 28
       }
     ],
     "Yağ Asitleri": [
@@ -53263,7 +53237,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 29
+        "stock": 28
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -54201,7 +54175,7 @@
           "Kulak Temizleyici",
           "Kulak Kiri Yumuşatıcı"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Kulak Bakımı": [
@@ -59404,7 +59378,7 @@
           "Kulak Temizleyici",
           "Kulak Kiri Yumuşatıcı"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Sigara Filtresi ve Ağızlık": [
@@ -61004,9 +60978,9 @@
     ]
   },
   "stats": {
-    "total_products": 4238,
+    "total_products": 4236,
     "total_categories": 582,
-    "generated": "2026-10-26 08:17",
+    "generated": "2026-10-26 11:17",
     "source": "ikas_api_live"
   }
 }
