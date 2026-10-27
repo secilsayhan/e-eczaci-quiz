@@ -4938,7 +4938,7 @@
           "Vitamin ve Takviye",
           "Ginseng"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Passiflora Kapsül 30 Kapsül",
@@ -5107,7 +5107,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Papivir Kuersetin ve Bitkisel Ekstreler 60 Tablet",
@@ -13705,7 +13705,7 @@
           "C Vitamini",
           "Erkek Multivitamin"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Ocean Efervit C Vitamini 20 Efervesan Tablet 2'li Kampanya Paketi",
@@ -40874,21 +40874,6 @@
         "stock": 12
       },
       {
-        "name": "Day2Day The Collagen All Body Takviye Edici Gıda 450 gr",
-        "slug": "day2day-the-collagen-all-body-takviye-edici-gida-450-gr",
-        "brand": "Day2Day",
-        "price": 1195.0,
-        "discount_price": 908.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/55979d20-be54-4477-b1cc-ee527f585295/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Toz Kolajen",
-          "Tip 2 Kolajen"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
         "slug": "day2day-the-collagen-beauty-gummies-cignenebilir-kollajen-60-adet",
         "brand": "Day2Day",
@@ -42414,22 +42399,6 @@
       },
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42440,6 +42409,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42599,22 +42584,6 @@
     "Retinol Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42625,6 +42594,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42680,22 +42665,6 @@
     "Retinol İçeren Ürünler": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42706,6 +42675,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42775,22 +42760,6 @@
     "Anti-Aging Serum": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42801,6 +42770,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -42905,22 +42890,6 @@
     "Retinol": [
       {
         "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 2355.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-retinol-serum-30-ml",
         "brand": "CeraVe",
         "price": 1999.9,
@@ -42931,6 +42900,22 @@
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
+          "Seramid İçeren Ürünler",
+          "Anti-Aging Serum",
+          "Retinol"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "CeraVe Retinol Serum 30 ml",
+        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
+        "brand": "CeraVe",
+        "price": 2355.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
+        "cats": [
+          "Retinol Serum",
+          "Retinol İçeren Ürünler",
           "Seramid İçeren Ürünler",
           "Anti-Aging Serum",
           "Retinol"
@@ -45635,7 +45620,7 @@
           "Vitamin ve Takviye",
           "Ginseng"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Pharmaton Vitality Ginseng İçeren Multivitamin 30 Tablet",
@@ -45734,21 +45719,6 @@
         "discount_price": 1898.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/47c7f968-ebbe-453e-9906-c90ac01c8512/image_1950.webp",
         "cats": [
-          "Tip 2 Kolajen"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Day2Day The Collagen All Body Takviye Edici Gıda 450 gr",
-        "slug": "day2day-the-collagen-all-body-takviye-edici-gida-450-gr",
-        "brand": "Day2Day",
-        "price": 1195.0,
-        "discount_price": 908.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/55979d20-be54-4477-b1cc-ee527f585295/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Toz Kolajen",
           "Tip 2 Kolajen"
         ],
         "stock": 1
@@ -46547,119 +46517,6 @@
         "stock": 2
       }
     ],
-    "Multi Tip Kolajen": [
-      {
-        "name": "Day2Day The Collagen All Body Takviye Edici Gıda 450 gr",
-        "slug": "day2day-the-collagen-all-body-takviye-edici-gida-450-gr",
-        "brand": "Day2Day",
-        "price": 1195.0,
-        "discount_price": 908.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/55979d20-be54-4477-b1cc-ee527f585295/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Toz Kolajen",
-          "Tip 2 Kolajen"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Day2day The Collagen Multi Toz",
-        "slug": "day2day-the-collagen-multi-toz",
-        "brand": "Day2Day",
-        "price": 2359.59,
-        "discount_price": 1896.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5738c6ba-bdf0-4051-8126-27060149f9ce/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Kolajen Takviyeleri",
-          "Vitamin ve Takviye",
-          "Toz Kolajen",
-          "Hyalüronik Asit İçeren Ürünler",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "Nutraxin Beauty Collagen Complex 5 Tip Kolajen 90 Tablet",
-        "slug": "nutraxin-beauty-collagen-complex-5-tip-kolajen-90-tablet",
-        "brand": "Nutraxin",
-        "price": 1199.99,
-        "discount_price": 667.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/40f9195d-0557-454f-a2d3-0c75cd109478/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Tablet Kolajen"
-        ],
-        "stock": 1
-      }
-    ],
-    "Toz Kolajen": [
-      {
-        "name": "Day2Day The Collagen All Body Takviye Edici Gıda 450 gr",
-        "slug": "day2day-the-collagen-all-body-takviye-edici-gida-450-gr",
-        "brand": "Day2Day",
-        "price": 1195.0,
-        "discount_price": 908.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/55979d20-be54-4477-b1cc-ee527f585295/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Toz Kolajen",
-          "Tip 2 Kolajen"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
-        "slug": "day2day-the-collagen-beauty-intense-kollajen-sase-30-poset",
-        "brand": "Day2Day",
-        "price": 2594.5,
-        "discount_price": 1393.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cad0611d-8e67-41fe-8764-04c2d4faf74c/image_1950.webp",
-        "cats": [
-          "Tip 1 ve 3 Kolajen",
-          "Toz Kolajen",
-          "Hidrolize Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Day2day The Collagen Mag Plus Magnezyumlu Kolajen 30 Poşet",
-        "slug": "day2day-the-collagen-mag-plus-magnezyumlu-kolajen-30-poset",
-        "brand": "Day2Day",
-        "price": 2594.5,
-        "discount_price": 1607.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30f49810-4513-4c84-8f5c-7ae6e1a18620/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Tip 1 ve 3 Kolajen",
-          "Toz Kolajen",
-          "Hidrolize Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Day2day The Collagen Multi Toz",
-        "slug": "day2day-the-collagen-multi-toz",
-        "brand": "Day2Day",
-        "price": 2359.59,
-        "discount_price": 1896.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5738c6ba-bdf0-4051-8126-27060149f9ce/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Kolajen Takviyeleri",
-          "Vitamin ve Takviye",
-          "Toz Kolajen",
-          "Hyalüronik Asit İçeren Ürünler",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 12
-      }
-    ],
     "Çiğnenebilir Kolajen": [
       {
         "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
@@ -46771,6 +46628,56 @@
         "stock": 1
       }
     ],
+    "Toz Kolajen": [
+      {
+        "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
+        "slug": "day2day-the-collagen-beauty-intense-kollajen-sase-30-poset",
+        "brand": "Day2Day",
+        "price": 2594.5,
+        "discount_price": 1393.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cad0611d-8e67-41fe-8764-04c2d4faf74c/image_1950.webp",
+        "cats": [
+          "Tip 1 ve 3 Kolajen",
+          "Toz Kolajen",
+          "Hidrolize Kolajen",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Day2day The Collagen Mag Plus Magnezyumlu Kolajen 30 Poşet",
+        "slug": "day2day-the-collagen-mag-plus-magnezyumlu-kolajen-30-poset",
+        "brand": "Day2Day",
+        "price": 2594.5,
+        "discount_price": 1607.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30f49810-4513-4c84-8f5c-7ae6e1a18620/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Tip 1 ve 3 Kolajen",
+          "Toz Kolajen",
+          "Hidrolize Kolajen",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Day2day The Collagen Multi Toz",
+        "slug": "day2day-the-collagen-multi-toz",
+        "brand": "Day2Day",
+        "price": 2359.59,
+        "discount_price": 1896.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5738c6ba-bdf0-4051-8126-27060149f9ce/image_1950.webp",
+        "cats": [
+          "Multi Tip Kolajen",
+          "Kolajen Takviyeleri",
+          "Vitamin ve Takviye",
+          "Toz Kolajen",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 12
+      }
+    ],
     "Sıvı Kolajen": [
       {
         "name": "Day2day The Collagen Beauty Plus Sıvı Kolajen 30 Tüp",
@@ -46786,6 +46693,39 @@
           "Kolajen İçeren Ürünler"
         ],
         "stock": 4
+      }
+    ],
+    "Multi Tip Kolajen": [
+      {
+        "name": "Day2day The Collagen Multi Toz",
+        "slug": "day2day-the-collagen-multi-toz",
+        "brand": "Day2Day",
+        "price": 2359.59,
+        "discount_price": 1896.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5738c6ba-bdf0-4051-8126-27060149f9ce/image_1950.webp",
+        "cats": [
+          "Multi Tip Kolajen",
+          "Kolajen Takviyeleri",
+          "Vitamin ve Takviye",
+          "Toz Kolajen",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Kolajen İçeren Ürünler"
+        ],
+        "stock": 12
+      },
+      {
+        "name": "Nutraxin Beauty Collagen Complex 5 Tip Kolajen 90 Tablet",
+        "slug": "nutraxin-beauty-collagen-complex-5-tip-kolajen-90-tablet",
+        "brand": "Nutraxin",
+        "price": 1199.99,
+        "discount_price": 667.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/40f9195d-0557-454f-a2d3-0c75cd109478/image_1950.webp",
+        "cats": [
+          "Multi Tip Kolajen",
+          "Tip 1 ve 3 Kolajen",
+          "Tablet Kolajen"
+        ],
+        "stock": 1
       }
     ],
     "Doğal ve Aromaterapi Yağları": [
@@ -50206,7 +50146,7 @@
           "C Vitamini",
           "Erkek Multivitamin"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -60954,9 +60894,9 @@
     ]
   },
   "stats": {
-    "total_products": 4235,
+    "total_products": 4231,
     "total_categories": 582,
-    "generated": "2026-10-27 11:15",
+    "generated": "2026-10-27 15:01",
     "source": "ikas_api_live"
   }
 }
