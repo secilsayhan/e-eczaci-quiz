@@ -3481,19 +3481,6 @@
         "stock": 1
       },
       {
-        "name": "Hematab 48 Tablet At Kestanesi, Mürver, Melisa ve Bitkisel Ekstreler",
-        "slug": "hematab-48-tablet-at-kestanesi-murver-melisa-ve-bitkisel-ekstreler",
-        "brand": "Hematab",
-        "price": 551.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/547e679c-8c06-41bd-9229-a97e4587cf51/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Bitkisel Takviyeler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Hyalix Kapsül Hiyalin İçeren 30 Kapsül",
         "slug": "hyalix-kapsul-hiyalin-iceren-30-kapsul",
         "brand": "Hyalix",
@@ -8713,7 +8700,7 @@
           "Vücut Bakımı",
           "Yağlı Saçlar İçin"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Vicks Babybalm 50 gr",
@@ -17159,19 +17146,6 @@
           "Bitkisel Takviyeler"
         ],
         "stock": 14
-      },
-      {
-        "name": "Hematab 48 Tablet At Kestanesi, Mürver, Melisa ve Bitkisel Ekstreler",
-        "slug": "hematab-48-tablet-at-kestanesi-murver-melisa-ve-bitkisel-ekstreler",
-        "brand": "Hematab",
-        "price": 551.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/547e679c-8c06-41bd-9229-a97e4587cf51/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Bitkisel Takviyeler"
-        ],
-        "stock": 1
       },
       {
         "name": "Hünnap Alıç Sirkesi Organik Doğal Fermente 250 ml",
@@ -31039,7 +31013,7 @@
         "cats": [
           "Dökülme Karşıtı"
         ],
-        "stock": 12
+        "stock": 15
       },
       {
         "name": "Vichy Dercos Dökülme Karşıtı Şampuan 400 ml İndirimli Fiyat",
@@ -36099,7 +36073,7 @@
         "cats": [
           "Kepek Karşıtı"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Vichy Dercos Anti-Dandruff Normal/Yağlı Saçlar Şampuanı 390 ml",
@@ -36168,7 +36142,7 @@
           "Vücut Bakımı",
           "Yağlı Saçlar İçin"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Vichy Dercos Normal ve Yağlı Saçlar İçin Kepek Şampuanı 390 ml",
@@ -36181,7 +36155,7 @@
           "Kepek Karşıtı",
           "Yağlı Saçlar İçin"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Vichy Dercos Psolution Pullanmaya Karşı Etkili Şampuan 200 ml",
@@ -38480,7 +38454,7 @@
           "Göğüs Ucu Koruyucu",
           "Medikal Ürünler"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Wee Göğüs Pompası Manuel 752",
@@ -38865,7 +38839,7 @@
           "Vücut Bakımı",
           "Yağlı Saçlar İçin"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Vichy Dercos Normal ve Yağlı Saçlar İçin Kepek Şampuanı 390 ml",
@@ -38878,7 +38852,7 @@
           "Kepek Karşıtı",
           "Yağlı Saçlar İçin"
         ],
-        "stock": 16
+        "stock": 15
       }
     ],
     "Normal Cilt": [
@@ -52467,34 +52441,6 @@
         "stock": 16
       }
     ],
-    "Glukomannan (Konjak)": [
-      {
-        "name": "GoodDay Glukomannan Max Saşe Konjak Glukomannan ve Vitamin Kompleksi 30 Saşe",
-        "slug": "goodday-glukomannan-max-sase-konjak-glukomannan-ve-vitamin-kompleksi",
-        "brand": "Goodday",
-        "price": 1699.0,
-        "discount_price": 1097.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7b4d38d1-f6ec-43f8-ab8b-69e1d3343ba0/image_1950.webp",
-        "cats": [
-          "Glukomannan (Konjak)"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
-        "slug": "orzax-ocean-formera-takviye-edici-gida-seti-60-kapsul-30-tup",
-        "brand": "Orzax",
-        "price": 2454.5,
-        "discount_price": 1623.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2303d71-5c45-4ddd-8843-fc726a0db537/image_1950.webp",
-        "cats": [
-          "CLA (Konjuge Linoleik Asit)",
-          "Yeşil Çay Ekstresi",
-          "Glukomannan (Konjak)"
-        ],
-        "stock": 4
-      }
-    ],
     "Deve Dikeni (Milk Thistle)": [
       {
         "name": "GoodDay Lipozomal Berberis Tablet Lipozomal Milk Thistle ve Enginar 30 Tablet",
@@ -57604,6 +57550,22 @@
         "stock": 1
       }
     ],
+    "Glukomannan (Konjak)": [
+      {
+        "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
+        "slug": "orzax-ocean-formera-takviye-edici-gida-seti-60-kapsul-30-tup",
+        "brand": "Orzax",
+        "price": 2454.5,
+        "discount_price": 1623.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c2303d71-5c45-4ddd-8843-fc726a0db537/image_1950.webp",
+        "cats": [
+          "CLA (Konjuge Linoleik Asit)",
+          "Yeşil Çay Ekstresi",
+          "Glukomannan (Konjak)"
+        ],
+        "stock": 4
+      }
+    ],
     "Regl Dönemi": [
       {
         "name": "Orzax Ocean Polysitol Miyoinositol D-Kiroinositol Takviye 30 Saşe",
@@ -60479,7 +60441,7 @@
           "Göğüs Ucu Koruyucu",
           "Medikal Ürünler"
         ],
-        "stock": 5
+        "stock": 4
       }
     ],
     "Göğüs Pedi": [
@@ -60850,9 +60812,9 @@
     ]
   },
   "stats": {
-    "total_products": 4228,
+    "total_products": 4225,
     "total_categories": 581,
-    "generated": "2026-10-28 15:00",
+    "generated": "2026-10-28 21:06",
     "source": "ikas_api_live"
   }
 }
