@@ -3229,7 +3229,7 @@
         "cats": [
           "Vitamin ve Takviye",
           "L-Arjinin",
-          "Kadın Takviyeleri",
+          "Kadın",
           "Bitkisel Takviyeler"
         ],
         "stock": 1
@@ -3875,7 +3875,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
@@ -3995,7 +3994,7 @@
         "cats": [
           "Berberin (Kadın Tuzluğu)",
           "Vitamin ve Takviye",
-          "Kadın Takviyeleri",
+          "Kadın",
           "Bitkisel Takviyeler",
           "Pelinotu",
           "Balkabağı Çekirdeği"
@@ -4377,13 +4376,10 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
-          "Omega 3",
-          "Çocuk Omega 3"
+          "Omega 3"
         ],
         "stock": 4
       },
@@ -5001,8 +4997,8 @@
         "discount_price": 511.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3fc8d0a1-850b-4beb-bb8d-8857c0858af8/image_1950.webp",
         "cats": [
-          "Vitamin ve Takviye",
-          "Çocuk Multivitamin"
+          "Multivitamin",
+          "Vitamin ve Takviye"
         ],
         "stock": 5
       },
@@ -5120,7 +5116,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56a480c4-bd4d-4ed0-b29a-f83e791291dc/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
-          "Çocuk Vitaminleri",
           "Çocuk Vitaminleri"
         ],
         "stock": 1
@@ -6578,7 +6573,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ec81e71-c0f8-43b2-b7de-31f9f4c10710/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "D Vitamini",
           "C Vitamini",
           "Çinko"
@@ -6625,8 +6619,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
-          "Çocuk Vitaminleri",
           "C Vitamini",
+          "Çocuk Vitaminleri",
           "Çinko",
           "Kara Mürver"
         ],
@@ -9126,8 +9120,7 @@
           "Çocuk Probiyotikleri",
           "Sindirim Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 18
       },
@@ -9142,8 +9135,7 @@
           "Çocuk Probiyotikleri",
           "Sindirim Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 20
       },
@@ -9441,8 +9433,7 @@
           "Çocuk Probiyotikleri",
           "Sindirim Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 18
       },
@@ -9457,8 +9448,7 @@
           "Çocuk Probiyotikleri",
           "Sindirim Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 20
       },
@@ -9530,8 +9520,7 @@
         "cats": [
           "Çocuk Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 2
       },
@@ -11456,21 +11445,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4e5a6a4a-a1b3-454e-a01e-3bcdd2213286/image_1950.webp",
         "cats": [
           "Multivitamin",
-          "Çocuk Vitaminleri",
-          "L-Arjinin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Aspi Natura Kids Çocuk Öksürük Şurubu Doğal İçerikli 120 ml",
-        "slug": "aspi-natura-kids-cocuk-oksuruk-surubu-dogal-icerikli-120-ml",
-        "brand": "Aspi Natura",
-        "price": 438.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9d8535e5-1566-4641-b57f-8880b6961902/image_1950.webp",
-        "cats": [
-          "Çocuk Vitaminleri",
-          "Bitkisel Takviyeler"
+          "L-Arjinin",
+          "Çocuk Vitaminleri"
         ],
         "stock": 1
       },
@@ -11482,8 +11458,8 @@
         "discount_price": 565.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/80e927bc-a4d8-4419-aedd-fc9942d43794/image_1950.webp",
         "cats": [
-          "Çocuk Vitaminleri",
           "C Vitamini",
+          "Çocuk Vitaminleri",
           "Kekik"
         ],
         "stock": 1
@@ -11540,7 +11516,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk Omega 3",
           "D Vitamini",
           "Omega 3",
           "Çocuk Vitaminleri",
@@ -11570,7 +11545,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7466e681-c05c-4873-a02c-69457331b988/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Omega 3",
           "Çocuk Vitaminleri",
           "Omega 3"
@@ -11631,8 +11605,7 @@
           "Çocuk Probiyotikleri",
           "Sindirim Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 18
       },
@@ -11647,8 +11620,7 @@
           "Çocuk Probiyotikleri",
           "Sindirim Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 20
       },
@@ -11703,7 +11675,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
@@ -11722,8 +11693,7 @@
         "cats": [
           "Çocuk Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 2
       },
@@ -11858,7 +11828,6 @@
         "discount_price": 408.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/413f7851-9c0d-4063-ab1e-18985249f22f/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Çocuk Vitaminleri",
           "Omega 3"
         ],
@@ -11873,21 +11842,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56a480c4-bd4d-4ed0-b29a-f83e791291dc/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
-          "Çocuk Vitaminleri",
-          "Çocuk Vitaminleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Plus Kids Sprey, 20ml Şişe",
-        "slug": "plus-kids-sprey-20ml-sise",
-        "brand": "İmumax",
-        "price": 510.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56a480c4-bd4d-4ed0-b29a-f83e791291dc/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Çocuk Vitaminleri",
           "Çocuk Vitaminleri"
         ],
         "stock": 1
@@ -11901,8 +11855,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
-          "Çocuk Vitaminleri",
           "C Vitamini",
+          "Çocuk Vitaminleri",
           "Çinko",
           "Kara Mürver"
         ],
@@ -11962,21 +11916,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/951d3535-17b0-483a-8fe1-f330f7ee350e/image_1950.webp",
         "cats": [
           "Çocuk Vitaminleri",
-          "Çocuk Vitaminleri",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Velavit V-Firstect Kids Kolostrum Beta Glukan Çocuklar İçin 30 Tablet",
-        "slug": "velavit-v-firstect-kids-kolostrum-beta-glukan-cocuklar-icin-30-tablet",
-        "brand": "Velavit",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/951d3535-17b0-483a-8fe1-f330f7ee350e/image_1950.webp",
-        "cats": [
-          "Çocuk Vitaminleri",
-          "Çocuk Vitaminleri",
           "Beta Glukan"
         ],
         "stock": 1
@@ -12004,10 +11943,9 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1670606-73ea-46c0-b543-59b0af732415/image_1950.webp",
         "cats": [
-          "Çocuk Multivitamin",
+          "Multivitamin",
           "Çocuk Vitaminleri",
-          "Çocuk Macunu",
-          "Çocuk Multivitamin"
+          "Çocuk Macunu"
         ],
         "stock": 1
       },
@@ -12019,11 +11957,10 @@
         "discount_price": 511.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
         "cats": [
-          "Çocuk Multivitamin",
+          "Multivitamin",
           "Multivitamin",
           "Çocuk Vitaminleri",
-          "En Yeniler",
-          "Çocuk Multivitamin"
+          "En Yeniler"
         ],
         "stock": 1
       }
@@ -12097,8 +12034,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4e5a6a4a-a1b3-454e-a01e-3bcdd2213286/image_1950.webp",
         "cats": [
           "Multivitamin",
-          "Çocuk Vitaminleri",
-          "L-Arjinin"
+          "L-Arjinin",
+          "Çocuk Vitaminleri"
         ],
         "stock": 1
       },
@@ -12215,7 +12152,6 @@
         "cats": [
           "Multivitamin",
           "Fosfatidilserin",
-          "Çocuk Multivitamin",
           "L-Arjinin"
         ],
         "stock": 8
@@ -12516,6 +12452,19 @@
           "Vitamin ve Takviye"
         ],
         "stock": 6
+      },
+      {
+        "name": "Ocean Şurup Portakal Ocean VM Hediyeli",
+        "slug": "ocean-surup-portakal-ocean-vm-hediyeli",
+        "brand": "Orzax",
+        "price": 764.5,
+        "discount_price": 511.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3fc8d0a1-850b-4beb-bb8d-8857c0858af8/image_1950.webp",
+        "cats": [
+          "Multivitamin",
+          "Vitamin ve Takviye"
+        ],
+        "stock": 5
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -12872,6 +12821,20 @@
         "stock": 1
       },
       {
+        "name": "Zühre Ana Kids Çocuk Macunu 240 gr",
+        "slug": "zuhre-ana-kids-cocuk-macunu-240-gr",
+        "brand": "Zühre Ana",
+        "price": 416.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1670606-73ea-46c0-b543-59b0af732415/image_1950.webp",
+        "cats": [
+          "Multivitamin",
+          "Çocuk Vitaminleri",
+          "Çocuk Macunu"
+        ],
+        "stock": 1
+      },
+      {
         "name": "İmuneks Farma Imuneks Kids Sıvı Multivitamin Takviyesi 150 ml",
         "slug": "imuneks-farma-imuneks-kids-sivi-beta-glukan-multivitamin-150-ml",
         "brand": "İmuneks",
@@ -12879,11 +12842,25 @@
         "discount_price": 511.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
         "cats": [
-          "Çocuk Multivitamin",
+          "Multivitamin",
           "Multivitamin",
           "Çocuk Vitaminleri",
-          "En Yeniler",
-          "Çocuk Multivitamin"
+          "En Yeniler"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "İmuneks Farma Imuneks Kids Sıvı Multivitamin Takviyesi 150 ml",
+        "slug": "imuneks-farma-imuneks-kids-sivi-beta-glukan-multivitamin-150-ml",
+        "brand": "İmuneks",
+        "price": 750.0,
+        "discount_price": 511.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
+        "cats": [
+          "Multivitamin",
+          "Multivitamin",
+          "Çocuk Vitaminleri",
+          "En Yeniler"
         ],
         "stock": 1
       }
@@ -12898,8 +12875,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4e5a6a4a-a1b3-454e-a01e-3bcdd2213286/image_1950.webp",
         "cats": [
           "Multivitamin",
-          "Çocuk Vitaminleri",
-          "L-Arjinin"
+          "L-Arjinin",
+          "Çocuk Vitaminleri"
         ],
         "stock": 1
       },
@@ -12913,7 +12890,7 @@
         "cats": [
           "Vitamin ve Takviye",
           "L-Arjinin",
-          "Kadın Takviyeleri",
+          "Kadın",
           "Bitkisel Takviyeler"
         ],
         "stock": 1
@@ -12928,7 +12905,6 @@
         "cats": [
           "Multivitamin",
           "Fosfatidilserin",
-          "Çocuk Multivitamin",
           "L-Arjinin"
         ],
         "stock": 8
@@ -13096,7 +13072,6 @@
         "cats": [
           "Multivitamin",
           "Fosfatidilserin",
-          "Çocuk Multivitamin",
           "L-Arjinin"
         ],
         "stock": 8
@@ -13306,8 +13281,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
-          "Çocuk Vitaminleri",
           "C Vitamini",
+          "Çocuk Vitaminleri",
           "Çinko",
           "Kara Mürver"
         ],
@@ -13383,8 +13358,8 @@
         "discount_price": 565.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/80e927bc-a4d8-4419-aedd-fc9942d43794/image_1950.webp",
         "cats": [
-          "Çocuk Vitaminleri",
           "C Vitamini",
+          "Çocuk Vitaminleri",
           "Kekik"
         ],
         "stock": 1
@@ -13871,7 +13846,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ec81e71-c0f8-43b2-b7de-31f9f4c10710/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "D Vitamini",
           "C Vitamini",
           "Çinko"
@@ -13946,8 +13920,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
-          "Çocuk Vitaminleri",
           "C Vitamini",
+          "Çocuk Vitaminleri",
           "Çinko",
           "Kara Mürver"
         ],
@@ -14798,8 +14772,8 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
-          "Çocuk Vitaminleri",
           "C Vitamini",
+          "Çocuk Vitaminleri",
           "Çinko",
           "Kara Mürver"
         ],
@@ -17073,7 +17047,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9d8535e5-1566-4641-b57f-8880b6961902/image_1950.webp",
         "cats": [
-          "Çocuk Vitaminleri",
           "Bitkisel Takviyeler"
         ],
         "stock": 1
@@ -17102,7 +17075,7 @@
         "cats": [
           "Vitamin ve Takviye",
           "L-Arjinin",
-          "Kadın Takviyeleri",
+          "Kadın",
           "Bitkisel Takviyeler"
         ],
         "stock": 1
@@ -17174,9 +17147,9 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2c5116e-8f67-411a-b0f4-edc4192aead2/image_1950.webp",
         "cats": [
           "Krom",
+          "Kadın",
           "Bitkisel Takviyeler",
-          "İnositol",
-          "PCOS ve Hormonal Denge"
+          "İnositol"
         ],
         "stock": 9
       },
@@ -17239,7 +17212,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d6ff4879-0f0f-411d-bed7-c84d1528f9d6/image_1950.webp",
         "cats": [
           "Keçiboynuzu",
-          "Bitkisel",
           "Bitkisel Takviyeler"
         ],
         "stock": 1
@@ -17346,7 +17318,7 @@
         "cats": [
           "Berberin (Kadın Tuzluğu)",
           "Vitamin ve Takviye",
-          "Kadın Takviyeleri",
+          "Kadın",
           "Bitkisel Takviyeler",
           "Pelinotu",
           "Balkabağı Çekirdeği"
@@ -21526,7 +21498,7 @@
           "Duş Jeli",
           "Temizleme Jeli"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "La Roche Posay Vitamin C Yüz Temizleme Jeli",
@@ -24707,7 +24679,7 @@
           "Magnezyum Sitrat",
           "B6 Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "New Life Mag 4 Day Night Magnezyum B6 Gündüz Gece 60 Tablet",
@@ -25655,8 +25627,8 @@
         "discount_price": 565.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/80e927bc-a4d8-4419-aedd-fc9942d43794/image_1950.webp",
         "cats": [
-          "Çocuk Vitaminleri",
           "C Vitamini",
+          "Çocuk Vitaminleri",
           "Kekik"
         ],
         "stock": 1
@@ -26035,7 +26007,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c725cb72-5708-4d95-920e-819daa9598cb/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "K2 Vitamini",
           "D Vitamini",
           "K Vitamini"
@@ -26276,7 +26247,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk Omega 3",
           "D Vitamini",
           "Omega 3",
           "Çocuk Vitaminleri",
@@ -26293,7 +26263,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk Omega 3",
           "D Vitamini",
           "Omega 3",
           "Çocuk Vitaminleri",
@@ -26455,7 +26424,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c725cb72-5708-4d95-920e-819daa9598cb/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "K2 Vitamini",
           "D Vitamini",
           "K Vitamini"
@@ -26471,7 +26439,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c725cb72-5708-4d95-920e-819daa9598cb/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "K2 Vitamini",
           "D Vitamini",
           "K Vitamini"
@@ -26556,7 +26523,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca2dee35-91ae-48b9-b3cf-6645b0710f32/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "D Vitamini"
         ],
         "stock": 9
@@ -26570,7 +26536,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca2dee35-91ae-48b9-b3cf-6645b0710f32/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "D Vitamini"
         ],
         "stock": 9
@@ -26635,7 +26600,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc0fa50-f1c3-48f7-ac26-5d290e5b95a9/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "D Vitamini"
         ],
         "stock": 1
@@ -26649,7 +26613,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc0fa50-f1c3-48f7-ac26-5d290e5b95a9/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "D Vitamini"
         ],
         "stock": 1
@@ -26677,7 +26640,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ec81e71-c0f8-43b2-b7de-31f9f4c10710/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "D Vitamini",
           "C Vitamini",
           "Çinko"
@@ -26693,7 +26655,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ec81e71-c0f8-43b2-b7de-31f9f4c10710/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "D Vitamini",
           "C Vitamini",
           "Çinko"
@@ -33573,7 +33534,7 @@
           "Duş Jeli",
           "Temizleme Jeli"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Orzax SHINIQ Kuru, Çok Kuru ve Atopiye Eğilimli Ciltler için Yıkama Jeli",
@@ -39646,6 +39607,21 @@
         "stock": 3
       },
       {
+        "name": "Cliagyn Kapsül (Çemen Tohumu, Turnera, L-Arjinin) 30 Kapsül",
+        "slug": "cliagyn-kapsul-cemen-tohumu-turnera-l-arjinin-30-kapsul",
+        "brand": "Cliagyn",
+        "price": 1121.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1c4ae9b6-bb0d-4d30-acb8-a058cbb0d36a/image_1950.webp",
+        "cats": [
+          "Vitamin ve Takviye",
+          "L-Arjinin",
+          "Kadın",
+          "Bitkisel Takviyeler"
+        ],
+        "stock": 1
+      },
+      {
         "name": "Cliagyn Kapsül 30 Kapsül",
         "slug": "cliagyn-kapsul-30-kapsul",
         "brand": "",
@@ -39667,24 +39643,41 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb5bf074-ca33-4139-a910-a15860be1d6d/image_1950.webp",
         "cats": [
           "Kadın",
-          "Kadın",
           "Kadın Multivitamin"
         ],
         "stock": 1
       },
       {
-        "name": "FEB Vit Women Kadınlara Özel Vitamin Takviyesi 60 Kapsül",
-        "slug": "feb-vit-women-kadinlara-ozel-vitamin-takviyesi-60-kapsul",
-        "brand": "FEB",
-        "price": 1274.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb5bf074-ca33-4139-a910-a15860be1d6d/image_1950.webp",
+        "name": "GoodDay Fonksiyonel Tıp InsulEX 1 Saşe İnositol ve Bitki Ekstreleri 30 Saşe",
+        "slug": "goodday-fonksiyonel-tip-insulex-1-sase-inositol-ve-bitki-ekstreleri-30",
+        "brand": "Goodday",
+        "price": 1299.0,
+        "discount_price": 990.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2c5116e-8f67-411a-b0f4-edc4192aead2/image_1950.webp",
         "cats": [
+          "Krom",
           "Kadın",
-          "Kadın",
-          "Kadın Multivitamin"
+          "Bitkisel Takviyeler",
+          "İnositol"
         ],
-        "stock": 1
+        "stock": 9
+      },
+      {
+        "name": "NBTLIFE Cleanlife Kapsül, Kadın Tuzluğu, Pelinotu ve Bal Kabağı 60 Kapsül",
+        "slug": "nbtlife-cleanlife-kapsul-kadin-tuzlugu-pelinotu-ve-bal-kabagi-60-kapsu",
+        "brand": "Nbtlife",
+        "price": 1350.0,
+        "discount_price": 1094.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4065c52d-85d5-4636-bb00-fa1cafbfbd45/image_1950.webp",
+        "cats": [
+          "Berberin (Kadın Tuzluğu)",
+          "Vitamin ve Takviye",
+          "Kadın",
+          "Bitkisel Takviyeler",
+          "Pelinotu",
+          "Balkabağı Çekirdeği"
+        ],
+        "stock": 19
       },
       {
         "name": "Nivea Roll On Powder Touch Kadın Pudralı Deodorant 50 ml",
@@ -39700,6 +39693,33 @@
         "stock": 1
       },
       {
+        "name": "Nutraxin Vitals Women's Multi Vitamin Complex Tablet, 60 Tablet",
+        "slug": "nutraxin-vitals-women-s-multi-vitamin-complex-tablet-60-tablet",
+        "brand": "Nutraxin",
+        "price": 619.99,
+        "discount_price": 350.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a55eae3d-ab20-4788-9cd7-8b925fa47503/image_1950.webp",
+        "cats": [
+          "Kadın",
+          "Kadın Multivitamin"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Orzax Ocean Polysitol Miyoinositol D-Kiroinositol Takviye 30 Saşe",
+        "slug": "orzax-ocean-polysitol-miyoinositol-d-kiroinositol-takviye-30-sase",
+        "brand": "Orzax",
+        "price": 973.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
+        "cats": [
+          "Kadın",
+          "Regl Dönemi",
+          "İnositol (Myo & D-Chiro)"
+        ],
+        "stock": 14
+      },
+      {
         "name": "Profolmix Menoral Oral Toz 30 Saşe",
         "slug": "profolmix-menoral-oral-toz-30-sase",
         "brand": "Profolmix",
@@ -39707,23 +39727,22 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/acb746cf-3344-455a-b555-be251cd8d94a/image_1950.webp",
         "cats": [
-          "Kadın",
-          "Kadın Takviyeleri"
+          "Kadın"
         ],
         "stock": 1
       },
       {
-        "name": "Prowomen Kadın Multivitamin ve Mineral Takviye 30 Saşe",
-        "slug": "prowomen-kadin-multivitamin-ve-mineral-takviye-30-sase",
-        "brand": "Neu Pharma",
-        "price": 2799.72,
-        "discount_price": 2083.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d5500371-91a4-4e96-9c83-128271444ee2/image_1950.webp",
+        "name": "Shiniq Dy Intim Jel pH 3.5 200 ml",
+        "slug": "shiniq-dy-intim-jel-ph-3-5-200-ml",
+        "brand": "SHINIQ",
+        "price": 764.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1c9681b2-f4f5-48d4-947b-e77f4283e968/image_1950.webp",
         "cats": [
           "Kadın",
-          "Kadın Multivitamin"
+          "İntim Temizleyiciler"
         ],
-        "stock": 14
+        "stock": 1
       },
       {
         "name": "TabVitamins Berista Lipozomal Kadın Tuzluğu ve Krom 30 Tablet",
@@ -39735,23 +39754,9 @@
         "cats": [
           "Berberin (Kadın Tuzluğu)",
           "Krom",
-          "Kadın",
-          "Kadın Takviyeleri"
+          "Kadın"
         ],
         "stock": 56
-      },
-      {
-        "name": "Velavit V-Women's Daily Kadın Multivitamin ve Mineral 30 Tablet",
-        "slug": "velavit-v-womens-daily-kadin-multivitamin-ve-mineral-30-tablet",
-        "brand": "Velavit",
-        "price": 1043.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72bb719a-3f0f-4507-9424-e76b44222064/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Kadın Multivitamin"
-        ],
-        "stock": 2
       }
     ],
     "SPF’li": [
@@ -40416,8 +40421,7 @@
           "Çocuk Probiyotikleri",
           "Sindirim Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 18
       },
@@ -40432,8 +40436,7 @@
           "Çocuk Probiyotikleri",
           "Sindirim Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 20
       },
@@ -40492,8 +40495,7 @@
         "cats": [
           "Çocuk Probiyotikleri",
           "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
+          "Probiyotik"
         ],
         "stock": 2
       },
@@ -43328,7 +43330,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk Omega 3",
           "D Vitamini",
           "Omega 3",
           "Çocuk Vitaminleri",
@@ -43345,7 +43346,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk Omega 3",
           "D Vitamini",
           "Omega 3",
           "Çocuk Vitaminleri",
@@ -43375,7 +43375,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7466e681-c05c-4873-a02c-69457331b988/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Omega 3",
           "Çocuk Vitaminleri",
           "Omega 3"
@@ -43390,7 +43389,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7466e681-c05c-4873-a02c-69457331b988/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Omega 3",
           "Çocuk Vitaminleri",
           "Omega 3"
@@ -43599,7 +43597,7 @@
           "Omega 3",
           "Resveratrol"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
@@ -43664,7 +43662,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
@@ -43681,7 +43678,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
@@ -43864,13 +43860,10 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
-          "Omega 3",
-          "Çocuk Omega 3"
+          "Omega 3"
         ],
         "stock": 4
       },
@@ -43882,13 +43875,10 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
-          "Omega 3",
-          "Çocuk Omega 3"
+          "Omega 3"
         ],
         "stock": 4
       },
@@ -43940,7 +43930,20 @@
         "discount_price": 408.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73ebc079-3aae-452a-8165-6681059ea395/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
+          "Omega 3",
+          "Omega 3"
+        ],
+        "stock": 13
+      },
+      {
+        "name": "Ocean Karışık Meyve Aromalı Balık Yağı 150 ml Şişe",
+        "slug": "ocean-karisik-meyve-aromali-balik-yagi-150-ml-sise",
+        "brand": "Orzax",
+        "price": 764.5,
+        "discount_price": 408.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73ebc079-3aae-452a-8165-6681059ea395/image_1950.webp",
+        "cats": [
+          "Omega 3",
           "Omega 3"
         ],
         "stock": 13
@@ -44142,7 +44145,7 @@
         "cats": [
           "Omega 3"
         ],
-        "stock": 38
+        "stock": 37
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -44152,7 +44155,6 @@
         "discount_price": 408.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/413f7851-9c0d-4063-ab1e-18985249f22f/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Çocuk Vitaminleri",
           "Omega 3"
         ],
@@ -44531,94 +44533,6 @@
           "Sinek Kovucu"
         ],
         "stock": 8
-      }
-    ],
-    "Kadın Takviyeleri": [
-      {
-        "name": "Cliagyn Kapsül (Çemen Tohumu, Turnera, L-Arjinin) 30 Kapsül",
-        "slug": "cliagyn-kapsul-cemen-tohumu-turnera-l-arjinin-30-kapsul",
-        "brand": "Cliagyn",
-        "price": 1121.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1c4ae9b6-bb0d-4d30-acb8-a058cbb0d36a/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "L-Arjinin",
-          "Kadın Takviyeleri",
-          "Bitkisel Takviyeler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "NBTLIFE Cleanlife Kapsül, Kadın Tuzluğu, Pelinotu ve Bal Kabağı 60 Kapsül",
-        "slug": "nbtlife-cleanlife-kapsul-kadin-tuzlugu-pelinotu-ve-bal-kabagi-60-kapsu",
-        "brand": "Nbtlife",
-        "price": 1350.0,
-        "discount_price": 1094.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4065c52d-85d5-4636-bb00-fa1cafbfbd45/image_1950.webp",
-        "cats": [
-          "Berberin (Kadın Tuzluğu)",
-          "Vitamin ve Takviye",
-          "Kadın Takviyeleri",
-          "Bitkisel Takviyeler",
-          "Pelinotu",
-          "Balkabağı Çekirdeği"
-        ],
-        "stock": 19
-      },
-      {
-        "name": "Nutraxin Vitals Women's Multi Vitamin Complex Tablet, 60 Tablet",
-        "slug": "nutraxin-vitals-women-s-multi-vitamin-complex-tablet-60-tablet",
-        "brand": "Nutraxin",
-        "price": 619.99,
-        "discount_price": 350.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a55eae3d-ab20-4788-9cd7-8b925fa47503/image_1950.webp",
-        "cats": [
-          "Kadın Takviyeleri",
-          "Kadın Multivitamin"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Profolmix Menoral Oral Toz 30 Saşe",
-        "slug": "profolmix-menoral-oral-toz-30-sase",
-        "brand": "Profolmix",
-        "price": 2921.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/acb746cf-3344-455a-b555-be251cd8d94a/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Kadın Takviyeleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Shiniq Dy Intim Jel pH 3.5 200 ml",
-        "slug": "shiniq-dy-intim-jel-ph-3-5-200-ml",
-        "brand": "SHINIQ",
-        "price": 764.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1c9681b2-f4f5-48d4-947b-e77f4283e968/image_1950.webp",
-        "cats": [
-          "Kadın Takviyeleri",
-          "İntim Temizleyiciler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "TabVitamins Berista Lipozomal Kadın Tuzluğu ve Krom 30 Tablet",
-        "slug": "tabvitamins-berista-lipozomal-kadin-tuzlugu-ve-krom-30-tablet",
-        "brand": "TabVitamins",
-        "price": 920.0,
-        "discount_price": 614.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/abeb991a-22de-4808-81e4-2e56960a9585/image_1950.webp",
-        "cats": [
-          "Berberin (Kadın Tuzluğu)",
-          "Krom",
-          "Kadın",
-          "Kadın Takviyeleri"
-        ],
-        "stock": 56
       }
     ],
     "L-Teanin": [
@@ -48932,120 +48846,6 @@
         "stock": 1
       }
     ],
-    "Çocuk Omega 3": [
-      {
-        "name": "Easyvit EasyFishoil Balık Yağı ve D Vitamini Çiğnenebilir Jel Çilek ve Limon 30 Adet",
-        "slug": "easyvit-easyfishoil-balik-yagi-d-vitamini-cilek-limon-30-adet",
-        "brand": "EasyVit",
-        "price": 929.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a827a2c5-2fdc-4c9a-ba09-ff3246c759c8/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Çocuk Omega 3",
-          "D Vitamini",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Easyvit EasyFishoil Grow Balık Yağı Çiğnenebilir Jel Misket Limonu ve Çilek 30 Adet",
-        "slug": "easyvit-easyfishoil-grow-balik-yagi-misket-limonu-cilek-30-adet",
-        "brand": "EasyVit",
-        "price": 999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7466e681-c05c-4873-a02c-69457331b988/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Möller's Omega-3 Cod Liver Oil Doğal Elma Aromalı 150 ml",
-        "slug": "moller-s-omega-3-cod-liver-oil-dogal-elma-aromali-150-ml",
-        "brand": "Möller's",
-        "price": 1122.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
-        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
-        "brand": "Nutraxin",
-        "price": 795.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Omega 3",
-          "Çocuk Omega 3"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
-        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
-        "brand": "Nutraxin",
-        "price": 795.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Omega 3",
-          "Çocuk Omega 3"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Ocean Karışık Meyve Aromalı Balık Yağı 150 ml Şişe",
-        "slug": "ocean-karisik-meyve-aromali-balik-yagi-150-ml-sise",
-        "brand": "Orzax",
-        "price": 764.5,
-        "discount_price": 408.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73ebc079-3aae-452a-8165-6681059ea395/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Omega 3"
-        ],
-        "stock": 13
-      },
-      {
-        "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
-        "slug": "orzax-ocean-portakal-aromali-balik-yagi-surubu-cocuklar-icin-150-ml",
-        "brand": "Orzax",
-        "price": 764.5,
-        "discount_price": 408.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/413f7851-9c0d-4063-ab1e-18985249f22f/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3",
-          "Çocuk Vitaminleri",
-          "Omega 3"
-        ],
-        "stock": 21
-      }
-    ],
     "Beta Glukan": [
       {
         "name": "Easyvit EasyFishoil Beta Glukan Çiğnenebilir Jel Meyve Aromalı 30 Adet",
@@ -49130,7 +48930,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/951d3535-17b0-483a-8fe1-f330f7ee350e/image_1950.webp",
         "cats": [
-          "Çocuk Vitaminleri",
           "Çocuk Vitaminleri",
           "Beta Glukan"
         ],
@@ -49670,8 +49469,8 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2c60d7f2-d842-4619-a678-64dc4dc318b5/image_1950.webp",
         "cats": [
-          "Kuersetin",
           "Üzüm Çekirdeği Ekstresi",
+          "Kuersetin",
           "Resveratrol"
         ],
         "stock": 1
@@ -49689,55 +49488,6 @@
           "Resveratrol"
         ],
         "stock": 7
-      }
-    ],
-    "Çocuk Probiyotik": [
-      {
-        "name": "Enterogermina Kids Probiyotik Mikroorganizma Takviyesi 10x5 ml",
-        "slug": "enterogermina-kids-probiyotik-mikroorganizma-takviyesi-10x5-ml",
-        "brand": "Enterogermina",
-        "price": 500.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c42fd76-93c1-4ffe-8d19-6fad6e35e7ac/image_1950.webp",
-        "cats": [
-          "Çocuk Probiyotikleri",
-          "Sindirim Probiyotikleri",
-          "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
-        ],
-        "stock": 18
-      },
-      {
-        "name": "Enterogermina Kids Probiyotik Mikroorganizma Takviyesi 20x5 ml (Ekonomik Boy)",
-        "slug": "enterogermina-kids-probiyotik-mikroorganizma-20x5-ml-ekonomik-boy",
-        "brand": "Enterogermina",
-        "price": 891.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/94a7c753-5db9-4ee4-9d03-e357dde86f6d/image_1950.webp",
-        "cats": [
-          "Çocuk Probiyotikleri",
-          "Sindirim Probiyotikleri",
-          "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
-        ],
-        "stock": 20
-      },
-      {
-        "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
-        "slug": "nbl-probiotic-kids-cocuk-probiyotik-takviyesi-30-tablet",
-        "brand": "NBL",
-        "price": 1300.0,
-        "discount_price": 752.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f5a0bcb4-34ef-4d2a-aed7-4179a88d0131/image_1950.webp",
-        "cats": [
-          "Çocuk Probiyotikleri",
-          "Çocuk Vitaminleri",
-          "Probiyotik",
-          "Çocuk Probiyotik"
-        ],
-        "stock": 2
       }
     ],
     "Bitkisel": [
@@ -49849,20 +49599,6 @@
           "Diş Macunu"
         ],
         "stock": 2
-      },
-      {
-        "name": "Hünnap Keçi Boynuzu Özü 640 GR",
-        "slug": "hunnap-keci-boynuzu-ozu-640-gr",
-        "brand": "Hünnap",
-        "price": 280.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d6ff4879-0f0f-411d-bed7-c84d1528f9d6/image_1950.webp",
-        "cats": [
-          "Keçiboynuzu",
-          "Bitkisel",
-          "Bitkisel Takviyeler"
-        ],
-        "stock": 1
       },
       {
         "name": "Mustela Papatya Özlü Bebek Şampuanı 500 ml",
@@ -50287,7 +50023,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb5bf074-ca33-4139-a910-a15860be1d6d/image_1950.webp",
         "cats": [
           "Kadın",
-          "Kadın",
           "Kadın Multivitamin"
         ],
         "stock": 1
@@ -50300,7 +50035,7 @@
         "discount_price": 350.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a55eae3d-ab20-4788-9cd7-8b925fa47503/image_1950.webp",
         "cats": [
-          "Kadın Takviyeleri",
+          "Kadın",
           "Kadın Multivitamin"
         ],
         "stock": 10
@@ -50330,7 +50065,6 @@
         "discount_price": 2083.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d5500371-91a4-4e96-9c83-128271444ee2/image_1950.webp",
         "cats": [
-          "Kadın",
           "Kadın Multivitamin"
         ],
         "stock": 14
@@ -50343,7 +50077,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72bb719a-3f0f-4507-9424-e76b44222064/image_1950.webp",
         "cats": [
-          "Kadın",
           "Kadın Multivitamin"
         ],
         "stock": 2
@@ -50749,7 +50482,7 @@
           "Magnezyum Sitrat",
           "B6 Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "New Life B Active Trio B6 B12 Folik Asit Takviyesi 30 Tablet",
@@ -51847,7 +51580,7 @@
           "Omega 3",
           "Resveratrol"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
@@ -51977,8 +51710,8 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2c60d7f2-d842-4619-a678-64dc4dc318b5/image_1950.webp",
         "cats": [
-          "Kuersetin",
           "Üzüm Çekirdeği Ekstresi",
+          "Kuersetin",
           "Resveratrol"
         ],
         "stock": 1
@@ -52388,9 +52121,9 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2c5116e-8f67-411a-b0f4-edc4192aead2/image_1950.webp",
         "cats": [
           "Krom",
+          "Kadın",
           "Bitkisel Takviyeler",
-          "İnositol",
-          "PCOS ve Hormonal Denge"
+          "İnositol"
         ],
         "stock": 9
       },
@@ -52442,8 +52175,7 @@
         "cats": [
           "Berberin (Kadın Tuzluğu)",
           "Krom",
-          "Kadın",
-          "Kadın Takviyeleri"
+          "Kadın"
         ],
         "stock": 56
       }
@@ -52458,9 +52190,9 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2c5116e-8f67-411a-b0f4-edc4192aead2/image_1950.webp",
         "cats": [
           "Krom",
+          "Kadın",
           "Bitkisel Takviyeler",
-          "İnositol",
-          "PCOS ve Hormonal Denge"
+          "İnositol"
         ],
         "stock": 9
       },
@@ -52498,37 +52230,6 @@
           "Hamile Vitamini"
         ],
         "stock": 1
-      }
-    ],
-    "PCOS ve Hormonal Denge": [
-      {
-        "name": "GoodDay Fonksiyonel Tıp InsulEX 1 Saşe İnositol ve Bitki Ekstreleri 30 Saşe",
-        "slug": "goodday-fonksiyonel-tip-insulex-1-sase-inositol-ve-bitki-ekstreleri-30",
-        "brand": "Goodday",
-        "price": 1299.0,
-        "discount_price": 990.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b2c5116e-8f67-411a-b0f4-edc4192aead2/image_1950.webp",
-        "cats": [
-          "Krom",
-          "Bitkisel Takviyeler",
-          "İnositol",
-          "PCOS ve Hormonal Denge"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "Orzax Ocean Polysitol Miyoinositol D-Kiroinositol Takviye 30 Saşe",
-        "slug": "orzax-ocean-polysitol-miyoinositol-d-kiroinositol-takviye-30-sase",
-        "brand": "Orzax",
-        "price": 973.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
-        "cats": [
-          "Regl Dönemi",
-          "İnositol (Myo & D-Chiro)",
-          "PCOS ve Hormonal Denge"
-        ],
-        "stock": 14
       }
     ],
     "Deve Dikeni (Milk Thistle)": [
@@ -52981,7 +52682,7 @@
           "Magnezyum Sitrat",
           "B6 Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -53041,98 +52742,6 @@
           "B6 Vitamini"
         ],
         "stock": 2
-      }
-    ],
-    "Çocuk Multivitamin": [
-      {
-        "name": "GoodDay Minions Sıvı Takviye Arjinin Multivitamin Multimineral Fosfatidilserin 150 ml",
-        "slug": "goodday-minions-sivi-arjinin-multivitamin-multimineral-150-ml",
-        "brand": "Goodday",
-        "price": 899.0,
-        "discount_price": 655.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8117cda6-ad61-4d63-88b2-b552b800b7d2/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Fosfatidilserin",
-          "Çocuk Multivitamin",
-          "L-Arjinin"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Ocean Şurup Portakal Ocean VM Hediyeli",
-        "slug": "ocean-surup-portakal-ocean-vm-hediyeli",
-        "brand": "Orzax",
-        "price": 764.5,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3fc8d0a1-850b-4beb-bb8d-8857c0858af8/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Çocuk Multivitamin"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Zühre Ana Kids Çocuk Macunu 240 gr",
-        "slug": "zuhre-ana-kids-cocuk-macunu-240-gr",
-        "brand": "Zühre Ana",
-        "price": 416.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1670606-73ea-46c0-b543-59b0af732415/image_1950.webp",
-        "cats": [
-          "Çocuk Multivitamin",
-          "Çocuk Vitaminleri",
-          "Çocuk Macunu",
-          "Çocuk Multivitamin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Zühre Ana Kids Çocuk Macunu 240 gr",
-        "slug": "zuhre-ana-kids-cocuk-macunu-240-gr",
-        "brand": "Zühre Ana",
-        "price": 416.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1670606-73ea-46c0-b543-59b0af732415/image_1950.webp",
-        "cats": [
-          "Çocuk Multivitamin",
-          "Çocuk Vitaminleri",
-          "Çocuk Macunu",
-          "Çocuk Multivitamin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "İmuneks Farma Imuneks Kids Sıvı Multivitamin Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-kids-sivi-beta-glukan-multivitamin-150-ml",
-        "brand": "İmuneks",
-        "price": 750.0,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
-        "cats": [
-          "Çocuk Multivitamin",
-          "Multivitamin",
-          "Çocuk Vitaminleri",
-          "En Yeniler",
-          "Çocuk Multivitamin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "İmuneks Farma Imuneks Kids Sıvı Multivitamin Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-kids-sivi-beta-glukan-multivitamin-150-ml",
-        "brand": "İmuneks",
-        "price": 750.0,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
-        "cats": [
-          "Çocuk Multivitamin",
-          "Multivitamin",
-          "Çocuk Vitaminleri",
-          "En Yeniler",
-          "Çocuk Multivitamin"
-        ],
-        "stock": 1
       }
     ],
     "Turna Yemişi (Cranberry)": [
@@ -53689,7 +53298,7 @@
         "cats": [
           "Berberin (Kadın Tuzluğu)",
           "Vitamin ve Takviye",
-          "Kadın Takviyeleri",
+          "Kadın",
           "Bitkisel Takviyeler",
           "Pelinotu",
           "Balkabağı Çekirdeği"
@@ -53706,8 +53315,7 @@
         "cats": [
           "Berberin (Kadın Tuzluğu)",
           "Krom",
-          "Kadın",
-          "Kadın Takviyeleri"
+          "Kadın"
         ],
         "stock": 56
       }
@@ -53779,7 +53387,7 @@
         "cats": [
           "Berberin (Kadın Tuzluğu)",
           "Vitamin ve Takviye",
-          "Kadın Takviyeleri",
+          "Kadın",
           "Bitkisel Takviyeler",
           "Pelinotu",
           "Balkabağı Çekirdeği"
@@ -53811,7 +53419,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d6ff4879-0f0f-411d-bed7-c84d1528f9d6/image_1950.webp",
         "cats": [
           "Keçiboynuzu",
-          "Bitkisel",
           "Bitkisel Takviyeler"
         ],
         "stock": 1
@@ -55576,7 +55183,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c725cb72-5708-4d95-920e-819daa9598cb/image_1950.webp",
         "cats": [
           "D Vitamini",
-          "Çocuk D Vitamini",
           "K2 Vitamini",
           "D Vitamini",
           "K Vitamini"
@@ -56000,7 +55606,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a9e415a1-8873-43df-9a4b-d4f11d619535/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
@@ -56090,13 +55695,10 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
         "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3",
-          "Omega 3",
-          "Çocuk Omega 3"
+          "Omega 3"
         ],
         "stock": 4
       },
@@ -56299,7 +55901,7 @@
         "cats": [
           "Berberin (Kadın Tuzluğu)",
           "Vitamin ve Takviye",
-          "Kadın Takviyeleri",
+          "Kadın",
           "Bitkisel Takviyeler",
           "Pelinotu",
           "Balkabağı Çekirdeği"
@@ -56867,26 +56469,6 @@
         "stock": 12
       }
     ],
-    "Çocuk Omega 3 ve Balık Yağı": [
-      {
-        "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
-        "slug": "nutraxin-for-kids-omega-3-cod-liver-oil-150-ml",
-        "brand": "Nutraxin",
-        "price": 795.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ec60c52-513d-4c1f-bac7-2d591e6a851a/image_1950.webp",
-        "cats": [
-          "Çocuk Omega 3 ve Balık Yağı",
-          "Çocuk Omega 3",
-          "Balık Yağı ve Omega",
-          "Vitamin ve Takviye",
-          "Omega 3",
-          "Omega 3",
-          "Çocuk Omega 3"
-        ],
-        "stock": 4
-      }
-    ],
     "Ihlamur": [
       {
         "name": "Nutrigen Good Night Melisa Mayıs Papatyası Kedi Otu Ihlamur Vitamin Takviyesi 100 ml Şişe",
@@ -56950,8 +56532,8 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2c60d7f2-d842-4619-a678-64dc4dc318b5/image_1950.webp",
         "cats": [
-          "Kuersetin",
           "Üzüm Çekirdeği Ekstresi",
+          "Kuersetin",
           "Resveratrol"
         ],
         "stock": 1
@@ -57028,68 +56610,6 @@
           "Süper Plus"
         ],
         "stock": 1
-      }
-    ],
-    "Çocuk D Vitamini": [
-      {
-        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
-        "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
-        "brand": "Orzax",
-        "price": 494.5,
-        "discount_price": 407.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c725cb72-5708-4d95-920e-819daa9598cb/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Çocuk D Vitamini",
-          "K2 Vitamini",
-          "D Vitamini",
-          "K Vitamini"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
-        "slug": "orzax-ocean-d3-vitamini-sprey-400-iu-20-ml",
-        "brand": "Orzax",
-        "price": 289.5,
-        "discount_price": 239.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca2dee35-91ae-48b9-b3cf-6645b0710f32/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Çocuk D Vitamini",
-          "D Vitamini"
-        ],
-        "stock": 9
-      },
-      {
-        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
-        "slug": "osende-vitamin-d3-1000-iu-oral-damla-d3-vitamini-iceren-takviye-edici",
-        "brand": "Osende",
-        "price": 350.0,
-        "discount_price": 125.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc0fa50-f1c3-48f7-ac26-5d290e5b95a9/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Çocuk D Vitamini",
-          "D Vitamini"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Redoxon Kids Çiğnenebilir C Vitamini D Vitamini Çinko Takviyesi 60 Tablet",
-        "slug": "redoxon-kids-cignenebilir-c-vitamini-d-vitamini-cinko-60-tablet",
-        "brand": "Redoxon",
-        "price": 700.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ec81e71-c0f8-43b2-b7de-31f9f4c10710/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Çocuk D Vitamini",
-          "D Vitamini",
-          "C Vitamini",
-          "Çinko"
-        ],
-        "stock": 9
       }
     ],
     "Laktaz (Lactase)": [
@@ -57665,9 +57185,9 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
         "cats": [
+          "Kadın",
           "Regl Dönemi",
-          "İnositol (Myo & D-Chiro)",
-          "PCOS ve Hormonal Denge"
+          "İnositol (Myo & D-Chiro)"
         ],
         "stock": 14
       }
@@ -57681,9 +57201,9 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
         "cats": [
+          "Kadın",
           "Regl Dönemi",
-          "İnositol (Myo & D-Chiro)",
-          "PCOS ve Hormonal Denge"
+          "İnositol (Myo & D-Chiro)"
         ],
         "stock": 14
       },
@@ -58238,7 +57758,7 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1c9681b2-f4f5-48d4-947b-e77f4283e968/image_1950.webp",
         "cats": [
-          "Kadın Takviyeleri",
+          "Kadın",
           "İntim Temizleyiciler"
         ],
         "stock": 1
@@ -60761,10 +60281,9 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f1670606-73ea-46c0-b543-59b0af732415/image_1950.webp",
         "cats": [
-          "Çocuk Multivitamin",
+          "Multivitamin",
           "Çocuk Vitaminleri",
-          "Çocuk Macunu",
-          "Çocuk Multivitamin"
+          "Çocuk Macunu"
         ],
         "stock": 1
       }
@@ -60807,11 +60326,10 @@
         "discount_price": 511.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
         "cats": [
-          "Çocuk Multivitamin",
+          "Multivitamin",
           "Multivitamin",
           "Çocuk Vitaminleri",
-          "En Yeniler",
-          "Çocuk Multivitamin"
+          "En Yeniler"
         ],
         "stock": 1
       },
@@ -60902,9 +60420,9 @@
     ]
   },
   "stats": {
-    "total_products": 4231,
-    "total_categories": 581,
-    "generated": "2026-10-29 13:32",
+    "total_products": 4205,
+    "total_categories": 574,
+    "generated": "2026-10-29 15:00",
     "source": "ikas_api_live"
   }
 }
