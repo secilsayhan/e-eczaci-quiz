@@ -6624,7 +6624,7 @@
           "Çinko",
           "Kara Mürver"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
@@ -11860,7 +11860,7 @@
           "Çinko",
           "Kara Mürver"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Sorvagen Smart For Kids Sıvı Sitikolin DHA Omega 3 B12 Vitamini 150 ml",
@@ -13286,7 +13286,7 @@
           "Çinko",
           "Kara Mürver"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Sambuvit Plus Sprey Kara Mürver Ekstresi B5 Vitamini Takviyesi 25 ml Şişe",
@@ -13925,7 +13925,7 @@
           "Çinko",
           "Kara Mürver"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Sidefer Kapsül Sukrozomiyal Demir C Vitamini B12 Vitamini Takviyesi 30 Kapsül",
@@ -14777,7 +14777,7 @@
           "Çinko",
           "Kara Mürver"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Sambuvit Plus Sprey Kara Mürver Ekstresi B5 Vitamini Takviyesi 25 ml Şişe",
@@ -21488,19 +21488,6 @@
         "stock": 1
       },
       {
-        "name": "La Roche Posay Effaclar Yüz ve Vücut Temizleme Jeli 400 ml",
-        "slug": "la-roche-posay-effaclar-yuz-ve-vucut-temizleme-jeli-400-ml",
-        "brand": "La Roche-Posay",
-        "price": 918.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fa76d354-7bec-4372-864c-3618c21c40f0/image_1950.webp",
-        "cats": [
-          "Duş Jeli",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
-      },
-      {
         "name": "La Roche Posay Vitamin C Yüz Temizleme Jeli",
         "slug": "la-roche-posay-vitamin-c-yuz-temizleme-jeli",
         "brand": "La Roche-Posay",
@@ -26092,7 +26079,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "VeNatura Vitamin K2 MK-7 100 mcg 60 Kapsül",
@@ -26790,7 +26777,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit V-D3K2 MSM D3K2 Vitamini ve MSM İçeren Takviye 60 Tablet",
@@ -33532,19 +33519,6 @@
         "price": 1707.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b70d19a8-9b4f-4157-b176-2032932f75cf/image_1950.webp",
-        "cats": [
-          "Duş Jeli",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "La Roche Posay Effaclar Yüz ve Vücut Temizleme Jeli 400 ml",
-        "slug": "la-roche-posay-effaclar-yuz-ve-vucut-temizleme-jeli-400-ml",
-        "brand": "La Roche-Posay",
-        "price": 918.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fa76d354-7bec-4372-864c-3618c21c40f0/image_1950.webp",
         "cats": [
           "Duş Jeli",
           "Temizleme Jeli"
@@ -56937,7 +56911,7 @@
         "cats": [
           "Pikolinat (Picolinate)"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Velavit V-Zinc Picolinate Kapsül 30 Kapsül",
@@ -60480,9 +60454,9 @@
     ]
   },
   "stats": {
-    "total_products": 4209,
+    "total_products": 4207,
     "total_categories": 574,
-    "generated": "2026-10-30 09:10",
+    "generated": "2026-10-30 11:09",
     "source": "ikas_api_live"
   }
 }
