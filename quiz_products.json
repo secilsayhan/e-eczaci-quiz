@@ -559,7 +559,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Atoderm Intensive Yatıştırıcı Balsam 500 ml",
@@ -688,7 +688,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Mosquitan Sinek Isırık Sonrası Bant",
@@ -760,7 +760,7 @@
           "Akne Karşıtı",
           "Temizleyici Sprey"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Bioderma Pigmentbio Foaming Cream 200 ml",
@@ -811,7 +811,7 @@
           "Temizleme Köpüğü",
           "Temizleyici"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Bioderma Sebium Gel Moussant Köpük Jel 200 ml",
@@ -1097,7 +1097,7 @@
           "Akne Karşıtı",
           "Temizleyici Sprey"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Bioderma Sebium Kerato Akne Karşıtı Bakım Kremi",
@@ -1220,7 +1220,7 @@
           "Akne Karşıtı",
           "Temizleyici Sprey"
         ],
-        "stock": 3
+        "stock": 2
       }
     ],
     "Akne ve Sivilce Bakımı": [
@@ -1229,13 +1229,13 @@
         "slug": "acleane-sprey",
         "brand": "Acleane",
         "price": 400.0,
-        "discount_price": 371.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/61bf5f0f-e38a-4d81-925b-b5daefe80976/image_1950.webp",
         "cats": [
           "Akne ve Sivilce Bakımı",
           "Yüz Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Bioderma Sebium Kerato + Cover 30 ml",
@@ -1371,13 +1371,13 @@
         "slug": "acleane-sprey",
         "brand": "Acleane",
         "price": 400.0,
-        "discount_price": 371.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/61bf5f0f-e38a-4d81-925b-b5daefe80976/image_1950.webp",
         "cats": [
           "Akne ve Sivilce Bakımı",
           "Yüz Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Avene Cicalfate Onarıcı Masaj Jeli 30 ml",
@@ -1535,7 +1535,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Atoderm Intensive Yatıştırıcı Balsam 500 ml",
@@ -3190,7 +3190,7 @@
           "Vitamin ve Takviye",
           "Propolis"
         ],
-        "stock": 13
+        "stock": 11
       },
       {
         "name": "Bioxcin Collagen Tablet 3 Al 2 Öde",
@@ -3286,7 +3286,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Culturelle 30 Saşe",
@@ -3425,7 +3425,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "GoodDay Exclusive Flavo Complex Tablet Lutein ve Zeaksantin 60 Tablet",
@@ -3457,7 +3457,7 @@
         "slug": "goodday-exclusive-lipozomal-berberis-milk-thistle-artichoke-60-tablet",
         "brand": "Goodday",
         "price": 1399.0,
-        "discount_price": 1177.0,
+        "discount_price": 1258.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a2e40db0-a74f-4b93-b519-a465aa09fd11/image_1950.webp",
         "cats": [
           "Berberin (Kadın Tuzluğu)",
@@ -3465,7 +3465,7 @@
           "Vitamin ve Takviye",
           "Enginar"
         ],
-        "stock": 1
+        "stock": 4
       },
       {
         "name": "Hekavit Tablet 30 Tablet",
@@ -3609,7 +3609,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Kiperin Shenmush 30 Kapsül",
@@ -3734,7 +3734,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "La Roche Posay Toleriane Foam Cleansing 400 ml",
@@ -3761,7 +3761,7 @@
           "Vitamin ve Takviye",
           "B Kompleks"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Lipozone Glutatyon 30 Kapsül",
@@ -4073,7 +4073,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "NBTLife Duobalance Damla 20 ml",
@@ -4165,7 +4165,7 @@
           "Vitamin ve Takviye",
           "Alfa Lipoik Asit"
         ],
-        "stock": 12
+        "stock": 10
       },
       {
         "name": "Nbtlife Omegalife 2400 Combotech 60 Kapsül",
@@ -4535,7 +4535,7 @@
           "B Kompleks",
           "Vitaminler"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Ocean Betain HCL + Pepsin Tablet Betain ve Pepsin İçeren Takviye Edici Gıda 120 Tablet",
@@ -4576,7 +4576,7 @@
           "Bitkisel Takviyeler",
           "Bromelain"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Ocean Capillus Men 60 Tablet",
@@ -4615,7 +4615,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 51
+        "stock": 50
       },
       {
         "name": "Ocean Cogniven 30 Kapsül",
@@ -4629,7 +4629,7 @@
           "Bitkisel Takviyeler",
           "Nootropik"
         ],
-        "stock": 20
+        "stock": 18
       },
       {
         "name": "Ocean Cogniven Şurup 150 ml & Sınav Seti Hediye",
@@ -4672,6 +4672,19 @@
         "stock": 7
       },
       {
+        "name": "Ocean DIM Ultra 30 Tablet",
+        "slug": "ocean-dim-ultra-30-tablet",
+        "brand": "Ocean",
+        "price": 1284.5,
+        "discount_price": 1013.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d839391c-905f-4980-b062-da8c19f36455/image_1950.webp",
+        "cats": [
+          "Vitamin ve Takviye",
+          "Bitkisel Takviyeler"
+        ],
+        "stock": 12
+      },
+      {
         "name": "Ocean Daily One Energy Tablet 30 Tablet",
         "slug": "ocean-daily-one-energy-tablet-30-tablet",
         "brand": "Orzax",
@@ -4682,13 +4695,13 @@
           "Vitamin ve Takviye",
           "Multivitamin"
         ],
-        "stock": 73
+        "stock": 71
       },
       {
         "name": "Ocean Day2Day Gummies 60 Adet",
         "slug": "ocean-day2day-gummies-60-adet",
         "brand": "Ocean",
-        "price": 869.5,
+        "price": 984.5,
         "discount_price": 557.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6bb18213-b40e-44dd-8bf9-899cb6df1d70/image_1950.webp",
         "cats": [
@@ -4696,7 +4709,7 @@
           "Vitamin ve Takviye",
           "Çocuk Vitaminleri"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Ocean E Vitamini 30 Kapsül",
@@ -4908,7 +4921,7 @@
           "Vitamin ve Takviye",
           "Ginseng"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Passiflora Kapsül 30 Kapsül",
@@ -5000,7 +5013,7 @@
           "Multivitamin",
           "Vitamin ve Takviye"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ocuvite Complete Kapsül, Balık Yağı, Lutein, Zeaksantin, Vitamin ve Çinko, 60 Kapsül",
@@ -5077,7 +5090,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Papivir Kuersetin ve Bitkisel Ekstreler 60 Tablet",
@@ -5716,7 +5729,7 @@
           "Probiyotik ve Prebiyotik",
           "Vitamin ve Takviye"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Umkaİmun EF Tablet 1+1 20 Tablet",
@@ -6287,7 +6300,7 @@
           "Vitamin ve Takviye",
           "En Yeniler"
         ],
-        "stock": 13
+        "stock": 11
       },
       {
         "name": "İmunol Sambucus Sıvı Form, Kara Mürver, C Vitamini, Çinko ve Üzüm Çekirdeği 150 ml",
@@ -6615,7 +6628,7 @@
         "slug": "sambucol-plus-kids-yummies-kara-murver-c-vitamini-cinko-60-tablet",
         "brand": "Sambucol",
         "price": 939.0,
-        "discount_price": 712.0,
+        "discount_price": 771.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
@@ -6822,7 +6835,7 @@
           "Oral Sprey",
           "Aft ve Ağız Yarası Bakımı"
         ],
-        "stock": 27
+        "stock": 18
       },
       {
         "name": "Bee ve You Phenolix-B Oral Sprey Propolis Takviyesi 30 ml",
@@ -6865,7 +6878,7 @@
           "Oral Sprey",
           "Aft ve Ağız Yarası Bakımı"
         ],
-        "stock": 27
+        "stock": 18
       }
     ],
     "Arayüz Fırçası": [
@@ -7626,7 +7639,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 14
+        "stock": 11
       },
       {
         "name": "Bebak Acıbadem Süt Büyük 215 g",
@@ -9294,7 +9307,7 @@
           "Probiyotik ve Prebiyotik",
           "Vitamin ve Takviye"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Trubiotic Probiyotik Mikroorganizma İçeren Sıvı Takviye Edici Gıda 8 ml",
@@ -9465,7 +9478,7 @@
           "Bebek Sağlık",
           "Probiyotik"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "LIGONE Probiyotik Damla, 15 ml Şişe",
@@ -9642,7 +9655,7 @@
           "Multivitamin",
           "Hamile Vitamini"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Elenatal 2 Kapsül Multivitamin Mineral ve Omega 3 Takviyesi 30 Kapsül",
@@ -9700,7 +9713,7 @@
           "Mineraller",
           "Multivitamin"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Ligone Kids Beta Glucan Multivitamin Mineral Şurup Çocuklar İçin 150 ml",
@@ -10506,7 +10519,7 @@
         "cats": [
           "Anne ve Bebek"
         ],
-        "stock": 117
+        "stock": 112
       },
       {
         "name": "Mustela Bebek Yağı 100 ml",
@@ -10549,7 +10562,7 @@
           "Bebek Şampuanı",
           "Bebek Banyo"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Mustela Çatlak Kremi 150 ml",
@@ -11193,7 +11206,7 @@
         "cats": [
           "B12 Vitamini"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
@@ -11205,7 +11218,7 @@
         "cats": [
           "B12 Vitamini"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Ocean Methyl B12 500 mcg Dilaltı Sprey, B12 Vitamini (Metilkobalamin) İçeren Takviye Edici Gıda 5ml şişe",
@@ -11535,7 +11548,7 @@
           "Çocuk Vitaminleri",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Easyvit EasyFishoil Grow Balık Yağı Çiğnenebilir Jel Misket Limonu ve Çilek 30 Adet",
@@ -11730,7 +11743,7 @@
         "name": "Ocean Day2Day Gummies 60 Adet",
         "slug": "ocean-day2day-gummies-60-adet",
         "brand": "Ocean",
-        "price": 869.5,
+        "price": 984.5,
         "discount_price": 557.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6bb18213-b40e-44dd-8bf9-899cb6df1d70/image_1950.webp",
         "cats": [
@@ -11738,7 +11751,7 @@
           "Vitamin ve Takviye",
           "Çocuk Vitaminleri"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Ocean Gummies Kids Sambucus Çiğnenebilir 60 Adet",
@@ -11751,7 +11764,7 @@
           "Kara Mürver (Sambucus)",
           "Çocuk Vitaminleri"
         ],
-        "stock": 12
+        "stock": 10
       },
       {
         "name": "Ocean Metil B12 Dilaltı Sprey 500 mcg",
@@ -11851,7 +11864,7 @@
         "slug": "sambucol-plus-kids-yummies-kara-murver-c-vitamini-cinko-60-tablet",
         "brand": "Sambucol",
         "price": 939.0,
-        "discount_price": 712.0,
+        "discount_price": 771.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
@@ -12095,7 +12108,7 @@
           "Multivitamin",
           "Hamile Vitamini"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Elenatal 2 Kapsül Multivitamin Mineral ve Omega 3 Takviyesi 30 Kapsül",
@@ -12140,7 +12153,7 @@
           "Mineraller",
           "Multivitamin"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "GoodDay Minions Sıvı Takviye Arjinin Multivitamin Multimineral Fosfatidilserin 150 ml",
@@ -12386,7 +12399,7 @@
           "B Kompleks",
           "Vitaminler"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Ocean Daily One Energy (1+1 Paket)",
@@ -12398,7 +12411,7 @@
         "cats": [
           "Multivitamin"
         ],
-        "stock": 53
+        "stock": 52
       },
       {
         "name": "Ocean Daily One Energy Tablet 30 Tablet",
@@ -12411,7 +12424,7 @@
           "Vitamin ve Takviye",
           "Multivitamin"
         ],
-        "stock": 73
+        "stock": 71
       },
       {
         "name": "Ocean Daily One Energy Tablet Ginseng Multivitamin ve Mineral İçeren Takviye Edici Gıda 30 Tablet",
@@ -12430,7 +12443,7 @@
         "name": "Ocean Day2Day Gummies 60 Adet",
         "slug": "ocean-day2day-gummies-60-adet",
         "brand": "Ocean",
-        "price": 869.5,
+        "price": 984.5,
         "discount_price": 557.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6bb18213-b40e-44dd-8bf9-899cb6df1d70/image_1950.webp",
         "cats": [
@@ -12438,7 +12451,7 @@
           "Vitamin ve Takviye",
           "Çocuk Vitaminleri"
         ],
-        "stock": 1
+        "stock": 3
       },
       {
         "name": "Ocean VM Şurup Portakal Aromalı 150 ml Şişe",
@@ -12464,7 +12477,7 @@
           "Multivitamin",
           "Vitamin ve Takviye"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -13183,7 +13196,7 @@
           "Kuşburnu",
           "C Vitamini İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Naturalnest Immy Kara Mürver Beta Glukan C Vitamini Çinko Şurup 150 ml",
@@ -13212,7 +13225,7 @@
           "Kara Mürver (Sambucus)",
           "Çocuk Vitaminleri"
         ],
-        "stock": 12
+        "stock": 10
       },
       {
         "name": "Sambucol Kids Kara Mürver Sıvı C Vitamini Takviyesi 120 ml Şişe",
@@ -13277,7 +13290,7 @@
         "slug": "sambucol-plus-kids-yummies-kara-murver-c-vitamini-cinko-60-tablet",
         "brand": "Sambucol",
         "price": 939.0,
-        "discount_price": 712.0,
+        "discount_price": 771.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
@@ -13479,7 +13492,7 @@
           "C Vitamini",
           "C Vitamini İçeren Ürünler"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "GoodDay Vitelec Kapsül (C Vitamini Kuşburnu Mürver Koenzim Q10) 60 Kapsül",
@@ -13495,7 +13508,7 @@
           "Kuşburnu",
           "C Vitamini İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Juvera Vitamin C Cilt Tonu Dengeleyici ve Aydınlatıcı Serum 30 ml",
@@ -13697,7 +13710,7 @@
           "C Vitamini",
           "Erkek Multivitamin"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Ocean Efervit C Vitamini 20 Efervesan Tablet 2'li Kampanya Paketi",
@@ -13740,7 +13753,7 @@
         "cats": [
           "C Vitamini"
         ],
-        "stock": 73
+        "stock": 71
       },
       {
         "name": "Ocean Vitamin C-SR 30 Tablet",
@@ -13916,7 +13929,7 @@
         "slug": "sambucol-plus-kids-yummies-kara-murver-c-vitamini-cinko-60-tablet",
         "brand": "Sambucol",
         "price": 939.0,
-        "discount_price": 712.0,
+        "discount_price": 771.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
@@ -14252,7 +14265,7 @@
           "En Yeniler",
           "Beta Glukan"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "İmunol Sambucus Sıvı Form, Kara Mürver, C Vitamini, Çinko ve Üzüm Çekirdeği 150 ml",
@@ -14390,7 +14403,7 @@
           "C Vitamini",
           "C Vitamini İçeren Ürünler"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "GoodDay Vitelec Kapsül (C Vitamini Kuşburnu Mürver Koenzim Q10) 60 Kapsül",
@@ -14406,7 +14419,7 @@
           "Kuşburnu",
           "C Vitamini İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "La Roche Posay Pure Vitamin C Göz Kremi 15 ml",
@@ -14768,7 +14781,7 @@
         "slug": "sambucol-plus-kids-yummies-kara-murver-c-vitamini-cinko-60-tablet",
         "brand": "Sambucol",
         "price": 939.0,
-        "discount_price": 712.0,
+        "discount_price": 771.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eeb0281-b3b9-491d-996f-bb4d7803e1a4/image_1950.webp",
         "cats": [
           "Kara Mürver (Sambucus)",
@@ -15878,7 +15891,7 @@
           "Çocuk Diş Bakımı",
           "Diş Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
@@ -16462,7 +16475,7 @@
           "Diş Fırçası",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Curaprox Arayüz Fırçası 08 Primeplus 5'li",
@@ -17136,7 +17149,7 @@
           "L-Karnosin",
           "Bitkisel Takviyeler"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "GoodDay Fonksiyonel Tıp InsulEX 1 Saşe İnositol ve Bitki Ekstreleri 30 Saşe",
@@ -17240,7 +17253,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Kiperin Shenmush 30 Kapsül",
@@ -17351,7 +17364,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "New Life Ginvit LC Ginseng, L-Karnitin, Yeşil Çay, Guarana 30 Tablet",
@@ -17438,7 +17451,7 @@
           "Bitkisel Takviyeler",
           "Bromelain"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Ocean Capillus Men 60 Tablet",
@@ -17477,7 +17490,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 51
+        "stock": 50
       },
       {
         "name": "Ocean Cogniven 30 Kapsül",
@@ -17491,7 +17504,7 @@
           "Bitkisel Takviyeler",
           "Nootropik"
         ],
-        "stock": 20
+        "stock": 18
       },
       {
         "name": "Ocean Cogniven Şurup 150 ml & Sınav Seti Hediye",
@@ -17506,6 +17519,19 @@
           "Nootropik"
         ],
         "stock": 11
+      },
+      {
+        "name": "Ocean DIM Ultra 30 Tablet",
+        "slug": "ocean-dim-ultra-30-tablet",
+        "brand": "Ocean",
+        "price": 1284.5,
+        "discount_price": 1013.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d839391c-905f-4980-b062-da8c19f36455/image_1950.webp",
+        "cats": [
+          "Vitamin ve Takviye",
+          "Bitkisel Takviyeler"
+        ],
+        "stock": 12
       },
       {
         "name": "Ocean Green Tea 500 mg 60 Kapsül",
@@ -19158,7 +19184,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Capicade Güneş Kremi SPF50+ Yağlı Ciltler İçin 100 ml",
@@ -19255,7 +19281,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Capicade Sun Krem SPF50+ Hassas 100ml",
@@ -19270,7 +19296,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Capicade Sun Krem Yağlı Tinted SPF 50 50 ml",
@@ -19629,13 +19655,13 @@
         "name": "La Roche-Posay Anthelios UVAir SPF50+ Güneş Serumu 50 ml",
         "slug": "la-roche-posay-anthelios-uvair-spf50-serum-50-ml",
         "brand": "La Roche-Posay",
-        "price": 1298.0,
+        "price": 1277.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e643ccaf-0d9f-4e6b-9437-76934dcf6b54/image_1950.webp",
         "cats": [
           "SPF 50+"
         ],
-        "stock": 2
+        "stock": 4
       },
       {
         "name": "La Roche-Posay Cicaplast Baume B5+ SPF50 40 ml",
@@ -20850,7 +20876,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Capicade Güneş Kremi SPF50+ Yağlı Ciltler İçin 100 ml",
@@ -22660,7 +22686,7 @@
           "Balsam",
           "Onarıcı Kremler"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "La Roche-Posay Cicaplast Baume B5+ Yatıştırıcı Onarıcı Krem 100 ml",
@@ -22993,7 +23019,7 @@
           "Bakım Kremi",
           "Bakım Kremi"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "La Roche Posay Effaclar Duo+ M 40 ml Kampanyalı Fiyat",
@@ -23006,7 +23032,7 @@
           "Bakım Kremi",
           "Bakım Kremi"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "La Roche Posay Effaclar Duo+ M Akne ve Sivilce Kremi 40 ml",
@@ -23467,7 +23493,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Capicade Sun Krem Yağlı Tinted SPF 50 50 ml",
@@ -23992,7 +24018,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "Capicade Sun Krem Yağlı Tinted SPF 50 50 ml",
@@ -24329,7 +24355,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 14
+        "stock": 11
       },
       {
         "name": "Dolce Vera Pudra Ayakkabı Koku Önleyici 10 gr",
@@ -24359,7 +24385,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 14
+        "stock": 11
       },
       {
         "name": "Dolce Vera Pudra Ayakkabı Koku Önleyici 10 gr",
@@ -24427,7 +24453,7 @@
         "slug": "goodday-magnesium-plus-duo-tablet-magnezyum-bisglinat-ve-p5p-30-plus",
         "brand": "Goodday",
         "price": 949.0,
-        "discount_price": 475.0,
+        "discount_price": 582.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -24435,7 +24461,7 @@
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
-        "stock": 1
+        "stock": 10
       },
       {
         "name": "GoodDay Magnesium Plus Mag GT Tablet (Magnezyum L-Treonat ve Bisglisinat) 30 Tablet",
@@ -24449,7 +24475,7 @@
           "Magnezyum Bisglisinat",
           "Magnezyum L-Treonat"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -24616,20 +24642,6 @@
         "stock": 24
       },
       {
-        "name": "Microbon K Tablet Kalsiyum Magnezyum K Vitamini Takviyesi 30 Tablet",
-        "slug": "microbon-k-tablet-kalsiyum-magnezyum-k-vitamini-takviyesi-30-tablet",
-        "brand": "Microbon",
-        "price": 699.93,
-        "discount_price": 524.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82edc952-700a-4511-b1a8-9382b4c46fed/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kalsiyum",
-          "K Vitamini"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Moodify Safran Kapsül Safran Magnezyum Valerian B6 Vitamini Takviye Edici Gıda 30 Kapsül",
         "slug": "moodify-safran-kapsul-safran-magnezyum-valerian-b6-vitamini-30-kapsul",
         "brand": "Moodify",
@@ -24655,7 +24667,7 @@
           "Magnezyum",
           "B6 Vitamini"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "NBT Life Time Magnezyum Kapsül 60 Kapsül",
@@ -24775,7 +24787,7 @@
         "cats": [
           "Magnezyum"
         ],
-        "stock": 93
+        "stock": 90
       },
       {
         "name": "Ocean Extramag Bisglisinat 60 Tablet",
@@ -24961,7 +24973,7 @@
           "Magnezyum",
           "B6 Vitamini"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Sorvagen Magnezyum Malat Taurin B6 Vitamini PSP 60 Tablet",
@@ -25225,7 +25237,7 @@
           "Bebek Sağlık",
           "Probiyotik"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Kaleidon Kapsül 60 mg 20 Kapsül",
@@ -25483,7 +25495,7 @@
           "Probiyotik ve Prebiyotik",
           "Vitamin ve Takviye"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Trubiotic Probiyotik Mikroorganizma İçeren Sıvı Takviye Edici Gıda 8 ml",
@@ -25580,7 +25592,7 @@
         "slug": "goodday-exclusive-lipozomal-berberis-milk-thistle-artichoke-60-tablet",
         "brand": "Goodday",
         "price": 1399.0,
-        "discount_price": 1177.0,
+        "discount_price": 1258.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a2e40db0-a74f-4b93-b519-a465aa09fd11/image_1950.webp",
         "cats": [
           "Berberin (Kadın Tuzluğu)",
@@ -25588,7 +25600,7 @@
           "Vitamin ve Takviye",
           "Enginar"
         ],
-        "stock": 1
+        "stock": 4
       },
       {
         "name": "Ligone Milk Thistle Complex Kapsül Devedikeni Enginar Karahindiba Zerdeçal Takviyesi 60 Kapsül",
@@ -25677,7 +25689,7 @@
           "Bebek Sağlık",
           "Probiyotik"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Relactaz Damla Laktaz Enzimi Takviyesi 15 ml Şişe",
@@ -25787,7 +25799,7 @@
           "Vitamin ve Takviye",
           "Propolis"
         ],
-        "stock": 13
+        "stock": 11
       },
       {
         "name": "Bee'o Up Propolisli Ballı Çocuk Şurubu 150 ml",
@@ -26041,7 +26053,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 181
+        "stock": 179
       },
       {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
@@ -26527,7 +26539,7 @@
           "D Vitamini",
           "D Vitamini"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 400 IU 20 ml",
@@ -26540,7 +26552,7 @@
           "D Vitamini",
           "D Vitamini"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Orzax Ocean D3 Vitamini Sprey 600 IU 20 ml",
@@ -26552,7 +26564,7 @@
         "cats": [
           "D Vitamini"
         ],
-        "stock": 9
+        "stock": 5
       },
       {
         "name": "Orzax Ocean D3K2 Damla 2'li Avantaj Paketi",
@@ -26565,7 +26577,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 181
+        "stock": 179
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -27326,14 +27338,14 @@
         "slug": "bepanthol-derma-spf25-yuz-kremi-50-ml",
         "brand": "Bepanthol",
         "price": 899.9,
-        "discount_price": null,
+        "discount_price": 627.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5adb50af-6bea-4028-ad7f-272a5c883aa4/image_1950.webp",
         "cats": [
           "Hassas Cilt",
           "Yüz Kremi",
           "SPF’li Nemlendirici"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Bioderma Sebium Sensitive Hassas Akneye Eğilimli Cilt Kremi",
@@ -27743,7 +27755,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Atoderm Intensive Yatıştırıcı Balsam 500 ml",
@@ -27937,7 +27949,7 @@
           "Atopik ve Kuru Cilt",
           "Atopik Cilt Bakımı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Mustela Stelatopia Temizleme Yağı Atopik Ciltler İçin 500 ml",
@@ -28074,14 +28086,14 @@
         "slug": "bepanthol-derma-spf25-yuz-kremi-50-ml",
         "brand": "Bepanthol",
         "price": 899.9,
-        "discount_price": null,
+        "discount_price": 627.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5adb50af-6bea-4028-ad7f-272a5c883aa4/image_1950.webp",
         "cats": [
           "Hassas Cilt",
           "Yüz Kremi",
           "SPF’li Nemlendirici"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Mustela Hydra Bebe Nemlendirici Yüz Kremi Bebekler İçin 40 ml",
@@ -28145,14 +28157,14 @@
         "slug": "bepanthol-derma-spf25-yuz-kremi-50-ml",
         "brand": "Bepanthol",
         "price": 899.9,
-        "discount_price": null,
+        "discount_price": 627.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5adb50af-6bea-4028-ad7f-272a5c883aa4/image_1950.webp",
         "cats": [
           "Hassas Cilt",
           "Yüz Kremi",
           "SPF’li Nemlendirici"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Bioderma Hydrabio Perfecteur SPF30",
@@ -29593,7 +29605,7 @@
         "cats": [
           "Demir"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Orzax Ocean Microfer Demir Tablet Yetişkinler İçin 30 Tablet",
@@ -29669,7 +29681,7 @@
         "cats": [
           "Demir"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Solgar Gentle Iron Kolay Emilimli Demir 17 mg 90 Kapsül",
@@ -30360,7 +30372,7 @@
           "Saç Kremleri",
           "Saç Bakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Capicade Şampuan Yağlı 220 ml",
@@ -30855,7 +30867,7 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 10
+        "stock": 7
       },
       {
         "name": "Ducray Anaphase Chronic Şampuan 400 ml",
@@ -31568,7 +31580,7 @@
           "Bebek Şampuanı",
           "Bebek Banyo"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Mustela Yenidoğan Bebek Şampuanı 500 ml",
@@ -31687,7 +31699,7 @@
           "Bebek Şampuanı",
           "Bebek Banyo"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Sebamed Yenidoğan Şampuanı 500 ml",
@@ -31981,7 +31993,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
@@ -32171,7 +32183,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 11
+        "stock": 9
       },
       {
         "name": "CeraVe Moisturising Cream 340 gr",
@@ -32558,7 +32570,7 @@
           "Diş Fırçası",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Curaprox Arayüz Fırçası 08 Primeplus 5'li",
@@ -33898,7 +33910,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Atoderm Intensive Yatıştırıcı Balsam 500 ml",
@@ -33928,7 +33940,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "La Roche Posay Cicaplast Baume B5 Çok Amaçlı Onarıcı Balsam 40 ml",
@@ -33941,7 +33953,7 @@
           "Balsam",
           "Onarıcı Kremler"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Orzax SHINIQ Kuru, Çok Kuru ve Atopiye Eğilimli Ciltler için Nemlendirici Balsam",
@@ -35856,7 +35868,7 @@
           "Yağlı Saçlar İçin",
           "Katranlı"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Ducray Kelual DS Şampuan 100 ml",
@@ -35926,6 +35938,18 @@
           "Kepek Karşıtı"
         ],
         "stock": 1
+      },
+      {
+        "name": "Kadolin Şampuan Kepeğe Karşı Etkili 300 ml",
+        "slug": "kadolin-sampuan-kepege-karsi-etkili-300-ml",
+        "brand": "Kadolin",
+        "price": 800.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e880294-f944-42b2-b4bd-ae4e7acd2d7b/image_1950.webp",
+        "cats": [
+          "Kepek Karşıtı"
+        ],
+        "stock": 2
       },
       {
         "name": "Kelual DS Intensive Şampuan 100 ml",
@@ -37365,7 +37389,7 @@
           "Temizleme Köpüğü",
           "Temizleyici"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Bioderma Sebium Köpük Jel Yağlı Cilt Temizleyici 200 ml",
@@ -38023,7 +38047,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "La Roche Posay Lotion Apaisante Physiologic",
@@ -38479,7 +38503,7 @@
           "Göğüs Ucu Koruyucu",
           "Medikal Ürünler"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Wee Göğüs Pompası Manuel 752",
@@ -38687,7 +38711,7 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 10
+        "stock": 7
       },
       {
         "name": "Juvera Radix Dökülme Karşıtı Losyon Saç Güçlendirici 60 ml",
@@ -38771,7 +38795,7 @@
           "Yağlı Saçlar İçin",
           "Katranlı"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Capicade Şampuan Yağlı 220 ml",
@@ -39706,7 +39730,7 @@
           "Regl Dönemi",
           "İnositol (Myo & D-Chiro)"
         ],
-        "stock": 14
+        "stock": 10
       },
       {
         "name": "Profolmix Menoral Oral Toz 30 Saşe",
@@ -40004,7 +40028,7 @@
           "B Kompleks",
           "Vitaminler"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Ocean Biotin Complex 60 Tablet",
@@ -40442,7 +40466,7 @@
           "Bebek Sağlık",
           "Probiyotik"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "LIGONE Probiyotik Damla, 15 ml Şişe",
@@ -40696,7 +40720,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutrafarm Medobyocomplex-M Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
@@ -40710,7 +40734,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 2
+        "stock": 3
       },
       {
         "name": "Nutrafarm Medohbiotin 5 mg Tablet Biotin Takviyesi 60 Tablet",
@@ -40922,7 +40946,7 @@
           "Yağlı Saçlar İçin",
           "Katranlı"
         ],
-        "stock": 8
+        "stock": 7
       }
     ],
     "Tip 1 ve 3 Kolajen": [
@@ -41340,7 +41364,7 @@
           "Vitamin ve Takviye",
           "Alfa Lipoik Asit"
         ],
-        "stock": 12
+        "stock": 10
       },
       {
         "name": "Solgar Alpha Lipoic Acid 200 Mg 50 Kapsül",
@@ -41556,7 +41580,7 @@
           "Saç Kremleri",
           "Saç Bakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ducray Kertyol PSO Saç Bakım Kremi 100 ml",
@@ -41612,7 +41636,7 @@
           "Saç Kremleri",
           "Saç Bakımı"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Vichy Dercos Güclendirici Sac Kremi 200 ML",
@@ -42254,7 +42278,7 @@
           "Bitkisel Takviyeler",
           "Nootropik"
         ],
-        "stock": 20
+        "stock": 18
       },
       {
         "name": "Ocean Cogniven 30+6 Kapsül (%20 Daha Fazla)",
@@ -42498,7 +42522,7 @@
         "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-skin-renewing-retinol-serum-30-ml",
         "brand": "CeraVe",
-        "price": 2355.0,
+        "price": 1999.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
         "cats": [
@@ -42553,7 +42577,7 @@
         "cats": [
           "Seramid İçeren Ürünler"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Niasinamid İçeren Ürünler": [
@@ -42683,7 +42707,7 @@
         "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-skin-renewing-retinol-serum-30-ml",
         "brand": "CeraVe",
-        "price": 2355.0,
+        "price": 1999.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
         "cats": [
@@ -42764,7 +42788,7 @@
         "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-skin-renewing-retinol-serum-30-ml",
         "brand": "CeraVe",
-        "price": 2355.0,
+        "price": 1999.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
         "cats": [
@@ -42859,7 +42883,7 @@
         "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-skin-renewing-retinol-serum-30-ml",
         "brand": "CeraVe",
-        "price": 2355.0,
+        "price": 1999.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
         "cats": [
@@ -42900,7 +42924,7 @@
           "Antioksidan Serum",
           "Anti-Aging Serum"
         ],
-        "stock": 40
+        "stock": 38
       },
       {
         "name": "La Roche Posay Pure Vitamin C12 Serum Cilt Tonu Eşitleyici",
@@ -42989,7 +43013,7 @@
         "name": "CeraVe Retinol Serum 30 ml",
         "slug": "cerave-skin-renewing-retinol-serum-30-ml",
         "brand": "CeraVe",
-        "price": 2355.0,
+        "price": 1999.9,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
         "cats": [
@@ -43091,7 +43115,7 @@
           "Antioksidan Serum",
           "Anti-Aging Serum"
         ],
-        "stock": 40
+        "stock": 38
       },
       {
         "name": "La Roche Posay Pure Vitamin C12 Serum Cilt Tonu Eşitleyici",
@@ -43354,7 +43378,7 @@
           "Çocuk Vitaminleri",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Easyvit EasyFishoil Grow Balık Yağı Çiğnenebilir Jel Misket Limonu ve Çilek 30 Adet",
@@ -43922,7 +43946,7 @@
           "Omega 3",
           "Omega 3"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Karışık Meyve Aromalı Balık Yağı 150 ml Şişe",
@@ -43935,7 +43959,7 @@
           "Omega 3",
           "Omega 3"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Ocean Krill Yağı 30 Kapsül",
@@ -43960,7 +43984,7 @@
         "cats": [
           "Omega 3"
         ],
-        "stock": 7
+        "stock": 5
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -43988,7 +44012,7 @@
         "cats": [
           "Omega 3"
         ],
-        "stock": 8
+        "stock": 5
       },
       {
         "name": "Ocean Portakal Aromalı Balık Yağı, 150 ml",
@@ -44014,7 +44038,7 @@
           "Krill Yağı",
           "Omega 3"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Ocuvite Max Kapsül Omega 3 Lutein Zeaksantin Vitamin Ekstre Takviyesi 60 Kapsül",
@@ -44129,12 +44153,12 @@
         "slug": "orzax-ocean-plus-yuksek-epa-dha-balik-yagi-50-kapsul",
         "brand": "Orzax",
         "price": 949.5,
-        "discount_price": 647.0,
+        "discount_price": 507.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1bee314b-2325-4f36-b69f-2fa2d6cda628/image_1950.webp",
         "cats": [
           "Omega 3"
         ],
-        "stock": 37
+        "stock": 66
       },
       {
         "name": "Orzax Ocean Portakal Aromalı Balık Yağı Şurubu Çocuklar İçin 150 ml",
@@ -44552,7 +44576,7 @@
         "cats": [
           "L-Teanin"
         ],
-        "stock": 35
+        "stock": 33
       }
     ],
     "Ginkgo Biloba": [
@@ -44775,7 +44799,7 @@
           "Diş Fırçası",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Curaprox Arayüz Fırçası 08 Primeplus 5'li",
@@ -45473,7 +45497,7 @@
           "Vitamin ve Takviye",
           "B Kompleks"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Nutrafarm Medobyo Complex W Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
@@ -45487,7 +45511,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutrafarm Medobyocomplex-M Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
@@ -45501,7 +45525,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 2
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals B Kompleks Vitamin Takviyesi 60 Tablet",
@@ -45528,7 +45552,7 @@
           "B Kompleks",
           "Vitaminler"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Ocean Extramag Fibra Tablet, Magnezyum ve B Vitaminleri, 60 Tablet",
@@ -45642,7 +45666,7 @@
           "Vitamin ve Takviye",
           "Ginseng"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Pharmaton Vitality Ginseng İçeren Multivitamin 30 Tablet",
@@ -46161,7 +46185,7 @@
           "Kolonya",
           "Kolonya Sprey"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Selin Kolonya Pet Şişe Limon 200 ml",
@@ -46427,7 +46451,7 @@
           "Bebek Şampuanı",
           "Bebek Banyo"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Multi Tip Kolajen": [
@@ -47322,7 +47346,7 @@
           "Çocuk Diş Bakımı",
           "Diş Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
@@ -47474,7 +47498,7 @@
           "Çocuk Diş Bakımı",
           "Diş Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
@@ -48244,7 +48268,7 @@
           "Hamilelik ve Emzirme",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Ocean Mummy Yumuşak Kapsül 60 Adet",
@@ -48349,7 +48373,7 @@
           "Multivitamin",
           "Hamile Vitamini"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Elenatal 2 Kapsül Multivitamin Mineral ve Omega 3 Takviyesi 30 Kapsül",
@@ -48803,7 +48827,7 @@
         "cats": [
           "Yağ Asitleri"
         ],
-        "stock": 15
+        "stock": 12
       },
       {
         "name": "Solgar EFA Omega 3 6 9 Dengeli Yağ Asitleri 60 Kapsül",
@@ -48848,7 +48872,7 @@
           "Çocuk Vitaminleri",
           "Beta Glukan"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Firigus Kara Mürver Beta Glukan C Vitamini Takviyesi 100 ml",
@@ -48963,7 +48987,7 @@
           "En Yeniler",
           "Beta Glukan"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Hamile ve Emzirme Vitamini": [
@@ -48980,7 +49004,7 @@
           "Multivitamin",
           "Hamile Vitamini"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Elenatal 2 Kapsül Multivitamin Mineral ve Omega 3 Takviyesi 30 Kapsül",
@@ -49100,7 +49124,7 @@
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "NaturalNest Bromelain Plus 60 Kapsül",
@@ -49181,7 +49205,7 @@
           "Bitkisel Takviyeler",
           "Bromelain"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Ocean Bromelain Kapsül, 60 Kapsül",
@@ -49196,7 +49220,7 @@
           "Bitkisel Takviyeler",
           "Bromelain"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Orzax Ocean Bromelain 500 mg Ananas Enzimi 30 Kapsül",
@@ -49655,7 +49679,7 @@
           "Kolonya",
           "Kolonya Sprey"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Selin Kolonya Sprey Limon 150 ml",
@@ -49911,7 +49935,7 @@
           "C Vitamini",
           "Erkek Multivitamin"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -50336,7 +50360,7 @@
         "slug": "goodday-magnesium-plus-duo-tablet-magnezyum-bisglinat-ve-p5p-30-plus",
         "brand": "Goodday",
         "price": 949.0,
-        "discount_price": 475.0,
+        "discount_price": 582.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -50344,7 +50368,7 @@
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
-        "stock": 1
+        "stock": 10
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -50458,7 +50482,7 @@
           "Magnezyum",
           "B6 Vitamini"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nbtlife Saflıfe Kapsül, Safran Ekstresi, Glisin ve B6 Vitamini İçeren Takviye Edici Gıda 30 kapsül",
@@ -50570,7 +50594,7 @@
           "Magnezyum",
           "B6 Vitamini"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Sorvagen Magnezyum Malat Taurin B6 Vitamini PSP 60 Tablet",
@@ -51266,7 +51290,7 @@
           "Hormonal Denge",
           "Resveratrol"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
@@ -51321,7 +51345,7 @@
           "Hormonal Denge",
           "Resveratrol"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -51411,7 +51435,7 @@
           "Berberin (Kadın Tuzluğu)",
           "Berberin"
         ],
-        "stock": 65
+        "stock": 64
       },
       {
         "name": "Nbtlife Berliv Kapsül Lipozomal Berberis Vulgaris Silybum Marianum ve Fosfotidilkolin İçeren Takviye Edici Gıda 30 Kapsül",
@@ -51571,7 +51595,7 @@
           "Hormonal Denge",
           "Resveratrol"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
@@ -51894,7 +51918,7 @@
           "Selenyum",
           "Antioksidanlar"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Orzax Ocean Selenyum 200 mcg Yüksek Doz 60 Tablet",
@@ -51907,7 +51931,7 @@
           "Selenyum",
           "Antioksidanlar"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -52112,7 +52136,7 @@
           "L-Karnosin",
           "Bitkisel Takviyeler"
         ],
-        "stock": 17
+        "stock": 16
       }
     ],
     "Krom": [
@@ -52256,7 +52280,7 @@
         "slug": "goodday-exclusive-lipozomal-berberis-milk-thistle-artichoke-60-tablet",
         "brand": "Goodday",
         "price": 1399.0,
-        "discount_price": 1177.0,
+        "discount_price": 1258.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a2e40db0-a74f-4b93-b519-a465aa09fd11/image_1950.webp",
         "cats": [
           "Berberin (Kadın Tuzluğu)",
@@ -52264,7 +52288,7 @@
           "Vitamin ve Takviye",
           "Enginar"
         ],
-        "stock": 1
+        "stock": 4
       },
       {
         "name": "Ligone Milk Thistle Complex Kapsül Devedikeni Enginar Karahindiba Zerdeçal Takviyesi 60 Kapsül",
@@ -52380,7 +52404,7 @@
         "slug": "goodday-magnesium-plus-duo-tablet-magnezyum-bisglinat-ve-p5p-30-plus",
         "brand": "Goodday",
         "price": 949.0,
-        "discount_price": 475.0,
+        "discount_price": 582.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -52388,7 +52412,7 @@
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
-        "stock": 1
+        "stock": 10
       },
       {
         "name": "GoodDay Magnesium Plus Mag GT Tablet (Magnezyum L-Treonat ve Bisglisinat) 30 Tablet",
@@ -52402,7 +52426,7 @@
           "Magnezyum Bisglisinat",
           "Magnezyum L-Treonat"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -52496,7 +52520,7 @@
         "slug": "goodday-magnesium-plus-duo-tablet-magnezyum-bisglinat-ve-p5p-30-plus",
         "brand": "Goodday",
         "price": 949.0,
-        "discount_price": 475.0,
+        "discount_price": 582.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
         "cats": [
           "Magnezyum",
@@ -52504,7 +52528,7 @@
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
-        "stock": 1
+        "stock": 10
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Malat Saşe 30 Saşe",
@@ -52630,7 +52654,7 @@
           "Magnezyum Bisglisinat",
           "Magnezyum L-Treonat"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "Orzax Ocean Extramag Threog Magnezyum L-Treonat 60 Tablet",
@@ -52887,7 +52911,7 @@
           "Kuşburnu",
           "C Vitamini İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "LIGONE R-Alfa Lipoik Asit ve Koenzim Q10 Kapsül, 60 Kapsül",
@@ -53153,7 +53177,7 @@
           "Kuşburnu",
           "C Vitamini İçeren Ürünler"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "Solgar C Vitamini Kuşburnu 100 Tablet",
@@ -53299,7 +53323,7 @@
         "slug": "goodday-exclusive-lipozomal-berberis-milk-thistle-artichoke-60-tablet",
         "brand": "Goodday",
         "price": 1399.0,
-        "discount_price": 1177.0,
+        "discount_price": 1258.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a2e40db0-a74f-4b93-b519-a465aa09fd11/image_1950.webp",
         "cats": [
           "Berberin (Kadın Tuzluğu)",
@@ -53307,7 +53331,7 @@
           "Vitamin ve Takviye",
           "Enginar"
         ],
-        "stock": 1
+        "stock": 4
       },
       {
         "name": "Ligone Berberis Vulgaris Kapsül Kadın Tuzluğu Takviyesi 60 Kapsül",
@@ -53320,7 +53344,7 @@
           "Berberin (Kadın Tuzluğu)",
           "Berberin"
         ],
-        "stock": 65
+        "stock": 64
       },
       {
         "name": "NBTLIFE Cleanlife Kapsül, Kadın Tuzluğu, Pelinotu ve Bal Kabağı 60 Kapsül",
@@ -54069,7 +54093,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutrafarm Medobyocomplex-M Kapsül B Vitaminleri Biotin Takviyesi 60 Kapsül",
@@ -54083,7 +54107,7 @@
           "Biotin (B7 Vitamini)",
           "B Vitaminleri"
         ],
-        "stock": 2
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitamin B12 Sprey 15 ml",
@@ -55057,173 +55081,6 @@
         "stock": 4
       }
     ],
-    "Kalsiyum": [
-      {
-        "name": "Microbon K Tablet Kalsiyum Magnezyum K Vitamini Takviyesi 30 Tablet",
-        "slug": "microbon-k-tablet-kalsiyum-magnezyum-k-vitamini-takviyesi-30-tablet",
-        "brand": "Microbon",
-        "price": 699.93,
-        "discount_price": 524.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82edc952-700a-4511-b1a8-9382b4c46fed/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kalsiyum",
-          "K Vitamini"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
-        "slug": "ocean-osteofine-tablet-kalsiyum-magnezyum-cinko-ve-d-vitamini-60-table",
-        "brand": "Ocean",
-        "price": 649.5,
-        "discount_price": 333.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e5ebaa21-1314-447c-a3f2-28ab82292810/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "D Vitamini",
-          "Kalsiyum",
-          "Çinko"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Solgar Calcium 600 (Oyster Shell) with Vitamin D3 60 Tablet",
-        "slug": "solgar-calcium-600-oyster-shell-with-vitamin-d3-60-tablet",
-        "brand": "Solgar",
-        "price": 494.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8aa3ed00-14d9-434e-9afa-1dc42b33c6aa/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "Kalsiyum"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Calcium Citrate with Vitamin D3 Tablet 60 Tablet",
-        "slug": "solgar-calcium-citrate-with-vitamin-d3-tablet-60-tablet",
-        "brand": "Solgar",
-        "price": 512.5,
-        "discount_price": 438.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d79783c2-4147-4b42-bf68-605da1abdbda/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Kalsiyum",
-          "Vitaminler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Calcium Magnesium Plus Boron Tablet 100 Tablet",
-        "slug": "solgar-calcium-magnesium-plus-boron-tablet-100-tablet",
-        "brand": "Solgar",
-        "price": 606.9,
-        "discount_price": 518.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e89ef78-db47-4616-a656-daa35f1ea7b9/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Magnezyum",
-          "Vitamin ve Takviye",
-          "Kalsiyum"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Calcium Magnesium with Vitamin D3 Tablet 150 Tablet",
-        "slug": "solgar-calcium-magnesium-with-vitamin-d3-tablet-150-tablet",
-        "brand": "Solgar",
-        "price": 1020.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7ed996c2-9f1b-4420-bcfa-f84652bbc050/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Magnezyum",
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Kalsiyum",
-          "Vitaminler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
-        "slug": "solgar-kalsiyum-magnezyum-cinko-100-tablet",
-        "brand": "Solgar",
-        "price": 645.5,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/07b00066-05e0-40ff-a14e-7c4f0ad16006/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kalsiyum",
-          "Çinko"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Vitabiotics Osteocare Original Tablet 30 Tablet",
-        "slug": "vitabiotics-osteocare-original-tablet-30-tablet",
-        "brand": "Vitabiotics",
-        "price": 669.1,
-        "discount_price": 543.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b9e40cc-877a-4620-aed2-a6d8e64babab/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "D Vitamini",
-          "Kalsiyum",
-          "Çinko"
-        ],
-        "stock": 20
-      },
-      {
-        "name": "Vitabiotics Osteocare Original Tablet 90 Tablet",
-        "slug": "vitabiotics-osteocare-original-tablet-90-tablet",
-        "brand": "Vitabiotics",
-        "price": 1339.56,
-        "discount_price": 1173.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b9e40cc-877a-4620-aed2-a6d8e64babab/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "D Vitamini",
-          "Kalsiyum",
-          "Çinko"
-        ],
-        "stock": 5
-      }
-    ],
-    "K Vitamini": [
-      {
-        "name": "Microbon K Tablet Kalsiyum Magnezyum K Vitamini Takviyesi 30 Tablet",
-        "slug": "microbon-k-tablet-kalsiyum-magnezyum-k-vitamini-takviyesi-30-tablet",
-        "brand": "Microbon",
-        "price": 699.93,
-        "discount_price": 524.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/82edc952-700a-4511-b1a8-9382b4c46fed/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Kalsiyum",
-          "K Vitamini"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
-        "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
-        "brand": "Orzax",
-        "price": 494.5,
-        "discount_price": 407.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c725cb72-5708-4d95-920e-819daa9598cb/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "K2 Vitamini",
-          "D Vitamini",
-          "K Vitamini"
-        ],
-        "stock": 4
-      }
-    ],
     "Kediotu (Valerian)": [
       {
         "name": "Miraderm Passiflora Valerian Vitamin Takviye Edici Gıda 30 Kapsül",
@@ -55584,7 +55441,7 @@
           "Bebek Şampuanı",
           "Bebek Banyo"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Mustela Stelatopia Lipid Yenileyici Krem Atopik Ciltler İçin 300 ml",
@@ -55597,7 +55454,7 @@
           "Atopik ve Kuru Cilt",
           "Atopik Cilt Bakımı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "b-good Nemlendirici Vücut Kremi Atopik Ciltler Bebek ve Çocuk 150 ml",
@@ -55996,7 +55853,7 @@
           "Krill Yağı",
           "Omega 3"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Orzax Ocean Krill Yağı Omega 3 Fosfolipid 500 mg 30 Kapsül",
@@ -56156,7 +56013,7 @@
           "Selenyum",
           "Antioksidanlar"
         ],
-        "stock": 4
+        "stock": 2
       },
       {
         "name": "Orzax Ocean Selenyum 200 mcg Yüksek Doz 60 Tablet",
@@ -56169,7 +56026,7 @@
           "Selenyum",
           "Antioksidanlar"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
@@ -56646,6 +56503,23 @@
         "stock": 1
       }
     ],
+    "K Vitamini": [
+      {
+        "name": "Ocean D3K2 Damla, D3 Vitamini ve K2 Vitamini İçeren Takviye Edici Gıda 20ml şişe",
+        "slug": "ocean-d3k2-damla-d3-vitamini-ve-k2-vitamini-iceren-takviye-edici-gida",
+        "brand": "Orzax",
+        "price": 494.5,
+        "discount_price": 407.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c725cb72-5708-4d95-920e-819daa9598cb/image_1950.webp",
+        "cats": [
+          "D Vitamini",
+          "K2 Vitamini",
+          "D Vitamini",
+          "K Vitamini"
+        ],
+        "stock": 4
+      }
+    ],
     "Laktaz (Lactase)": [
       {
         "name": "Ocean Enzymes Lactase Oral Damla 20 ml",
@@ -56684,7 +56558,7 @@
         "cats": [
           "Sindirim Enzimleri"
         ],
-        "stock": 17
+        "stock": 14
       },
       {
         "name": "Velavit V-Probiotics Enzim İnülin Zencefil İçeren Probiyotik 30 Kapsül",
@@ -56824,7 +56698,7 @@
           "Hamilelik ve Emzirme",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Osende 2M Ağızda Dağılan Tablet Metilfolat Metilkobalamin Takviyesi 30 Tablet",
@@ -56872,6 +56746,128 @@
           "B Vitaminleri"
         ],
         "stock": 1
+      }
+    ],
+    "Kalsiyum": [
+      {
+        "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
+        "slug": "ocean-osteofine-tablet-kalsiyum-magnezyum-cinko-ve-d-vitamini-60-table",
+        "brand": "Ocean",
+        "price": 649.5,
+        "discount_price": 333.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e5ebaa21-1314-447c-a3f2-28ab82292810/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "D Vitamini",
+          "Kalsiyum",
+          "Çinko"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Solgar Calcium 600 (Oyster Shell) with Vitamin D3 60 Tablet",
+        "slug": "solgar-calcium-600-oyster-shell-with-vitamin-d3-60-tablet",
+        "brand": "Solgar",
+        "price": 494.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8aa3ed00-14d9-434e-9afa-1dc42b33c6aa/image_1950.webp",
+        "cats": [
+          "D Vitamini",
+          "Kalsiyum"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Solgar Calcium Citrate with Vitamin D3 Tablet 60 Tablet",
+        "slug": "solgar-calcium-citrate-with-vitamin-d3-tablet-60-tablet",
+        "brand": "Solgar",
+        "price": 512.5,
+        "discount_price": 438.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d79783c2-4147-4b42-bf68-605da1abdbda/image_1950.webp",
+        "cats": [
+          "Mineraller",
+          "Vitamin ve Takviye",
+          "D Vitamini",
+          "Kalsiyum",
+          "Vitaminler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Solgar Calcium Magnesium Plus Boron Tablet 100 Tablet",
+        "slug": "solgar-calcium-magnesium-plus-boron-tablet-100-tablet",
+        "brand": "Solgar",
+        "price": 606.9,
+        "discount_price": 518.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e89ef78-db47-4616-a656-daa35f1ea7b9/image_1950.webp",
+        "cats": [
+          "Mineraller",
+          "Magnezyum",
+          "Vitamin ve Takviye",
+          "Kalsiyum"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Calcium Magnesium with Vitamin D3 Tablet 150 Tablet",
+        "slug": "solgar-calcium-magnesium-with-vitamin-d3-tablet-150-tablet",
+        "brand": "Solgar",
+        "price": 1020.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7ed996c2-9f1b-4420-bcfa-f84652bbc050/image_1950.webp",
+        "cats": [
+          "Mineraller",
+          "Magnezyum",
+          "Vitamin ve Takviye",
+          "D Vitamini",
+          "Kalsiyum",
+          "Vitaminler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
+        "slug": "solgar-kalsiyum-magnezyum-cinko-100-tablet",
+        "brand": "Solgar",
+        "price": 645.5,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/07b00066-05e0-40ff-a14e-7c4f0ad16006/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Kalsiyum",
+          "Çinko"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Vitabiotics Osteocare Original Tablet 30 Tablet",
+        "slug": "vitabiotics-osteocare-original-tablet-30-tablet",
+        "brand": "Vitabiotics",
+        "price": 669.1,
+        "discount_price": 543.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b9e40cc-877a-4620-aed2-a6d8e64babab/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "D Vitamini",
+          "Kalsiyum",
+          "Çinko"
+        ],
+        "stock": 20
+      },
+      {
+        "name": "Vitabiotics Osteocare Original Tablet 90 Tablet",
+        "slug": "vitabiotics-osteocare-original-tablet-90-tablet",
+        "brand": "Vitabiotics",
+        "price": 1339.56,
+        "discount_price": 1173.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b9e40cc-877a-4620-aed2-a6d8e64babab/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "D Vitamini",
+          "Kalsiyum",
+          "Çinko"
+        ],
+        "stock": 5
       }
     ],
     "Pikolinat (Picolinate)": [
@@ -57223,7 +57219,7 @@
           "Regl Dönemi",
           "İnositol (Myo & D-Chiro)"
         ],
-        "stock": 14
+        "stock": 10
       }
     ],
     "İnositol (Myo & D-Chiro)": [
@@ -57239,7 +57235,7 @@
           "Regl Dönemi",
           "İnositol (Myo & D-Chiro)"
         ],
-        "stock": 14
+        "stock": 10
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -58325,7 +58321,7 @@
           "Çocuk Diş Bakımı",
           "Diş Bakımı"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Rocs Junior Gökkuşağı Meyve Aromalı Çocuk Diş Macunu (6-12 Yaş)",
@@ -60085,7 +60081,7 @@
           "Göğüs Ucu Koruyucu",
           "Medikal Ürünler"
         ],
-        "stock": 4
+        "stock": 3
       }
     ],
     "Göğüs Pedi": [
@@ -60405,7 +60401,7 @@
           "Vitamin ve Takviye",
           "En Yeniler"
         ],
-        "stock": 13
+        "stock": 11
       },
       {
         "name": "İmunol Kapsül Beta Glukan C Vitamini Takviyesi 40 Kapsül",
@@ -60419,7 +60415,7 @@
           "En Yeniler",
           "Beta Glukan"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "İntramag Day & Night Tablet Takviye Edici Gıda Seti 30+30 Tablet",
@@ -60456,7 +60452,7 @@
   "stats": {
     "total_products": 4207,
     "total_categories": 574,
-    "generated": "2026-10-30 15:00",
+    "generated": "2026-10-30 19:00",
     "source": "ikas_api_live"
   }
 }
