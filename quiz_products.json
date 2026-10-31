@@ -11206,7 +11206,7 @@
         "cats": [
           "B12 Vitamini"
         ],
-        "stock": 14
+        "stock": 12
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 5 ml Şişe",
@@ -13753,7 +13753,7 @@
         "cats": [
           "C Vitamini"
         ],
-        "stock": 71
+        "stock": 68
       },
       {
         "name": "Ocean Vitamin C-SR 30 Tablet",
@@ -15703,7 +15703,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -26053,7 +26053,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 179
+        "stock": 178
       },
       {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
@@ -26577,7 +26577,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 179
+        "stock": 178
       },
       {
         "name": "Orzax Ocean D3K2 Damla 20 ml",
@@ -44187,18 +44187,6 @@
         "stock": 12
       },
       {
-        "name": "Orzax Ocean Saf Balık Yağı Omega 3 EPA DHA 500 mg 60 Kapsül",
-        "slug": "orzax-ocean-saf-balik-yagi-omega-3-epa-dha-500-mg-60-kapsul",
-        "brand": "Orzax",
-        "price": 374.5,
-        "discount_price": 230.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d21f912e-e182-4709-87e8-89492fe393b2/image_1950.webp",
-        "cats": [
-          "Omega 3"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Peptiline Kapsül, Kollajen Peptit, Krill Yaği, Astaksantin, Buğday Yaği, E Vitamini, C Vitamini ve Omega 3 İçeren Takviye Edici Gıda 60 Kapsül",
         "slug": "peptiline-kapsul-kollajen-peptit-krill-yagi-astaksantin-bugday-yagi-e",
         "brand": "Peptiline",
@@ -45357,7 +45345,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Parodontax Diş Macunu Ferah Tam Koruma 75 ml",
@@ -60450,9 +60438,9 @@
     ]
   },
   "stats": {
-    "total_products": 4207,
+    "total_products": 4206,
     "total_categories": 574,
-    "generated": "2026-10-30 19:00",
+    "generated": "2026-10-31 07:10",
     "source": "ikas_api_live"
   }
 }

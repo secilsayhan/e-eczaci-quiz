@@ -626,7 +626,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
     <div class="step" id="step2">
       <div class="step-header">
         <div class="step-title">Hangi konularda destek arıyorsunuz?</div>
-        <div class="step-subtitle">Size özel planını bu seçimlere göre oluşturacağız</div>
+        <div class="step-subtitle">Size özel planınızı bu seçimlere göre oluşturacağız</div>
         <div class="step-multi-hint">&#10003; Birden fazla seçebilirsiniz</div>
       </div>
       <div class="options multi" id="needOptions"></div>
@@ -699,8 +699,8 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
         </div>
         <!-- KAN TESTİ: backend canlı (Railway /api/analiz/bloodtest) -->
         <div style="margin-top:16px;padding:14px;border:1.5px dashed #cdeede;border-radius:12px;background:#f8fcfa;text-align:left;">
-          <div style="font-size:13px;font-weight:800;color:#0a4c32;margin-bottom:3px;">Kan tahlilin var mı? <span style="font-weight:600;color:#6b7280;">(opsiyonel)</span></div>
-          <div style="font-size:12px;color:#4b5563;margin-bottom:9px;line-height:1.45;">Güncel tahlilini yükle, sonuçlarına göre planını daha da kişiselleştirelim. Bu bir tanı değildir; lütfen hekimine danış. Görselin saklanmaz, yalnızca anlık analiz edilir.</div>
+          <div style="font-size:13px;font-weight:800;color:#0a4c32;margin-bottom:3px;">Kan tahliliniz var mı? <span style="font-weight:600;color:#6b7280;">(opsiyonel)</span></div>
+          <div style="font-size:12px;color:#4b5563;margin-bottom:9px;line-height:1.45;">Güncel tahlilinizi yükleyin, sonuçlarına göre planınızı daha da kişiselleştirelim. Bu bir tanı değildir; lütfen hekiminize danışınız. Görseliniz saklanmaz, yalnızca anlık analiz edilir.</div>
           <input type="file" id="bloodInput" accept="image/*" onchange="onBloodFile(this)" style="display:none">
           <button type="button" onclick="document.getElementById('bloodInput').click()" id="bloodBtn" style="display:inline-flex;align-items:center;gap:6px;background:#fff;border:1.5px solid #0a4c32;color:#0a4c32;font-weight:700;font-size:13px;padding:9px 16px;border-radius:10px;cursor:pointer;font-family:var(--font);">&#128206; Tahlil fotoğrafı yükleyin</button>
           <div id="bloodStatus" style="font-size:12px;margin-top:9px;line-height:1.45;"></div>
@@ -740,7 +740,7 @@ body{font-family:var(--font);background:var(--bg);color:var(--text);line-height:
       <div id="bundleUpsell" style="display:none;margin:20px 0;"></div>
       <div id="crossSellSection" style="display:none;margin:20px 0;"></div>
       <div class="bundle-cta" id="bundleCta">
-        <p>Bu öneriler tam size göre, hedef ve ihtiyaçlarınıza göre hazırlandı. Sağlıklı ve enerjik halinize bugün başlayın.</p>
+        <p>Bu öneriler tam size göre, hedef ve ihtiyaçlarınıza göre hazırlandı.</p>
         <a class="bundle-btn" id="bundleBtn" href="#" target="_blank">
           <svg width="20" height="20" viewBox="0 0 24 24" fill="#fff"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347z"/><path d="M12 0C5.373 0 0 5.373 0 12c0 2.625.846 5.059 2.284 7.034L.789 23.492a.5.5 0 00.612.638l4.702-1.36A11.95 11.95 0 0012 24c6.627 0 12-5.373 12-12S18.627 0 12 0zm0 22c-2.143 0-4.144-.663-5.787-1.8l-.404-.27-2.793.807.84-2.66-.296-.432A9.96 9.96 0 012 12C2 6.486 6.486 2 12 2s10 4.486 10 10-4.486 10-10 10z"/></svg>
           WhatsApp'tan Sipariş Ver
@@ -898,11 +898,11 @@ function onBloodFile(input){
         state.bloodCats=d.categories||[];
         let m='';
         if(state.bloodCats.length) m='<span style="color:#0a4c32;font-weight:700;">&#10003; '+(d.labels||[]).join(', ')+' planına eklendi</span>';
-        if(d.refer_doctor) m+=(m?'<br>':'')+'<span style="color:#b45309;">Bazı değerler için lütfen hekimine danış.</span>';
+        if(d.refer_doctor) m+=(m?'<br>':'')+'<span style="color:#b45309;">Bazı değerler için lütfen hekiminize danışınız.</span>';
         st.innerHTML=m;
         trackEvent('bloodtest_used',{count:state.bloodCats.length});
       }else if(d&&d.success&&!d.read){
-        state.bloodCats=[]; st.style.color='#b45309'; st.textContent='Tahlil okunamadı — daha net bir fotoğraf dene.';
+        state.bloodCats=[]; st.style.color='#b45309'; st.textContent='Tahlil okunamadı — daha net bir fotoğraf deneyin.';
       }else{
         state.bloodCats=[]; st.style.color='#4b5563'; st.textContent='Belirgin bir eksiklik görünmedi.';
       }
@@ -1487,7 +1487,7 @@ function showLoading(){
     '&#128161; Günde en az 2 litre su içmek, takviye emilimini artırır.',
     '&#128161; Vitaminleri sabah kahvaltıdan sonra almak emilimi artırır.',
     '&#128161; D vitamini yağlı yemeklerle alındığında daha iyi emilir.',
-    '&#128161; Probiyotikleri aç karna almak daha etkilidir.',
+    '&#128161; Probiyotikleri ürün etiketindeki kullanım şekline göre alın.',
     '&#128161; Omega 3 düzenli kullanımda 8 haftada fark yaratır.',
   ];
   const tip=tips[Math.floor(Math.random()*tips.length)];
@@ -2411,7 +2411,7 @@ function recomputePlan(){
     const active=plan.tier===key;
     const f=features.map(x=>'<div style="display:flex;gap:7px;align-items:flex-start;font-size:13px;color:#1a1a1a;margin-top:7px;line-height:1.35;"><span style="color:#16a34a;font-weight:800;flex-shrink:0;">&#10003;</span><span>'+x+'</span></div>').join('');
     return '<div onclick="selectTier(\''+key+'\')" style="cursor:pointer;border:2px solid '+(active?'#0a4c32':'#e5e7eb')+';background:'+(active?'#f0fdf4':'#fff')+';border-radius:16px;padding:18px;margin-bottom:12px;position:relative;transition:all .15s;'+(recommended&&active?'box-shadow:0 6px 20px rgba(10,76,50,.15);':'')+'">'+
-      (recommended?'<div style="position:absolute;top:-10px;left:16px;background:#0a4c32;color:#fff;font-size:10px;font-weight:800;letter-spacing:.4px;padding:3px 12px;border-radius:12px;">EN ETK&#304;L&#304; &middot; &Ouml;NER&#304;LEN</div>':'')+
+      (recommended?'<div style="position:absolute;top:-10px;left:16px;background:#0a4c32;color:#fff;font-size:10px;font-weight:800;letter-spacing:.4px;padding:3px 12px;border-radius:12px;">&Ouml;NER&#304;LEN</div>':'')+
       '<div style="display:flex;justify-content:space-between;align-items:flex-start;gap:10px;">'+
         '<div><div style="font-size:18px;font-weight:800;color:'+(active?'#0a4c32':'#1a1a1a')+';">'+label+(active?' &#10003;':'')+'</div>'+
         '<div style="font-size:12px;color:#6b7280;margin-top:2px;">'+esc(subtitle)+'</div></div>'+
@@ -2431,16 +2431,15 @@ function recomputePlan(){
     tierSeg=document.createElement('div');
     tierSeg.style.cssText='margin-bottom:8px;';
     tierSeg.innerHTML=
-      tierCard('premium','Tam Plan','Maksimum etki için eksiksiz çözüm',pT,[
+      tierCard('premium','Tam Plan','Tüm hedefleriniz için eksiksiz paket',pT,[
         'Temel Plan’daki her şey dahil',
         '+'+extra+' tamamlayıcı ürün',
-        'Daha hızlı ve eksiksiz sonuç',
         'Kullanım talimatı hediye — sipariş sonrası WhatsApp ile'
       ],true,plan.premium)+
-      tierCard('value','Temel Plan','İhtiyaçların için sağlam başlangıç',vT,[
+      tierCard('value','Temel Plan','İhtiyaçlarınız için sade başlangıç',vT,[
         plan.value.length+' hedefe özel seçilmiş ürün',
         'Kullanım talimatı hediye — sipariş sonrası WhatsApp ile',
-        '2 aylık kür avantajı'
+        '2 aylık plan seçeneği'
       ],false,plan.value);
   }
 
@@ -2453,8 +2452,8 @@ function recomputePlan(){
   kurBar.style.cssText='display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 16px;margin-bottom:14px;border-radius:12px;transition:all .2s;background:'+(plan.kur?'linear-gradient(135deg,#f0fdf4,#ecfdf5)':'#fff')+';border:1.5px solid '+(plan.kur?'#16a34a':'#e5e7eb')+';';
   kurBar.innerHTML=
     '<div style="flex:1">'+
-      '<div style="font-size:14px;font-weight:800;color:#0a4c32;">K&uuml;r&uuml;n&uuml; tamamla &middot; 2 Ayl&#305;k Plan <span style="color:#16a34a;">%10 indirim</span></div>'+
-      '<div style="font-size:12px;color:#4b5563;margin-top:2px;">Tam ve kal&#305;c&#305; etki i&ccedil;in. Takviyeler etkisini genellikle 8-12 haftada g&ouml;sterir.'+((!plan.kur&&_delta>0)?(' <strong style="color:#0a4c32;">+'+fmt(_delta)+'</strong> ile 2 aya tamamla — %10 indirimli.'):(plan.kur?' <strong style="color:#0a4c32;">Eklendi &#10003; · %10 indirim uygulandı</strong>':''))+'</div>'+
+      '<div style="font-size:14px;font-weight:800;color:#0a4c32;">2 Ayl&#305;k Plan <span style="color:#16a34a;">%10 indirim</span></div>'+
+      '<div style="font-size:12px;color:#4b5563;margin-top:2px;">2 ayl&#305;k kullan&#305;m&#305; tek sipari&#351;te al&#305;n.'+((!plan.kur&&_delta>0)?(' <strong style="color:#0a4c32;">+'+fmt(_delta)+'</strong> ile 2 aya tamamlay&#305;n, %10 indirimli.'):(plan.kur?' <strong style="color:#0a4c32;">Eklendi &#10003; · %10 indirim uygulandı</strong>':''))+'</div>'+
     '</div>'+
     '<button id="kurToggle" onclick="toggleKur()" aria-pressed="'+plan.kur+'" style="position:relative;width:52px;height:30px;border:none;border-radius:20px;cursor:pointer;flex-shrink:0;transition:background .2s;background:'+(plan.kur?'#16a34a':'#cbd5e1')+';">'+
       '<span style="position:absolute;top:3px;left:'+(plan.kur?'25px':'3px')+';width:24px;height:24px;background:#fff;border-radius:50%;transition:left .2s;box-shadow:0 1px 3px rgba(0,0,0,.3);"></span>'+
@@ -2488,11 +2487,6 @@ function recomputePlan(){
   ben.innerHTML='<div style="font-size:12px;font-weight:800;color:#0a4c32;text-transform:uppercase;letter-spacing:.4px;margin-bottom:2px;">Planınız hangi hedeflerinize göre seçildi</div>'+rows;
   grid.appendChild(ben);
 
-  // Eğitici uyarı + teşvik: çoğu kişi doğal yolla yeterince alamıyor
-  const eduBox=document.createElement('div');
-  eduBox.style.cssText='margin:14px 0 4px;padding:14px 16px;background:linear-gradient(135deg,#fff8ec,#fffdf7);border:1px solid #f0e2c0;border-radius:12px;font-size:13px;color:#4a3f2a;line-height:1.55;';
-  eduBox.innerHTML='<span style="font-weight:800;color:#8a6d1f;">Çoğu kişinin farkında olmadığı bir gerçek:</span> D vitamini, omega-3, magnezyum gibi temel besinleri bugünün beslenmesi ve yaşam tarzıyla vücudunuzun ihtiyacı olan düzeyde almak çoğu zaman mümkün değil. Bu yüzden hedefli ve kaliteli takviye gerçek fark yaratır.';
-  grid.appendChild(eduBox);
 
   // (paket görselleri artık tier kartlarının İÇİNDE gösteriliyor)
 
