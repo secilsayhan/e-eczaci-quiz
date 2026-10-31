@@ -15703,7 +15703,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 5
+        "stock": 2
       },
       {
         "name": "Nurse Harvey's Dentigel 15 gr Jel",
@@ -43600,19 +43600,6 @@
         "stock": 1
       },
       {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
-        "brand": "Abdi İbrahim",
-        "price": 1065.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
-        "cats": [
-          "Omega 3",
-          "Resveratrol"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Lookvit Neo Kapsül Lipozomal Resveratrol Safran Astaksantin Balık Yağı Takviyesi 30 Kapsül",
         "slug": "lookvit-neo-lipozomal-resveratrol-safran-astaksantin-balik-yagi-30",
         "brand": "Abdi İbrahim",
@@ -45345,7 +45332,7 @@
           "Diş Macunu",
           "Diş Eti Bakımı"
         ],
-        "stock": 5
+        "stock": 2
       },
       {
         "name": "Parodontax Diş Macunu Ferah Tam Koruma 75 ml",
@@ -51581,19 +51568,6 @@
         "cats": [
           "DIM (Diindolilmetan)",
           "Hormonal Denge",
-          "Resveratrol"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Lookvit Kapsül Balık Yağı Lutein Zeaksantin Resveratrol Takviyesi 30 Kapsül",
-        "slug": "lookvit-kapsul-balik-yagi-lutein-zeaksantin-resveratrol-30-kapsul",
-        "brand": "Abdi İbrahim",
-        "price": 1065.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b155300c-ce52-4d9b-8b82-330ccfeef2d1/image_1950.webp",
-        "cats": [
-          "Omega 3",
           "Resveratrol"
         ],
         "stock": 2
@@ -60438,9 +60412,9 @@
     ]
   },
   "stats": {
-    "total_products": 4206,
+    "total_products": 4204,
     "total_categories": 574,
-    "generated": "2026-10-31 07:10",
+    "generated": "2026-10-31 11:57",
     "source": "ikas_api_live"
   }
 }
