@@ -4326,7 +4326,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 39
+        "stock": 38
       },
       {
         "name": "Newvit Demir Damla 100 ml",
@@ -9791,7 +9791,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 39
+        "stock": 38
       },
       {
         "name": "Newvit Demir Damla 100 ml",
@@ -11048,7 +11048,7 @@
           "B Kompleks",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 24
+        "stock": 22
       },
       {
         "name": "GoodDay Vitamin B12 Kapsül (Metilkobalamin ve Hidroksokobalamin) 60 Kapsül",
@@ -13765,7 +13765,7 @@
         "cats": [
           "C Vitamini"
         ],
-        "stock": 7
+        "stock": 5
       },
       {
         "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
@@ -24684,7 +24684,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 39
+        "stock": 38
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -26080,7 +26080,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Venatura D3K2 (1000 IU - 25 mcg) Yumuşak Kapsül 60 Kapsül",
@@ -26570,32 +26570,6 @@
         "stock": 19
       },
       {
-        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
-        "slug": "osende-vitamin-d3-1000-iu-oral-damla-d3-vitamini-iceren-takviye-edici",
-        "brand": "Osende",
-        "price": 350.0,
-        "discount_price": 111.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc0fa50-f1c3-48f7-ac26-5d290e5b95a9/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "D Vitamini"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
-        "slug": "osende-vitamin-d3-1000-iu-oral-damla-d3-vitamini-iceren-takviye-edici",
-        "brand": "Osende",
-        "price": 350.0,
-        "discount_price": 111.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2cc0fa50-f1c3-48f7-ac26-5d290e5b95a9/image_1950.webp",
-        "cats": [
-          "D Vitamini",
-          "D Vitamini"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Redoxon Efervesan Tablet C Vitamini D Vitamini Çinko Takviyesi 30 Tablet",
         "slug": "redoxon-efervesan-tablet-c-vitamini-d-vitamini-cinko-30-tablet",
         "brand": "Redoxon",
@@ -26766,7 +26740,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit V-Rapid Vit D Tablet 60 Tablet",
@@ -40629,7 +40603,7 @@
           "B Kompleks",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 24
+        "stock": 22
       },
       {
         "name": "Mx Pecia Tablet Saw Palmetto Biotin Çinko Keratin 60 Tablet",
@@ -42008,7 +41982,7 @@
           "B Kompleks",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 24
+        "stock": 22
       },
       {
         "name": "New Life B Active Trio B6 B12 Folik Asit Takviyesi 30 Tablet",
@@ -45423,7 +45397,7 @@
           "B Kompleks",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 24
+        "stock": 22
       },
       {
         "name": "Ligone Vitamin B Complex 30 Kapsül",
@@ -51241,7 +51215,7 @@
         "cats": [
           "DIM (Diindolilmetan)"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Velavit DIM Complex Tablet 30 Tablet",
@@ -60376,9 +60350,9 @@
     ]
   },
   "stats": {
-    "total_products": 4201,
+    "total_products": 4199,
     "total_categories": 574,
-    "generated": "2026-11-01 11:04",
+    "generated": "2026-11-01 15:00",
     "source": "ikas_api_live"
   }
 }
