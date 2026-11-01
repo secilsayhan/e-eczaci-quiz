@@ -4165,7 +4165,7 @@
           "Vitamin ve Takviye",
           "Alfa Lipoik Asit"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "Nbtlife Omegalife 2400 Combotech 60 Kapsül",
@@ -19587,18 +19587,6 @@
           "Leke Karşıtı"
         ],
         "stock": 5
-      },
-      {
-        "name": "La Roche Posay Anthelios UVmune 400 Invisible Fluid Spf 50 ml",
-        "slug": "la-roche-posay-anthelios-uvmune-400-invisible-fluid-spf-50-ml",
-        "brand": "La Roche-Posay",
-        "price": 1191.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25570479-71fd-4082-8ac7-14beeb46fcc1/image_1950.webp",
-        "cats": [
-          "SPF 50+"
-        ],
-        "stock": 1
       },
       {
         "name": "La Roche Posay Anthelios XL Ultra Light Sprey Güneş Kremi SPF50+ 200 ml",
@@ -41340,7 +41328,7 @@
           "Vitamin ve Takviye",
           "Alfa Lipoik Asit"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "Solgar Alpha Lipoic Acid 200 Mg 50 Kapsül",
@@ -60388,9 +60376,9 @@
     ]
   },
   "stats": {
-    "total_products": 4202,
+    "total_products": 4201,
     "total_categories": 574,
-    "generated": "2026-10-31 19:00",
+    "generated": "2026-11-01 07:00",
     "source": "ikas_api_live"
   }
 }
