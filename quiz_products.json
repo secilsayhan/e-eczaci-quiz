@@ -19430,7 +19430,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -19443,7 +19443,7 @@
           "SPF 50+",
           "SPF 50+"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Spf 50+ Tinted Yağsız Güneş Kremi Renkli",
@@ -60352,7 +60352,7 @@
   "stats": {
     "total_products": 4199,
     "total_categories": 574,
-    "generated": "2026-11-02 09:00",
+    "generated": "2026-11-02 11:15",
     "source": "ikas_api_live"
   }
 }
