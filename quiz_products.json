@@ -1024,7 +1024,7 @@
           "Doğal Sabunlar",
           "Dermatolojik Sabun"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Sebamed Clear Face Siyah Nokta Karşıtı Kompakt Sabun 100 gr",
@@ -4137,7 +4137,7 @@
           "Vitamin ve Takviye",
           "Alfa Lipoik Asit"
         ],
-        "stock": 8
+        "stock": 10
       },
       {
         "name": "Nbtlife Omegalife 2400 Combotech 60 Kapsül",
@@ -5259,21 +5259,6 @@
           "Vitaminler"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Calcium Magnesium Plus Boron Tablet 100 Tablet",
-        "slug": "solgar-calcium-magnesium-plus-boron-tablet-100-tablet",
-        "brand": "Solgar",
-        "price": 606.9,
-        "discount_price": 518.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e89ef78-db47-4616-a656-daa35f1ea7b9/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Magnezyum",
-          "Vitamin ve Takviye",
-          "Kalsiyum"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Calcium Magnesium with Vitamin D3 Tablet 150 Tablet",
@@ -9906,21 +9891,6 @@
           "Vitaminler"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Calcium Magnesium Plus Boron Tablet 100 Tablet",
-        "slug": "solgar-calcium-magnesium-plus-boron-tablet-100-tablet",
-        "brand": "Solgar",
-        "price": 606.9,
-        "discount_price": 518.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e89ef78-db47-4616-a656-daa35f1ea7b9/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Magnezyum",
-          "Vitamin ve Takviye",
-          "Kalsiyum"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Calcium Magnesium with Vitamin D3 Tablet 150 Tablet",
@@ -19519,6 +19489,18 @@
         "stock": 5
       },
       {
+        "name": "La Roche Posay Anthelios UVmune 400 Invisible Fluid Spf 50 ml",
+        "slug": "la-roche-posay-anthelios-uvmune-400-invisible-fluid-spf-50-ml",
+        "brand": "La Roche-Posay",
+        "price": 1191.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/25570479-71fd-4082-8ac7-14beeb46fcc1/image_1950.webp",
+        "cats": [
+          "SPF 50+"
+        ],
+        "stock": 1
+      },
+      {
         "name": "La Roche Posay Anthelios XL Ultra Light Sprey Güneş Kremi SPF50+ 200 ml",
         "slug": "la-roche-posay-anthelios-xl-ultra-light-sprey-spf50-plus-200-ml",
         "brand": "La Roche-Posay",
@@ -24655,7 +24637,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Ocean Extramag 120 Tablet",
@@ -24792,21 +24774,6 @@
           "Vitaminler"
         ],
         "stock": 3
-      },
-      {
-        "name": "Solgar Calcium Magnesium Plus Boron Tablet 100 Tablet",
-        "slug": "solgar-calcium-magnesium-plus-boron-tablet-100-tablet",
-        "brand": "Solgar",
-        "price": 606.9,
-        "discount_price": 518.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e89ef78-db47-4616-a656-daa35f1ea7b9/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Magnezyum",
-          "Vitamin ve Takviye",
-          "Kalsiyum"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Calcium Magnesium with Vitamin D3 Tablet 150 Tablet",
@@ -25873,7 +25840,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
@@ -26276,7 +26243,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
@@ -32263,7 +32230,7 @@
           "Doğal Sabunlar",
           "Dermatolojik Sabun"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Sebamed Baby Compact pH 5.5 Bebek Sabunu 100 gr",
@@ -39571,20 +39538,6 @@
         "stock": 10
       },
       {
-        "name": "Orzax Ocean Polysitol Miyoinositol D-Kiroinositol Takviye 30 Saşe",
-        "slug": "orzax-ocean-polysitol-miyoinositol-d-kiroinositol-takviye-30-sase",
-        "brand": "Orzax",
-        "price": 973.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Regl Dönemi",
-          "İnositol (Myo & D-Chiro)"
-        ],
-        "stock": 10
-      },
-      {
         "name": "Profolmix Menoral Oral Toz 30 Saşe",
         "slug": "profolmix-menoral-oral-toz-30-sase",
         "brand": "Profolmix",
@@ -41201,7 +41154,7 @@
           "Vitamin ve Takviye",
           "Alfa Lipoik Asit"
         ],
-        "stock": 8
+        "stock": 10
       },
       {
         "name": "Solgar Alpha Lipoic Acid 200 Mg 50 Kapsül",
@@ -53408,7 +53361,7 @@
           "Doğal Sabunlar",
           "Dermatolojik Sabun"
         ],
-        "stock": 7
+        "stock": 6
       }
     ],
     "Kulak Temizleyici": [
@@ -56508,21 +56461,6 @@
         "stock": 2
       },
       {
-        "name": "Solgar Calcium Magnesium Plus Boron Tablet 100 Tablet",
-        "slug": "solgar-calcium-magnesium-plus-boron-tablet-100-tablet",
-        "brand": "Solgar",
-        "price": 606.9,
-        "discount_price": 518.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3e89ef78-db47-4616-a656-daa35f1ea7b9/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Magnezyum",
-          "Vitamin ve Takviye",
-          "Kalsiyum"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Calcium Magnesium with Vitamin D3 Tablet 150 Tablet",
         "slug": "solgar-calcium-magnesium-with-vitamin-d3-tablet-150-tablet",
         "brand": "Solgar",
@@ -56918,55 +56856,6 @@
           "Glukomannan (Konjak)"
         ],
         "stock": 4
-      }
-    ],
-    "Regl Dönemi": [
-      {
-        "name": "Orzax Ocean Polysitol Miyoinositol D-Kiroinositol Takviye 30 Saşe",
-        "slug": "orzax-ocean-polysitol-miyoinositol-d-kiroinositol-takviye-30-sase",
-        "brand": "Orzax",
-        "price": 973.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Regl Dönemi",
-          "İnositol (Myo & D-Chiro)"
-        ],
-        "stock": 10
-      }
-    ],
-    "İnositol (Myo & D-Chiro)": [
-      {
-        "name": "Orzax Ocean Polysitol Miyoinositol D-Kiroinositol Takviye 30 Saşe",
-        "slug": "orzax-ocean-polysitol-miyoinositol-d-kiroinositol-takviye-30-sase",
-        "brand": "Orzax",
-        "price": 973.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
-        "cats": [
-          "Kadın",
-          "Regl Dönemi",
-          "İnositol (Myo & D-Chiro)"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
-        "slug": "proceive-f-sase-inositol-koenzim-q10-glutatyon-vitamin-mineral-30-sase",
-        "brand": "Orzax",
-        "price": 2340.0,
-        "discount_price": 2316.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "İnositol",
-          "İnositol (Myo & D-Chiro)",
-          "Hormonal Denge",
-          "Kadın Multivitamin",
-          "Glutatyon"
-        ],
-        "stock": 2
       }
     ],
     "Lansmana Özel": [
@@ -57675,6 +57564,25 @@
           "Primroz (Çuha Çiçeği) Yağı"
         ],
         "stock": 1
+      }
+    ],
+    "İnositol (Myo & D-Chiro)": [
+      {
+        "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
+        "slug": "proceive-f-sase-inositol-koenzim-q10-glutatyon-vitamin-mineral-30-sase",
+        "brand": "Orzax",
+        "price": 2340.0,
+        "discount_price": 2316.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
+        "cats": [
+          "Koenzim Q10",
+          "İnositol",
+          "İnositol (Myo & D-Chiro)",
+          "Hormonal Denge",
+          "Kadın Multivitamin",
+          "Glutatyon"
+        ],
+        "stock": 2
       }
     ],
     "Taurin": [
@@ -60164,9 +60072,9 @@
     ]
   },
   "stats": {
-    "total_products": 4186,
-    "total_categories": 574,
-    "generated": "2026-11-02 20:20",
+    "total_products": 4180,
+    "total_categories": 573,
+    "generated": "2026-11-03 08:24",
     "source": "ikas_api_live"
   }
 }
