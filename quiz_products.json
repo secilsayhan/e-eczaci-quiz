@@ -5036,7 +5036,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 9
+        "stock": 7
       },
       {
         "name": "Osende Koenzim QH Kapsül Ubikinol 30 Kapsül",
@@ -5302,18 +5302,6 @@
           "Kalsiyum",
           "Vitaminler"
         ],
-        "stock": 2
-      },
-      {
-        "name": "Solgar Choline Inositol Methionine Tablet 50 Tablet",
-        "slug": "solgar-choline-inositol-methionine-tablet-50-tablet",
-        "brand": "Solgar",
-        "price": 917.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fc260931-2bfb-4a0b-baf8-38f3b45f07c3/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
         "stock": 1
       },
       {
@@ -5424,7 +5412,7 @@
           "Vitaminler",
           "B Vitaminleri"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Milk Thistle 50 Kapsül",
@@ -7770,7 +7758,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "Capila Kükürtlü Sabun 90 gr",
@@ -9947,7 +9935,7 @@
           "Kalsiyum",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Chromium Picolinate 200 mcg",
@@ -11271,7 +11259,7 @@
           "Vitaminler",
           "B Vitaminleri"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Metilkobalamin B12 1000 mcg Dilaltı 30 Tablet",
@@ -18745,7 +18733,7 @@
           "Yüz Güneş Koruma",
           "Rozasea"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
@@ -23820,7 +23808,7 @@
           "Yüz Güneş Koruma",
           "Rozasea"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
@@ -24868,7 +24856,7 @@
           "Kalsiyum",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
@@ -26600,7 +26588,7 @@
           "Kalsiyum",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Vitamin D3 1000 IU (25 mcg) 100 Kapsül",
@@ -26885,7 +26873,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "CeraVe Moisturising Cream 340 gr",
@@ -27671,7 +27659,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "CeraVe Gelişmiş Onarıcı Bakım Kremi 88 ml",
@@ -28189,7 +28177,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "CeraVe Moisturising Cream 340 gr",
@@ -28703,21 +28691,6 @@
         "stock": 8
       },
       {
-        "name": "Blistex Lip Berry Balm SPF 15",
-        "slug": "blistex-lip-berry-balm-spf-15",
-        "brand": "Blistex",
-        "price": 244.0,
-        "discount_price": 140.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d8216e0d-3d25-4e59-8eee-a1d58099302f/image_1950.webp",
-        "cats": [
-          "SPF’li",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Blistex Lip Hassas Vazelin SPF15 7 ml",
         "slug": "blistex-lip-hassas-vazelin-spf15-7-ml",
         "brand": "Blistex",
@@ -29100,21 +29073,6 @@
           "Dudak Bakımı"
         ],
         "stock": 2
-      },
-      {
-        "name": "Blistex Lip Berry Balm SPF 15",
-        "slug": "blistex-lip-berry-balm-spf-15",
-        "brand": "Blistex",
-        "price": 244.0,
-        "discount_price": 140.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d8216e0d-3d25-4e59-8eee-a1d58099302f/image_1950.webp",
-        "cats": [
-          "SPF’li",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 1
       },
       {
         "name": "Blistex Lip Hassas Vazelin SPF15 7 ml",
@@ -29742,7 +29700,7 @@
           "Kepek Karşıtı",
           "Saç Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioxcin Genesis Karma Normal Saçlar Şampuan 3 Al 2 Öde",
@@ -29957,7 +29915,7 @@
           "Konak Bakımı",
           "Şampuan"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Pirdolin Şampuan",
@@ -30124,7 +30082,7 @@
           "Kepek Karşıtı",
           "Saç Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioxcin Genesis Karma Normal Saçlar Şampuan 3 Al 2 Öde",
@@ -31430,7 +31388,7 @@
           "Konak Bakımı",
           "Şampuan"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Sebamed Yenidoğan Şampuanı 500 ml",
@@ -32307,21 +32265,6 @@
           "Kişisel Bakım",
           "Dudak Stick",
           "Dudak Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Blistex Lip Berry Balm SPF 15",
-        "slug": "blistex-lip-berry-balm-spf-15",
-        "brand": "Blistex",
-        "price": 244.0,
-        "discount_price": 140.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d8216e0d-3d25-4e59-8eee-a1d58099302f/image_1950.webp",
-        "cats": [
-          "SPF’li",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
         ],
         "stock": 1
       },
@@ -33468,7 +33411,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 7
+        "stock": 6
       },
       {
         "name": "CeraVe Nemlendirici Losyon 473 ml",
@@ -35666,7 +35609,7 @@
           "Kepek Karşıtı",
           "Saç Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Nodé DS+ Şampuan 125 ml",
@@ -36056,7 +35999,7 @@
           "Yüz Güneş Koruma",
           "Rozasea"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
@@ -39572,21 +39515,6 @@
     ],
     "SPF’li": [
       {
-        "name": "Blistex Lip Berry Balm SPF 15",
-        "slug": "blistex-lip-berry-balm-spf-15",
-        "brand": "Blistex",
-        "price": 244.0,
-        "discount_price": 140.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d8216e0d-3d25-4e59-8eee-a1d58099302f/image_1950.webp",
-        "cats": [
-          "SPF’li",
-          "Kişisel Bakım",
-          "Dudak Bakımı",
-          "Onarıcı"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Blistex Lip Klasik SPF10 4,25 g",
         "slug": "blistex-lip-klasik-spf10-4-25-g",
         "brand": "Blistex",
@@ -39982,7 +39910,7 @@
           "Kalsiyum",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Ester-C Plus 500 mg 50 Kapsül",
@@ -40025,7 +39953,7 @@
           "Vitaminler",
           "B Vitaminleri"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Quercetin Complex with Ester-C Plus 50 Kapsül",
@@ -43435,7 +43363,7 @@
         "cats": [
           "Omega 3"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Möller's Omega 3 Balık Yağı Tutti Frutti Aromalı 150 ml",
@@ -44053,7 +43981,7 @@
         "cats": [
           "Omega 3"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Solgar Omega 3 950 mg Yüksek EPA DHA Balık Yağı 50 Kapsül",
@@ -53993,7 +53921,7 @@
           "Vitaminler",
           "B Vitaminleri"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -55012,7 +54940,7 @@
           "Kalsiyum",
           "Vitaminler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Kalsiyum Magnezyum Çinko 100 Tablet",
@@ -55392,34 +55320,6 @@
         "stock": 5
       }
     ],
-    "Konak Bakımı": [
-      {
-        "name": "Mustela Saç Pullanmalarına Karşı Bebek Kremi 40 ml",
-        "slug": "mustela-sac-pullanmalarina-karsi-bebek-kremi-40-ml",
-        "brand": "Mustela",
-        "price": 899.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ee5f53f6-7cab-404c-9291-5e00df476376/image_1950.webp",
-        "cats": [
-          "Konak Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Mustela Yenidoğan Şampuanı Konak Önleyici 150 ml",
-        "slug": "mustela-yenidogan-sampuani-konak-onleyici-150-ml",
-        "brand": "Mustela",
-        "price": 879.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/26ad99a8-eff6-4326-994c-2847f329b537/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Konak Bakımı",
-          "Şampuan"
-        ],
-        "stock": 2
-      }
-    ],
     "Atopik Cilt Bakımı": [
       {
         "name": "Mustela Stelatopia Bebek Şampuanı Atopik Ciltler İçin 500 ml",
@@ -55480,6 +55380,22 @@
           "Atopik ve Kuru Cilt"
         ],
         "stock": 2
+      }
+    ],
+    "Konak Bakımı": [
+      {
+        "name": "Mustela Yenidoğan Şampuanı Konak Önleyici 150 ml",
+        "slug": "mustela-yenidogan-sampuani-konak-onleyici-150-ml",
+        "brand": "Mustela",
+        "price": 879.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/26ad99a8-eff6-4326-994c-2847f329b537/image_1950.webp",
+        "cats": [
+          "Şampuanlar",
+          "Konak Bakımı",
+          "Şampuan"
+        ],
+        "stock": 1
       }
     ],
     "Balık Yağı ve Omega": [
@@ -60142,9 +60058,9 @@
     ]
   },
   "stats": {
-    "total_products": 4186,
+    "total_products": 4180,
     "total_categories": 573,
-    "generated": "2026-11-05 08:35",
+    "generated": "2026-11-05 15:00",
     "source": "ikas_api_live"
   }
 }
