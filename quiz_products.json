@@ -46025,7 +46025,7 @@
         "cats": [
           "Ağız Spreyi"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "TTO Ağız Spreyi 25 ml",
@@ -59156,7 +59156,7 @@
   "stats": {
     "total_products": 4127,
     "total_categories": 571,
-    "generated": "2026-11-06 11:10",
+    "generated": "2026-11-06 15:01",
     "source": "ikas_api_live"
   }
 }
