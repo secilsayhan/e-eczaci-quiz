@@ -13268,18 +13268,6 @@
       },
       {
         "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
-        "slug": "orzax-ocean-vitamin-c-1000-mg-30-tablet",
-        "brand": "Orzax",
-        "price": 474.5,
-        "discount_price": 259.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/687c3dae-7bc5-4580-895e-5763e8149c74/image_1950.webp",
-        "cats": [
-          "C Vitamini"
-        ],
-        "stock": 15
-      },
-      {
-        "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
         "slug": "orzax-ocean-c-vitamini-1000-mg-takviyesi-30-tablet",
         "brand": "Orzax",
         "price": 474.5,
@@ -13288,6 +13276,18 @@
         "cats": [
           "C Vitamini",
           "Çok Satanlar"
+        ],
+        "stock": 15
+      },
+      {
+        "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
+        "slug": "orzax-ocean-vitamin-c-1000-mg-30-tablet",
+        "brand": "Orzax",
+        "price": 474.5,
+        "discount_price": 259.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/687c3dae-7bc5-4580-895e-5763e8149c74/image_1950.webp",
+        "cats": [
+          "C Vitamini"
         ],
         "stock": 15
       },
@@ -58273,7 +58273,7 @@
         "cats": [
           "Beslenme ve Diyet"
         ],
-        "stock": 18
+        "stock": 17
       }
     ],
     "Kulak Kiri Yumuşatıcı": [
@@ -59778,7 +59778,7 @@
   "stats": {
     "total_products": 4177,
     "total_categories": 574,
-    "generated": "2026-11-08 15:35",
+    "generated": "2026-11-08 19:23",
     "source": "ikas_api_live"
   }
 }
