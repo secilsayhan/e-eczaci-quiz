@@ -26,7 +26,7 @@
           "Pomad",
           "Yüz Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Garmastan Meme Ucu Bakım Pomadı 20 gr",
@@ -1590,7 +1590,7 @@
           "Pomad",
           "Yüz Bakımı"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Bioderma Hydrabio Cream 50 ml",
@@ -2437,20 +2437,6 @@
           "Hassas Cilt"
         ],
         "stock": 6
-      },
-      {
-        "name": "Neutrogena Deep Clean Yüz Temizleme Jeli 200 ml",
-        "slug": "neutrogena-deep-clean-yuz-temizleme-jeli-200-ml",
-        "brand": "Neutrogena",
-        "price": 219.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c25a453-133d-457c-ab02-060c6b0f3597/image_1950.webp",
-        "cats": [
-          "Yağlı Cilt Temizleyici",
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
       },
       {
         "name": "Shiniq Ad Atopi Göz Kapağı Kremi 15 ml",
@@ -4887,7 +4873,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Orzax İmunol Complex 30 Kapsül",
@@ -5277,20 +5263,6 @@
           "Magnezyum Sitrat"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Male Multiple 60 Tablet",
-        "slug": "solgar-male-multiple-60-tablet",
-        "brand": "Solgar",
-        "price": 1487.5,
-        "discount_price": 1289.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/24e21201-c141-493e-b52a-5e3861b7c7c4/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Erkek Multivitamin"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
@@ -29061,7 +29033,7 @@
           "Sarımsaklı",
           "Dökülme Karşıtı"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
@@ -32553,20 +32525,6 @@
           "Temizleme Jeli"
         ],
         "stock": 2
-      },
-      {
-        "name": "Neutrogena Deep Clean Yüz Temizleme Jeli 200 ml",
-        "slug": "neutrogena-deep-clean-yuz-temizleme-jeli-200-ml",
-        "brand": "Neutrogena",
-        "price": 219.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c25a453-133d-457c-ab02-060c6b0f3597/image_1950.webp",
-        "cats": [
-          "Yağlı Cilt Temizleyici",
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
       },
       {
         "name": "Orzax SHINIQ Akne Karşıtı Matlaştırıcı Temizleme Jeli",
@@ -37816,7 +37774,7 @@
           "Sarımsaklı",
           "Dökülme Karşıtı"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Tresan Şampuan Sarımsak 300 ml",
@@ -39255,20 +39213,6 @@
           "En Yeniler"
         ],
         "stock": 2
-      },
-      {
-        "name": "Solgar Male Multiple 60 Tablet",
-        "slug": "solgar-male-multiple-60-tablet",
-        "brand": "Solgar",
-        "price": 1487.5,
-        "discount_price": 1289.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/24e21201-c141-493e-b52a-5e3861b7c7c4/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Vitaminler",
-          "Erkek Multivitamin"
-        ],
-        "stock": 1
       },
       {
         "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
@@ -41713,20 +41657,6 @@
           "Yağlı Cilt Temizleyici"
         ],
         "stock": 3
-      },
-      {
-        "name": "Neutrogena Deep Clean Yüz Temizleme Jeli 200 ml",
-        "slug": "neutrogena-deep-clean-yuz-temizleme-jeli-200-ml",
-        "brand": "Neutrogena",
-        "price": 219.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8c25a453-133d-457c-ab02-060c6b0f3597/image_1950.webp",
-        "cats": [
-          "Yağlı Cilt Temizleyici",
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
       },
       {
         "name": "Sebamed Clear Face Siyah Nokta Karşıtı Kompakt Sabun 100 gr",
@@ -49451,20 +49381,6 @@
           "L-Karnitin",
           "Bitkisel Takviyeler",
           "Ginseng",
-          "Erkek Multivitamin"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Male Multiple 60 Tablet",
-        "slug": "solgar-male-multiple-60-tablet",
-        "brand": "Solgar",
-        "price": 1487.5,
-        "discount_price": 1289.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/24e21201-c141-493e-b52a-5e3861b7c7c4/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Vitaminler",
           "Erkek Multivitamin"
         ],
         "stock": 1
@@ -59860,9 +59776,9 @@
     ]
   },
   "stats": {
-    "total_products": 4183,
+    "total_products": 4177,
     "total_categories": 574,
-    "generated": "2026-11-08 10:30",
+    "generated": "2026-11-08 13:57",
     "source": "ikas_api_live"
   }
 }
