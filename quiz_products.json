@@ -521,8 +521,8 @@
         "name": "Bepanthol Sensidaily Vücut Kremi 400 ml",
         "slug": "bepanthol-sensidaily-vucut-kremi-400-ml-pompali",
         "brand": "Bepanthol",
-        "price": 1500.0,
-        "discount_price": 1046.0,
+        "price": 1649.9,
+        "discount_price": 1239.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e4cbdb-9a4a-4621-a927-cec7f5555bb4/image_1950.webp",
         "cats": [
           "Vücut Kremi",
@@ -530,7 +530,7 @@
           "Bariyer Krem",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Bioderma Atoderm Intensive Jel-Krem 75 ml",
@@ -719,6 +719,19 @@
         "stock": 1
       },
       {
+        "name": "Bioderma Pigmentbio Foaming Cream 200 ml",
+        "slug": "bioderma-pigmentbio-foaming-cream-500-ml",
+        "brand": "Bioderma",
+        "price": 1589.0,
+        "discount_price": 795.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1332fa28-46cb-41d8-8a1c-3154db8b838f/image_1950.webp",
+        "cats": [
+          "Temizleme Köpüğü",
+          "Temizleyici"
+        ],
+        "stock": 7
+      },
+      {
         "name": "Bioderma Pigmentbio Foaming Crem 500 ml",
         "slug": "bioderma-pigmentbio-foaming-crem-500-ml-ozel-fiyat",
         "brand": "Bioderma",
@@ -732,6 +745,18 @@
         "stock": 5
       },
       {
+        "name": "Bioderma Pigmentbio Leke Karşıtı Köpük Temizleyici 200 ml",
+        "slug": "bioderma-pigmentbio-leke-karsiti-kopuk-temizleyici-200-ml",
+        "brand": "Bioderma",
+        "price": 1589.0,
+        "discount_price": 795.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f690c8f3-2c23-4da5-bf28-56f366a328e1/image_1950.webp",
+        "cats": [
+          "Temizleyici"
+        ],
+        "stock": 7
+      },
+      {
         "name": "Bioderma Sebium Foaming Gel 500 ml",
         "slug": "bioderma-sebium-foaming-gel-500-ml",
         "brand": "Bioderma",
@@ -743,6 +768,18 @@
           "Temizleyici"
         ],
         "stock": 28
+      },
+      {
+        "name": "Bioderma Sebium Foaming Gel Active 200 ml",
+        "slug": "bioderma-sebium-gel-moussant-kopuk-jel-200-ml",
+        "brand": "Bioderma",
+        "price": 1319.0,
+        "discount_price": 1178.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a4aecfc7-0361-41a4-b897-69daf95f158a/image_1950.webp",
+        "cats": [
+          "Temizleyici"
+        ],
+        "stock": 2
       },
       {
         "name": "Bioderma Sebium H2O Micellar Su 500 ml İkiz Set",
@@ -1366,6 +1403,21 @@
           "Atopik ve Çok Kuru Cilt"
         ],
         "stock": 3
+      },
+      {
+        "name": "Bioderma Atoderm Intensive Köpük Jel 1000 ml",
+        "slug": "bioderma-atoderm-intensive-kopuk-jel-1000-ml",
+        "brand": "Bioderma",
+        "price": 2667.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5485716-d692-4cc0-a4cb-bc430c750497/image_1950.webp",
+        "cats": [
+          "Duş Jeli",
+          "Atopik ve Kuru Cilt",
+          "Yüz Bakımı",
+          "Temizleme Jeli"
+        ],
+        "stock": 2
       },
       {
         "name": "Bioderma Atoderm Intensive Köpük Jel 200 ml",
@@ -3198,19 +3250,6 @@
           "Bitkisel Takviyeler"
         ],
         "stock": 9
-      },
-      {
-        "name": "GLC Balance Reducose 250 mg Krom Pikolinat 60 Kapsül",
-        "slug": "glc-balance-reducose-250-mg-krom-pikolinat-60-kapsul",
-        "brand": "GLC",
-        "price": 2434.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72261eff-326b-43a4-9a72-36a150a3af93/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Vitamin ve Takviye"
-        ],
-        "stock": 2
       },
       {
         "name": "GSTEXRA 30 SAŞE",
@@ -6521,7 +6560,7 @@
           "C Vitamini İçeren Ürünler",
           "Propolis"
         ],
-        "stock": 6
+        "stock": 3
       },
       {
         "name": "Zinco Bitkisel Yağlar + Çinko Damla 30 ml",
@@ -6573,13 +6612,13 @@
         "slug": "aftoral-oral-sprey-karadutlu-bitkisel-takviye-20-ml",
         "brand": "",
         "price": 290.0,
-        "discount_price": 229.0,
+        "discount_price": 256.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/47818d4b-0c25-4cdc-b6bf-968d6df242a1/image_1950.webp",
         "cats": [
           "Oral Sprey",
           "Aft ve Ağız Yarası Bakımı"
         ],
-        "stock": 1
+        "stock": 5
       },
       {
         "name": "Bee ve You Phenolix-B Oral Sprey Propolis Takviyesi 30 ml",
@@ -6616,13 +6655,13 @@
         "slug": "aftoral-oral-sprey-karadutlu-bitkisel-takviye-20-ml",
         "brand": "",
         "price": 290.0,
-        "discount_price": 229.0,
+        "discount_price": 256.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/47818d4b-0c25-4cdc-b6bf-968d6df242a1/image_1950.webp",
         "cats": [
           "Oral Sprey",
           "Aft ve Ağız Yarası Bakımı"
         ],
-        "stock": 1
+        "stock": 5
       }
     ],
     "Arayüz Fırçası": [
@@ -7840,7 +7879,7 @@
           "Normal Cilt",
           "Vücut Bakımı"
         ],
-        "stock": 2
+        "stock": 7
       },
       {
         "name": "Lapitak Topuk Çatlak Kremi Yoğun Bakım 50 ml",
@@ -9117,7 +9156,7 @@
           "Omega 3",
           "Hamile Vitamini"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Elenatal 3 Kapsül Multivitamin Mineral Lutein ve Omega 3 Takviyesi 30 Kapsül",
@@ -9134,19 +9173,6 @@
           "Hamile Vitamini"
         ],
         "stock": 11
-      },
-      {
-        "name": "GLC Balance Reducose 250 mg Krom Pikolinat 60 Kapsül",
-        "slug": "glc-balance-reducose-250-mg-krom-pikolinat-60-kapsul",
-        "brand": "GLC",
-        "price": 2434.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72261eff-326b-43a4-9a72-36a150a3af93/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Vitamin ve Takviye"
-        ],
-        "stock": 2
       },
       {
         "name": "GoodDay Exclusive 2PD Multivitamin ve Mineral Bitkisel Ekstreli 60 Kapsül",
@@ -9793,7 +9819,7 @@
           "Çok Satanlar",
           "SPF 50+"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Meridol Diş Macunu Parodont Expert 75 ml",
@@ -10218,7 +10244,7 @@
         "name": "Hipp 1 Organik Combiotic Bebek Sütü 350 gr",
         "slug": "hipp-1-organik-combiotic-bebek-sutu-dogumdan-itibaren-350-gr-toz",
         "brand": "HiPP",
-        "price": 580.0,
+        "price": 768.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08b51169-f5c6-45ce-8815-3474e2f742c6/image_1950.webp",
         "cats": [
@@ -10292,7 +10318,7 @@
         "name": "Hipp 1 Organik Combiotic Bebek Sütü 350 gr",
         "slug": "hipp-1-organik-combiotic-bebek-sutu-dogumdan-itibaren-350-gr-toz",
         "brand": "HiPP",
-        "price": 580.0,
+        "price": 768.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/08b51169-f5c6-45ce-8815-3474e2f742c6/image_1950.webp",
         "cats": [
@@ -11321,7 +11347,7 @@
           "Omega 3",
           "Hamile Vitamini"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Elenatal 3 Kapsül Multivitamin Mineral Lutein ve Omega 3 Takviyesi 30 Kapsül",
@@ -13679,7 +13705,7 @@
           "C Vitamini İçeren Ürünler",
           "Propolis"
         ],
-        "stock": 6
+        "stock": 3
       },
       {
         "name": "Youplus Vitamin C Efervesan Suda Eriyen Tablet (2. Ürün %50 İndirimli) (2x20 Adet)",
@@ -14060,7 +14086,7 @@
           "C Vitamini İçeren Ürünler",
           "Propolis"
         ],
-        "stock": 6
+        "stock": 3
       },
       {
         "name": "Youplus Vitamin C Efervesan Suda Eriyen Tablet (2. Ürün %50 İndirimli) (2x20 Adet)",
@@ -14321,8 +14347,8 @@
         "name": "Bioderma Atoderm El Kremi 50 ml",
         "slug": "bioderma-atoderm-el-kremi-nemlendirici-onarici-50-ml",
         "brand": "Bioderma",
-        "price": 779.0,
-        "discount_price": 712.0,
+        "price": 729.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d9ce0106-77dd-4a01-bff4-ab1c1d0059f2/image_1950.webp",
         "cats": [
           "El Kremi",
@@ -14335,8 +14361,8 @@
         "name": "Bioderma Atoderm El Kremi 50 ml",
         "slug": "bioderma-atoderm-el-kremi-nemlendirici-onarici-50-ml",
         "brand": "Bioderma",
-        "price": 779.0,
-        "discount_price": 712.0,
+        "price": 729.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d9ce0106-77dd-4a01-bff4-ab1c1d0059f2/image_1950.webp",
         "cats": [
           "El Kremi",
@@ -14349,8 +14375,8 @@
         "name": "Bioderma Atoderm El Kremi 50 ml",
         "slug": "bioderma-atoderm-el-kremi-nemlendirici-onarici-50-ml",
         "brand": "Bioderma",
-        "price": 779.0,
-        "discount_price": 712.0,
+        "price": 729.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d9ce0106-77dd-4a01-bff4-ab1c1d0059f2/image_1950.webp",
         "cats": [
           "El Kremi",
@@ -14436,8 +14462,8 @@
         "name": "Bioderma Cicabio El Kremi 50 ml",
         "slug": "bioderma-cicabio-el-kremi-onarici-yatistirici",
         "brand": "Bioderma",
-        "price": 843.0,
-        "discount_price": 801.0,
+        "price": 801.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c91d85e6-82f5-4123-a923-945da2935e7f/image_1950.webp",
         "cats": [
           "Onarıcı El Kremi",
@@ -14646,8 +14672,8 @@
         "name": "Bepanthol Sensidaily Vücut Kremi 400 ml",
         "slug": "bepanthol-sensidaily-vucut-kremi-400-ml-pompali",
         "brand": "Bepanthol",
-        "price": 1500.0,
-        "discount_price": 1046.0,
+        "price": 1649.9,
+        "discount_price": 1239.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e4cbdb-9a4a-4621-a927-cec7f5555bb4/image_1950.webp",
         "cats": [
           "Vücut Kremi",
@@ -14655,7 +14681,7 @@
           "Bariyer Krem",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Bepanthol Sensidaily Vücut Kremi 400 ml Pompa",
@@ -17316,8 +17342,8 @@
         "name": "Bepanthol Sensidaily Vücut Kremi 400 ml",
         "slug": "bepanthol-sensidaily-vucut-kremi-400-ml-pompali",
         "brand": "Bepanthol",
-        "price": 1500.0,
-        "discount_price": 1046.0,
+        "price": 1649.9,
+        "discount_price": 1239.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e4cbdb-9a4a-4621-a927-cec7f5555bb4/image_1950.webp",
         "cats": [
           "Vücut Kremi",
@@ -17325,7 +17351,7 @@
           "Bariyer Krem",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Bioderma Atoderm Ultra Creme 500 ml",
@@ -17585,8 +17611,8 @@
         "name": "Bioderma Cicabio El Kremi 50 ml",
         "slug": "bioderma-cicabio-el-kremi-onarici-yatistirici",
         "brand": "Bioderma",
-        "price": 843.0,
-        "discount_price": 801.0,
+        "price": 801.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c91d85e6-82f5-4123-a923-945da2935e7f/image_1950.webp",
         "cats": [
           "Onarıcı El Kremi",
@@ -18818,7 +18844,7 @@
           "Çok Satanlar",
           "SPF 50+"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -18832,7 +18858,7 @@
           "Çok Satanlar",
           "SPF 50+"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "La Roche Posay Anthelios Family Sprey Vücut Güneş Kremi SPF50+ 300 ml",
@@ -21754,7 +21780,7 @@
           "Bakım Kremi",
           "Rozasea"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Bioderma Sensibio DS+ Hassas Kızarık Cilt Bakım Kremi",
@@ -24069,7 +24095,7 @@
           "Karahindiba",
           "Karahindiba (Dandelion)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "New Life 4 Hepa Deve Dikeni Enginar 30 Kapsül",
@@ -24321,7 +24347,7 @@
           "C Vitamini İçeren Ürünler",
           "Propolis"
         ],
-        "stock": 6
+        "stock": 3
       }
     ],
     "Çam Kozalağı": [
@@ -26066,8 +26092,8 @@
         "name": "Bepanthol Sensidaily Vücut Kremi 400 ml",
         "slug": "bepanthol-sensidaily-vucut-kremi-400-ml-pompali",
         "brand": "Bepanthol",
-        "price": 1500.0,
-        "discount_price": 1046.0,
+        "price": 1649.9,
+        "discount_price": 1239.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e4cbdb-9a4a-4621-a927-cec7f5555bb4/image_1950.webp",
         "cats": [
           "Vücut Kremi",
@@ -26075,7 +26101,7 @@
           "Bariyer Krem",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Bepanthol Sensidaily Vücut Kremi 400 ml Pompa",
@@ -26120,6 +26146,19 @@
         "stock": 1
       },
       {
+        "name": "Bioderma Atoderm Duş Jeli Kuru ve Hassas Ciltler 1000 ml",
+        "slug": "bioderma-atoderm-dus-jeli-kuru-hassas-cilt-1000-ml",
+        "brand": "Bioderma",
+        "price": 2385.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9f99c5e3-edf4-4847-925c-8876af8a6ef8/image_1950.webp",
+        "cats": [
+          "Duş Jeli",
+          "Atopik ve Kuru Cilt"
+        ],
+        "stock": 1
+      },
+      {
         "name": "Bioderma Atoderm Intensive Balm 45 ml",
         "slug": "bioderma-atoderm-intensive-balm-45-ml-ozel-fiyat",
         "brand": "Bioderma",
@@ -26147,6 +26186,21 @@
           "Kaşıntı ve Tahriş Bakımı"
         ],
         "stock": 1
+      },
+      {
+        "name": "Bioderma Atoderm Intensive Köpük Jel 1000 ml",
+        "slug": "bioderma-atoderm-intensive-kopuk-jel-1000-ml",
+        "brand": "Bioderma",
+        "price": 2667.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5485716-d692-4cc0-a4cb-bc430c750497/image_1950.webp",
+        "cats": [
+          "Duş Jeli",
+          "Atopik ve Kuru Cilt",
+          "Yüz Bakımı",
+          "Temizleme Jeli"
+        ],
+        "stock": 2
       },
       {
         "name": "Bioderma Atoderm Intensive Köpük Jel 200 ml",
@@ -28923,7 +28977,7 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bioxcin Genesis Karma Normal Saçlar Şampuan 3 Al 2 Öde",
@@ -29001,13 +29055,13 @@
         "slug": "bioxcin-siyah-sarimsakli-sac-dokulmesine-karsi-sampuan-3-al-2-ode",
         "brand": "Bioxcin",
         "price": 519.98,
-        "discount_price": 377.0,
+        "discount_price": 433.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2ce0347d-2bc5-4e7b-9b38-0c5002c70911/image_1950.webp",
         "cats": [
           "Sarımsaklı",
           "Dökülme Karşıtı"
         ],
-        "stock": 1
+        "stock": 10
       },
       {
         "name": "Bioxcin Şampuan Collagen Biotin 3 Al 2 Öde Kampanya",
@@ -31622,6 +31676,19 @@
         "stock": 1
       },
       {
+        "name": "Bioderma Atoderm Duş Jeli Kuru ve Hassas Ciltler 1000 ml",
+        "slug": "bioderma-atoderm-dus-jeli-kuru-hassas-cilt-1000-ml",
+        "brand": "Bioderma",
+        "price": 2385.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9f99c5e3-edf4-4847-925c-8876af8a6ef8/image_1950.webp",
+        "cats": [
+          "Duş Jeli",
+          "Atopik ve Kuru Cilt"
+        ],
+        "stock": 1
+      },
+      {
         "name": "Bioderma Atoderm Intensive Foaming Gel 1000 ml",
         "slug": "bioderma-atoderm-intensive-foaming-gel-1000-ml-ozel-fiyat",
         "brand": "Bioderma",
@@ -31630,6 +31697,21 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37bf903f-ca0d-444f-91d4-ec9d226418f2/image_1950.webp",
         "cats": [
           "Duş Jeli",
+          "Temizleme Jeli"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Atoderm Intensive Köpük Jel 1000 ml",
+        "slug": "bioderma-atoderm-intensive-kopuk-jel-1000-ml",
+        "brand": "Bioderma",
+        "price": 2667.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5485716-d692-4cc0-a4cb-bc430c750497/image_1950.webp",
+        "cats": [
+          "Duş Jeli",
+          "Atopik ve Kuru Cilt",
+          "Yüz Bakımı",
           "Temizleme Jeli"
         ],
         "stock": 2
@@ -32242,6 +32324,21 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/37bf903f-ca0d-444f-91d4-ec9d226418f2/image_1950.webp",
         "cats": [
           "Duş Jeli",
+          "Temizleme Jeli"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Atoderm Intensive Köpük Jel 1000 ml",
+        "slug": "bioderma-atoderm-intensive-kopuk-jel-1000-ml",
+        "brand": "Bioderma",
+        "price": 2667.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5485716-d692-4cc0-a4cb-bc430c750497/image_1950.webp",
+        "cats": [
+          "Duş Jeli",
+          "Atopik ve Kuru Cilt",
+          "Yüz Bakımı",
           "Temizleme Jeli"
         ],
         "stock": 2
@@ -33550,8 +33647,8 @@
         "name": "Bioderma Cicabio El Kremi 50 ml",
         "slug": "bioderma-cicabio-el-kremi-onarici-yatistirici",
         "brand": "Bioderma",
-        "price": 843.0,
-        "discount_price": 801.0,
+        "price": 801.0,
+        "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c91d85e6-82f5-4123-a923-945da2935e7f/image_1950.webp",
         "cats": [
           "Onarıcı El Kremi",
@@ -34769,7 +34866,7 @@
           "Bakım Kremi",
           "Rozasea"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Bioderma Sensibio AR+ SOS Sprey 70 ml",
@@ -36294,6 +36391,19 @@
     ],
     "Temizleme Köpüğü": [
       {
+        "name": "Bioderma Pigmentbio Foaming Cream 200 ml",
+        "slug": "bioderma-pigmentbio-foaming-cream-500-ml",
+        "brand": "Bioderma",
+        "price": 1589.0,
+        "discount_price": 795.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1332fa28-46cb-41d8-8a1c-3154db8b838f/image_1950.webp",
+        "cats": [
+          "Temizleme Köpüğü",
+          "Temizleyici"
+        ],
+        "stock": 7
+      },
+      {
         "name": "Bioderma Sebium Foaming Gel 500 ml",
         "slug": "bioderma-sebium-foaming-gel-500-ml",
         "brand": "Bioderma",
@@ -37131,6 +37241,19 @@
         "stock": 8
       },
       {
+        "name": "Ceradolin Nemlendirici Şampuan Kuru ve Hassas Saçlar 300 ml",
+        "slug": "ceradolin-nemlendirici-sampuan-kuru-ve-hassas-saclar-icin-300-ml",
+        "brand": "Ceradolin",
+        "price": 1550.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/88e9fe69-39f8-48b1-a668-d35c3427cad5/image_1950.webp",
+        "cats": [
+          "Hassas Saç Derisi",
+          "Kuru ve Hassas Saçlar İçin"
+        ],
+        "stock": 1
+      },
+      {
         "name": "Mustela Cold Cream Besleyici Şampuan Kuru Saç ve Saç Derisi İçin 300 ml",
         "slug": "mustela-cold-cream-besleyici-sampuan-kuru-sac-derisi-300-ml",
         "brand": "Mustela",
@@ -37460,7 +37583,7 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bioxcin Genesis Karma Normal Saçlar Şampuan 3 Al 2 Öde",
@@ -37687,13 +37810,13 @@
         "slug": "bioxcin-siyah-sarimsakli-sac-dokulmesine-karsi-sampuan-3-al-2-ode",
         "brand": "Bioxcin",
         "price": 519.98,
-        "discount_price": 377.0,
+        "discount_price": 433.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2ce0347d-2bc5-4e7b-9b38-0c5002c70911/image_1950.webp",
         "cats": [
           "Sarımsaklı",
           "Dökülme Karşıtı"
         ],
-        "stock": 1
+        "stock": 10
       },
       {
         "name": "Tresan Şampuan Sarımsak 300 ml",
@@ -42185,6 +42308,75 @@
         "stock": 1
       }
     ],
+    "Hassas Saç Derisi": [
+      {
+        "name": "Ceradolin Nemlendirici Şampuan Kuru ve Hassas Saçlar 300 ml",
+        "slug": "ceradolin-nemlendirici-sampuan-kuru-ve-hassas-saclar-icin-300-ml",
+        "brand": "Ceradolin",
+        "price": 1550.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/88e9fe69-39f8-48b1-a668-d35c3427cad5/image_1950.webp",
+        "cats": [
+          "Hassas Saç Derisi",
+          "Kuru ve Hassas Saçlar İçin"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Dalin Care Atocure Şampuan 400 ml",
+        "slug": "dalin-care-atocure-sampuan-400-ml",
+        "brand": "Dalin",
+        "price": 659.9,
+        "discount_price": 575.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cbdbde9-fb98-41b6-b0e5-a5222de0944a/image_1950.webp",
+        "cats": [
+          "Saç Bakımı",
+          "Hassas Saç Derisi"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Kelual DS Intensive Şampuan 100 ml",
+        "slug": "kelual-ds-intensive-sampuan-100-ml",
+        "brand": "Kelual",
+        "price": 1649.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2705ea96-ed20-4937-8b25-158c33c4fab5/image_1950.webp",
+        "cats": [
+          "Şampuanlar",
+          "Kepek Karşıtı",
+          "Saç Bakımı",
+          "Hassas Saç Derisi"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sebamed Everyday Şampuan Günlük Kullanım İçin 200 ml",
+        "slug": "sebamed-everyday-sampuan-gunluk-kullanim-icin-200-ml",
+        "brand": "Sebamed",
+        "price": 461.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bdcdaf4a-40be-4226-aeb0-870d181dd326/image_1950.webp",
+        "cats": [
+          "Hassas Saç Derisi",
+          "Günlük Kullanım"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Selyum Şampuan Kepeğe Karşı 300 ml",
+        "slug": "selyum-sampuan-kepege-karsi-300-ml",
+        "brand": "Dermadolin",
+        "price": 1250.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d6cc068c-a11c-4f96-8eb4-d8d67b8015c1/image_1950.webp",
+        "cats": [
+          "Kepek Karşıtı",
+          "Hassas Saç Derisi"
+        ],
+        "stock": 1
+      }
+    ],
     "Sitikolin (Citicoline)": [
       {
         "name": "Cerebramax Sitikolin Yumuşak Kapsül Omega 3 Takviyesi 30 Adet",
@@ -42448,7 +42640,7 @@
           "Omega 3",
           "Hamile Vitamini"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Elenatal 3 Kapsül Multivitamin Mineral Lutein ve Omega 3 Takviyesi 30 Kapsül",
@@ -44316,6 +44508,61 @@
         "stock": 3
       }
     ],
+    "Tip 2 Kolajen": [
+      {
+        "name": "Collart Tablet 30 Adet",
+        "slug": "collart-glukozamin-kondroitin-kolajen-takviyesi-30-tablet",
+        "brand": "Collart",
+        "price": 1495.0,
+        "discount_price": 1383.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ed4b321e-19b8-40a0-8e3f-31982a0a9e55/image_1950.webp",
+        "cats": [
+          "Tip 2 Kolajen"
+        ],
+        "stock": 33
+      },
+      {
+        "name": "Com Romax Glukozamin Kondroitin Kolajen Takviyesi 60 Tablet",
+        "slug": "com-romax-glukozamin-kondroitin-kolajen-takviyesi-60-tablet",
+        "brand": "Com Romax",
+        "price": 1962.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/47c7f968-ebbe-453e-9906-c90ac01c8512/image_1950.webp",
+        "cats": [
+          "Tip 2 Kolajen"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Day2Day The Collagen All Body Takviye Edici Gıda 300 gr",
+        "slug": "day2day-the-collagen-all-body-takviye-edici-gida-300-gr",
+        "brand": "Day2Day",
+        "price": 1195.0,
+        "discount_price": 1098.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/581caa3c-5694-4d0a-9bbd-9f8f5a1b83d9/image_1950.webp",
+        "cats": [
+          "Multi Tip Kolajen",
+          "Tip 1 ve 3 Kolajen",
+          "Toz Kolajen",
+          "Tip 2 Kolajen"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
+        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
+        "brand": "Assos",
+        "price": 1320.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3d1eba52-ca35-4090-ad1c-956505f4afa8/image_1950.webp",
+        "cats": [
+          "C Vitamini",
+          "Tip 2 Kolajen",
+          "Kuersetin"
+        ],
+        "stock": 1
+      }
+    ],
     "Magnezyum": [
       {
         "name": "Com Rinex 60 Kapsül",
@@ -44443,7 +44690,7 @@
           "Magnezyum",
           "Magnezyum Malat"
         ],
-        "stock": 6
+        "stock": 13
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Sitrat Tablet (P5P) 30 Tablet",
@@ -45354,49 +45601,6 @@
         "stock": 30
       }
     ],
-    "Tip 2 Kolajen": [
-      {
-        "name": "Com Romax Glukozamin Kondroitin Kolajen Takviyesi 60 Tablet",
-        "slug": "com-romax-glukozamin-kondroitin-kolajen-takviyesi-60-tablet",
-        "brand": "Com Romax",
-        "price": 1962.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/47c7f968-ebbe-453e-9906-c90ac01c8512/image_1950.webp",
-        "cats": [
-          "Tip 2 Kolajen"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Day2Day The Collagen All Body Takviye Edici Gıda 300 gr",
-        "slug": "day2day-the-collagen-all-body-takviye-edici-gida-300-gr",
-        "brand": "Day2Day",
-        "price": 1195.0,
-        "discount_price": 1098.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/581caa3c-5694-4d0a-9bbd-9f8f5a1b83d9/image_1950.webp",
-        "cats": [
-          "Multi Tip Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Toz Kolajen",
-          "Tip 2 Kolajen"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Kondromin-S Efervesan Tablet Glukozamin Kondroitin MSM Takviyesi 60 Tablet",
-        "slug": "kondromin-s-efervesan-tablet-glukozamin-kondroitin-msm",
-        "brand": "Assos",
-        "price": 1320.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3d1eba52-ca35-4090-ad1c-956505f4afa8/image_1950.webp",
-        "cats": [
-          "C Vitamini",
-          "Tip 2 Kolajen",
-          "Kuersetin"
-        ],
-        "stock": 1
-      }
-    ],
     "Şeker Ölçüm Aksesuarları": [
       {
         "name": "Contour TS Strip 50 Strip",
@@ -45898,62 +46102,6 @@
           "Dezenfektan ve Kolonya"
         ],
         "stock": 3
-      }
-    ],
-    "Hassas Saç Derisi": [
-      {
-        "name": "Dalin Care Atocure Şampuan 400 ml",
-        "slug": "dalin-care-atocure-sampuan-400-ml",
-        "brand": "Dalin",
-        "price": 659.9,
-        "discount_price": 575.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cbdbde9-fb98-41b6-b0e5-a5222de0944a/image_1950.webp",
-        "cats": [
-          "Saç Bakımı",
-          "Hassas Saç Derisi"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Kelual DS Intensive Şampuan 100 ml",
-        "slug": "kelual-ds-intensive-sampuan-100-ml",
-        "brand": "Kelual",
-        "price": 1649.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2705ea96-ed20-4937-8b25-158c33c4fab5/image_1950.webp",
-        "cats": [
-          "Şampuanlar",
-          "Kepek Karşıtı",
-          "Saç Bakımı",
-          "Hassas Saç Derisi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sebamed Everyday Şampuan Günlük Kullanım İçin 200 ml",
-        "slug": "sebamed-everyday-sampuan-gunluk-kullanim-icin-200-ml",
-        "brand": "Sebamed",
-        "price": 461.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/bdcdaf4a-40be-4226-aeb0-870d181dd326/image_1950.webp",
-        "cats": [
-          "Hassas Saç Derisi",
-          "Günlük Kullanım"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Selyum Şampuan Kepeğe Karşı 300 ml",
-        "slug": "selyum-sampuan-kepege-karsi-300-ml",
-        "brand": "Dermadolin",
-        "price": 1250.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d6cc068c-a11c-4f96-8eb4-d8d67b8015c1/image_1950.webp",
-        "cats": [
-          "Kepek Karşıtı",
-          "Hassas Saç Derisi"
-        ],
-        "stock": 1
       }
     ],
     "Bebek Losyonu": [
@@ -47064,6 +47212,18 @@
         "stock": 3
       },
       {
+        "name": "Driclor Roll-On Terleme Önleyici 20 ml",
+        "slug": "driclor-roll-on-asiri-terleme-onleyici-20-ml",
+        "brand": "Driclor",
+        "price": 484.95,
+        "discount_price": 357.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5760f236-d740-4f71-829e-c06e82dcea58/image_1950.webp",
+        "cats": [
+          "Terleme Karşıtı"
+        ],
+        "stock": 3
+      },
+      {
         "name": "Nivea Roll On Powder Touch Kadın Pudralı Deodorant 50 ml",
         "slug": "nivea-roll-on-powder-touch-kadin-pudrali-deodorant-50-ml",
         "brand": "Nivea",
@@ -47692,7 +47852,7 @@
           "Omega 3",
           "Hamile Vitamini"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Elenatal 3 Kapsül Multivitamin Mineral Lutein ve Omega 3 Takviyesi 30 Kapsül",
@@ -48395,7 +48555,7 @@
           "Omega 3",
           "Hamile Vitamini"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Elenatal 3 Kapsül Multivitamin Mineral Lutein ve Omega 3 Takviyesi 30 Kapsül",
@@ -50532,7 +50692,7 @@
           "Karahindiba",
           "Karahindiba (Dandelion)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
@@ -51684,7 +51844,7 @@
           "Karahindiba",
           "Karahindiba (Dandelion)"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Nbtlife Berliv Kapsül Lipozomal Berberis Vulgaris Silybum Marianum ve Fosfotidilkolin İçeren Takviye Edici Gıda 30 Kapsül",
@@ -51830,7 +51990,7 @@
           "Magnezyum",
           "Magnezyum Malat"
         ],
-        "stock": 6
+        "stock": 13
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -54112,7 +54272,7 @@
           "Normal Cilt",
           "Vücut Bakımı"
         ],
-        "stock": 2
+        "stock": 7
       },
       {
         "name": "Shiniq HY Normal Karma Nem Kremi 50 ml",
@@ -54174,7 +54334,7 @@
           "Karahindiba",
           "Karahindiba (Dandelion)"
         ],
-        "stock": 9
+        "stock": 8
       }
     ],
     "Karahindiba (Dandelion)": [
@@ -54192,7 +54352,7 @@
           "Karahindiba",
           "Karahindiba (Dandelion)"
         ],
-        "stock": 9
+        "stock": 8
       }
     ],
     "Gargara": [
@@ -59700,9 +59860,9 @@
     ]
   },
   "stats": {
-    "total_products": 4171,
+    "total_products": 4183,
     "total_categories": 574,
-    "generated": "2026-11-07 19:41",
+    "generated": "2026-11-08 10:30",
     "source": "ikas_api_live"
   }
 }
