@@ -4261,7 +4261,7 @@
           "Çok Satanlar",
           "Vitaminler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitamin B12 Sprey 15 ml",
@@ -5718,21 +5718,6 @@
         "stock": 1
       },
       {
-        "name": "Venatura D3K2 (1000 IU - 25 mcg) Yumuşak Kapsül 60 Kapsül",
-        "slug": "venatura-d3k2-1000-iu-25-mcg-yumusak-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 253.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fb290c5-0f17-41e7-8b99-a86fd9896245/image_1950.webp",
-        "cats": [
-          "K2 Vitamini",
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Vitaminler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Venatura Glisin Toz 150 g",
         "slug": "venatura-glisin-toz-150-g",
         "brand": "VeNatura",
@@ -6458,7 +6443,7 @@
           "Çinko",
           "Bakır"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Vitabiotics Osteocare Original Tablet 30 Tablet",
@@ -9878,7 +9863,7 @@
           "Magnezyum",
           "Çok Satanlar"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Mens Multi Vitamin Complex Tablet 60 Tablet",
@@ -9892,7 +9877,7 @@
           "Çok Satanlar",
           "Erkek Multivitamin"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Nutraxin Vitals Omega 3 Balık Yağı 2000 mg 60 Yumuşak Kapsül",
@@ -9906,7 +9891,7 @@
           "Çok Satanlar",
           "En Yeniler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
@@ -9922,7 +9907,7 @@
           "Çok Satanlar",
           "Vitaminler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Ocean Biotin 5000 mcg Kapsül 60 Kapsül",
@@ -13198,7 +13183,7 @@
           "Çok Satanlar",
           "Erkek Multivitamin"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Efervit C Vitamini 20 Efervesan Tablet 2'li Kampanya Paketi",
@@ -13268,6 +13253,18 @@
       },
       {
         "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
+        "slug": "orzax-ocean-vitamin-c-1000-mg-30-tablet",
+        "brand": "Orzax",
+        "price": 474.5,
+        "discount_price": 259.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/687c3dae-7bc5-4580-895e-5763e8149c74/image_1950.webp",
+        "cats": [
+          "C Vitamini"
+        ],
+        "stock": 15
+      },
+      {
+        "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
         "slug": "orzax-ocean-c-vitamini-1000-mg-takviyesi-30-tablet",
         "brand": "Orzax",
         "price": 474.5,
@@ -13276,18 +13273,6 @@
         "cats": [
           "C Vitamini",
           "Çok Satanlar"
-        ],
-        "stock": 15
-      },
-      {
-        "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
-        "slug": "orzax-ocean-vitamin-c-1000-mg-30-tablet",
-        "brand": "Orzax",
-        "price": 474.5,
-        "discount_price": 259.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/687c3dae-7bc5-4580-895e-5763e8149c74/image_1950.webp",
-        "cats": [
-          "C Vitamini"
         ],
         "stock": 15
       },
@@ -15569,20 +15554,6 @@
           "Gargara"
         ],
         "stock": 6
-      },
-      {
-        "name": "Listerine Advanced White Hafif Tat Beyazlatıcı Ağız Suyu 500 ml",
-        "slug": "listerine-advanced-white-hafif-tat-beyazlatici-agiz-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 249.0,
-        "discount_price": 198.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/36a987b8-4916-4108-ac24-457f8b9d8ec2/image_1950.webp",
-        "cats": [
-          "Beyazlatıcı",
-          "Gargara",
-          "Alkolsüz"
-        ],
-        "stock": 1
       },
       {
         "name": "Listerine Staywhite Serinletici Nane 500 ml",
@@ -23544,21 +23515,6 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-15-ml-sise",
-        "brand": "Ligone",
-        "price": 908.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5b716c3-29c8-4d67-af40-166cea3d48ae/image_1950.webp",
-        "cats": [
-          "Çocuk Probiyotikleri",
-          "Probiyotik ve Prebiyotik",
-          "Vitamin ve Takviye",
-          "Probiyotik"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Ligone Probiyotik Damla 15 ml",
         "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
@@ -23571,6 +23527,21 @@
           "Probiyotik"
         ],
         "stock": 2
+      },
+      {
+        "name": "Ligone Probiyotik Damla 15 ml",
+        "slug": "ligone-probiyotik-damla-15-ml-sise",
+        "brand": "Ligone",
+        "price": 908.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5b716c3-29c8-4d67-af40-166cea3d48ae/image_1950.webp",
+        "cats": [
+          "Çocuk Probiyotikleri",
+          "Probiyotik ve Prebiyotik",
+          "Vitamin ve Takviye",
+          "Probiyotik"
+        ],
+        "stock": 1
       },
       {
         "name": "Mirabalance Oral Damla 5 ml",
@@ -23952,21 +23923,6 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-15-ml-sise",
-        "brand": "Ligone",
-        "price": 908.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5b716c3-29c8-4d67-af40-166cea3d48ae/image_1950.webp",
-        "cats": [
-          "Çocuk Probiyotikleri",
-          "Probiyotik ve Prebiyotik",
-          "Vitamin ve Takviye",
-          "Probiyotik"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Ligone Probiyotik Damla 15 ml",
         "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
@@ -23979,6 +23935,21 @@
           "Probiyotik"
         ],
         "stock": 2
+      },
+      {
+        "name": "Ligone Probiyotik Damla 15 ml",
+        "slug": "ligone-probiyotik-damla-15-ml-sise",
+        "brand": "Ligone",
+        "price": 908.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5b716c3-29c8-4d67-af40-166cea3d48ae/image_1950.webp",
+        "cats": [
+          "Çocuk Probiyotikleri",
+          "Probiyotik ve Prebiyotik",
+          "Vitamin ve Takviye",
+          "Probiyotik"
+        ],
+        "stock": 1
       },
       {
         "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
@@ -24475,7 +24446,7 @@
           "Çok Satanlar",
           "Vitaminler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
@@ -24567,21 +24538,6 @@
         "cats": [
           "K2 Vitamini",
           "D Vitamini"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura D3K2 (1000 IU - 25 mcg) Yumuşak Kapsül 60 Kapsül",
-        "slug": "venatura-d3k2-1000-iu-25-mcg-yumusak-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 253.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fb290c5-0f17-41e7-8b99-a86fd9896245/image_1950.webp",
-        "cats": [
-          "K2 Vitamini",
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Vitaminler"
         ],
         "stock": 1
       },
@@ -24864,7 +24820,7 @@
           "Çok Satanlar",
           "Vitaminler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -25221,21 +25177,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c36f45b2-73d0-47cb-ac61-cf7a716040e5/image_1950.webp",
         "cats": [
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Vitaminler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura D3K2 (1000 IU - 25 mcg) Yumuşak Kapsül 60 Kapsül",
-        "slug": "venatura-d3k2-1000-iu-25-mcg-yumusak-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 253.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fb290c5-0f17-41e7-8b99-a86fd9896245/image_1950.webp",
-        "cats": [
-          "K2 Vitamini",
           "Vitamin ve Takviye",
           "D Vitamini",
           "Vitaminler"
@@ -34290,27 +34231,8 @@
         "brand": "CeraVe",
         "price": 1999.9,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a97a3ed-8007-46fb-b518-cdd516b59165/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746a6974-327d-4622-8f51-86707a89053f/image_1950.webp",
         "cats": [
-          "Serumlar",
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Serumlar",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 1999.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a97a3ed-8007-46fb-b518-cdd516b59165/image_1950.webp",
-        "cats": [
-          "Serumlar",
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
@@ -35730,7 +35652,7 @@
           "Çok Satanlar",
           "En Yeniler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Nutraxin Vitamin B12 Sprey 15 ml",
@@ -38463,7 +38385,7 @@
           "Kadın",
           "Kadın Multivitamin"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Profolmix Menoral Oral Toz 30 Saşe",
@@ -39008,7 +38930,7 @@
           "Çok Satanlar",
           "Vitaminler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Nutraxin Vitamin B12 Sprey 15 ml",
@@ -39350,21 +39272,6 @@
         "stock": 1
       },
       {
-        "name": "Venatura D3K2 (1000 IU - 25 mcg) Yumuşak Kapsül 60 Kapsül",
-        "slug": "venatura-d3k2-1000-iu-25-mcg-yumusak-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 253.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fb290c5-0f17-41e7-8b99-a86fd9896245/image_1950.webp",
-        "cats": [
-          "K2 Vitamini",
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Vitaminler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Venatura Vitamin B Kompleks 30 Kapsül",
         "slug": "venatura-vitamin-b-kompleks-30-kapsul",
         "brand": "VeNatura",
@@ -39470,21 +39377,6 @@
       },
       {
         "name": "Ligone Probiyotik Damla 15 ml",
-        "slug": "ligone-probiyotik-damla-15-ml-sise",
-        "brand": "Ligone",
-        "price": 908.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5b716c3-29c8-4d67-af40-166cea3d48ae/image_1950.webp",
-        "cats": [
-          "Çocuk Probiyotikleri",
-          "Probiyotik ve Prebiyotik",
-          "Vitamin ve Takviye",
-          "Probiyotik"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Ligone Probiyotik Damla 15 ml",
         "slug": "ligone-probiyotik-damla-15-ml",
         "brand": "Ligone",
         "price": 868.0,
@@ -39497,6 +39389,21 @@
           "Probiyotik"
         ],
         "stock": 2
+      },
+      {
+        "name": "Ligone Probiyotik Damla 15 ml",
+        "slug": "ligone-probiyotik-damla-15-ml-sise",
+        "brand": "Ligone",
+        "price": 908.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a5b716c3-29c8-4d67-af40-166cea3d48ae/image_1950.webp",
+        "cats": [
+          "Çocuk Probiyotikleri",
+          "Probiyotik ve Prebiyotik",
+          "Vitamin ve Takviye",
+          "Probiyotik"
+        ],
+        "stock": 1
       },
       {
         "name": "NBL Probiotic Kids Çocuk Probiyotik Takviyesi 30 Tablet",
@@ -41466,9 +41373,8 @@
         "brand": "CeraVe",
         "price": 1999.9,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a97a3ed-8007-46fb-b518-cdd516b59165/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746a6974-327d-4622-8f51-86707a89053f/image_1950.webp",
         "cats": [
-          "Serumlar",
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
@@ -41477,22 +41383,6 @@
           "Retinol"
         ],
         "stock": 2
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 1999.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
       },
       {
         "name": "CeraVe Yoğun Nemlendirici Losyon 236 ml",
@@ -41695,9 +41585,8 @@
         "brand": "CeraVe",
         "price": 1999.9,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a97a3ed-8007-46fb-b518-cdd516b59165/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746a6974-327d-4622-8f51-86707a89053f/image_1950.webp",
         "cats": [
-          "Serumlar",
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
@@ -41706,22 +41595,6 @@
           "Retinol"
         ],
         "stock": 2
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 1999.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
       },
       {
         "name": "La Roche Posay Retinol B3 Serum 30 ml",
@@ -41776,9 +41649,8 @@
         "brand": "CeraVe",
         "price": 1999.9,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a97a3ed-8007-46fb-b518-cdd516b59165/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746a6974-327d-4622-8f51-86707a89053f/image_1950.webp",
         "cats": [
-          "Serumlar",
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
@@ -41787,22 +41659,6 @@
           "Retinol"
         ],
         "stock": 2
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 1999.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
       },
       {
         "name": "La Roche Posay Redermic Retinol Krem Kırışıklık Karşıtı 30 ml",
@@ -41871,9 +41727,8 @@
         "brand": "CeraVe",
         "price": 1999.9,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a97a3ed-8007-46fb-b518-cdd516b59165/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746a6974-327d-4622-8f51-86707a89053f/image_1950.webp",
         "cats": [
-          "Serumlar",
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
@@ -41882,22 +41737,6 @@
           "Retinol"
         ],
         "stock": 2
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 1999.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
       },
       {
         "name": "L-Prolin Q10 Cilt Bakım Serumu 40 ml",
@@ -41999,9 +41838,8 @@
         "brand": "CeraVe",
         "price": 1999.9,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a97a3ed-8007-46fb-b518-cdd516b59165/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/746a6974-327d-4622-8f51-86707a89053f/image_1950.webp",
         "cats": [
-          "Serumlar",
           "Retinol Serum",
           "Retinol İçeren Ürünler",
           "Serumlar",
@@ -42010,22 +41848,6 @@
           "Retinol"
         ],
         "stock": 2
-      },
-      {
-        "name": "CeraVe Retinol Serum 30 ml",
-        "slug": "cerave-skin-renewing-retinol-serum-30-ml",
-        "brand": "CeraVe",
-        "price": 1999.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c929a465-9b81-4686-a9ac-533838ce1173/image_1950.webp",
-        "cats": [
-          "Retinol Serum",
-          "Retinol İçeren Ürünler",
-          "Seramid İçeren Ürünler",
-          "Anti-Aging Serum",
-          "Retinol"
-        ],
-        "stock": 3
       },
       {
         "name": "La Roche Posay Redermic Retinol Krem Kırışıklık Karşıtı 30 ml",
@@ -42982,7 +42804,7 @@
           "Çok Satanlar",
           "En Yeniler"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Nutrof Total Balık Yağı Lutein Resveratrol Zeaksantin D3 Vitamini Takviyesi 30 Kapsül",
@@ -43323,7 +43145,7 @@
           "Omega 6",
           "Omega 9"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
@@ -44844,7 +44666,7 @@
           "Magnezyum",
           "Çok Satanlar"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Daily Magnesium Tablet D3 Vitamini K2 Vitamini Magnezyum ve Vitamin B6 İçeren Takviye Edici Gıda 60 Tablet",
@@ -45156,19 +44978,6 @@
           "Vitamin ve Takviye"
         ],
         "stock": 2
-      },
-      {
-        "name": "Venatura Magnezyum Bisglisinat Kapsül 60 Kapsül",
-        "slug": "venatura-magnezyum-bisglisinat-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 469.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ece92ed3-31f9-43cd-a8b6-149035a507eb/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Bisglisinat"
-        ],
-        "stock": 1
       },
       {
         "name": "Venatura Vefa Magnezyum Malat Tablet 60 Tablet",
@@ -45616,6 +45425,32 @@
       },
       {
         "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
+        "slug": "sensodyne-gentle-soft-dis-fircasi-yumusak",
+        "brand": "Sensodyne",
+        "price": 197.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51441646-6219-4c7b-a8ad-7351ceb8caad/image_1950.webp",
+        "cats": [
+          "Yumuşak",
+          "Yumuşak"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
+        "slug": "sensodyne-gentle-soft-dis-fircasi-yumusak",
+        "brand": "Sensodyne",
+        "price": 197.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51441646-6219-4c7b-a8ad-7351ceb8caad/image_1950.webp",
+        "cats": [
+          "Yumuşak",
+          "Yumuşak"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
         "slug": "sensodyne-promine-gentle-soft-dis-fircasi",
         "brand": "Sensodyne",
         "price": 229.95,
@@ -45626,32 +45461,6 @@
           "Kişisel Bakım",
           "Ağız ve Diş Bakımı",
           "Diş Fırçası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
-        "slug": "sensodyne-gentle-soft-dis-fircasi-yumusak",
-        "brand": "Sensodyne",
-        "price": 197.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51441646-6219-4c7b-a8ad-7351ceb8caad/image_1950.webp",
-        "cats": [
-          "Yumuşak",
-          "Yumuşak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
-        "slug": "sensodyne-gentle-soft-dis-fircasi-yumusak",
-        "brand": "Sensodyne",
-        "price": 197.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51441646-6219-4c7b-a8ad-7351ceb8caad/image_1950.webp",
-        "cats": [
-          "Yumuşak",
-          "Yumuşak"
         ],
         "stock": 1
       },
@@ -48310,7 +48119,7 @@
           "Omega 6",
           "Omega 9"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Dil Basacağı": [
@@ -49350,7 +49159,7 @@
           "Çok Satanlar",
           "Erkek Multivitamin"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Proceive M Saşe L-Karnitin L-Arjinin Koenzim Q10 Ginseng Vitamin Mineral Takviyesi 30 Saşe",
@@ -49465,7 +49274,7 @@
           "Kadın",
           "Kadın Multivitamin"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -52069,19 +51878,6 @@
           "Çok Satanlar"
         ],
         "stock": 9
-      },
-      {
-        "name": "Venatura Magnezyum Bisglisinat Kapsül 60 Kapsül",
-        "slug": "venatura-magnezyum-bisglisinat-kapsul-60-kapsul",
-        "brand": "VeNatura",
-        "price": 469.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ece92ed3-31f9-43cd-a8b6-149035a507eb/image_1950.webp",
-        "cats": [
-          "Magnezyum",
-          "Magnezyum Bisglisinat"
-        ],
-        "stock": 1
       }
     ],
     "Magnezyum L-Treonat": [
@@ -54301,20 +54097,6 @@
         "stock": 6
       },
       {
-        "name": "Listerine Advanced White Hafif Tat Beyazlatıcı Ağız Suyu 500 ml",
-        "slug": "listerine-advanced-white-hafif-tat-beyazlatici-agiz-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 249.0,
-        "discount_price": 198.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/36a987b8-4916-4108-ac24-457f8b9d8ec2/image_1950.webp",
-        "cats": [
-          "Beyazlatıcı",
-          "Gargara",
-          "Alkolsüz"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Listerine Cool Mint Ferahlatıcı Ağız Bakım Suyu 500 ml",
         "slug": "listerine-cool-mint-ferahlatici-agiz-bakim-suyu-500-ml",
         "brand": "Listerine",
@@ -54478,20 +54260,6 @@
       }
     ],
     "Alkolsüz": [
-      {
-        "name": "Listerine Advanced White Hafif Tat Beyazlatıcı Ağız Suyu 500 ml",
-        "slug": "listerine-advanced-white-hafif-tat-beyazlatici-agiz-suyu-500-ml",
-        "brand": "Listerine",
-        "price": 249.0,
-        "discount_price": 198.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/36a987b8-4916-4108-ac24-457f8b9d8ec2/image_1950.webp",
-        "cats": [
-          "Beyazlatıcı",
-          "Gargara",
-          "Alkolsüz"
-        ],
-        "stock": 1
-      },
       {
         "name": "Listerine Cool Mint Hafif Tat Ferahlatıcı Ağız Suyu 500 ml",
         "slug": "listerine-cool-mint-hafif-tat-ferahlatici-agiz-suyu-500-ml",
@@ -58104,7 +57872,7 @@
           "Omega 6",
           "Omega 9"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
@@ -58137,7 +57905,7 @@
           "Omega 6",
           "Omega 9"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Efa 1300 Mg Omega 3-6-9 Kapsül 60 Kapsül",
@@ -59045,7 +58813,7 @@
           "Çinko",
           "Bakır"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Hindiba": [
@@ -59776,9 +59544,9 @@
     ]
   },
   "stats": {
-    "total_products": 4177,
+    "total_products": 4162,
     "total_categories": 574,
-    "generated": "2026-11-08 19:23",
+    "generated": "2026-11-09 08:48",
     "source": "ikas_api_live"
   }
 }
