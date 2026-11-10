@@ -7288,20 +7288,6 @@
         "stock": 6
       },
       {
-        "name": "Avent Emzik Ultra Air Erkek 6-18 Ay",
-        "slug": "avent-emzik-ultra-air-erkek-6-18-ay",
-        "brand": "Avent",
-        "price": 688.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0c0beea-5b5e-4817-9b10-a7878d6ef9e7/image_1950.webp",
-        "cats": [
-          "Anne ve Bebek",
-          "Bebek Beslenme",
-          "6-18 Ay"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Babyjem Anne Süt Kaşığı",
         "slug": "babyjem-anne-sut-kasigi",
         "brand": "Babyjem",
@@ -7572,14 +7558,13 @@
         "stock": 1
       },
       {
-        "name": "Avent Emzik Ultra Air Erkek 6-18 Ay",
+        "name": "Avent Ultra Air Erkek 6-18 Ay",
         "slug": "avent-emzik-ultra-air-erkek-6-18-ay",
         "brand": "Avent",
         "price": 688.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0c0beea-5b5e-4817-9b10-a7878d6ef9e7/image_1950.webp",
         "cats": [
-          "Anne ve Bebek",
           "Bebek Beslenme",
           "6-18 Ay"
         ],
@@ -10009,7 +9994,7 @@
           "Çok Satanlar",
           "Demir"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Ocean Vitamin C 1000 mg 60 Tablet (1+1 Paket)",
@@ -18201,51 +18186,6 @@
         "stock": 1
       }
     ],
-    "6-18 Ay": [
-      {
-        "name": "Avent Emzik Ultra Air Erkek 6-18 Ay",
-        "slug": "avent-emzik-ultra-air-erkek-6-18-ay",
-        "brand": "Avent",
-        "price": 688.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0c0beea-5b5e-4817-9b10-a7878d6ef9e7/image_1950.webp",
-        "cats": [
-          "Anne ve Bebek",
-          "Bebek Beslenme",
-          "6-18 Ay"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Avent Ultra Air Emzik 6-18 Ay Kız Bebekler İçin 2'li",
-        "slug": "avent-ultra-air-emzik-6-18-ay-kiz-bebekler-icin-2-li",
-        "brand": "Avent",
-        "price": 682.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/399d8c25-aff8-469a-8a0f-61ddadc9ea03/image_1950.webp",
-        "cats": [
-          "Emzik",
-          "Emzikler",
-          "Emzik",
-          "6-18 Ay"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Wee Emzik Silikon Damaklı Desenli No:2 834",
-        "slug": "wee-emzik-silikon-damakli-desenli-no-2-834",
-        "brand": "Wee",
-        "price": 239.99,
-        "discount_price": 177.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/57d4ca03-dda7-4301-a893-3579849479db/image_1950.webp",
-        "cats": [
-          "Silikon Damaklı Emzik",
-          "Emzik",
-          "6-18 Ay"
-        ],
-        "stock": 1
-      }
-    ],
     "Cam": [
       {
         "name": "Avent Natural Cam Biberon 240 ml Yenidoğan İçin",
@@ -18616,6 +18556,50 @@
           "Emzik"
         ],
         "stock": 4
+      }
+    ],
+    "6-18 Ay": [
+      {
+        "name": "Avent Ultra Air Emzik 6-18 Ay Kız Bebekler İçin 2'li",
+        "slug": "avent-ultra-air-emzik-6-18-ay-kiz-bebekler-icin-2-li",
+        "brand": "Avent",
+        "price": 682.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/399d8c25-aff8-469a-8a0f-61ddadc9ea03/image_1950.webp",
+        "cats": [
+          "Emzik",
+          "Emzikler",
+          "Emzik",
+          "6-18 Ay"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Avent Ultra Air Erkek 6-18 Ay",
+        "slug": "avent-emzik-ultra-air-erkek-6-18-ay",
+        "brand": "Avent",
+        "price": 688.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0c0beea-5b5e-4817-9b10-a7878d6ef9e7/image_1950.webp",
+        "cats": [
+          "Bebek Beslenme",
+          "6-18 Ay"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Wee Emzik Silikon Damaklı Desenli No:2 834",
+        "slug": "wee-emzik-silikon-damakli-desenli-no-2-834",
+        "brand": "Wee",
+        "price": 239.99,
+        "discount_price": 177.0,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/57d4ca03-dda7-4301-a893-3579849479db/image_1950.webp",
+        "cats": [
+          "Silikon Damaklı Emzik",
+          "Emzik",
+          "6-18 Ay"
+        ],
+        "stock": 1
       }
     ],
     "0-6 Ay": [
@@ -22472,7 +22456,7 @@
           "Dermatoloji Yardımcı Ürünler",
           "Onarıcı Kremler"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Dermodicos Plus Krem Yoğun Bakım ve Onarım 30 ml",
@@ -24642,7 +24626,7 @@
           "Çok Satanlar",
           "Demir"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Orzax Ocean Gummies Iron Demir 60 Adet",
@@ -34475,7 +34459,7 @@
           "Çok Satanlar",
           "Demir"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Ocean Plus Balık Yağı Kapsül 30 Kapsül",
@@ -36844,7 +36828,7 @@
           "Dermatoloji Yardımcı Ürünler",
           "Onarıcı Kremler"
         ],
-        "stock": 11
+        "stock": 10
       }
     ],
     "Morluk Karşıtı": [
@@ -55196,9 +55180,9 @@
     ]
   },
   "stats": {
-    "total_products": 3858,
+    "total_products": 3857,
     "total_categories": 571,
-    "generated": "2026-11-10 15:00",
+    "generated": "2026-11-10 19:00",
     "source": "ikas_api_live"
   }
 }
