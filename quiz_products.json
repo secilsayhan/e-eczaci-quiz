@@ -3173,19 +3173,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Chromium Picolinate 200 mcg",
-        "slug": "solgar-chromium-picolinate-200-mcg",
-        "brand": "Solgar",
-        "price": 820.5,
-        "discount_price": 701.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/55ed968b-891f-49f7-8465-f8d8861f505f/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Ester-C Plus 500 mg 50 Kapsül",
         "slug": "solgar-ester-c-plus-500-mg-50-kapsul",
         "brand": "Solgar",
@@ -4595,60 +4582,12 @@
         "stock": 1
       },
       {
-        "name": "Curaprox Prime Plus Arayüz Fırçası 06 5 adet",
-        "slug": "curaprox-prime-plus-arayuz-fircasi-06-5-adet",
-        "brand": "Curaprox",
-        "price": 795.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/140b4ab9-7b9d-439f-9034-4996a69b7551/image_1950.webp",
-        "cats": [
-          "Arayüz Fırçası"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Curaprox Prime Plus Arayüz Fırçası 07 5 adet",
         "slug": "curaprox-prime-plus-arayuz-fircasi-07-5-adet",
         "brand": "Curaprox",
         "price": 688.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/27f5034b-dbb5-4d71-a22c-105521290190/image_1950.webp",
-        "cats": [
-          "Arayüz Fırçası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Curaprox Prime Plus Arayüz Fırçası 08 5 adet",
-        "slug": "curaprox-prime-plus-arayuz-fircasi-08-5-adet",
-        "brand": "Curaprox",
-        "price": 695.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c1528a7a-498b-44c2-ac18-58ee4028be2b/image_1950.webp",
-        "cats": [
-          "Arayüz Fırçası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Curaprox Prime Plus Arayüz Fırçası 09 5 adet",
-        "slug": "curaprox-prime-plus-arayuz-fircasi-09-5-adet",
-        "brand": "Curaprox",
-        "price": 688.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb1010ee-9204-4053-8b6a-f6d7a7f8a39e/image_1950.webp",
-        "cats": [
-          "Arayüz Fırçası"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Curaprox Prime Plus Arayüz Fırçası 11 5 adet",
-        "slug": "curaprox-prime-plus-arayuz-fircasi-11-5-adet",
-        "brand": "Curaprox",
-        "price": 484.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/58e16e6b-3158-4ace-91d7-d8192315eef5/image_1950.webp",
         "cats": [
           "Arayüz Fırçası"
         ],
@@ -7065,19 +7004,6 @@
         "stock": 1
       },
       {
-        "name": "Solgar Chromium Picolinate 200 mcg",
-        "slug": "solgar-chromium-picolinate-200-mcg",
-        "brand": "Solgar",
-        "price": 820.5,
-        "discount_price": 701.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/55ed968b-891f-49f7-8465-f8d8861f505f/image_1950.webp",
-        "cats": [
-          "Mineraller",
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Solgar Magnesium Citrate 60 Tablet",
         "slug": "solgar-magnesium-citrate-60-tablet",
         "brand": "Solgar",
@@ -8529,15 +8455,14 @@
         "stock": 27
       },
       {
-        "name": "Orzax Ocean Gummies Multivitamin Çocuklar İçin 64 Adet",
+        "name": "Orzax Ocean Gummies Multivitamin Çocuklar İçin 60 Adet",
         "slug": "orzax-ocean-gummies-multivitamin-cocuklar-icin-64-adet",
         "brand": "Orzax",
         "price": 709.5,
         "discount_price": 582.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/762ff426-91bb-4ebe-bc79-32db1269e0a7/image_1950.webp",
         "cats": [
-          "Multivitamin",
-          "Çocuk Vitaminleri"
+          "Multivitamin"
         ],
         "stock": 1
       },
@@ -9318,19 +9243,6 @@
           "Çocuk Vitaminleri"
         ],
         "stock": 10
-      },
-      {
-        "name": "Orzax Ocean Gummies Multivitamin Çocuklar İçin 64 Adet",
-        "slug": "orzax-ocean-gummies-multivitamin-cocuklar-icin-64-adet",
-        "brand": "Orzax",
-        "price": 709.5,
-        "discount_price": 582.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/762ff426-91bb-4ebe-bc79-32db1269e0a7/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Çocuk Vitaminleri"
-        ],
-        "stock": 1
       },
       {
         "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
@@ -33917,20 +33829,6 @@
         "stock": 18
       },
       {
-        "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
-        "slug": "day2day-the-collagen-beauty-gummies-cignenebilir-kollajen-60-adet",
-        "brand": "Day2Day",
-        "price": 870.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9d74834d-6d0e-4268-b33e-dc2690926426/image_1950.webp",
-        "cats": [
-          "Çiğnenebilir Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Day2Day The Collagen Mushroom Mantar Destekli Kolajen Takviyesi",
         "slug": "day2day-the-collagen-mushroom-mantar-destekli-kolajen-takviyesi",
         "brand": "Day2Day",
@@ -36169,20 +36067,6 @@
           "Tip 1 ve 3 Kolajen",
           "Toz Kolajen",
           "Tip 2 Kolajen"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
-        "slug": "day2day-the-collagen-beauty-gummies-cignenebilir-kollajen-60-adet",
-        "brand": "Day2Day",
-        "price": 870.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9d74834d-6d0e-4268-b33e-dc2690926426/image_1950.webp",
-        "cats": [
-          "Çiğnenebilir Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Kolajen İçeren Ürünler"
         ],
         "stock": 2
       },
@@ -42332,22 +42216,6 @@
         "stock": 3
       }
     ],
-    "Çiğnenebilir Kolajen": [
-      {
-        "name": "Day2Day The Collagen Beauty Gummies Çiğnenebilir Kollajen Takviyesi 60 Adet",
-        "slug": "day2day-the-collagen-beauty-gummies-cignenebilir-kollajen-60-adet",
-        "brand": "Day2Day",
-        "price": 870.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9d74834d-6d0e-4268-b33e-dc2690926426/image_1950.webp",
-        "cats": [
-          "Çiğnenebilir Kolajen",
-          "Tip 1 ve 3 Kolajen",
-          "Kolajen İçeren Ürünler"
-        ],
-        "stock": 2
-      }
-    ],
     "Fonksiyonel Mantarlar": [
       {
         "name": "Day2Day The Collagen Mushroom Mantar Destekli Kolajen Takviyesi",
@@ -47602,7 +47470,7 @@
         "cats": [
           "Krom"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "TabVitamins Berista Lipozomal Kadın Tuzluğu ve Krom 30 Tablet",
@@ -55328,9 +55196,9 @@
     ]
   },
   "stats": {
-    "total_products": 3868,
-    "total_categories": 572,
-    "generated": "2026-11-10 07:23",
+    "total_products": 3858,
+    "total_categories": 571,
+    "generated": "2026-11-10 11:00",
     "source": "ikas_api_live"
   }
 }
