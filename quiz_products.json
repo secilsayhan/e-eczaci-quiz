@@ -1621,7 +1621,7 @@
           "Antioksidanlar",
           "Alfa Lipoik Asit"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "LIPOZONE Glutatyon Kapsül, 30 Kapsül",
@@ -2227,7 +2227,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 4
+        "stock": 1
       },
       {
         "name": "Nutraxin For Kids Omega-3 Cod Liver Oil, 150 ml",
@@ -3173,7 +3173,7 @@
           "Vitaminler",
           "En Yeniler"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Solgar Glucosamine Chondroitin MSM Tablet 60 Tablet",
@@ -3226,6 +3226,21 @@
           "Vitamin ve Takviye",
           "Vitaminler",
           "Erkek Multivitamin"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
+        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
+        "brand": "Solgar",
+        "price": 748.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
+        "cats": [
+          "B12 Vitamini",
+          "Vitamin ve Takviye",
+          "Vitaminler",
+          "B Vitaminleri"
         ],
         "stock": 1
       },
@@ -7475,7 +7490,7 @@
           "Şampuan",
           "Bebek Şampuanı"
         ],
-        "stock": 1
+        "stock": 4
       },
       {
         "name": "Sma Comfort 1 Toz 400 G",
@@ -7933,6 +7948,21 @@
           "B12 Vitamini"
         ],
         "stock": 2
+      },
+      {
+        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
+        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
+        "brand": "Solgar",
+        "price": 748.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
+        "cats": [
+          "B12 Vitamini",
+          "Vitamin ve Takviye",
+          "Vitaminler",
+          "B Vitaminleri"
+        ],
+        "stock": 1
       },
       {
         "name": "Solgar Metilkobalamin B12 1000 mcg Dilaltı 30 Tablet",
@@ -10243,7 +10273,7 @@
           "Vitaminler",
           "En Yeniler"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Solgar Ester-C Plus Immu-Complex 60 Tablet",
@@ -12962,7 +12992,7 @@
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Hematab 48 Tablet",
@@ -25871,7 +25901,7 @@
           "Şampuan",
           "Bebek Şampuanı"
         ],
-        "stock": 1
+        "stock": 4
       }
     ],
     "Bebek Şampuanı": [
@@ -25964,7 +25994,7 @@
           "Şampuan",
           "Bebek Şampuanı"
         ],
-        "stock": 1
+        "stock": 4
       }
     ],
     "Şampuan ve Vücut Şampuanı": [
@@ -31347,7 +31377,7 @@
           "Vitaminler",
           "En Yeniler"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Strepsils Herbal Afrika Sardunyası",
@@ -33855,20 +33885,7 @@
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 9
-      },
-      {
-        "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "hpwash-kapsul-aktif-heksoz-korele-bilesik-ve-dim-iceren-takviye-edici",
-        "brand": "HPWash",
-        "price": 2070.0,
-        "discount_price": 1898.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ce01123-7a50-42c0-9e9d-80a223b073ff/image_1950.webp",
-        "cats": [
-          "DIM (Diindolilmetan)",
-          "Çok Satanlar"
-        ],
-        "stock": 2
+        "stock": 8
       },
       {
         "name": "La Roche Posay Anthelios Dry Touch Gel Cream 50+",
@@ -34174,7 +34191,7 @@
           "Magnezyum L-Treonat",
           "B6 Vitamini"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Orzax Ocean Plus Yüksek EPA DHA Balık Yağı 50 Kapsül",
@@ -34842,7 +34859,7 @@
           "Göğüs Ucu Koruyucu",
           "Medikal Ürünler"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Wee Göğüs Pompası Manuel 752",
@@ -35194,7 +35211,7 @@
           "Vitaminler",
           "En Yeniler"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Solgar Male Multiple 60 Tablet",
@@ -35207,6 +35224,21 @@
           "Vitamin ve Takviye",
           "Vitaminler",
           "Erkek Multivitamin"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
+        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
+        "brand": "Solgar",
+        "price": 748.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
+        "cats": [
+          "B12 Vitamini",
+          "Vitamin ve Takviye",
+          "Vitaminler",
+          "B Vitaminleri"
         ],
         "stock": 1
       },
@@ -36029,7 +36061,7 @@
           "Antioksidanlar",
           "Alfa Lipoik Asit"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Nbtlife Narla Kapsül Alfa Lipoik Asit İçeren Takviye Edici Gıda 30 Kapsül",
@@ -39739,6 +39771,18 @@
         "price": 1658.5,
         "discount_price": 1411.0,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4b29541d-81fe-4f78-86f7-a4cbf3051165/image_1950.webp",
+        "cats": [
+          "Omega 3"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Solgar Omega 3 950 mg Yüksek EPA DHA Balık Yağı 50 Kapsül",
+        "slug": "solgar-omega-3-950-mg-yuksek-epa-dha-balik-yagi-50-kapsul",
+        "brand": "Solgar",
+        "price": 1459.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4b1ca037-163b-471e-a1c7-72f47e45133a/image_1950.webp",
         "cats": [
           "Omega 3"
         ],
@@ -45521,7 +45565,7 @@
           "Magnezyum L-Treonat",
           "B6 Vitamini"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Orzax Ocean Magnezyum Complex, Magnezyum, Vitamin B6 60 Tablet",
@@ -46227,19 +46271,6 @@
         "stock": 6
       },
       {
-        "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
-        "slug": "hpwash-kapsul-aktif-heksoz-korele-bilesik-ve-dim-iceren-takviye-edici",
-        "brand": "HPWash",
-        "price": 2070.0,
-        "discount_price": 1898.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3ce01123-7a50-42c0-9e9d-80a223b073ff/image_1950.webp",
-        "cats": [
-          "DIM (Diindolilmetan)",
-          "Çok Satanlar"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Velavit DIM Complex Tablet 30 Tablet",
         "slug": "velavit-dim-complex-tablet-30-tablet",
         "brand": "Velavit",
@@ -46772,7 +46803,7 @@
           "Antioksidanlar",
           "Alfa Lipoik Asit"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "Lipozone Glutatyon 30 Kapsül",
@@ -47577,7 +47608,7 @@
           "Magnezyum L-Treonat",
           "B6 Vitamini"
         ],
-        "stock": 18
+        "stock": 17
       }
     ],
     "Magnezyum Sitrat": [
@@ -47810,7 +47841,7 @@
           "Antioksidanlar",
           "Alfa Lipoik Asit"
         ],
-        "stock": 8
+        "stock": 6
       },
       {
         "name": "New Life CoenzQH Yumuşak Jelatin Kapsül 30 Kapsül",
@@ -47996,18 +48027,6 @@
         "price": 1359.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c5041a61-f3d4-45ac-ad42-b59043a97445/image_1950.webp",
-        "cats": [
-          "Koenzim Q10"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Solgar Koenzim Q10 200 mg 30 Kapsül",
-        "slug": "solgar-koenzim-q10-200-mg-30-kapsul",
-        "brand": "Solgar",
-        "price": 1878.9,
-        "discount_price": 1850.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d7f82624-1c5c-4d13-b3ac-0e4a5df4fac3/image_1950.webp",
         "cats": [
           "Koenzim Q10"
         ],
@@ -49084,6 +49103,21 @@
           "B Vitaminleri"
         ],
         "stock": 2
+      },
+      {
+        "name": "Solgar Methylcobalamin (Vitamin B12) 1000 mcg 60 Dilaltı Tablet",
+        "slug": "solgar-methylcobalamin-vitamin-b12-1000-mcg-60-dilalti-tablet",
+        "brand": "Solgar",
+        "price": 748.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3605a1e2-b00f-4ec5-b315-6ee25af9a858/image_1950.webp",
+        "cats": [
+          "B12 Vitamini",
+          "Vitamin ve Takviye",
+          "Vitaminler",
+          "B Vitaminleri"
+        ],
+        "stock": 1
       },
       {
         "name": "Velavit-NR Nikotinamid Ribozid Kapsül 30 Kapsül",
@@ -50807,7 +50841,7 @@
         "cats": [
           "Demir"
         ],
-        "stock": 21
+        "stock": 19
       },
       {
         "name": "Velavit V-Iron Demir ve C Vitamini 30 Tablet",
@@ -54840,7 +54874,7 @@
           "Göğüs Ucu Koruyucu",
           "Medikal Ürünler"
         ],
-        "stock": 13
+        "stock": 12
       }
     ],
     "Göğüs Pedi": [
@@ -55092,9 +55126,9 @@
     ]
   },
   "stats": {
-    "total_products": 3851,
+    "total_products": 3853,
     "total_categories": 571,
-    "generated": "2026-11-11 15:00",
+    "generated": "2026-11-11 22:39",
     "source": "ikas_api_live"
   }
 }
