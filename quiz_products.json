@@ -630,7 +630,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Mosquitan Sinek Isırık Sonrası Bant",
@@ -18970,7 +18970,7 @@
           "Bakım Kremi",
           "Bakım Kremi"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "La Roche Posay Effaclar Duo+ M 40 ml Kampanyalı Fiyat",
@@ -18983,7 +18983,7 @@
           "Bakım Kremi",
           "Bakım Kremi"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "La Roche Posay Effaclar Duo+ M Akne ve Sivilce Kremi 40 ml",
@@ -22523,7 +22523,7 @@
           "Dermatoloji Yardımcı Ürünler",
           "Onarıcı Kremler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Dermodicos Plus Krem Yoğun Bakım ve Onarım 30 ml",
@@ -23601,7 +23601,7 @@
           "Nemlendirici Yüz Kremi",
           "Yüz Kremi"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "SPF’li Nemlendirici": [
@@ -28329,7 +28329,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "Orzax SHINIQ AD Lipid Replenishing Balsam Atopiye Eğilimli Ciltler İçin",
@@ -32949,7 +32949,7 @@
           "Balsam",
           "Kaşıntı ve Tahriş Bakımı"
         ],
-        "stock": 13
+        "stock": 12
       },
       {
         "name": "La Roche Posay Lotion Apaisante Physiologic",
@@ -36931,7 +36931,7 @@
           "Dermatoloji Yardımcı Ürünler",
           "Onarıcı Kremler"
         ],
-        "stock": 10
+        "stock": 9
       }
     ],
     "Morluk Karşıtı": [
@@ -49853,7 +49853,7 @@
         "name": "Wee Biberon Emzik Geniş Ağız Damla No:1 794",
         "slug": "wee-biberon-emzik-genis-agiz-damla-no-1-794",
         "brand": "Wee",
-        "price": 244.0,
+        "price": 326.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f484db9-28f7-401b-bede-4e903c66a7bb/image_1950.webp",
         "cats": [
@@ -50842,7 +50842,7 @@
           "Nemlendirici Yüz Kremi",
           "Yüz Kremi"
         ],
-        "stock": 2
+        "stock": 1
       }
     ],
     "Göğüs Balsamı": [
@@ -54696,7 +54696,7 @@
         "name": "Wee Biberon Emzik Geniş Ağız Damla No:1 794",
         "slug": "wee-biberon-emzik-genis-agiz-damla-no-1-794",
         "brand": "Wee",
-        "price": 244.0,
+        "price": 326.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f484db9-28f7-401b-bede-4e903c66a7bb/image_1950.webp",
         "cats": [
@@ -55172,7 +55172,7 @@
   "stats": {
     "total_products": 3858,
     "total_categories": 570,
-    "generated": "2026-11-13 15:00",
+    "generated": "2026-11-13 19:19",
     "source": "ikas_api_live"
   }
 }
