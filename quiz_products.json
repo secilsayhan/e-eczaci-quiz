@@ -2864,19 +2864,6 @@
         "stock": 26
       },
       {
-        "name": "Ocean Şurup Portakal Ocean VM Hediyeli",
-        "slug": "ocean-surup-portakal-ocean-vm-hediyeli",
-        "brand": "Orzax",
-        "price": 764.5,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3fc8d0a1-850b-4beb-bb8d-8857c0858af8/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Vitamin ve Takviye"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Ocuvite Complete Kapsül, Balık Yağı, Lutein, Zeaksantin, Vitamin ve Çinko, 60 Kapsül",
         "slug": "ocuvite-complete-kapsul-balik-yagi-lutein-zeaksantin-vitamin-ve-cinko",
         "brand": "Ocuvite",
@@ -6545,7 +6532,7 @@
           "Sindirim Probiyotikleri",
           "Probiyotik ve Prebiyotik"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Solgar Advanced Acidophilus Plus 60 Kapsül",
@@ -8464,19 +8451,6 @@
         "stock": 5
       },
       {
-        "name": "Ocean Şurup Portakal Ocean VM Hediyeli",
-        "slug": "ocean-surup-portakal-ocean-vm-hediyeli",
-        "brand": "Orzax",
-        "price": 764.5,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3fc8d0a1-850b-4beb-bb8d-8857c0858af8/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Vitamin ve Takviye"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Orzax Energy Multivitamin + D3K2 Damla (İndirimli)",
         "slug": "yilbasi-ozel-orzax-energy-d3k2-25-indirimli",
         "brand": "Orzax",
@@ -8613,7 +8587,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Solgar Skin Nails And Hair 60 Tablet",
@@ -9840,7 +9814,7 @@
           "Karışım Ekstraktlar",
           "C Vitamini"
         ],
-        "stock": 12
+        "stock": 11
       },
       {
         "name": "Enfla-C Bromelain, Kuersetin, C Vitamini 30 Kapsül",
@@ -13001,7 +12975,7 @@
           "L-Karnosin",
           "Bitkisel Takviyeler"
         ],
-        "stock": 16
+        "stock": 15
       },
       {
         "name": "GoodDay Fonksiyonel Tıp InsulEX 1 Saşe İnositol ve Bitki Ekstreleri 30 Saşe",
@@ -16068,7 +16042,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Bioderma Sensibio AR+ CC Krem SPF50 Light 40 ml",
@@ -17384,7 +17358,7 @@
           "SPF 50+",
           "Güneş Kremi"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Bioxcin Care Güneş Kremi Yağlı Ciltler SPF50+ 50 ml",
@@ -20066,7 +20040,7 @@
           "Ayak Koku Giderici",
           "Ayak Pudrası"
         ],
-        "stock": 15
+        "stock": 14
       }
     ],
     "Ayak Koku Giderici": [
@@ -20096,7 +20070,7 @@
           "Ayak Koku Giderici",
           "Ayak Pudrası"
         ],
-        "stock": 15
+        "stock": 14
       }
     ],
     "Doğal ve Aromaterapi Yağları": [
@@ -20602,7 +20576,7 @@
           "Sindirim Probiyotikleri",
           "Probiyotik ve Prebiyotik"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Trubiotic Duo Oral Damla, Probiyotik 8ml",
@@ -21965,7 +21939,7 @@
           "Omega 3",
           "Resveratrol"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "S1 Kalsiyum Magnezyum Çinko Vitamin D 60 Tablet",
@@ -22785,7 +22759,7 @@
           "Yüz Kremi",
           "SPF’li Nemlendirici"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Bioderma Sebium Sensitive Hassas Akneye Eğilimli Cilt Kremi",
@@ -23560,7 +23534,7 @@
           "Yüz Kremi",
           "SPF’li Nemlendirici"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Mustela Hydra Bebe Nemlendirici Yüz Kremi 40 ml",
@@ -23617,7 +23591,7 @@
           "Yüz Kremi",
           "SPF’li Nemlendirici"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Bioderma Hydrabio Perfecteur SPF30",
@@ -24943,7 +24917,7 @@
           "Karışım Ekstraktlar",
           "C Vitamini"
         ],
-        "stock": 12
+        "stock": 11
       }
     ],
     "Çatlak Bakımı": [
@@ -34251,7 +34225,7 @@
           "Çok Satanlar",
           "Hatmi Çiçeği"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -35617,7 +35591,7 @@
           "Multivitamin",
           "Vitaminler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Solgar Calcium Citrate with Vitamin D3 Tablet 60 Tablet",
@@ -37706,7 +37680,7 @@
           "Primroz (Çuha Çiçeği) Yağı",
           "Pasiflora"
         ],
-        "stock": 53
+        "stock": 49
       },
       {
         "name": "S1 Kalsiyum Magnezyum Çinko Vitamin D 60 Tablet",
@@ -40170,7 +40144,7 @@
           "Omega 3",
           "Resveratrol"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Solgar EFA 1300 mg Omega 3-6-9 60 Kapsül",
@@ -41494,7 +41468,7 @@
         "cats": [
           "Masaj Jeli ve Krem"
         ],
-        "stock": 13
+        "stock": 11
       },
       {
         "name": "Uber At Kestanesi Jeli 500 ml",
@@ -43867,7 +43841,7 @@
           "Ayak Koku Giderici",
           "Ayak Pudrası"
         ],
-        "stock": 15
+        "stock": 14
       },
       {
         "name": "Utalk Pudra Pro",
@@ -46859,7 +46833,7 @@
           "Çok Satanlar",
           "Hatmi Çiçeği"
         ],
-        "stock": 18
+        "stock": 17
       }
     ],
     "Meyan Kökü": [
@@ -46876,7 +46850,7 @@
           "Çok Satanlar",
           "Hatmi Çiçeği"
         ],
-        "stock": 18
+        "stock": 17
       }
     ],
     "Hatmi Çiçeği": [
@@ -46893,7 +46867,7 @@
           "Çok Satanlar",
           "Hatmi Çiçeği"
         ],
-        "stock": 18
+        "stock": 17
       }
     ],
     "Resveratrol": [
@@ -46977,7 +46951,7 @@
           "Omega 3",
           "Resveratrol"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Resverol Sıvı Resveratrol Vitamin C Kuersetin Takviyesi 150 ml Şişe",
@@ -47422,7 +47396,7 @@
           "L-Karnosin",
           "Bitkisel Takviyeler"
         ],
-        "stock": 16
+        "stock": 15
       }
     ],
     "Krom": [
@@ -50663,7 +50637,7 @@
           "Primroz (Çuha Çiçeği) Yağı",
           "Pasiflora"
         ],
-        "stock": 53
+        "stock": 49
       }
     ],
     "Bant (Çocuk)": [
@@ -52845,7 +52819,7 @@
           "Primroz (Çuha Çiçeği) Yağı",
           "Pasiflora"
         ],
-        "stock": 53
+        "stock": 49
       },
       {
         "name": "Solgar Primroz Yağı 1300 mg GLA İçeren 30 Softgel",
@@ -55170,9 +55144,9 @@
     ]
   },
   "stats": {
-    "total_products": 3858,
+    "total_products": 3856,
     "total_categories": 570,
-    "generated": "2026-11-13 19:19",
+    "generated": "2026-11-14 08:52",
     "source": "ikas_api_live"
   }
 }
