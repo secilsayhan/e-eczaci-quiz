@@ -8787,34 +8787,6 @@
           "Çocuk Macunu"
         ],
         "stock": 1
-      },
-      {
-        "name": "İmuneks Farma Imuneks Kids Sıvı Multivitamin Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-kids-sivi-beta-glukan-multivitamin-150-ml",
-        "brand": "İmuneks",
-        "price": 750.0,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Multivitamin",
-          "Çocuk Vitaminleri"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "İmuneks Farma Imuneks Kids Sıvı Multivitamin Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-kids-sivi-beta-glukan-multivitamin-150-ml",
-        "brand": "İmuneks",
-        "price": 750.0,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Multivitamin",
-          "Çocuk Vitaminleri"
-        ],
-        "stock": 1
       }
     ],
     "L-Arjinin": [
@@ -9423,20 +9395,6 @@
           "Multivitamin",
           "Çocuk Vitaminleri",
           "Çocuk Macunu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "İmuneks Farma Imuneks Kids Sıvı Multivitamin Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-kids-sivi-beta-glukan-multivitamin-150-ml",
-        "brand": "İmuneks",
-        "price": 750.0,
-        "discount_price": 511.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fb927359-eaa5-48bc-9bfb-abfacb699bfc/image_1950.webp",
-        "cats": [
-          "Multivitamin",
-          "Multivitamin",
-          "Çocuk Vitaminleri"
         ],
         "stock": 1
       }
@@ -13911,7 +13869,7 @@
         "cats": [
           "Yüz Bakımı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Bioderma Hydrabio Foaming Gel 400 ml",
@@ -14868,18 +14826,6 @@
         "cats": [
           "Yaşlanma Karşıtı",
           "Hyalüronik Asit İçeren Ürünler",
-          "Yüz Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Vichy Liftactiv Retinol Specialist Serum 30 ml",
-        "slug": "vichy-liftactiv-retinol-specialist-serum-30-ml",
-        "brand": "Vichy",
-        "price": 3849.9,
-        "discount_price": 3167.0,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2809f57f-0384-40b7-90c7-1f288363b1fc/image_1950.webp",
-        "cats": [
           "Yüz Bakımı"
         ],
         "stock": 1
@@ -34163,7 +34109,7 @@
           "Kolajen Takviyeleri",
           "Çok Satanlar"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Day2day The Collagen Beauty Intense Kollajen Şase 30 Poşet",
@@ -42183,7 +42129,7 @@
           "Kolajen Takviyeleri",
           "Çok Satanlar"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Day2day The Collagen Multi Toz",
@@ -44300,19 +44246,6 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/baa6f896-f8cf-4c86-9895-ef2d538f5766/image_1950.webp",
         "cats": [
-          "Beta Glukan"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
-        "brand": "İmuneks",
-        "price": 750.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/627a1e90-fb2e-4d94-967c-4a922d715e35/image_1950.webp",
-        "cats": [
-          "Aserola",
           "Beta Glukan"
         ],
         "stock": 1
@@ -55126,27 +55059,12 @@
         ],
         "stock": 1
       }
-    ],
-    "Aserola": [
-      {
-        "name": "İmuneks Farma İmuneks-Ş Sıvı Beta Glukan Aserola Takviyesi 150 ml",
-        "slug": "imuneks-farma-imuneks-s-sivi-beta-glukan-aserola-takviyesi-150-ml",
-        "brand": "İmuneks",
-        "price": 750.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/627a1e90-fb2e-4d94-967c-4a922d715e35/image_1950.webp",
-        "cats": [
-          "Aserola",
-          "Beta Glukan"
-        ],
-        "stock": 1
-      }
     ]
   },
   "stats": {
-    "total_products": 3856,
-    "total_categories": 570,
-    "generated": "2026-11-14 08:52",
+    "total_products": 3850,
+    "total_categories": 569,
+    "generated": "2026-11-14 15:20",
     "source": "ikas_api_live"
   }
 }
