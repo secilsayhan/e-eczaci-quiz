@@ -2348,7 +2348,6 @@
           "K2 Vitamini",
           "Vitamin ve Takviye",
           "D Vitamini",
-          "Çok Satanlar",
           "Vitaminler"
         ],
         "stock": 2
@@ -2375,7 +2374,7 @@
         "brand": "Ocean",
         "price": 627.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/86d86dae-8a51-47b0-8579-f5fcd32f8c08/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a05b8ac1-5203-4bd6-a609-4a860906c309/image_1950.webp",
         "cats": [
           "Astaksantin",
           "Vitamin ve Takviye",
@@ -2471,7 +2470,7 @@
         "brand": "Ocean",
         "price": 483.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fe80a43b-5a9f-4f91-be6d-47f21b45f441/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c9051e60-b493-4168-927b-3ca845f88813/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
@@ -2484,13 +2483,13 @@
         "brand": "Ocean",
         "price": 986.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9c03d71-35f4-46c0-b177-5f563e17dd96/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/872f8cfe-015d-49f4-9f68-c739b8901335/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler",
           "Nootropik"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Cogniven Şurup 150 ml & Sınav Seti Hediye",
@@ -2553,7 +2552,7 @@
         "brand": "Orzax",
         "price": 374.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/43f18367-c2bc-4703-b490-816deb924d0d/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30d28069-a7af-4f0b-9629-02b0908bbc69/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Multivitamin"
@@ -2680,7 +2679,7 @@
         "brand": "Ocean",
         "price": 1221.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f977b26-acb2-4c83-883f-abb260f32e89/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/05f249f0-b794-444b-b1b5-a5a22e3e85a0/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Vitamin ve Takviye",
@@ -2734,7 +2733,7 @@
         "brand": "Ocean",
         "price": 427.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b70bdc0d-0141-494e-a390-cf951b588f19/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6c9d7753-f731-4d98-b8d7-e9b18a59960e/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye"
         ],
@@ -2746,7 +2745,7 @@
         "brand": "Ocean",
         "price": 926.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/826853d5-b9e6-4e64-9319-2bc3bb8b8c9a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0f2aaabf-cb36-40b5-93b0-e555171b059d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Balık Yağı ve Omega",
@@ -2920,7 +2919,7 @@
         "brand": "Orzax",
         "price": 481.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d4073b4c-30ad-4076-a606-ab806f3d80ee/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a9e7ed9-a68a-429e-9e86-5711c4470c34/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Çok Satanlar"
@@ -6830,6 +6829,7 @@
         "cats": [
           "Mineraller",
           "Multivitamin",
+          "Çok Satanlar",
           "Beta Glukan"
         ],
         "stock": 20
@@ -7890,7 +7890,7 @@
         "brand": "Orzax",
         "price": 357.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0e0b24fe-35a4-43db-af54-aef81f3b9590/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c19d2276-01d5-4931-ba5b-c22f52e2c317/image_1950.webp",
         "cats": [
           "B12 Vitamini"
         ],
@@ -8335,6 +8335,7 @@
         "cats": [
           "Mineraller",
           "Multivitamin",
+          "Çok Satanlar",
           "Beta Glukan"
         ],
         "stock": 20
@@ -8416,7 +8417,7 @@
         "brand": "Orzax",
         "price": 374.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/43f18367-c2bc-4703-b490-816deb924d0d/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/30d28069-a7af-4f0b-9629-02b0908bbc69/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Multivitamin"
@@ -8429,7 +8430,7 @@
         "brand": "Orzax",
         "price": 371.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2aade8f2-f273-4c8a-9f4b-e7e18cc12421/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/895d73bd-f060-4fd9-b382-c9ebfeed5351/image_1950.webp",
         "cats": [
           "Multivitamin",
           "Çok Satanlar",
@@ -8511,7 +8512,7 @@
         "brand": "Orzax",
         "price": 794.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/260d6a99-0f77-4e34-8f2c-746fd2764ecc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7b7e1019-9a3b-4921-865f-071ac7bd081c/image_1950.webp",
         "cats": [
           "Multivitamin",
           "Omega 3",
@@ -10002,7 +10003,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6df21941-5765-43b4-a0e1-52333b931a4b/image_1950.webp",
         "cats": [
           "C Vitamini",
-          "Çok Satanlar",
           "Demir"
         ],
         "stock": 6
@@ -10025,7 +10025,7 @@
         "brand": "Orzax",
         "price": 305.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ccf9052e-b258-4d46-8f62-9c82955d2e94/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a89665e3-7640-4f0c-9031-8e8528e4299a/image_1950.webp",
         "cats": [
           "C Vitamini",
           "Çok Satanlar"
@@ -10393,7 +10393,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d79e9b80-aa9c-492f-b422-57c97feedff7/image_1950.webp",
         "cats": [
           "C Vitamini",
-          "Çok Satanlar",
           "C Vitamini İçeren Ürünler"
         ],
         "stock": 40
@@ -10727,7 +10726,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d79e9b80-aa9c-492f-b422-57c97feedff7/image_1950.webp",
         "cats": [
           "C Vitamini",
-          "Çok Satanlar",
           "C Vitamini İçeren Ürünler"
         ],
         "stock": 40
@@ -13187,7 +13185,7 @@
         "brand": "Ocean",
         "price": 627.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/86d86dae-8a51-47b0-8579-f5fcd32f8c08/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a05b8ac1-5203-4bd6-a609-4a860906c309/image_1950.webp",
         "cats": [
           "Astaksantin",
           "Vitamin ve Takviye",
@@ -13242,7 +13240,7 @@
         "brand": "Ocean",
         "price": 483.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fe80a43b-5a9f-4f91-be6d-47f21b45f441/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c9051e60-b493-4168-927b-3ca845f88813/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
@@ -13255,13 +13253,13 @@
         "brand": "Ocean",
         "price": 986.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9c03d71-35f4-46c0-b177-5f563e17dd96/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/872f8cfe-015d-49f4-9f68-c739b8901335/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler",
           "Nootropik"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Cogniven Şurup 150 ml & Sınav Seti Hediye",
@@ -20257,7 +20255,7 @@
         "brand": "Orzax",
         "price": 494.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba2956fe-6fdf-4850-b3e5-78e87e97e1dc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/549f4805-9501-4f74-b818-c5d7a0f3aea3/image_1950.webp",
         "cats": [
           "Probiyotik ve Prebiyotik"
         ],
@@ -21258,7 +21256,6 @@
           "K2 Vitamini",
           "Vitamin ve Takviye",
           "D Vitamini",
-          "Çok Satanlar",
           "Vitaminler"
         ],
         "stock": 2
@@ -21303,7 +21300,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 29
+        "stock": 28
       },
       {
         "name": "Sjømann’s Vitamin D3 K2 Çiğnenebilir Jel 30 Adet",
@@ -21647,7 +21644,6 @@
           "K2 Vitamini",
           "Vitamin ve Takviye",
           "D Vitamini",
-          "Çok Satanlar",
           "Vitaminler"
         ],
         "stock": 2
@@ -21729,7 +21725,7 @@
         "brand": "Orzax",
         "price": 247.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b01b1276-3568-4cde-85fa-68c707621dae/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9cd23a14-26d0-4fd8-b74f-b25513d36f9c/image_1950.webp",
         "cats": [
           "D Vitamini"
         ],
@@ -21741,7 +21737,7 @@
         "brand": "Orzax",
         "price": 239.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca2dee35-91ae-48b9-b3cf-6645b0710f32/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3b889664-cd56-49c9-b514-a2e0defed8e3/image_1950.webp",
         "cats": [
           "D Vitamini",
           "D Vitamini"
@@ -21754,7 +21750,7 @@
         "brand": "Orzax",
         "price": 239.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ca2dee35-91ae-48b9-b3cf-6645b0710f32/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3b889664-cd56-49c9-b514-a2e0defed8e3/image_1950.webp",
         "cats": [
           "D Vitamini",
           "D Vitamini"
@@ -21767,7 +21763,7 @@
         "brand": "Orzax",
         "price": 271.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c9e3fe25-bd31-4424-89e7-db99b2e7db4c/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/032c6148-cd13-4eaf-a426-5833d727ae03/image_1950.webp",
         "cats": [
           "D Vitamini"
         ],
@@ -21793,7 +21789,7 @@
         "brand": "Orzax",
         "price": 441.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60e15fac-b67c-465a-bb0e-96791bb4d6b6/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4f2a79ee-dac3-4de2-8c00-0b10f581dfba/image_1950.webp",
         "cats": [
           "D Vitamini"
         ],
@@ -21810,7 +21806,7 @@
           "K2 Vitamini",
           "D Vitamini"
         ],
-        "stock": 29
+        "stock": 28
       },
       {
         "name": "Osende Vitamin D3 1000 IU Oral Damla, D3 Vitamini İçeren Takviye Edici Gıda 20ml Şişe",
@@ -24633,7 +24629,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6df21941-5765-43b4-a0e1-52333b931a4b/image_1950.webp",
         "cats": [
           "C Vitamini",
-          "Çok Satanlar",
           "Demir"
         ],
         "stock": 6
@@ -25999,18 +25994,6 @@
       },
       {
         "name": "Vichy Dercos Dökülme Karşıtı Şampuan 400 ml",
-        "slug": "vichy-dercos-dokulme-karsiti-sampuan-400-ml-2",
-        "brand": "Vichy",
-        "price": 1849.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6a1836b-58a7-48e3-8a56-30713daa1f28/image_1950.webp",
-        "cats": [
-          "Dökülme Karşıtı"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Vichy Dercos Dökülme Karşıtı Şampuan 400 ml",
         "slug": "vichy-dercos-dokulme-karsiti-sampuan-400-ml",
         "brand": "Vichy",
         "price": 1914.0,
@@ -26020,6 +26003,18 @@
           "Dökülme Karşıtı"
         ],
         "stock": 14
+      },
+      {
+        "name": "Vichy Dercos Dökülme Karşıtı Şampuan 400 ml",
+        "slug": "vichy-dercos-dokulme-karsiti-sampuan-400-ml-2",
+        "brand": "Vichy",
+        "price": 1849.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6a1836b-58a7-48e3-8a56-30713daa1f28/image_1950.webp",
+        "cats": [
+          "Dökülme Karşıtı"
+        ],
+        "stock": 8
       },
       {
         "name": "Vichy Dercos Neogenic Saç Yoğunlaştırıcı Şampuan 400 ml",
@@ -33229,7 +33224,7 @@
         "brand": "Orzax",
         "price": 298.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0eed8a2-3d1a-4a2e-ad13-ab49ff8c7c2a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1963cc54-f691-4ef5-9f66-b9869c6de2cc/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Biotin (B7 Vitamini)"
@@ -33676,21 +33671,6 @@
         "stock": 3
       },
       {
-        "name": "GoodDay Beauty Collagen Max Tablet Hidrolize Kollajen ve Hyaluronik Asit 30 Tablet",
-        "slug": "goodday-beauty-collagen-max-hidrolize-kollajen-hyaluronik-asit-30",
-        "brand": "Goodday",
-        "price": 292.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c26606f-8a42-4f77-a008-b9005685b1a1/image_1950.webp",
-        "cats": [
-          "Bugüne Özel",
-          "Tip 1 ve 3 Kolajen",
-          "Tablet Kolajen",
-          "Hidrolize Kolajen"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Sebamed Anti-Dandruff Kepek Karşıtı Şampuan 200 ml",
         "slug": "sebamed-anti-dandruff-kepek-karsiti-sampuan-200-ml",
         "brand": "Sebamed",
@@ -34093,6 +34073,19 @@
         "stock": 9
       },
       {
+        "name": "Canderel Tablet 300 Tablet",
+        "slug": "canderel-tablet-300-tablet",
+        "brand": "Canderel",
+        "price": 400.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f45ced94-5b19-4d6d-ae02-a7af9a45a472/image_1950.webp",
+        "cats": [
+          "Çok Satanlar",
+          "Tablet Tatlandırıcı"
+        ],
+        "stock": 37
+      },
+      {
         "name": "Day2Day The Collagen Beauty Core",
         "slug": "day2day-the-collagen-beauty-core",
         "brand": "Day2Day",
@@ -34168,6 +34161,21 @@
         "stock": 17
       },
       {
+        "name": "GoodDay Magnesium Plus Duo Tablet Magnezyum Malat ve P5P 30+30 Tablet",
+        "slug": "goodday-magnesium-plus-duo-tablet-magnezyum-bisglinat-ve-p5p-30-plus",
+        "brand": "Goodday",
+        "price": 583.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Çok Satanlar",
+          "B6 Vitamini",
+          "Magnezyum Malat"
+        ],
+        "stock": 8
+      },
+      {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
         "slug": "goodday-magnesium-plus-magnezyum-bisglinat-tablet-p5p-30-tablet",
         "brand": "Goodday",
@@ -34223,6 +34231,21 @@
           "Çok Satanlar"
         ],
         "stock": 1
+      },
+      {
+        "name": "Ligone Multivitamin Multimineral Kapsül Beta Glukan Takviyesi 30 Kapsül",
+        "slug": "ligone-multivitamin-multimineral-kapsul-beta-glukan-30-kapsul",
+        "brand": "Ligone",
+        "price": 385.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dcecc300-5abf-412e-a563-d8a1b82993e6/image_1950.webp",
+        "cats": [
+          "Mineraller",
+          "Multivitamin",
+          "Çok Satanlar",
+          "Beta Glukan"
+        ],
+        "stock": 20
       },
       {
         "name": "Meridol Diş Macunu Parodont Expert 75 ml",
@@ -34340,28 +34363,12 @@
         "stock": 5
       },
       {
-        "name": "Nutraxin Vitals Vitamin D3K2 Tablet, 120 Tablet",
-        "slug": "nutraxin-vitals-vitamin-d3k2-tablet-120-tablet",
-        "brand": "Nutraxin",
-        "price": 333.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/13c0151c-08c9-4178-b314-f8c5c7cc0260/image_1950.webp",
-        "cats": [
-          "K2 Vitamini",
-          "Vitamin ve Takviye",
-          "D Vitamini",
-          "Çok Satanlar",
-          "Vitaminler"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Ocean Biotin 5000 mcg Kapsül 60 Kapsül",
         "slug": "ocean-biotin-5000-mcg-kapsul-60-kapsul",
         "brand": "Orzax",
         "price": 298.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0eed8a2-3d1a-4a2e-ad13-ab49ff8c7c2a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1963cc54-f691-4ef5-9f66-b9869c6de2cc/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Biotin (B7 Vitamini)"
@@ -34374,7 +34381,7 @@
         "brand": "Orzax",
         "price": 371.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2aade8f2-f273-4c8a-9f4b-e7e18cc12421/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/895d73bd-f060-4fd9-b382-c9ebfeed5351/image_1950.webp",
         "cats": [
           "Multivitamin",
           "Çok Satanlar",
@@ -34423,20 +34430,6 @@
         "stock": 9
       },
       {
-        "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
-        "slug": "ocean-microfer-kapsul-mikroenkapsule-demir-ve-c-vitamini-iceren",
-        "brand": "Orzax",
-        "price": 906.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6df21941-5765-43b4-a0e1-52333b931a4b/image_1950.webp",
-        "cats": [
-          "C Vitamini",
-          "Çok Satanlar",
-          "Demir"
-        ],
-        "stock": 6
-      },
-      {
         "name": "Ocean Plus Balık Yağı Kapsül 30 Kapsül",
         "slug": "ocean-plus-balik-yagi-kapsul-30-kapsul",
         "brand": "Orzax",
@@ -34455,7 +34448,7 @@
         "brand": "Orzax",
         "price": 801.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/503fd9a5-84d3-49c7-ad3f-e14ccd3a8c0a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aa5e1bcd-1943-4396-aa4d-edf8851811c6/image_1950.webp",
         "cats": [
           "Omega 3",
           "Çok Satanlar"
@@ -34468,7 +34461,7 @@
         "brand": "Orzax",
         "price": 305.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ccf9052e-b258-4d46-8f62-9c82955d2e94/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a89665e3-7640-4f0c-9031-8e8528e4299a/image_1950.webp",
         "cats": [
           "C Vitamini",
           "Çok Satanlar"
@@ -34508,13 +34501,27 @@
         "brand": "Orzax",
         "price": 786.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51dd3a74-c71b-460c-9f08-de4c978684b2/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af1a4b67-f5b7-48d3-8397-05e0650913eb/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Magnezyum L-Treonat",
           "B6 Vitamini"
         ],
-        "stock": 17
+        "stock": 16
+      },
+      {
+        "name": "Orzax Ocean Magnezyum Complex, Magnezyum, Vitamin B6 60 Tablet",
+        "slug": "orzax-ocean-magnezyum-complex-magnezyum-vitamin-b6-60-tablet",
+        "brand": "Orzax",
+        "price": 547.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6662d7eb-83c4-409b-ae26-479d28f67507/image_1950.webp",
+        "cats": [
+          "Magnezyum",
+          "Çok Satanlar",
+          "B6 Vitamini"
+        ],
+        "stock": 100
       },
       {
         "name": "Orzax Ocean Plus Yüksek EPA DHA Balık Yağı 50 Kapsül",
@@ -34528,6 +34535,19 @@
           "Çok Satanlar"
         ],
         "stock": 17
+      },
+      {
+        "name": "Orzax Ocean Saf Balık Yağı Omega 3 EPA DHA 500 mg 60 Kapsül",
+        "slug": "orzax-ocean-saf-balik-yagi-omega-3-epa-dha-500-mg-60-kapsul",
+        "brand": "Orzax",
+        "price": 202.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d21f912e-e182-4709-87e8-89492fe393b2/image_1950.webp",
+        "cats": [
+          "Omega 3",
+          "Çok Satanlar"
+        ],
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Vitamin C 1000 mg 30 Tablet",
@@ -34548,7 +34568,7 @@
         "brand": "Orzax",
         "price": 481.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d4073b4c-30ad-4076-a606-ab806f3d80ee/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a9e7ed9-a68a-429e-9e86-5711c4470c34/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Çok Satanlar"
@@ -34569,20 +34589,6 @@
         "stock": 9
       },
       {
-        "name": "Stepwax Dış Kulak Yolu Temizleme Kiti 8 Saşe",
-        "slug": "stepwax-dis-kulak-yolu-temizleme-kiti-8-sase",
-        "brand": "Stepwax",
-        "price": 632.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9159839c-2a38-4f17-8f51-b545d8710276/image_1950.webp",
-        "cats": [
-          "Kulak Temizleyici",
-          "Çok Satanlar",
-          "Kulak Kiri Yumuşatıcı"
-        ],
-        "stock": 4
-      },
-      {
         "name": "Vitacomplex Multivitamin Multimineral ve Kore Ginsengi Yumuşak Kapsül 30 Kapsül",
         "slug": "vitacomplex-multivitamin-multimineral-kore-ginsengi-30-kapsul",
         "brand": "Vitacomplex",
@@ -34596,20 +34602,6 @@
           "Ginseng"
         ],
         "stock": 28
-      },
-      {
-        "name": "Youplus Vitamin C Efervesan Suda Eriyen Tablet (2x20 Adet)",
-        "slug": "youplus-vitamin-c-efervesan-suda-eriyen-tablet-2x20-adet",
-        "brand": "",
-        "price": 520.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d79e9b80-aa9c-492f-b422-57c97feedff7/image_1950.webp",
-        "cats": [
-          "C Vitamini",
-          "Çok Satanlar",
-          "C Vitamini İçeren Ürünler"
-        ],
-        "stock": 40
       }
     ],
     "Cinsel Sağlık Ürünleri": [
@@ -35386,7 +35378,6 @@
           "K2 Vitamini",
           "Vitamin ve Takviye",
           "D Vitamini",
-          "Çok Satanlar",
           "Vitaminler"
         ],
         "stock": 2
@@ -35982,6 +35973,7 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f45ced94-5b19-4d6d-ae02-a7af9a45a472/image_1950.webp",
         "cats": [
+          "Çok Satanlar",
           "Tablet Tatlandırıcı"
         ],
         "stock": 37
@@ -36122,21 +36114,6 @@
         "stock": 5
       },
       {
-        "name": "GoodDay Beauty Collagen Max Tablet Hidrolize Kollajen ve Hyaluronik Asit 30 Tablet",
-        "slug": "goodday-beauty-collagen-max-hidrolize-kollajen-hyaluronik-asit-30",
-        "brand": "Goodday",
-        "price": 292.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c26606f-8a42-4f77-a008-b9005685b1a1/image_1950.webp",
-        "cats": [
-          "Bugüne Özel",
-          "Tip 1 ve 3 Kolajen",
-          "Tablet Kolajen",
-          "Hidrolize Kolajen"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Nutraxin Beauty Collagen Complex 5 Tip Kolajen 90 Tablet",
         "slug": "nutraxin-beauty-collagen-complex-5-tip-kolajen-90-tablet",
         "brand": "Nutraxin",
@@ -36165,21 +36142,6 @@
           "Biotin (B7 Vitamini)"
         ],
         "stock": 9
-      },
-      {
-        "name": "GoodDay Beauty Collagen Max Tablet Hidrolize Kollajen ve Hyaluronik Asit 30 Tablet",
-        "slug": "goodday-beauty-collagen-max-hidrolize-kollajen-hyaluronik-asit-30",
-        "brand": "Goodday",
-        "price": 292.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c26606f-8a42-4f77-a008-b9005685b1a1/image_1950.webp",
-        "cats": [
-          "Bugüne Özel",
-          "Tip 1 ve 3 Kolajen",
-          "Tablet Kolajen",
-          "Hidrolize Kolajen"
-        ],
-        "stock": 1
       },
       {
         "name": "Nutraxin Beauty Collagen Complex 5 Tip Kolajen 90 Tablet",
@@ -36231,7 +36193,7 @@
         "brand": "Ocean",
         "price": 627.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/86d86dae-8a51-47b0-8579-f5fcd32f8c08/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a05b8ac1-5203-4bd6-a609-4a860906c309/image_1950.webp",
         "cats": [
           "Astaksantin",
           "Vitamin ve Takviye",
@@ -37160,6 +37122,7 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
         "cats": [
           "Magnezyum",
+          "Çok Satanlar",
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
@@ -37591,6 +37554,7 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6662d7eb-83c4-409b-ae26-479d28f67507/image_1950.webp",
         "cats": [
           "Magnezyum",
+          "Çok Satanlar",
           "B6 Vitamini"
         ],
         "stock": 100
@@ -38144,13 +38108,13 @@
         "brand": "Ocean",
         "price": 986.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9c03d71-35f4-46c0-b177-5f563e17dd96/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/872f8cfe-015d-49f4-9f68-c739b8901335/image_1950.webp",
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler",
           "Nootropik"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Ocean Cogniven 30+6 Kapsül (%20 Daha Fazla)",
@@ -39783,7 +39747,7 @@
         "brand": "Orzax",
         "price": 408.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73ebc079-3aae-452a-8165-6681059ea395/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1ff81c43-d70f-4857-86eb-c2992152baab/image_1950.webp",
         "cats": [
           "Omega 3",
           "Omega 3"
@@ -39796,7 +39760,7 @@
         "brand": "Orzax",
         "price": 408.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73ebc079-3aae-452a-8165-6681059ea395/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1ff81c43-d70f-4857-86eb-c2992152baab/image_1950.webp",
         "cats": [
           "Omega 3",
           "Omega 3"
@@ -39809,7 +39773,7 @@
         "brand": "Orzax",
         "price": 421.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/64a74236-7635-44e4-baaa-420b84c0e9d2/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f562db7a-1bf8-4bef-9fcb-b222df0d15d6/image_1950.webp",
         "cats": [
           "Omega 3"
         ],
@@ -39821,7 +39785,7 @@
         "brand": "Ocean",
         "price": 926.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/826853d5-b9e6-4e64-9319-2bc3bb8b8c9a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0f2aaabf-cb36-40b5-93b0-e555171b059d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Balık Yağı ve Omega",
@@ -39863,7 +39827,7 @@
         "brand": "Orzax",
         "price": 801.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/503fd9a5-84d3-49c7-ad3f-e14ccd3a8c0a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/aa5e1bcd-1943-4396-aa4d-edf8851811c6/image_1950.webp",
         "cats": [
           "Omega 3",
           "Çok Satanlar"
@@ -39969,7 +39933,7 @@
         "brand": "Orzax",
         "price": 794.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/260d6a99-0f77-4e34-8f2c-746fd2764ecc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7b7e1019-9a3b-4921-865f-071ac7bd081c/image_1950.webp",
         "cats": [
           "Multivitamin",
           "Omega 3",
@@ -39997,7 +39961,7 @@
         "brand": "Orzax",
         "price": 966.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/928af311-cebb-4a46-8510-c7b9c503063b/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8451a626-aa01-4708-94a6-922fb23db9db/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Omega 3"
@@ -40012,7 +39976,8 @@
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d21f912e-e182-4709-87e8-89492fe393b2/image_1950.webp",
         "cats": [
-          "Omega 3"
+          "Omega 3",
+          "Çok Satanlar"
         ],
         "stock": 8
       },
@@ -40396,7 +40361,7 @@
         "brand": "Orzax",
         "price": 694.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d57b4c30-8350-4fe4-b717-0185f059925b/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0a8c415d-87fa-446d-982f-9b7b429f2df5/image_1950.webp",
         "cats": [
           "L-Teanin"
         ],
@@ -41287,7 +41252,7 @@
         "brand": "Orzax",
         "price": 371.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2aade8f2-f273-4c8a-9f4b-e7e18cc12421/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/895d73bd-f060-4fd9-b382-c9ebfeed5351/image_1950.webp",
         "cats": [
           "Multivitamin",
           "Çok Satanlar",
@@ -42275,21 +42240,6 @@
           "Kolajen İçeren Ürünler"
         ],
         "stock": 5
-      },
-      {
-        "name": "GoodDay Beauty Collagen Max Tablet Hidrolize Kollajen ve Hyaluronik Asit 30 Tablet",
-        "slug": "goodday-beauty-collagen-max-hidrolize-kollajen-hyaluronik-asit-30",
-        "brand": "Goodday",
-        "price": 292.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4c26606f-8a42-4f77-a008-b9005685b1a1/image_1950.webp",
-        "cats": [
-          "Bugüne Özel",
-          "Tip 1 ve 3 Kolajen",
-          "Tablet Kolajen",
-          "Hidrolize Kolajen"
-        ],
-        "stock": 1
       }
     ],
     "Sıvı Kolajen": [
@@ -43511,7 +43461,7 @@
         "brand": "Orzax",
         "price": 794.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/260d6a99-0f77-4e34-8f2c-746fd2764ecc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7b7e1019-9a3b-4921-865f-071ac7bd081c/image_1950.webp",
         "cats": [
           "Multivitamin",
           "Omega 3",
@@ -43695,7 +43645,7 @@
         "brand": "Orzax",
         "price": 794.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/260d6a99-0f77-4e34-8f2c-746fd2764ecc/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7b7e1019-9a3b-4921-865f-071ac7bd081c/image_1950.webp",
         "cats": [
           "Multivitamin",
           "Omega 3",
@@ -44196,6 +44146,7 @@
         "cats": [
           "Mineraller",
           "Multivitamin",
+          "Çok Satanlar",
           "Beta Glukan"
         ],
         "stock": 20
@@ -45288,7 +45239,7 @@
         "brand": "Orzax",
         "price": 2674.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/26f4727b-5349-4bad-93c5-4fea9004725d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "İnositol",
@@ -45619,6 +45570,7 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
         "cats": [
           "Magnezyum",
+          "Çok Satanlar",
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
@@ -45832,13 +45784,13 @@
         "brand": "Orzax",
         "price": 786.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51dd3a74-c71b-460c-9f08-de4c978684b2/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af1a4b67-f5b7-48d3-8397-05e0650913eb/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Magnezyum L-Treonat",
           "B6 Vitamini"
         ],
-        "stock": 17
+        "stock": 16
       },
       {
         "name": "Orzax Ocean Magnezyum Complex, Magnezyum, Vitamin B6 60 Tablet",
@@ -45849,6 +45801,7 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6662d7eb-83c4-409b-ae26-479d28f67507/image_1950.webp",
         "cats": [
           "Magnezyum",
+          "Çok Satanlar",
           "B6 Vitamini"
         ],
         "stock": 100
@@ -46605,7 +46558,7 @@
         "brand": "Orzax",
         "price": 2674.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/26f4727b-5349-4bad-93c5-4fea9004725d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "İnositol",
@@ -46900,7 +46853,7 @@
         "brand": "Orzax",
         "price": 845.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9f86715c-ac52-41dd-9f35-3723a2c575f4/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/190218c1-ec65-4aec-92ef-704e9df75bff/image_1950.webp",
         "cats": [
           "Resveratrol"
         ],
@@ -47125,7 +47078,7 @@
         "brand": "Ocean",
         "price": 1221.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f977b26-acb2-4c83-883f-abb260f32e89/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/05f249f0-b794-444b-b1b5-a5a22e3e85a0/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Vitamin ve Takviye",
@@ -47139,7 +47092,7 @@
         "brand": "Ocean",
         "price": 926.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/826853d5-b9e6-4e64-9319-2bc3bb8b8c9a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0f2aaabf-cb36-40b5-93b0-e555171b059d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Balık Yağı ve Omega",
@@ -47168,7 +47121,7 @@
         "brand": "Orzax",
         "price": 316.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/935185c3-68d3-4dd6-809c-7c418397e23e/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc5a05b1-cafb-48b1-945f-2dd170bda22c/image_1950.webp",
         "cats": [
           "Selenyum",
           "Antioksidanlar"
@@ -47285,7 +47238,7 @@
         "brand": "Orzax",
         "price": 491.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f16bce1e-fd88-405a-8da7-f42f4322d62e/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/555e5ed7-ffdf-4e2d-8c8c-a3040adf661e/image_1950.webp",
         "cats": [
           "Saw Palmetto"
         ],
@@ -47402,7 +47355,7 @@
         "brand": "Orzax",
         "price": 381.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3558c814-747b-435c-aa6f-df125b43d642/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0a8168d2-2035-4aa6-8d25-6e27f5f3d087/image_1950.webp",
         "cats": [
           "Krom"
         ],
@@ -47457,7 +47410,7 @@
         "brand": "Orzax",
         "price": 2674.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/26f4727b-5349-4bad-93c5-4fea9004725d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "İnositol",
@@ -47662,6 +47615,7 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f78494a9-06fe-4fff-8020-3251577cca05/image_1950.webp",
         "cats": [
           "Magnezyum",
+          "Çok Satanlar",
           "B6 Vitamini",
           "Magnezyum Malat"
         ],
@@ -47888,13 +47842,13 @@
         "brand": "Orzax",
         "price": 786.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51dd3a74-c71b-460c-9f08-de4c978684b2/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/af1a4b67-f5b7-48d3-8397-05e0650913eb/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Magnezyum L-Treonat",
           "B6 Vitamini"
         ],
-        "stock": 17
+        "stock": 16
       }
     ],
     "Magnezyum Sitrat": [
@@ -48175,7 +48129,7 @@
         "brand": "Orzax",
         "price": 448.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8d997cd7-4235-4dcb-9e33-f93650b2f79e/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e4448c82-4427-432a-b47c-12df5d2eb1c3/image_1950.webp",
         "cats": [
           "Koenzim Q10"
         ],
@@ -48200,7 +48154,7 @@
         "brand": "Ocean",
         "price": 1221.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7f977b26-acb2-4c83-883f-abb260f32e89/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/05f249f0-b794-444b-b1b5-a5a22e3e85a0/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Vitamin ve Takviye",
@@ -48214,7 +48168,7 @@
         "brand": "Ocean",
         "price": 926.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/826853d5-b9e6-4e64-9319-2bc3bb8b8c9a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0f2aaabf-cb36-40b5-93b0-e555171b059d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Balık Yağı ve Omega",
@@ -48230,7 +48184,7 @@
         "brand": "Orzax",
         "price": 966.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/928af311-cebb-4a46-8510-c7b9c503063b/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8451a626-aa01-4708-94a6-922fb23db9db/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Omega 3"
@@ -48257,7 +48211,7 @@
         "brand": "Orzax",
         "price": 2674.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/26f4727b-5349-4bad-93c5-4fea9004725d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "İnositol",
@@ -48985,7 +48939,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9159839c-2a38-4f17-8f51-b545d8710276/image_1950.webp",
         "cats": [
           "Kulak Temizleyici",
-          "Çok Satanlar",
           "Kulak Kiri Yumuşatıcı"
         ],
         "stock": 4
@@ -49501,7 +49454,7 @@
         "brand": "Orzax",
         "price": 2674.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/26f4727b-5349-4bad-93c5-4fea9004725d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "İnositol",
@@ -51035,7 +50988,7 @@
         "brand": "Ocean",
         "price": 926.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/826853d5-b9e6-4e64-9319-2bc3bb8b8c9a/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0f2aaabf-cb36-40b5-93b0-e555171b059d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "Balık Yağı ve Omega",
@@ -51282,7 +51235,7 @@
         "brand": "Orzax",
         "price": 316.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/935185c3-68d3-4dd6-809c-7c418397e23e/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dc5a05b1-cafb-48b1-945f-2dd170bda22c/image_1950.webp",
         "cats": [
           "Selenyum",
           "Antioksidanlar"
@@ -51752,7 +51705,7 @@
         "brand": "Ocean",
         "price": 851.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/197280f6-b5f1-47c9-8226-a4f984eafa9c/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5da04e9e-a963-48c9-9fd7-98a0c3f3b56f/image_1950.webp",
         "cats": [
           "Sindirim Enzimleri"
         ],
@@ -52056,7 +52009,7 @@
         "brand": "Orzax",
         "price": 1251.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a2e2e782-c287-465b-b444-ceb28ffb5984/image_1950.webp",
         "cats": [
           "Regl Dönemi",
           "İnositol (Myo & D-Chiro)"
@@ -52071,7 +52024,7 @@
         "brand": "Orzax",
         "price": 1251.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60f88fda-78a2-4844-b181-38b564dc96dd/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/a2e2e782-c287-465b-b444-ceb28ffb5984/image_1950.webp",
         "cats": [
           "Regl Dönemi",
           "İnositol (Myo & D-Chiro)"
@@ -52084,7 +52037,7 @@
         "brand": "Orzax",
         "price": 2674.5,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c4af9e3e-3688-4556-820b-404019b6a300/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/26f4727b-5349-4bad-93c5-4fea9004725d/image_1950.webp",
         "cats": [
           "Koenzim Q10",
           "İnositol",
@@ -53627,7 +53580,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9159839c-2a38-4f17-8f51-b545d8710276/image_1950.webp",
         "cats": [
           "Kulak Temizleyici",
-          "Çok Satanlar",
           "Kulak Kiri Yumuşatıcı"
         ],
         "stock": 4
@@ -55072,9 +55024,9 @@
     ]
   },
   "stats": {
-    "total_products": 3851,
+    "total_products": 3848,
     "total_categories": 570,
-    "generated": "2026-11-16 12:07",
+    "generated": "2026-11-16 15:00",
     "source": "ikas_api_live"
   }
 }
