@@ -7707,7 +7707,7 @@
         "cats": [
           "B12 Vitamini"
         ],
-        "stock": 5
+        "stock": 3
       },
       {
         "name": "GoodDay Vitamin B Complex Tablet (P5P Folik Asit Biotin Metilkobalamin) 60 Tablet",
@@ -15758,20 +15758,6 @@
         "stock": 1
       },
       {
-        "name": "Bioderma Photoderm AR SPF50+ Kızarıklık Karşıtı Güneş Kremi 30 ml",
-        "slug": "bioderma-photoderm-ar-spf50-plus-kizariklik-karsiti-gunes-kremi-30-ml",
-        "brand": "Bioderma",
-        "price": 1539.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6692ae-7803-4367-82c5-b9ebec924159/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
         "slug": "bioderma-photoderm-ar-plus-ultra-fluid-spf50-plus-40-ml",
         "brand": "Bioderma",
@@ -19570,20 +19556,6 @@
           "Yüz Güneş Koruma",
           "SPF 50+",
           "Leke Karşıtı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Photoderm AR SPF50+ Kızarıklık Karşıtı Güneş Kremi 30 ml",
-        "slug": "bioderma-photoderm-ar-spf50-plus-kizariklik-karsiti-gunes-kremi-30-ml",
-        "brand": "Bioderma",
-        "price": 1539.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6692ae-7803-4367-82c5-b9ebec924159/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Rozasea"
         ],
         "stock": 1
       },
@@ -30553,20 +30525,6 @@
     ],
     "Rozasea": [
       {
-        "name": "Bioderma Photoderm AR SPF50+ Kızarıklık Karşıtı Güneş Kremi 30 ml",
-        "slug": "bioderma-photoderm-ar-spf50-plus-kizariklik-karsiti-gunes-kremi-30-ml",
-        "brand": "Bioderma",
-        "price": 1539.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6692ae-7803-4367-82c5-b9ebec924159/image_1950.webp",
-        "cats": [
-          "SPF 50+",
-          "Yüz Güneş Koruma",
-          "Rozasea"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
         "slug": "bioderma-photoderm-ar-plus-ultra-fluid-spf50-plus-40-ml",
         "brand": "Bioderma",
@@ -31569,7 +31527,7 @@
           "Magnezyum",
           "En Yeniler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Extramag Bisglisinat 60 Tablet",
@@ -37445,7 +37403,7 @@
           "Magnezyum",
           "En Yeniler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Extramag Bisglisinat 60 Tablet",
@@ -55024,9 +54982,9 @@
     ]
   },
   "stats": {
-    "total_products": 3848,
+    "total_products": 3845,
     "total_categories": 570,
-    "generated": "2026-11-16 15:00",
+    "generated": "2026-11-16 19:00",
     "source": "ikas_api_live"
   }
 }
