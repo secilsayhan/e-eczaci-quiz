@@ -5320,7 +5320,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 6
+        "stock": 7
       },
       {
         "name": "Capila Kükürtlü Sabun 90 gr",
@@ -7656,18 +7656,6 @@
           "Nootropik"
         ],
         "stock": 1
-      },
-      {
-        "name": "GoodDay Methyl Boost 30 Tablet",
-        "slug": "goodday-methyl-boost-30-tablet",
-        "brand": "Goodday",
-        "price": 705.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c62d0888-6392-411f-ac72-df08809d199c/image_1950.webp",
-        "cats": [
-          "B12 Vitamini"
-        ],
-        "stock": 5
       },
       {
         "name": "GoodDay Vitamin B Complex Tablet (P5P Folik Asit Biotin Metilkobalamin) 60 Tablet",
@@ -15744,7 +15732,7 @@
           "Yüz Güneş Koruma",
           "Rozasea"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
@@ -19586,7 +19574,7 @@
           "Yüz Güneş Koruma",
           "Rozasea"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
@@ -22250,7 +22238,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 6
+        "stock": 7
       },
       {
         "name": "CeraVe Moisturising Cream 340 gr",
@@ -23241,7 +23229,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 6
+        "stock": 7
       },
       {
         "name": "CeraVe Gelişmiş Onarıcı Bakım Kremi 88 ml",
@@ -23727,7 +23715,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 6
+        "stock": 7
       },
       {
         "name": "CeraVe Moisturising Cream 340 gr",
@@ -25363,7 +25351,7 @@
           "Saç Bakımı",
           "Hassas Saç Derisi"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Dalin Şampuan Klasik 200 ML",
@@ -27975,7 +27963,7 @@
           "Kuru Cilt",
           "Nemlendiriciler"
         ],
-        "stock": 6
+        "stock": 7
       },
       {
         "name": "CeraVe Nemlendirici Losyon 473 ml",
@@ -30565,7 +30553,7 @@
           "Yüz Güneş Koruma",
           "Rozasea"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Bioderma Photoderm AR+ Ultra Fluid SPF50+ 40 ml",
@@ -39052,7 +39040,7 @@
           "Saç Bakımı",
           "Hassas Saç Derisi"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Kelual DS Intensive Şampuan 100 ml",
@@ -55038,9 +55026,9 @@
     ]
   },
   "stats": {
-    "total_products": 3849,
+    "total_products": 3848,
     "total_categories": 569,
-    "generated": "2026-11-17 10:42",
+    "generated": "2026-11-17 11:16",
     "source": "ikas_api_live"
   }
 }
