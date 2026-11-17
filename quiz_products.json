@@ -11601,7 +11601,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Eti Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Meridol Gentle White Diş Macunu 75 ml",
@@ -12489,7 +12489,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Eti Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Meridol Gentle White Diş Macunu 75 ml",
@@ -27328,7 +27328,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Eti Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Meridol Gentle White Diş Macunu 75 ml",
@@ -34266,7 +34266,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Eti Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Meridol Gum Health Diş Macunu Diş Eti Sağlığı 75 ml",
@@ -40506,7 +40506,7 @@
           "Diş Fırçası",
           "Ultra Yumuşak"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Curaprox 5460 Ultra Soft Ortodontik Diş Fırçası",
@@ -40832,7 +40832,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Eti Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Opalescence Macun Hassas Beyaz Diş Macunu 133 gr",
@@ -40921,7 +40921,7 @@
           "Ağız ve Diş Bakımı",
           "Diş Eti Bakımı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Meridol Gum Health Diş Macunu Diş Eti Sağlığı 75 ml",
@@ -41499,7 +41499,7 @@
           "Diş Fırçası",
           "Ultra Yumuşak"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Curaprox 5460 Ultra Soft Ortodontik Diş Fırçası",
@@ -54550,7 +54550,7 @@
   "stats": {
     "total_products": 3814,
     "total_categories": 565,
-    "generated": "2026-11-17 15:00",
+    "generated": "2026-11-17 19:00",
     "source": "ikas_api_live"
   }
 }
