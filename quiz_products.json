@@ -345,7 +345,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7895dd20-1bb0-4023-947d-1b8cb7941a44/image_1950.webp",
         "cats": [
           "Pişik Kremi",
-          "Bebek Bakım",
           "Pişik Kremi"
         ],
         "stock": 1
@@ -359,72 +358,9 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7895dd20-1bb0-4023-947d-1b8cb7941a44/image_1950.webp",
         "cats": [
           "Pişik Kremi",
-          "Bebek Bakım",
           "Pişik Kremi"
         ],
         "stock": 1
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 250 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-250-gr",
-        "brand": "Sudocrem",
-        "price": 960.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5aab60b8-7381-44f0-bb33-a26335a388ce/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 250 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-250-gr",
-        "brand": "Sudocrem",
-        "price": 960.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5aab60b8-7381-44f0-bb33-a26335a388ce/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 400 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-400-gr",
-        "brand": "Sudocrem",
-        "price": 1260.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f966a620-abd8-45f4-b2c2-360c8f94cceb/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Vücut Bakımı",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 400 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-400-gr",
-        "brand": "Sudocrem",
-        "price": 1260.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f966a620-abd8-45f4-b2c2-360c8f94cceb/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Vücut Bakımı",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
       },
       {
         "name": "Sudocrem Bebek Bakım Kremi 60 gr",
@@ -5832,22 +5768,6 @@
           "Sinek Kovucu"
         ],
         "stock": 3
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 400 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-400-gr",
-        "brand": "Sudocrem",
-        "price": 1260.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f966a620-abd8-45f4-b2c2-360c8f94cceb/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Vücut Bakımı",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
       },
       {
         "name": "Sudocrem Bebek Bakım Kremi 60 gr",
@@ -11509,7 +11429,7 @@
           "Diş Macunu",
           "Seyahat Boy"
         ],
-        "stock": 11
+        "stock": 7
       },
       {
         "name": "Dentiste Çocuk Diş Macunu Orange +1 Yaş 60 gr",
@@ -12957,7 +12877,7 @@
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Hematab 48 Tablet",
@@ -15301,37 +15221,6 @@
           "Onarıcı Krem"
         ],
         "stock": 2
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 250 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-250-gr",
-        "brand": "Sudocrem",
-        "price": 960.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5aab60b8-7381-44f0-bb33-a26335a388ce/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 400 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-400-gr",
-        "brand": "Sudocrem",
-        "price": 1260.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f966a620-abd8-45f4-b2c2-360c8f94cceb/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Vücut Bakımı",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
       },
       {
         "name": "Sudocrem Bebek Bakım Kremi 60 gr",
@@ -17871,51 +17760,6 @@
           "Pişik Kremi"
         ],
         "stock": 2
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 125 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-125-gr",
-        "brand": "Sudocrem",
-        "price": 397.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7895dd20-1bb0-4023-947d-1b8cb7941a44/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 250 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-250-gr",
-        "brand": "Sudocrem",
-        "price": 960.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5aab60b8-7381-44f0-bb33-a26335a388ce/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 400 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-400-gr",
-        "brand": "Sudocrem",
-        "price": 1260.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f966a620-abd8-45f4-b2c2-360c8f94cceb/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Vücut Bakımı",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 7
       },
       {
         "name": "Sudocrem Bebek Bakım Kremi 60 gr",
@@ -34257,7 +34101,7 @@
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
@@ -42408,7 +42252,7 @@
           "Diş Macunu",
           "Seyahat Boy"
         ],
-        "stock": 11
+        "stock": 7
       }
     ],
     "Çocuk Diş Macunu": [
@@ -54598,9 +54442,9 @@
     ]
   },
   "stats": {
-    "total_products": 3818,
+    "total_products": 3808,
     "total_categories": 565,
-    "generated": "2026-11-18 11:49",
+    "generated": "2026-11-18 15:00",
     "source": "ikas_api_live"
   }
 }
