@@ -1629,18 +1629,6 @@
         "stock": 1
       },
       {
-        "name": "MRC Natura Glukoflex Tablet 60 Tablet",
-        "slug": "mrc-natura-glukoflex-tablet-60-tablet",
-        "brand": "MRC Natura",
-        "price": 1508.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f108848c-3658-4173-96db-ac56300ab54d/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Macufer Lutein ve Zeaxantin Kapsül Takviyesi 30 Kapsül",
         "slug": "macufer-lutein-ve-zeaxantin-kapsul-30-kapsul",
         "brand": "Macufer",
@@ -2593,7 +2581,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 25
+        "stock": 24
       },
       {
         "name": "Ocean Green Tea 500 mg 60 Kapsül",
@@ -5083,15 +5071,14 @@
         "stock": 2
       },
       {
-        "name": "Pirdolin Krem",
+        "name": "Pirdolin Krem 50 ml",
         "slug": "pirdolin-krem",
         "brand": "Pirdolin",
         "price": 780.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/86198d48-7042-4f93-b4b4-3d5f435258b5/image_1950.webp",
         "cats": [
-          "Onarıcı Bakım",
-          "Vücut Bakımı"
+          "Onarıcı Bakım"
         ],
         "stock": 1
       },
@@ -5675,19 +5662,6 @@
           "Doğal Sabunlar"
         ],
         "stock": 2
-      },
-      {
-        "name": "Pirdolin Krem",
-        "slug": "pirdolin-krem",
-        "brand": "Pirdolin",
-        "price": 780.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/86198d48-7042-4f93-b4b4-3d5f435258b5/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Vücut Bakımı"
-        ],
-        "stock": 1
       },
       {
         "name": "Resverol Barrier Cream 50 ml",
@@ -7640,18 +7614,6 @@
           "Nootropik"
         ],
         "stock": 1
-      },
-      {
-        "name": "GoodDay Methyl Boost 30 Tablet",
-        "slug": "goodday-methyl-boost-30-tablet",
-        "brand": "Goodday",
-        "price": 705.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c62d0888-6392-411f-ac72-df08809d199c/image_1950.webp",
-        "cats": [
-          "B12 Vitamini"
-        ],
-        "stock": 2
       },
       {
         "name": "GoodDay Vitamin B Complex Tablet (P5P Folik Asit Biotin Metilkobalamin) 60 Tablet",
@@ -40883,7 +40845,7 @@
         "cats": [
           "Tip 2 Kolajen"
         ],
-        "stock": 31
+        "stock": 30
       },
       {
         "name": "Com Romax Glukozamin Kondroitin Kolajen Takviyesi 60 Tablet",
@@ -54528,9 +54490,9 @@
     ]
   },
   "stats": {
-    "total_products": 3814,
+    "total_products": 3811,
     "total_categories": 566,
-    "generated": "2026-11-19 08:21",
+    "generated": "2026-11-19 15:00",
     "source": "ikas_api_live"
   }
 }
