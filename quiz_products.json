@@ -1385,19 +1385,6 @@
         "stock": 1
       },
       {
-        "name": "Hyalix Kapsül Hiyalin İçeren 30 Kapsül",
-        "slug": "hyalix-kapsul-hiyalin-iceren-30-kapsul",
-        "brand": "Hyalix",
-        "price": 1246.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d7bdaefd-c89a-45a7-ba81-359ff5f3fa8d/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Hyalüronik Asit İçeren Ürünler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Hünnap Kabak Çekirdeği Yağı 100 ml",
         "slug": "hunnap-kabak-cekirdegi-yagi-100-ml",
         "brand": "Hünnap",
@@ -1951,7 +1938,7 @@
           "Vitamin ve Takviye",
           "Alfa Lipoik Asit"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Nbtlife Omegalife 2400 Combotech 60 Kapsül",
@@ -2581,7 +2568,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "Ocean Green Tea 500 mg 60 Kapsül",
@@ -29776,19 +29763,6 @@
         "stock": 12
       },
       {
-        "name": "Hyalix Kapsül Hiyalin İçeren 30 Kapsül",
-        "slug": "hyalix-kapsul-hiyalin-iceren-30-kapsul",
-        "brand": "Hyalix",
-        "price": 1246.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d7bdaefd-c89a-45a7-ba81-359ff5f3fa8d/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Hyalüronik Asit İçeren Ürünler"
-        ],
-        "stock": 1
-      },
-      {
         "name": "La Roche Posay Hyalu B5 Göz Çevresi Kremi 15 ml",
         "slug": "la-roche-posay-hyalu-b5-goz-cevresi-kremi-15-ml",
         "brand": "La Roche-Posay",
@@ -36160,7 +36134,7 @@
           "Vitamin ve Takviye",
           "Alfa Lipoik Asit"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Solgar Alpha Lipoic Acid 200 Mg 50 Kapsül",
@@ -54448,9 +54422,9 @@
     ]
   },
   "stats": {
-    "total_products": 3808,
+    "total_products": 3806,
     "total_categories": 567,
-    "generated": "2026-11-20 07:51",
+    "generated": "2026-11-20 12:05",
     "source": "ikas_api_live"
   }
 }
