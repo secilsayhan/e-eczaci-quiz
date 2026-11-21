@@ -7827,7 +7827,7 @@
           "Hamile Vitamini",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Sidefer Kapsül Sukrozomiyal Demir C Vitamini B12 Vitamini Takviyesi 30 Kapsül",
@@ -7841,7 +7841,7 @@
           "C Vitamini",
           "Demir"
         ],
-        "stock": 32
+        "stock": 31
       },
       {
         "name": "Sjømann’s Vitamin B12 Çiğnenebilir Jel 30 Adet",
@@ -8025,7 +8025,7 @@
           "Hamile Vitamini",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 23
+        "stock": 22
       }
     ],
     "Multivitamin": [
@@ -10153,7 +10153,7 @@
           "C Vitamini",
           "Demir"
         ],
-        "stock": 32
+        "stock": 31
       },
       {
         "name": "Solgar Chewable Vitamin C 500 mg Çiğneme Tableti 90 Tablet",
@@ -12920,7 +12920,7 @@
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 9
+        "stock": 6
       },
       {
         "name": "Hematab 48 Tablet",
@@ -24604,7 +24604,7 @@
           "C Vitamini",
           "Demir"
         ],
-        "stock": 32
+        "stock": 31
       },
       {
         "name": "Sidefer Toz Paket Sukrozomiyal Demir Vitamin Takviyesi 20 Saşe",
@@ -34075,7 +34075,7 @@
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 9
+        "stock": 6
       },
       {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
@@ -37723,7 +37723,7 @@
           "Hamile Vitamini",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Profolmix Women Saşe Myo-İnositol L-Arjinin Vitamin C Koenzim Q10 Folik Asit Takviyesi 30 Saşe",
@@ -39482,7 +39482,7 @@
           "Koenzim Q10",
           "Omega 3"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Nutraxin Vitals Omega 3 Balık Yağı 2000 mg 60 Yumuşak Kapsül",
@@ -43469,7 +43469,7 @@
           "Hamile Vitamini",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Profolmix Women Saşe Myo-İnositol L-Arjinin Vitamin C Koenzim Q10 Folik Asit Takviyesi 30 Saşe",
@@ -47056,7 +47056,7 @@
         "cats": [
           "Saw Palmetto"
         ],
-        "stock": 18
+        "stock": 17
       },
       {
         "name": "Tedafarma Vipros Kapsül Cüce Palmiye Isırgan Likopen Takviyesi 30 Kapsül",
@@ -47935,7 +47935,7 @@
           "Koenzim Q10",
           "Omega 3"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Ocean Koenzim Q10 100 mg Kapsül 30 Kapsül",
@@ -51179,7 +51179,7 @@
           "Hamile Vitamini",
           "Folat (B9 Vitamini)"
         ],
-        "stock": 23
+        "stock": 22
       },
       {
         "name": "Solgar Folate (As Metafolin) 400 mcg Tablet Folat Takviyesi 50 Tablet",
@@ -54490,7 +54490,7 @@
   "stats": {
     "total_products": 3811,
     "total_categories": 567,
-    "generated": "2026-11-21 11:08",
+    "generated": "2026-11-21 16:12",
     "source": "ikas_api_live"
   }
 }
