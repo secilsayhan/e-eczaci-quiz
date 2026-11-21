@@ -9173,7 +9173,7 @@
           "Kara Mürver (Sambucus)",
           "Çocuk Vitaminleri"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "Orzax Ocean Microfer Demir Damla Çocuklar İçin 30 ml",
@@ -9556,7 +9556,7 @@
           "Kara Mürver (Sambucus)",
           "Çocuk Vitaminleri"
         ],
-        "stock": 10
+        "stock": 8
       },
       {
         "name": "Sambucol Kids Kara Mürver Sıvı C Vitamini Takviyesi 120 ml Şişe",
@@ -12921,18 +12921,6 @@
           "Bitkisel Takviyeler"
         ],
         "stock": 6
-      },
-      {
-        "name": "Hematab 48 Tablet",
-        "slug": "hematab-tablet-bitkisel-ekstre-takviyesi-48-tablet",
-        "brand": "Hematab",
-        "price": 596.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/70500c8c-3c24-4ee9-aeed-77d7d6a39282/image_1950.webp",
-        "cats": [
-          "Bitkisel Takviyeler"
-        ],
-        "stock": 2
       },
       {
         "name": "Hünnap Alıç Sirkesi Organik Doğal Fermente 250 ml",
@@ -30117,20 +30105,6 @@
         "stock": 1
       },
       {
-        "name": "Capicade Ardıç Katranı Özlü Şampuan 220 ml",
-        "slug": "capicade-ardic-katrani-ozlu-sampuan-220-ml",
-        "brand": "Capicade",
-        "price": 922.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/227769f4-32c1-4871-a36a-149945f9175a/image_1950.webp",
-        "cats": [
-          "Kepek Karşıtı",
-          "Yağlı Saçlar İçin",
-          "Katranlı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Ducray Kelual DS Kepek Karşıtı Şampuan 100 ml",
         "slug": "ducray-kelual-ds-kepek-ve-seboreik-dermatit-karsiti-sampuan-100-ml",
         "brand": "Ducray",
@@ -33304,20 +33278,6 @@
         "stock": 2
       },
       {
-        "name": "Capicade Ardıç Katranı Özlü Şampuan 220 ml",
-        "slug": "capicade-ardic-katrani-ozlu-sampuan-220-ml",
-        "brand": "Capicade",
-        "price": 922.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/227769f4-32c1-4871-a36a-149945f9175a/image_1950.webp",
-        "cats": [
-          "Kepek Karşıtı",
-          "Yağlı Saçlar İçin",
-          "Katranlı"
-        ],
-        "stock": 2
-      },
-      {
         "name": "Capicade Şampuan Yağlı 220 ml",
         "slug": "capicade-sampuan-yagli-220-ml",
         "brand": "Capicade",
@@ -35775,22 +35735,6 @@
           "Tablet Tatlandırıcı"
         ],
         "stock": 10
-      }
-    ],
-    "Katranlı": [
-      {
-        "name": "Capicade Ardıç Katranı Özlü Şampuan 220 ml",
-        "slug": "capicade-ardic-katrani-ozlu-sampuan-220-ml",
-        "brand": "Capicade",
-        "price": 922.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/227769f4-32c1-4871-a36a-149945f9175a/image_1950.webp",
-        "cats": [
-          "Kepek Karşıtı",
-          "Yağlı Saçlar İçin",
-          "Katranlı"
-        ],
-        "stock": 2
       }
     ],
     "Tip 1 ve 3 Kolajen": [
@@ -39552,18 +39496,6 @@
           "Omega 3"
         ],
         "stock": 5
-      },
-      {
-        "name": "Ocean Limon Aromalı Balık Yağı 150 ml Şişe",
-        "slug": "ocean-limon-aromali-balik-yagi-150-ml-sise",
-        "brand": "Orzax",
-        "price": 421.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f562db7a-1bf8-4bef-9fcb-b222df0d15d6/image_1950.webp",
-        "cats": [
-          "Omega 3"
-        ],
-        "stock": 2
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -54129,7 +54061,7 @@
         "name": "Wee Emzik Askısı Zoo 913",
         "slug": "wee-emzik-askisi-zoo-913",
         "brand": "Wee",
-        "price": 256.0,
+        "price": 334.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7b24c436-e529-45dc-a068-5612768a3a1b/image_1950.webp",
         "cats": [
@@ -54488,9 +54420,9 @@
     ]
   },
   "stats": {
-    "total_products": 3811,
-    "total_categories": 567,
-    "generated": "2026-11-21 16:12",
+    "total_products": 3806,
+    "total_categories": 566,
+    "generated": "2026-11-21 19:30",
     "source": "ikas_api_live"
   }
 }
