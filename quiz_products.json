@@ -1,510 +1,5 @@
 {
   "categories": {
-    "Pomad": [
-      {
-        "name": "AYK Çinko Oksit Pomat 20 g",
-        "slug": "ayk-cinko-oksit-pomat-20-g",
-        "brand": "Mega Farma",
-        "price": 106.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f41ad9a1-6886-48af-91df-aa6d86da36ed/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Pişik Kremi",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 2
-      }
-    ],
-    "Pişik Kremi": [
-      {
-        "name": "AYK Çinko Oksit Pomat 20 g",
-        "slug": "ayk-cinko-oksit-pomat-20-g",
-        "brand": "Mega Farma",
-        "price": 106.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f41ad9a1-6886-48af-91df-aa6d86da36ed/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Pişik Kremi",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bepanthol Baby Pişik Merhemi 100 gr",
-        "slug": "bepanthol-baby-pisik-merhemi-100-gr",
-        "brand": "Bepanthol",
-        "price": 507.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18932627-3a86-4e52-808d-ac2b1a6661a4/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Bepanthol Baby Pişik Merhemi 100 gr",
-        "slug": "bepanthol-baby-pisik-merhemi-100-gr",
-        "brand": "Bepanthol",
-        "price": 507.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18932627-3a86-4e52-808d-ac2b1a6661a4/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Bepanthol Baby Pişik Merhemi 30 gr",
-        "slug": "bepanthol-baby-pisik-merhemi-30-gr",
-        "brand": "Bepanthol",
-        "price": 254.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cf92234-8743-47d2-8051-1197b119d0b1/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "Bepanthol Baby Pişik Merhemi 30 gr",
-        "slug": "bepanthol-baby-pisik-merhemi-30-gr",
-        "brand": "Bepanthol",
-        "price": 254.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cf92234-8743-47d2-8051-1197b119d0b1/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 12
-      },
-      {
-        "name": "Bepanthol Baby Pişik Merhemi 50 gr",
-        "slug": "bepanthol-baby-pisik-merhemi-50-gr",
-        "brand": "Bepanthol",
-        "price": 377.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9548b4b-9222-4596-9c81-fd5f8e7047aa/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Bepanthol Baby Pişik Merhemi 50 gr",
-        "slug": "bepanthol-baby-pisik-merhemi-50-gr",
-        "brand": "Bepanthol",
-        "price": 377.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9548b4b-9222-4596-9c81-fd5f8e7047aa/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Juvera Radix Pişik Önleyici Krem Bebek Bakım",
-        "slug": "juvera-radix-pisik-onleyici-krem-bebek-bakim",
-        "brand": "Juvera Radix",
-        "price": 408.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cc9e4afd-1e40-4a7a-af21-8330ce53dc47/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Juvera Radix Pişik Önleyici Krem Bebek Bakım",
-        "slug": "juvera-radix-pisik-onleyici-krem-bebek-bakim",
-        "brand": "Juvera Radix",
-        "price": 408.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cc9e4afd-1e40-4a7a-af21-8330ce53dc47/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Mustela Pişik Önleyici Krem Bebekler İçin 100 ml",
-        "slug": "mustela-pisik-onleyici-krem-bebekler-icin-100-ml",
-        "brand": "Mustela",
-        "price": 699.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0ba52d4-a2ed-466d-8e29-55a5f1be9a58/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Mustela Pişik Önleyici Krem Bebekler İçin 100 ml",
-        "slug": "mustela-pisik-onleyici-krem-bebekler-icin-100-ml",
-        "brand": "Mustela",
-        "price": 699.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0ba52d4-a2ed-466d-8e29-55a5f1be9a58/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Oksizinc Bebek Pişik Pomadı Çinko %20 40 g",
-        "slug": "oksizinc-bebek-pisik-pomadi-cinko-20-40-g",
-        "brand": "Oksizinc",
-        "price": 198.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d19b5a49-3bfa-4abc-b271-5384cf689532/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Oksizinc Bebek Pişik Pomadı Çinko %20 40 g",
-        "slug": "oksizinc-bebek-pisik-pomadi-cinko-20-40-g",
-        "brand": "Oksizinc",
-        "price": 198.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d19b5a49-3bfa-4abc-b271-5384cf689532/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Oksizinc Krem %40 Yoğun Çinko Oksit Krem 40 gr",
-        "slug": "oksizinc-krem-40-yogun-cinko-oksit-krem-40-gr",
-        "brand": "Oksizinc",
-        "price": 179.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/de2d35ba-4558-49db-897d-81edf5e7deb1/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Pişik Kremi",
-          "Bariyer Krem",
-          "Pişik Kremi"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Oksizinc Krem %40 Yoğun Çinko Oksit Krem 40 gr",
-        "slug": "oksizinc-krem-40-yogun-cinko-oksit-krem-40-gr",
-        "brand": "Oksizinc",
-        "price": 179.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/de2d35ba-4558-49db-897d-81edf5e7deb1/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Pişik Kremi",
-          "Bariyer Krem",
-          "Pişik Kremi"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Popolin Pişik Kremi 40 gr Bebek Pişik Önleyici",
-        "slug": "popolin-pisik-kremi-40-gr-bebek-pisik-onleyici",
-        "brand": "Popolin",
-        "price": 198.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b8a466a-097e-412a-843c-c33b810534a2/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Popolin Pişik Kremi 40 gr Bebek Pişik Önleyici",
-        "slug": "popolin-pisik-kremi-40-gr-bebek-pisik-onleyici",
-        "brand": "Popolin",
-        "price": 198.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b8a466a-097e-412a-843c-c33b810534a2/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Sebamed Baby Pişik Kremi pH 5.5 100 gr",
-        "slug": "sebamed-baby-pisik-kremi-ph-5-5-100-gr",
-        "brand": "Sebamed",
-        "price": 697.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6d5043ed-516a-4e5d-be67-db6f5072ea0a/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sebamed Baby Pişik Kremi pH 5.5 100 gr",
-        "slug": "sebamed-baby-pisik-kremi-ph-5-5-100-gr",
-        "brand": "Sebamed",
-        "price": 697.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6d5043ed-516a-4e5d-be67-db6f5072ea0a/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 125 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-125-gr",
-        "brand": "Sudocrem",
-        "price": 397.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7895dd20-1bb0-4023-947d-1b8cb7941a44/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 125 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-125-gr",
-        "brand": "Sudocrem",
-        "price": 397.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7895dd20-1bb0-4023-947d-1b8cb7941a44/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 60 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-60-gr",
-        "brand": "Sudocrem",
-        "price": 259.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/59e50d3e-27a6-4f42-83d9-1d56b39a5111/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Vücut Bakımı",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Sudocrem Bebek Bakım Kremi 60 gr",
-        "slug": "sudocrem-bebek-bakim-kremi-60-gr",
-        "brand": "Sudocrem",
-        "price": 259.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/59e50d3e-27a6-4f42-83d9-1d56b39a5111/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Vücut Bakımı",
-          "Onarıcı Krem",
-          "Bebek Bakım",
-          "Pişik Kremi"
-        ],
-        "stock": 5
-      }
-    ],
-    "Kaşıntı ve Tahriş Bakımı": [
-      {
-        "name": "AYK Çinko Oksit Pomat 20 g",
-        "slug": "ayk-cinko-oksit-pomat-20-g",
-        "brand": "Mega Farma",
-        "price": 106.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f41ad9a1-6886-48af-91df-aa6d86da36ed/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Pişik Kremi",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bepanthol Derma Onarıcı Bakım Merhemi 30 gr",
-        "slug": "bepanthol-derma-onarici-bakim-merhemi-30-gr",
-        "brand": "Bepanthol",
-        "price": 399.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/488407b6-e36f-48a0-965e-57f3e181de5d/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Merhem",
-          "Atopik ve Kuru Cilt",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Bepanthol Derma Onarıcı Bakım Merhemi 50 gr",
-        "slug": "bepanthol-derma-onarici-bakim-merhemi-50-gr",
-        "brand": "Bepanthol",
-        "price": 327.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/380a7a59-c55d-4000-aeb3-1086a6b8601a/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Merhem",
-          "Atopik ve Kuru Cilt",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bepanthol Sensidaily Vücut Kremi 400 ml",
-        "slug": "bepanthol-sensidaily-vucut-kremi-400-ml-pompali",
-        "brand": "Bepanthol",
-        "price": 1239.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e4cbdb-9a4a-4621-a927-cec7f5555bb4/image_1950.webp",
-        "cats": [
-          "Vücut Kremi",
-          "Atopik ve Kuru Cilt",
-          "Bariyer Krem",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Atoderm Intensive Yatıştırıcı Balsam 200 ml",
-        "slug": "bioderma-atoderm-intensive-yatistirici-balsam-200-ml",
-        "brand": "Bioderma",
-        "price": 1709.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/28f83e89-91ed-4333-a7a8-b74bb95f165c/image_1950.webp",
-        "cats": [
-          "Atopik ve Kuru Cilt",
-          "Yüz Bakımı",
-          "Balsam",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Bioderma Atoderm Ultra Creme 500 ml",
-        "slug": "bioderma-atoderm-ultra-creme-500-ml-ozel-fiyat",
-        "brand": "Bioderma",
-        "price": 1853.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ee1ece9-5c95-448b-9599-4bbc4ead5714/image_1950.webp",
-        "cats": [
-          "Vücut Kremi",
-          "Atopik ve Kuru Cilt",
-          "Bariyer Krem",
-          "Yüz Bakımı",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "CeraVe Yoğun Nemlendirici Losyon 236 ml",
-        "slug": "cerave-yogun-nemlendirici-losyon-236-ml",
-        "brand": "CeraVe",
-        "price": 1384.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd280090-5a3f-4aa3-8fa5-36ad6f31c51f/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Atopik ve Kuru Cilt",
-          "Seramid İçeren Ürünler",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Dr. Wagner Sensiroll Roll-On 20 ML",
-        "slug": "dr-wagner-sensiroll-roll-on-20-ml",
-        "brand": "Dr. Wagner",
-        "price": 250.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f28d0f84-1e21-4e3d-89ff-4c57c3043278/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Ducray Kelual Ds Yatıştırıcı ve Pullanma Karşıtı Bakım Kremi",
-        "slug": "ducray-kelual-ds-yatistirici-ve-kepek-karsiti-bakim-kremi",
-        "brand": "Ducray",
-        "price": 1671.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/23ae31f0-a9f4-4764-9305-5df3bb314212/image_1950.webp",
-        "cats": [
-          "Seboreik Dermatit",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 8
-      },
-      {
-        "name": "Juvera Calming Losyon Cilt Sakinleştirici",
-        "slug": "juvera-calming-losyon-cilt-sakinlestirici",
-        "brand": "Juvera",
-        "price": 1256.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4fdce2e4-5950-4d70-a177-3cdd3cc7c5a4/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "La Roche Posay Cicaplast Baume B5 Onarıcı Balsam 40 ml",
-        "slug": "la-roche-posay-cicaplast-baume-b5-onarici-balsam-40-ml",
-        "brand": "La Roche-Posay",
-        "price": 786.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd2d220d-6f2e-4e95-a96c-a031d7b2b76f/image_1950.webp",
-        "cats": [
-          "Hassas ve Kızarık Cilt",
-          "Balsam",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 11
-      },
-      {
-        "name": "Mosquitan Sinek Isırık Sonrası Bant",
-        "slug": "mosquitan-sinek-isirik-sonrasi-bant",
-        "brand": "Mosquitan",
-        "price": 488.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/52d3b58f-63f7-4b60-ba0d-b60b5558b35c/image_1950.webp",
-        "cats": [
-          "İlk Yardım Ürünleri",
-          "Medikal Ürünler",
-          "Kaşıntı ve Tahriş Bakımı",
-          "Yara Bandı"
-        ],
-        "stock": 1
-      }
-    ],
     "Temizleyici": [
       {
         "name": "Acleane Akne Karşıtı Cilt Temizleyici Sprey",
@@ -5175,7 +4670,7 @@
           "Safran",
           "B6 Vitamini"
         ],
-        "stock": 3
+        "stock": 1
       }
     ],
     "Mineraller": [
@@ -10027,21 +9522,6 @@
         "cats": [
           "Vücut Bakımı",
           "Vücut Losyonu",
-          "Nemlendiriciler"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 385.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
           "Nemlendiriciler"
         ],
         "stock": 4
@@ -18295,6 +17775,306 @@
         "stock": 1
       }
     ],
+    "Pişik Kremi": [
+      {
+        "name": "Bepanthol Baby Pişik Merhemi 100 gr",
+        "slug": "bepanthol-baby-pisik-merhemi-100-gr",
+        "brand": "Bepanthol",
+        "price": 507.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18932627-3a86-4e52-808d-ac2b1a6661a4/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Bepanthol Baby Pişik Merhemi 100 gr",
+        "slug": "bepanthol-baby-pisik-merhemi-100-gr",
+        "brand": "Bepanthol",
+        "price": 507.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/18932627-3a86-4e52-808d-ac2b1a6661a4/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Bepanthol Baby Pişik Merhemi 30 gr",
+        "slug": "bepanthol-baby-pisik-merhemi-30-gr",
+        "brand": "Bepanthol",
+        "price": 254.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cf92234-8743-47d2-8051-1197b119d0b1/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 12
+      },
+      {
+        "name": "Bepanthol Baby Pişik Merhemi 30 gr",
+        "slug": "bepanthol-baby-pisik-merhemi-30-gr",
+        "brand": "Bepanthol",
+        "price": 254.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cf92234-8743-47d2-8051-1197b119d0b1/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 12
+      },
+      {
+        "name": "Bepanthol Baby Pişik Merhemi 50 gr",
+        "slug": "bepanthol-baby-pisik-merhemi-50-gr",
+        "brand": "Bepanthol",
+        "price": 377.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9548b4b-9222-4596-9c81-fd5f8e7047aa/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Bepanthol Baby Pişik Merhemi 50 gr",
+        "slug": "bepanthol-baby-pisik-merhemi-50-gr",
+        "brand": "Bepanthol",
+        "price": 377.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e9548b4b-9222-4596-9c81-fd5f8e7047aa/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Juvera Radix Pişik Önleyici Krem Bebek Bakım",
+        "slug": "juvera-radix-pisik-onleyici-krem-bebek-bakim",
+        "brand": "Juvera Radix",
+        "price": 408.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cc9e4afd-1e40-4a7a-af21-8330ce53dc47/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Bebek Bakım",
+          "Pişik Kremi"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Juvera Radix Pişik Önleyici Krem Bebek Bakım",
+        "slug": "juvera-radix-pisik-onleyici-krem-bebek-bakim",
+        "brand": "Juvera Radix",
+        "price": 408.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cc9e4afd-1e40-4a7a-af21-8330ce53dc47/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Bebek Bakım",
+          "Pişik Kremi"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Mustela Pişik Önleyici Krem Bebekler İçin 100 ml",
+        "slug": "mustela-pisik-onleyici-krem-bebekler-icin-100-ml",
+        "brand": "Mustela",
+        "price": 699.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0ba52d4-a2ed-466d-8e29-55a5f1be9a58/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Mustela Pişik Önleyici Krem Bebekler İçin 100 ml",
+        "slug": "mustela-pisik-onleyici-krem-bebekler-icin-100-ml",
+        "brand": "Mustela",
+        "price": 699.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0ba52d4-a2ed-466d-8e29-55a5f1be9a58/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Oksizinc Bebek Pişik Pomadı Çinko %20 40 g",
+        "slug": "oksizinc-bebek-pisik-pomadi-cinko-20-40-g",
+        "brand": "Oksizinc",
+        "price": 198.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d19b5a49-3bfa-4abc-b271-5384cf689532/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Oksizinc Bebek Pişik Pomadı Çinko %20 40 g",
+        "slug": "oksizinc-bebek-pisik-pomadi-cinko-20-40-g",
+        "brand": "Oksizinc",
+        "price": 198.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d19b5a49-3bfa-4abc-b271-5384cf689532/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Oksizinc Krem %40 Yoğun Çinko Oksit Krem 40 gr",
+        "slug": "oksizinc-krem-40-yogun-cinko-oksit-krem-40-gr",
+        "brand": "Oksizinc",
+        "price": 179.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/de2d35ba-4558-49db-897d-81edf5e7deb1/image_1950.webp",
+        "cats": [
+          "Onarıcı Bakım",
+          "Pişik Kremi",
+          "Bariyer Krem",
+          "Pişik Kremi"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Oksizinc Krem %40 Yoğun Çinko Oksit Krem 40 gr",
+        "slug": "oksizinc-krem-40-yogun-cinko-oksit-krem-40-gr",
+        "brand": "Oksizinc",
+        "price": 179.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/de2d35ba-4558-49db-897d-81edf5e7deb1/image_1950.webp",
+        "cats": [
+          "Onarıcı Bakım",
+          "Pişik Kremi",
+          "Bariyer Krem",
+          "Pişik Kremi"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Popolin Pişik Kremi 40 gr Bebek Pişik Önleyici",
+        "slug": "popolin-pisik-kremi-40-gr-bebek-pisik-onleyici",
+        "brand": "Popolin",
+        "price": 198.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b8a466a-097e-412a-843c-c33b810534a2/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Popolin Pişik Kremi 40 gr Bebek Pişik Önleyici",
+        "slug": "popolin-pisik-kremi-40-gr-bebek-pisik-onleyici",
+        "brand": "Popolin",
+        "price": 198.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5b8a466a-097e-412a-843c-c33b810534a2/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Sebamed Baby Pişik Kremi pH 5.5 100 gr",
+        "slug": "sebamed-baby-pisik-kremi-ph-5-5-100-gr",
+        "brand": "Sebamed",
+        "price": 697.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6d5043ed-516a-4e5d-be67-db6f5072ea0a/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sebamed Baby Pişik Kremi pH 5.5 100 gr",
+        "slug": "sebamed-baby-pisik-kremi-ph-5-5-100-gr",
+        "brand": "Sebamed",
+        "price": 697.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6d5043ed-516a-4e5d-be67-db6f5072ea0a/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sudocrem Bebek Bakım Kremi 125 gr",
+        "slug": "sudocrem-bebek-bakim-kremi-125-gr",
+        "brand": "Sudocrem",
+        "price": 397.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7895dd20-1bb0-4023-947d-1b8cb7941a44/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sudocrem Bebek Bakım Kremi 125 gr",
+        "slug": "sudocrem-bebek-bakim-kremi-125-gr",
+        "brand": "Sudocrem",
+        "price": 397.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7895dd20-1bb0-4023-947d-1b8cb7941a44/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Pişik Kremi"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sudocrem Bebek Bakım Kremi 60 gr",
+        "slug": "sudocrem-bebek-bakim-kremi-60-gr",
+        "brand": "Sudocrem",
+        "price": 259.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/59e50d3e-27a6-4f42-83d9-1d56b39a5111/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Vücut Bakımı",
+          "Onarıcı Krem",
+          "Bebek Bakım",
+          "Pişik Kremi"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Sudocrem Bebek Bakım Kremi 60 gr",
+        "slug": "sudocrem-bebek-bakim-kremi-60-gr",
+        "brand": "Sudocrem",
+        "price": 259.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/59e50d3e-27a6-4f42-83d9-1d56b39a5111/image_1950.webp",
+        "cats": [
+          "Pişik Kremi",
+          "Vücut Bakımı",
+          "Onarıcı Krem",
+          "Bebek Bakım",
+          "Pişik Kremi"
+        ],
+        "stock": 5
+      }
+    ],
     "Onarıcı Bakım": [
       {
         "name": "Bepanthol Cilt Bakım Kremi 100 gr",
@@ -18435,20 +18215,6 @@
           "El Kremi"
         ],
         "stock": 1
-      },
-      {
-        "name": "Hünnap Sarı Kantaron Yağı Soğuk Pres Doğal 100 ml",
-        "slug": "hunnap-sari-kantaron-yagi-soguk-pres-dogal-100-ml",
-        "brand": "Hünnap",
-        "price": 223.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2ace2783-9be1-492f-a27a-e0dfa95e495d/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Sarı Kantaron",
-          "Sarı Kantaron Yağı"
-        ],
-        "stock": 5
       },
       {
         "name": "La Roche-Posay Cicaplast El Kremi 50 ml",
@@ -20302,21 +20068,6 @@
         "stock": 2
       },
       {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 385.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 4
-      },
-      {
         "name": "b-good Nemlendirici Vücut Kremi Atopik Ciltler Bebek ve Çocuk 150 ml",
         "slug": "b-good-nemlendirici-vucut-kremi-atopik-ciltler-bebek-ve-cocuk-150-ml",
         "brand": "b-good",
@@ -20330,6 +20081,167 @@
           "Atopik Cilt Bakımı"
         ],
         "stock": 5
+      }
+    ],
+    "Kaşıntı ve Tahriş Bakımı": [
+      {
+        "name": "Bepanthol Derma Onarıcı Bakım Merhemi 30 gr",
+        "slug": "bepanthol-derma-onarici-bakim-merhemi-30-gr",
+        "brand": "Bepanthol",
+        "price": 399.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/488407b6-e36f-48a0-965e-57f3e181de5d/image_1950.webp",
+        "cats": [
+          "Onarıcı Bakım",
+          "Merhem",
+          "Atopik ve Kuru Cilt",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Bepanthol Derma Onarıcı Bakım Merhemi 50 gr",
+        "slug": "bepanthol-derma-onarici-bakim-merhemi-50-gr",
+        "brand": "Bepanthol",
+        "price": 327.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/380a7a59-c55d-4000-aeb3-1086a6b8601a/image_1950.webp",
+        "cats": [
+          "Onarıcı Bakım",
+          "Merhem",
+          "Atopik ve Kuru Cilt",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bepanthol Sensidaily Vücut Kremi 400 ml",
+        "slug": "bepanthol-sensidaily-vucut-kremi-400-ml-pompali",
+        "brand": "Bepanthol",
+        "price": 1239.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/22e4cbdb-9a4a-4621-a927-cec7f5555bb4/image_1950.webp",
+        "cats": [
+          "Vücut Kremi",
+          "Atopik ve Kuru Cilt",
+          "Bariyer Krem",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Atoderm Intensive Yatıştırıcı Balsam 200 ml",
+        "slug": "bioderma-atoderm-intensive-yatistirici-balsam-200-ml",
+        "brand": "Bioderma",
+        "price": 1709.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/28f83e89-91ed-4333-a7a8-b74bb95f165c/image_1950.webp",
+        "cats": [
+          "Atopik ve Kuru Cilt",
+          "Yüz Bakımı",
+          "Balsam",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Bioderma Atoderm Ultra Creme 500 ml",
+        "slug": "bioderma-atoderm-ultra-creme-500-ml-ozel-fiyat",
+        "brand": "Bioderma",
+        "price": 1853.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4ee1ece9-5c95-448b-9599-4bbc4ead5714/image_1950.webp",
+        "cats": [
+          "Vücut Kremi",
+          "Atopik ve Kuru Cilt",
+          "Bariyer Krem",
+          "Yüz Bakımı",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "CeraVe Yoğun Nemlendirici Losyon 236 ml",
+        "slug": "cerave-yogun-nemlendirici-losyon-236-ml",
+        "brand": "CeraVe",
+        "price": 1384.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/dd280090-5a3f-4aa3-8fa5-36ad6f31c51f/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "Atopik ve Kuru Cilt",
+          "Seramid İçeren Ürünler",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Dr. Wagner Sensiroll Roll-On 20 ML",
+        "slug": "dr-wagner-sensiroll-roll-on-20-ml",
+        "brand": "Dr. Wagner",
+        "price": 250.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f28d0f84-1e21-4e3d-89ff-4c57c3043278/image_1950.webp",
+        "cats": [
+          "Kişisel Bakım",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Ducray Kelual Ds Yatıştırıcı ve Pullanma Karşıtı Bakım Kremi",
+        "slug": "ducray-kelual-ds-yatistirici-ve-kepek-karsiti-bakim-kremi",
+        "brand": "Ducray",
+        "price": 1671.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/23ae31f0-a9f4-4764-9305-5df3bb314212/image_1950.webp",
+        "cats": [
+          "Seboreik Dermatit",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 8
+      },
+      {
+        "name": "Juvera Calming Losyon Cilt Sakinleştirici",
+        "slug": "juvera-calming-losyon-cilt-sakinlestirici",
+        "brand": "Juvera",
+        "price": 1256.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/4fdce2e4-5950-4d70-a177-3cdd3cc7c5a4/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "La Roche Posay Cicaplast Baume B5 Onarıcı Balsam 40 ml",
+        "slug": "la-roche-posay-cicaplast-baume-b5-onarici-balsam-40-ml",
+        "brand": "La Roche-Posay",
+        "price": 786.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fd2d220d-6f2e-4e95-a96c-a031d7b2b76f/image_1950.webp",
+        "cats": [
+          "Hassas ve Kızarık Cilt",
+          "Balsam",
+          "Kaşıntı ve Tahriş Bakımı"
+        ],
+        "stock": 11
+      },
+      {
+        "name": "Mosquitan Sinek Isırık Sonrası Bant",
+        "slug": "mosquitan-sinek-isirik-sonrasi-bant",
+        "brand": "Mosquitan",
+        "price": 488.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/52d3b58f-63f7-4b60-ba0d-b60b5558b35c/image_1950.webp",
+        "cats": [
+          "İlk Yardım Ürünleri",
+          "Medikal Ürünler",
+          "Kaşıntı ve Tahriş Bakımı",
+          "Yara Bandı"
+        ],
+        "stock": 1
       }
     ],
     "Yüz Kremi": [
@@ -24729,18 +24641,6 @@
         "stock": 8
       },
       {
-        "name": "O.B Tampon Mini 16'lı",
-        "slug": "o-b-tampon-mini-16-li",
-        "brand": "O.B.",
-        "price": 187.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0acde316-6170-4349-9399-d635415e6d8d/image_1950.webp",
-        "cats": [
-          "Kişisel Bakım"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Oral-B Diş Fırçası Adsensitive Extra Soft",
         "slug": "oral-b-dis-fircasi-adsensitive-extra-soft",
         "brand": "Oral-B",
@@ -25508,21 +25408,6 @@
         "cats": [
           "Vücut Bakımı",
           "Vücut Losyonu",
-          "Nemlendiriciler"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 385.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
           "Nemlendiriciler"
         ],
         "stock": 4
@@ -38161,32 +38046,6 @@
       },
       {
         "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
-        "slug": "sensodyne-gentle-soft-dis-fircasi-yumusak",
-        "brand": "Sensodyne",
-        "price": 197.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51441646-6219-4c7b-a8ad-7351ceb8caad/image_1950.webp",
-        "cats": [
-          "Yumuşak",
-          "Yumuşak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
-        "slug": "sensodyne-gentle-soft-dis-fircasi-yumusak",
-        "brand": "Sensodyne",
-        "price": 197.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51441646-6219-4c7b-a8ad-7351ceb8caad/image_1950.webp",
-        "cats": [
-          "Yumuşak",
-          "Yumuşak"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
         "slug": "sensodyne-promine-gentle-soft-dis-fircasi",
         "brand": "Sensodyne",
         "price": 186.0,
@@ -38197,6 +38056,32 @@
           "Kişisel Bakım",
           "Ağız ve Diş Bakımı",
           "Diş Fırçası"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
+        "slug": "sensodyne-gentle-soft-dis-fircasi-yumusak",
+        "brand": "Sensodyne",
+        "price": 197.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51441646-6219-4c7b-a8ad-7351ceb8caad/image_1950.webp",
+        "cats": [
+          "Yumuşak",
+          "Yumuşak"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Sensodyne Promine Gentle Soft Diş Fırçası",
+        "slug": "sensodyne-gentle-soft-dis-fircasi-yumusak",
+        "brand": "Sensodyne",
+        "price": 197.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/51441646-6219-4c7b-a8ad-7351ceb8caad/image_1950.webp",
+        "cats": [
+          "Yumuşak",
+          "Yumuşak"
         ],
         "stock": 1
       },
@@ -41381,19 +41266,6 @@
         "stock": 1
       },
       {
-        "name": "Dr Plus İlaç Saklama Kutusu Şeffaf",
-        "slug": "dr-plus-ilac-saklama-kutusu-seffaf",
-        "brand": "Dr. Plus",
-        "price": 52.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/991a98dc-f31a-4dd2-955e-53e5be2b17a9/image_1950.webp",
-        "cats": [
-          "İlaç Kutusu ve Aksesuarlar",
-          "İlaç Kutusu ve Düzenleyiciler"
-        ],
-        "stock": 3
-      },
-      {
         "name": "Dr. Plus İlaç Taşıma Kutusu Maxi Boy",
         "slug": "dr-plus-ilac-tasima-kutusu-maxi-boy",
         "brand": "Dr. Plus",
@@ -41402,6 +41274,19 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6fee66b2-e9d3-49a5-8f30-9ddf807ae336/image_1950.webp",
         "cats": [
           "İlaç Kutusu ve Aksesuarlar"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Dr.Plus İlaç Saklama Kutusu Şeffaf",
+        "slug": "dr-plus-ilac-saklama-kutusu-seffaf",
+        "brand": "Dr. Plus",
+        "price": 52.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/991a98dc-f31a-4dd2-955e-53e5be2b17a9/image_1950.webp",
+        "cats": [
+          "İlaç Kutusu ve Aksesuarlar",
+          "İlaç Kutusu ve Düzenleyiciler"
         ],
         "stock": 3
       },
@@ -41471,60 +41356,6 @@
           "Tablet Ezme Aleti"
         ],
         "stock": 1
-      }
-    ],
-    "İlaç Kutusu ve Düzenleyiciler": [
-      {
-        "name": "Dr Plus İlaç Saklama Kutusu Şeffaf",
-        "slug": "dr-plus-ilac-saklama-kutusu-seffaf",
-        "brand": "Dr. Plus",
-        "price": 52.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/991a98dc-f31a-4dd2-955e-53e5be2b17a9/image_1950.webp",
-        "cats": [
-          "İlaç Kutusu ve Aksesuarlar",
-          "İlaç Kutusu ve Düzenleyiciler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "Dr.Plus İlaç Taşıma Kutusu 7 Gün Uzun Tek",
-        "slug": "dr-plus-ilac-tasima-kutusu-7-gun-uzun-tek",
-        "brand": "Dr. Plus",
-        "price": 51.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60df8235-6d1c-4e26-b925-56e66eef1dcb/image_1950.webp",
-        "cats": [
-          "İlaç Kutusu ve Aksesuarlar",
-          "İlaç Kutusu ve Düzenleyiciler"
-        ],
-        "stock": 20
-      },
-      {
-        "name": "Dr.Plus İlaç Taşıma Kutusu Haftalık 7x24",
-        "slug": "dr-plus-ilac-tasima-kutusu-haftalik-7x24",
-        "brand": "Dr. Plus",
-        "price": 343.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0504352d-f4ac-460b-8115-a8719f1d89f6/image_1950.webp",
-        "cats": [
-          "İlaç Kutusu ve Aksesuarlar",
-          "İlaç Kutusu ve Düzenleyiciler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Hapix İlaç Taşıma Kutusu Günlük",
-        "slug": "hapix-ilac-tasima-kutusu-gunluk",
-        "brand": "Dr. Plus",
-        "price": 71.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e8b5b081-e849-463d-b737-b20acf1475ba/image_1950.webp",
-        "cats": [
-          "İlaç Kutusu ve Aksesuarlar",
-          "İlaç Kutusu ve Düzenleyiciler"
-        ],
-        "stock": 10
       }
     ],
     "Synbiyotik": [
@@ -41620,6 +41451,60 @@
           "Sinek Kovucu"
         ],
         "stock": 8
+      }
+    ],
+    "İlaç Kutusu ve Düzenleyiciler": [
+      {
+        "name": "Dr.Plus İlaç Saklama Kutusu Şeffaf",
+        "slug": "dr-plus-ilac-saklama-kutusu-seffaf",
+        "brand": "Dr. Plus",
+        "price": 52.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/991a98dc-f31a-4dd2-955e-53e5be2b17a9/image_1950.webp",
+        "cats": [
+          "İlaç Kutusu ve Aksesuarlar",
+          "İlaç Kutusu ve Düzenleyiciler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "Dr.Plus İlaç Taşıma Kutusu 7 Gün Uzun Tek",
+        "slug": "dr-plus-ilac-tasima-kutusu-7-gun-uzun-tek",
+        "brand": "Dr. Plus",
+        "price": 51.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60df8235-6d1c-4e26-b925-56e66eef1dcb/image_1950.webp",
+        "cats": [
+          "İlaç Kutusu ve Aksesuarlar",
+          "İlaç Kutusu ve Düzenleyiciler"
+        ],
+        "stock": 20
+      },
+      {
+        "name": "Dr.Plus İlaç Taşıma Kutusu Haftalık 7x24",
+        "slug": "dr-plus-ilac-tasima-kutusu-haftalik-7x24",
+        "brand": "Dr. Plus",
+        "price": 343.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0504352d-f4ac-460b-8115-a8719f1d89f6/image_1950.webp",
+        "cats": [
+          "İlaç Kutusu ve Aksesuarlar",
+          "İlaç Kutusu ve Düzenleyiciler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Hapix İlaç Taşıma Kutusu Günlük",
+        "slug": "hapix-ilac-tasima-kutusu-gunluk",
+        "brand": "Dr. Plus",
+        "price": 71.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e8b5b081-e849-463d-b737-b20acf1475ba/image_1950.webp",
+        "cats": [
+          "İlaç Kutusu ve Aksesuarlar",
+          "İlaç Kutusu ve Düzenleyiciler"
+        ],
+        "stock": 10
       }
     ],
     "İntim Bakım": [
@@ -43224,7 +43109,7 @@
           "Safran",
           "B6 Vitamini"
         ],
-        "stock": 3
+        "stock": 1
       },
       {
         "name": "NeuJoys Magnesium Citrate + P5P Saşe Magnezyum B6 Vitamini Takviyesi 30 Saşe",
@@ -46235,51 +46120,6 @@
         "stock": 10
       }
     ],
-    "Sarı Kantaron": [
-      {
-        "name": "Hünnap Sarı Kantaron Yağı Soğuk Pres Doğal 100 ml",
-        "slug": "hunnap-sari-kantaron-yagi-soguk-pres-dogal-100-ml",
-        "brand": "Hünnap",
-        "price": 223.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2ace2783-9be1-492f-a27a-e0dfa95e495d/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Sarı Kantaron",
-          "Sarı Kantaron Yağı"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Ulcon Sarı Kantaron ve Kudret Narı Yağı İçeren Sıvı Takviye Edici Gıda 100 ml",
-        "slug": "ulcon-sari-kantaron-kudret-nari-yagi-sivi-100-ml",
-        "brand": "Valentis",
-        "price": 864.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e1eed845-7ba4-4515-8630-4beec0ae9e1d/image_1950.webp",
-        "cats": [
-          "Sarı Kantaron",
-          "Kudret Narı"
-        ],
-        "stock": 2
-      }
-    ],
-    "Sarı Kantaron Yağı": [
-      {
-        "name": "Hünnap Sarı Kantaron Yağı Soğuk Pres Doğal 100 ml",
-        "slug": "hunnap-sari-kantaron-yagi-soguk-pres-dogal-100-ml",
-        "brand": "Hünnap",
-        "price": 223.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2ace2783-9be1-492f-a27a-e0dfa95e495d/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Sarı Kantaron",
-          "Sarı Kantaron Yağı"
-        ],
-        "stock": 5
-      }
-    ],
     "Bebek Güneş Ürünleri": [
       {
         "name": "Incia Bebek Güneş Kremi Mineral Filtreli SPF50 50 ml",
@@ -48363,7 +48203,7 @@
           "Safran",
           "B6 Vitamini"
         ],
-        "stock": 3
+        "stock": 1
       }
     ],
     "Bergamot": [
@@ -50915,6 +50755,21 @@
         "stock": 5
       }
     ],
+    "Sarı Kantaron": [
+      {
+        "name": "Ulcon Sarı Kantaron ve Kudret Narı Yağı İçeren Sıvı Takviye Edici Gıda 100 ml",
+        "slug": "ulcon-sari-kantaron-kudret-nari-yagi-sivi-100-ml",
+        "brand": "Valentis",
+        "price": 864.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e1eed845-7ba4-4515-8630-4beec0ae9e1d/image_1950.webp",
+        "cats": [
+          "Sarı Kantaron",
+          "Kudret Narı"
+        ],
+        "stock": 2
+      }
+    ],
     "Bebek Pamuğu/Ped": [
       {
         "name": "Uni Baby Bebek Pamuğu Organik 60'lı",
@@ -50958,21 +50813,6 @@
           "Nemlendiriciler"
         ],
         "stock": 2
-      },
-      {
-        "name": "Vazelin Sancak Pure 20 gr",
-        "slug": "vazelin-sancak-pure-20-gr",
-        "brand": "Sancak",
-        "price": 385.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9a4e0a3-2158-4e64-9916-712878c1aff2/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Atopik ve Kuru Cilt",
-          "Vazelin",
-          "Nemlendiriciler"
-        ],
-        "stock": 4
       }
     ],
     "Tüy Dökücü Krem": [
@@ -51818,9 +51658,9 @@
     ]
   },
   "stats": {
-    "total_products": 3625,
-    "total_categories": 531,
-    "generated": "2026-11-25 15:00",
+    "total_products": 3614,
+    "total_categories": 529,
+    "generated": "2026-11-25 19:36",
     "source": "ikas_api_live"
   }
 }
