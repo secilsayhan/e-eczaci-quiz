@@ -14,33 +14,6 @@
           "Kaşıntı ve Tahriş Bakımı"
         ],
         "stock": 2
-      },
-      {
-        "name": "Garmastan Meme Ucu Bakım Pomadı 20 gr",
-        "slug": "garmastan-meme-ucu-bakim-pomadi-20-gr",
-        "brand": "Garmastan",
-        "price": 804.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/989d0dbd-2fee-48df-9534-973ad7c7936f/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Pomad",
-          "Göğüs Ucu Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Pruzon 40 gr Pomad Cilt Bakım",
-        "slug": "pruzon-40-gr-pomad-cilt-bakim",
-        "brand": "Hair Pharma",
-        "price": 448.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ebbd9f8-2d4e-4072-963f-99b9d227a064/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Kaşıntı ve Tahriş Bakımı"
-        ],
-        "stock": 1
       }
     ],
     "Pişik Kremi": [
@@ -137,32 +110,6 @@
         "stock": 4
       },
       {
-        "name": "Hametol Baby Pişik Kremi Bebekler İçin 30 gr",
-        "slug": "hametol-baby-pisik-kremi-bebekler-icin-30-gr",
-        "brand": "Hametol",
-        "price": 336.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c35bb14e-8bf0-407c-8fa6-def91dd4a5d2/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Hametol Baby Pişik Kremi Bebekler İçin 30 gr",
-        "slug": "hametol-baby-pisik-kremi-bebekler-icin-30-gr",
-        "brand": "Hametol",
-        "price": 336.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c35bb14e-8bf0-407c-8fa6-def91dd4a5d2/image_1950.webp",
-        "cats": [
-          "Pişik Kremi",
-          "Pişik Kremi"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Juvera Radix Pişik Önleyici Krem Bebek Bakım",
         "slug": "juvera-radix-pisik-onleyici-krem-bebek-bakim",
         "brand": "Juvera Radix",
@@ -255,7 +202,7 @@
           "Bariyer Krem",
           "Pişik Kremi"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Oksizinc Krem %40 Yoğun Çinko Oksit Krem 40 gr",
@@ -270,7 +217,7 @@
           "Bariyer Krem",
           "Pişik Kremi"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Popolin Pişik Kremi 40 gr Bebek Pişik Önleyici",
@@ -568,19 +515,6 @@
           "Medikal Ürünler",
           "Kaşıntı ve Tahriş Bakımı",
           "Yara Bandı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Pruzon 40 gr Pomad Cilt Bakım",
-        "slug": "pruzon-40-gr-pomad-cilt-bakim",
-        "brand": "Hair Pharma",
-        "price": 448.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5ebbd9f8-2d4e-4072-963f-99b9d227a064/image_1950.webp",
-        "cats": [
-          "Pomad",
-          "Kaşıntı ve Tahriş Bakımı"
         ],
         "stock": 1
       }
@@ -1082,7 +1016,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 6
+        "stock": 10
       },
       {
         "name": "Bee&You Phenolix-60 Oral Damla 30 ml",
@@ -1095,7 +1029,7 @@
           "Vitamin ve Takviye",
           "Propolis"
         ],
-        "stock": 37
+        "stock": 36
       },
       {
         "name": "Bioxcin Collagen Tablet 3'lü Paket",
@@ -1164,7 +1098,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 73
+        "stock": 72
       },
       {
         "name": "Cosakondrin Plus Tablet 60 Adet",
@@ -1715,7 +1649,7 @@
           "Pelinotu",
           "Balkabağı Çekirdeği"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "NBTLIFE Duosvit VMO Kapsül, Omega-3, Multivitamin ve Mineraller 30 Kapsül",
@@ -2442,7 +2376,7 @@
           "Vitaminler",
           "En Yeniler"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Ocean Extramag Bisglisinat 60 Tablet",
@@ -2499,7 +2433,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Ocean Green Tea 500 mg 60 Kapsül",
@@ -2753,7 +2687,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Orzax Ocean İmunol Şurup 150 ml",
@@ -2872,7 +2806,7 @@
           "L-Karnitin",
           "L-Karnitin"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Meyve Aromalı",
@@ -3166,6 +3100,18 @@
         "stock": 1
       },
       {
+        "name": "Solgar Skin Nails & Hair MSM 60 Tablet",
+        "slug": "solgar-skin-nails-hair-msm-60-tablet",
+        "brand": "Solgar",
+        "price": 882.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/36ec6b40-0235-419b-adf5-a739de28e052/image_1950.webp",
+        "cats": [
+          "Vitamin ve Takviye"
+        ],
+        "stock": 2
+      },
+      {
         "name": "Solgar Turmeric Extract 60 V-Kapsül",
         "slug": "solgar-turmeric-extract-60-v-kapsul",
         "brand": "Solgar",
@@ -3232,20 +3178,6 @@
           "Vitaminler"
         ],
         "stock": 2
-      },
-      {
-        "name": "Suvar Lugol Solüsyonu %5 İyot Çözeltisi 100 ml",
-        "slug": "suvar-lugol-solusyonu-5-iyot-cozeltisi-100-ml",
-        "brand": "Suvar Kimya",
-        "price": 381.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1348b846-8388-4f7c-84dc-98aba6301f8f/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Vitamin ve Takviye",
-          "Lugol Solüsyonu"
-        ],
-        "stock": 1
       },
       {
         "name": "Trubiotic Duo Oral Damla, Probiyotik 8ml",
@@ -3482,7 +3414,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Venatura Omega 3 1600 Balık Yağı Kapsül 30 Kapsül",
@@ -3712,20 +3644,6 @@
         "cats": [
           "Vitamin ve Takviye",
           "Güç ve Performans"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Zade Vital Pumpkin Seed Oil Yumuşak Kapsül 60 Kapsül",
-        "slug": "zade-vital-pumpkin-seed-oil-yumusak-kapsul-60-kapsul",
-        "brand": "Zade Vital",
-        "price": 350.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56058c93-c5ed-4a43-9d32-d4356081297b/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Bitkisel Takviyeler",
-          "Balkabağı Çekirdeği"
         ],
         "stock": 1
       },
@@ -3995,7 +3913,7 @@
         "cats": [
           "Çinko"
         ],
-        "stock": 30
+        "stock": 29
       },
       {
         "name": "Phytorelief Junior Çiğnenebilir Form, Turmeric (zerdeçal), Pomegranate (nar Kabuğu), Ginger (zencefil), Selenyum, Çinko İçeren Takviye Edici Gıda 20 Adet",
@@ -4532,7 +4450,7 @@
         "cats": [
           "Arayüz Fırçası"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "TePe T120 Arayüz Açılı Fırça Mavi 0.6 mm 6'lı",
@@ -4745,7 +4663,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bepanthol Derma Cilt Bakım Kremi 50 gr",
@@ -4919,7 +4837,7 @@
           "Bariyer Krem",
           "Pişik Kremi"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Orzax SHINIQ RP Onarıcı ve Koruyucu Bakım Kremi SPF 50+ 40 ml",
@@ -4984,20 +4902,6 @@
           "Onarıcı Bakım",
           "Nemlendirici Yağ ve Serumlar",
           "Ozon Yağı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Topicure Krem %25 Çinko Oksit 100 ml",
-        "slug": "topicure-krem-25-cinko-oksit-100-ml",
-        "brand": "Mega Farma",
-        "price": 283.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b678b8a9-5b42-4953-867f-dff623991402/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Koruyucu ve Bariyer Kremler",
-          "Bariyer Krem"
         ],
         "stock": 1
       }
@@ -5069,7 +4973,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 3
+        "stock": 29
       },
       {
         "name": "Bebak Acıbadem Süt Büyük 215 g",
@@ -5271,20 +5175,6 @@
         "stock": 1
       },
       {
-        "name": "Garmastan Meme Ucu Bakım Pomadı 20 gr",
-        "slug": "garmastan-meme-ucu-bakim-pomadi-20-gr",
-        "brand": "Garmastan",
-        "price": 804.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/989d0dbd-2fee-48df-9534-973ad7c7936f/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Pomad",
-          "Göğüs Ucu Kremi"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Koza Sabun Kükürtlü 100 gr",
         "slug": "koza-sabun-kukurtlu-100-gr",
         "brand": "Koza",
@@ -5334,7 +5224,7 @@
           "Normal Cilt",
           "Vücut Bakımı"
         ],
-        "stock": 3
+        "stock": 8
       },
       {
         "name": "Lapitak Topuk Çatlak Kremi Yoğun Bakım 50 ml",
@@ -5820,7 +5710,7 @@
           "Atopik ve Kuru Cilt",
           "Atopik Cilt Bakımı"
         ],
-        "stock": 1
+        "stock": 5
       }
     ],
     "Vücut Yağı": [
@@ -5950,7 +5840,7 @@
           "Nemlendirici Yağ ve Serumlar",
           "Saç Bakım Yağları"
         ],
-        "stock": 2
+        "stock": 7
       }
     ],
     "Saç Bakım Yağları": [
@@ -6065,7 +5955,7 @@
           "Nemlendirici Yağ ve Serumlar",
           "Saç Bakım Yağları"
         ],
-        "stock": 2
+        "stock": 7
       }
     ],
     "Avokado Yağı": [
@@ -6178,6 +6068,18 @@
           "Probiyotik"
         ],
         "stock": 18
+      },
+      {
+        "name": "Forbiome Probiyotik Saşe 10 Saşe",
+        "slug": "forbiome-probiyotik-sase-10-sase",
+        "brand": "Forbiome",
+        "price": 351.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3c9ebd81-7f8e-46ea-a5d4-2ac917af80dc/image_1950.webp",
+        "cats": [
+          "Sindirim Probiyotikleri"
+        ],
+        "stock": 6
       },
       {
         "name": "Kaleidon Kapsül 60 mg 20 Kapsül",
@@ -6360,7 +6262,7 @@
         "name": "Anti Mood Mate Tablet, Safran Ekstresi 30 Tablet",
         "slug": "anti-mood-mate-tablet-safran-ekstresi-30-tablet",
         "brand": "Anti Mood Mate",
-        "price": 1040.0,
+        "price": 1134.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e7d8fa5e-61b2-4a67-ae6c-0966f993a8d2/image_1950.webp",
         "cats": [
@@ -6794,7 +6696,7 @@
           "Mineraller",
           "Multivitamin"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Supradyn Efervesan Tablet (Multivitamin Mineral Koenzim Q10) 15 Tablet",
@@ -6865,7 +6767,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Vitacomplex Multivitamin Multimineral ve Kore Ginsengi Yumuşak Kapsül 30 Kapsül",
@@ -6880,7 +6782,7 @@
           "Çok Satanlar",
           "Ginseng"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Vitasanol Şurup Multivitamin ve Multimineral İçeren Takviye Edici Gıda",
@@ -7361,7 +7263,7 @@
         "cats": [
           "B12 Vitamini"
         ],
-        "stock": 21
+        "stock": 19
       },
       {
         "name": "LIGONE B12 Çiğneme Tableti, 30 Tablet",
@@ -7413,7 +7315,7 @@
         "cats": [
           "B12 Vitamini"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "New Life B Active Trio B6 B12 Folik Asit Takviyesi 30 Tablet",
@@ -8257,7 +8159,7 @@
           "Mineraller",
           "Multivitamin"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Supradyn Efervesan Tablet (Multivitamin Mineral Koenzim Q10) 15 Tablet",
@@ -8325,7 +8227,7 @@
           "Çok Satanlar",
           "Ginseng"
         ],
-        "stock": 22
+        "stock": 21
       },
       {
         "name": "Vitasanol Multivitamin Şurup 150 ml",
@@ -9633,7 +9535,7 @@
           "Vitaminler",
           "En Yeniler"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Ocean Microfer Demir ve C Vitamini İçeren Takviye Edici Gıda 60 Kapsül",
@@ -10793,7 +10695,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bepanthol Derma Cilt Bakım Kremi 50 gr",
@@ -10992,7 +10894,7 @@
           "Atopik ve Kuru Cilt",
           "Atopik Cilt Bakımı"
         ],
-        "stock": 1
+        "stock": 5
       }
     ],
     "Beyazlatıcı Diş Macunu": [
@@ -11196,7 +11098,7 @@
           "Diş Macunu",
           "Beyazlatıcı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Eyüp Sabri Tuncer Doğal Karanfil Özlü Diş Macunu 90 ml",
@@ -11266,7 +11168,7 @@
           "Kişisel Bakım",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 3
+        "stock": 8
       },
       {
         "name": "Meridol Gum Health Diş Macunu Diş Eti Sağlığı 75 ml",
@@ -11308,6 +11210,20 @@
           "Diş Eti Bakımı"
         ],
         "stock": 4
+      },
+      {
+        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Elma Püresi",
+        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-elma-puresi",
+        "brand": "Rocs",
+        "price": 284.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/33ec9d6c-6f33-48f1-bf07-845edce34694/image_1950.webp",
+        "cats": [
+          "Diş Macunu",
+          "Bebek Diş Macunu",
+          "Bebek Diş Bakımı"
+        ],
+        "stock": 1
       },
       {
         "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Papatya",
@@ -11627,7 +11543,7 @@
           "Diş Macunu",
           "Beyazlatıcı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Listerine Advance White Ağız Gargarası Beyazlatıcı 250 ml",
@@ -12117,7 +12033,7 @@
           "Kişisel Bakım",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 3
+        "stock": 8
       },
       {
         "name": "Oral-B Diş Fırçası Adsensitive Extra Soft",
@@ -12499,14 +12415,14 @@
         "name": "HHS A1 Bitkisel 30 Kapsül",
         "slug": "hhs-a1-bitkisel-30-kapsul",
         "brand": "HHS",
-        "price": 900.0,
+        "price": 814.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fe5b05ff-d255-40ff-bb76-5b3ed469480a/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 1
+        "stock": 20
       },
       {
         "name": "Hünnap Alıç Sirkesi Organik Doğal Fermente 250 ml",
@@ -12641,7 +12557,7 @@
           "Pelinotu",
           "Balkabağı Çekirdeği"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "NBTLIFE Lifecose Çiğnenebilir Form, Dut Ekstresi ve Krom 60 Adet",
@@ -12876,7 +12792,7 @@
         "cats": [
           "Bitkisel Takviyeler"
         ],
-        "stock": 9
+        "stock": 8
       },
       {
         "name": "Profolmix Men Saşe L-Karnitin Vitamin C L-Arjinin Ginseng Koenzim Q10 Vitamin Takviyesi 30 Saşe",
@@ -13012,20 +12928,6 @@
         "cats": [
           "Vitamin ve Takviye",
           "Bitkisel Takviyeler"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Zade Vital Pumpkin Seed Oil Yumuşak Kapsül 60 Kapsül",
-        "slug": "zade-vital-pumpkin-seed-oil-yumusak-kapsul-60-kapsul",
-        "brand": "Zade Vital",
-        "price": 350.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56058c93-c5ed-4a43-9d32-d4356081297b/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Bitkisel Takviyeler",
-          "Balkabağı Çekirdeği"
         ],
         "stock": 1
       },
@@ -13334,7 +13236,7 @@
           "Yüz Bakımı",
           "Onarıcı Krem"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Bioderma Cicabio Cream+ Onarıcı Krem 40 ml",
@@ -14205,20 +14107,6 @@
         "stock": 1
       },
       {
-        "name": "TTO Soft Göz Çevresi Temizleme Köpüğü 150 ml",
-        "slug": "tto-soft-goz-cevresi-temizleme-kopugu-150-ml",
-        "brand": "TTO",
-        "price": 1122.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/babfc402-0a1e-4c9f-a8ae-fee937d25b2f/image_1950.webp",
-        "cats": [
-          "Temizleme Köpüğü",
-          "Yüz Bakımı",
-          "Temizleme Jeli"
-        ],
-        "stock": 1
-      },
-      {
         "name": "TTO Yüz Temizleme Köpüğü",
         "slug": "tto-yuz-temizleme-kopugu",
         "brand": "TTO",
@@ -14488,7 +14376,7 @@
           "Bariyer Krem",
           "Pişik Kremi"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Resverol Barrier Cream 50 ml",
@@ -14499,20 +14387,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6eb7c1b8-3c72-4b72-b0e2-22ad2ce350d0/image_1950.webp",
         "cats": [
           "Vücut Bakımı",
-          "Bariyer Krem"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Topicure Krem %25 Çinko Oksit 100 ml",
-        "slug": "topicure-krem-25-cinko-oksit-100-ml",
-        "brand": "Mega Farma",
-        "price": 283.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b678b8a9-5b42-4953-867f-dff623991402/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Koruyucu ve Bariyer Kremler",
           "Bariyer Krem"
         ],
         "stock": 1
@@ -14565,7 +14439,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bepanthol Derma Cilt Bakım Kremi 50 gr",
@@ -14611,7 +14485,7 @@
           "Yüz Bakımı",
           "Onarıcı Krem"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Bioderma Cicabio Cream+ Onarıcı Krem 40 ml",
@@ -14933,19 +14807,6 @@
         "stock": 1
       },
       {
-        "name": "La Roche Posay Milk Dream Pediatric UVmune SPF50 Bebek Güneş Sütü 75 ml",
-        "slug": "la-roche-posay-milk-dream-pediatric-uvmune-spf50-gunes-sutu-75-ml",
-        "brand": "La Roche-Posay",
-        "price": 1250.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/400adacd-242d-41a3-8057-ca6e24b7d5ca/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
         "name": "La Roche-Posay Effaclar Duo+ Renkli SPF30 40 ml",
         "slug": "la-roche-posay-effaclar-duo-plus-renkli-spf30-40-ml",
         "brand": "La Roche-Posay",
@@ -15113,6 +14974,60 @@
           "SPF 50+"
         ],
         "stock": 3
+      },
+      {
+        "name": "BioXcin Sun Krem Karma/Yağlı SPF 50+ 50 ml",
+        "slug": "bioxcin-sun-krem-karma-yagli-spf-50-plus-50-ml",
+        "brand": "Bioxcin",
+        "price": 816.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d7ce540c-3572-4646-afb5-678b3e4b56d5/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "SPF 50+"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "BioXcin Sun Krem Karma/Yağlı SPF 50+ 50 ml",
+        "slug": "bioxcin-sun-krem-karma-yagli-spf-50-plus-50-ml",
+        "brand": "Bioxcin",
+        "price": 816.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d7ce540c-3572-4646-afb5-678b3e4b56d5/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "SPF 50+"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "BioXcin Sun Krem Leke SPF 50+ 50 ml",
+        "slug": "bioxcin-sun-krem-leke-spf-50-plus-50-ml",
+        "brand": "Bioxcin",
+        "price": 498.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0df3642f-917e-482a-a9ca-5d94f1115d72/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "SPF 50+",
+          "Leke Karşıtı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "BioXcin Sun Krem Leke SPF 50+ 50 ml",
+        "slug": "bioxcin-sun-krem-leke-spf-50-plus-50-ml",
+        "brand": "Bioxcin",
+        "price": 498.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0df3642f-917e-482a-a9ca-5d94f1115d72/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "SPF 50+",
+          "Leke Karşıtı"
+        ],
+        "stock": 1
       },
       {
         "name": "Bioderma Cicabio Cream+ SPF50+ Onarıcı Krem 40 ml",
@@ -15386,6 +15301,19 @@
           "Yüz Bakımı"
         ],
         "stock": 3
+      },
+      {
+        "name": "Bioxcin Care Güneş Kremi Yağlı Ciltler SPF50+ 50 ml",
+        "slug": "bioxcin-care-gunes-kremi-yagli-ciltler-spf50-50-ml",
+        "brand": "Bioxcin",
+        "price": 406.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8b23230e-cd4c-4fb6-af63-aee1a5d18656/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "Güneş Kremi"
+        ],
+        "stock": 2
       },
       {
         "name": "Bioxcin Sun Krem Kuru/Normal Ciltler İçin Güneş Kremi SPF50+ 50 ml",
@@ -16268,6 +16196,20 @@
         "stock": 1
       },
       {
+        "name": "BioXcin Sun Krem Leke SPF 50+ 50 ml",
+        "slug": "bioxcin-sun-krem-leke-spf-50-plus-50-ml",
+        "brand": "Bioxcin",
+        "price": 498.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0df3642f-917e-482a-a9ca-5d94f1115d72/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "SPF 50+",
+          "Leke Karşıtı"
+        ],
+        "stock": 1
+      },
+      {
         "name": "Bioderma Photoderm M Spf 50+",
         "slug": "bioderma-photoderm-m-spf-50-plus",
         "brand": "Bioderma",
@@ -16626,6 +16568,19 @@
           "Güneş Kremi"
         ],
         "stock": 9
+      },
+      {
+        "name": "Bioxcin Care Güneş Kremi Yağlı Ciltler SPF50+ 50 ml",
+        "slug": "bioxcin-care-gunes-kremi-yagli-ciltler-spf50-50-ml",
+        "brand": "Bioxcin",
+        "price": 406.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8b23230e-cd4c-4fb6-af63-aee1a5d18656/image_1950.webp",
+        "cats": [
+          "SPF 50+",
+          "Güneş Kremi"
+        ],
+        "stock": 2
       },
       {
         "name": "Bioxcin Sun Krem Kuru/Normal Ciltler İçin Güneş Kremi SPF50+ 50 ml",
@@ -17932,7 +17887,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bepanthol Derma Cilt Bakım Kremi 50 gr",
@@ -19160,7 +19115,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 3
+        "stock": 29
       },
       {
         "name": "Dolce Vera Pudra Ayakkabı Koku Önleyici 10 gr",
@@ -19190,7 +19145,7 @@
           "Ayak Koku Giderici",
           "Vücut Bakımı"
         ],
-        "stock": 3
+        "stock": 29
       },
       {
         "name": "Dolce Vera Pudra Ayakkabı Koku Önleyici 10 gr",
@@ -19371,7 +19326,7 @@
           "Nemlendirici Yağ ve Serumlar",
           "Saç Bakım Yağları"
         ],
-        "stock": 2
+        "stock": 7
       },
       {
         "name": "Talya Ylang Ylang Yağı 20 cc",
@@ -19492,7 +19447,7 @@
           "Probiyotik ve Prebiyotik",
           "Synbiyotik"
         ],
-        "stock": 4
+        "stock": 5
       },
       {
         "name": "Duobalance Mood Kapsül Probiyotik 30 Adet",
@@ -20199,7 +20154,7 @@
           "Vitamin ve Takviye",
           "Propolis"
         ],
-        "stock": 37
+        "stock": 36
       },
       {
         "name": "Bee'o Up Propolisli Ballı Çocuk Şurubu 150 ml",
@@ -21170,6 +21125,18 @@
         "stock": 3
       },
       {
+        "name": "Velavit V-Rapid Vit D Tablet 60 Tablet",
+        "slug": "velavit-v-rapid-vit-d-tablet-60-tablet",
+        "brand": "Velavit",
+        "price": 1848.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c36f45b2-73d0-47cb-ac61-cf7a716040e5/image_1950.webp",
+        "cats": [
+          "D Vitamini"
+        ],
+        "stock": 1
+      },
+      {
         "name": "Venatura D3K2 (1000 IU - 25 mcg) Yumuşak Kapsül 60 Kapsül",
         "slug": "venatura-d3k2-1000-iu-25-mcg-yumusak-kapsul-60-kapsul",
         "brand": "VeNatura",
@@ -21276,7 +21243,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bepanthol Derma Cilt Bakım Kremi 50 gr",
@@ -21311,19 +21278,6 @@
           "Hassas Cilt"
         ],
         "stock": 5
-      },
-      {
-        "name": "Bioderma Atoderm Nutritive Besleyici Krem 40 ml",
-        "slug": "bioderma-atoderm-nutritive-besleyici-krem-40-ml",
-        "brand": "Bioderma",
-        "price": 763.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ddfc20e2-8e0e-46d6-9928-da7b0868d155/image_1950.webp",
-        "cats": [
-          "Kuru Cilt",
-          "Besleyici"
-        ],
-        "stock": 1
       },
       {
         "name": "Bioderma Atoderm Ultra Nemlendirici Krem 200 ml",
@@ -21494,7 +21448,7 @@
           "Onarıcı Kremler",
           "Onarıcı Krem"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Bepanthol Derma Cilt Bakım Kremi 50 gr",
@@ -21542,7 +21496,7 @@
           "Yüz Bakımı",
           "Onarıcı Krem"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "Bioderma Cicabio Cream+ Onarıcı Krem 40 ml",
@@ -21672,10 +21626,24 @@
         "stock": 9
       },
       {
+        "name": "CeraVe Nemlendirici Yüz Kremi Normal ve Kuru Ciltler İçin",
+        "slug": "cerave-nemlendirici-yuz-kremi-normal-ve-kuru-ciltler-icin",
+        "brand": "CeraVe",
+        "price": 1363.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/52324196-cb12-49e7-9c56-d15da2f9d08b/image_1950.webp",
+        "cats": [
+          "Seramid İçeren Ürünler",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Günlük Bakım"
+        ],
+        "stock": 3
+      },
+      {
         "name": "CeraVe Nemlendirici Yüz Kremi SPF30 52ml",
         "slug": "cerave-nemlendirici-yuz-kremi-spf30-52ml",
         "brand": "CeraVe",
-        "price": 1363.0,
+        "price": 1074.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/134ce671-e487-436f-8b6d-38e203542316/image_1950.webp",
         "cats": [
@@ -21844,6 +21812,20 @@
         "cats": [
           "Nemlendirici Krem",
           "Kuru Cilt",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Juvera Soothing Moisturising Cream Rahatlatıcı Nemlendirici Krem 50 ml",
+        "slug": "juvera-soothing-moisturising-cream-rahatlatici-nemlendirici-krem-50-ml",
+        "brand": "Juvera",
+        "price": 594.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fd7cf76-80b0-4577-9f5d-d69f38c16fb5/image_1950.webp",
+        "cats": [
+          "Nemlendirici Krem",
           "Nemlendiriciler",
           "Hassas Cilt"
         ],
@@ -22547,7 +22529,7 @@
           "Atopik ve Kuru Cilt",
           "Atopik Cilt Bakımı"
         ],
-        "stock": 1
+        "stock": 5
       }
     ],
     "Yüz Kremi": [
@@ -22652,7 +22634,7 @@
         "name": "CeraVe Nemlendirici Yüz Kremi SPF30 52ml",
         "slug": "cerave-nemlendirici-yuz-kremi-spf30-52ml",
         "brand": "CeraVe",
-        "price": 1363.0,
+        "price": 1074.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/134ce671-e487-436f-8b6d-38e203542316/image_1950.webp",
         "cats": [
@@ -23180,7 +23162,7 @@
         "cats": [
           "Onarıcı"
         ],
-        "stock": 4
+        "stock": 3
       },
       {
         "name": "Blistex Sensitive Hassas Dudaklar İçin Dudak Koruyucu SPF15",
@@ -23600,6 +23582,34 @@
         "stock": 10
       },
       {
+        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gıda 50ml Şişe",
+        "slug": "newvit-demir-oral-damla-demir-sulfat-iceren-takviye-edici-gida-50ml",
+        "brand": "Newvit",
+        "price": 431.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/354dc5fd-7846-422b-bfc8-e4aa5ea494f9/image_1950.webp",
+        "cats": [
+          "Demir",
+          "Çocuk Demir",
+          "Demir"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gıda 50ml Şişe",
+        "slug": "newvit-demir-oral-damla-demir-sulfat-iceren-takviye-edici-gida-50ml",
+        "brand": "Newvit",
+        "price": 431.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/354dc5fd-7846-422b-bfc8-e4aa5ea494f9/image_1950.webp",
+        "cats": [
+          "Demir",
+          "Çocuk Demir",
+          "Demir"
+        ],
+        "stock": 2
+      },
+      {
         "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gıda 200ml Şişe",
         "slug": "newvit-demir-surup-demir-sulfat-iceren-takviye-edici-gida-200ml-sise",
         "brand": "Newvit",
@@ -23764,7 +23774,7 @@
         "cats": [
           "Demir"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Solgar Gentle Iron Kolay Emilimli Demir 17 mg 90 Kapsül",
@@ -23845,6 +23855,20 @@
           "Demir"
         ],
         "stock": 1
+      },
+      {
+        "name": "Newvit Demir Oral Damla, Demir Sülfat İçeren Takviye Edici Gıda 50ml Şişe",
+        "slug": "newvit-demir-oral-damla-demir-sulfat-iceren-takviye-edici-gida-50ml",
+        "brand": "Newvit",
+        "price": 431.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/354dc5fd-7846-422b-bfc8-e4aa5ea494f9/image_1950.webp",
+        "cats": [
+          "Demir",
+          "Çocuk Demir",
+          "Demir"
+        ],
+        "stock": 2
       },
       {
         "name": "Newvit Demir Şurup, Demir Sülfat İçeren Takviye Edici Gıda 200ml Şişe",
@@ -24128,7 +24152,7 @@
         "cats": [
           "Şampuanlar"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Tresan Şampuan At Kuyruğu 300 ml",
@@ -24530,7 +24554,21 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 5
+        "stock": 4
+      },
+      {
+        "name": "Bioxcin Genesis Kuru ve Normal Saçlar İçin Şampuan 3'lü Paket",
+        "slug": "bioxcin-genesis-kuru-ve-normal-saclar-icin-sampuan-3lu-paket",
+        "brand": "Bioxcin",
+        "price": 519.98,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3346be17-9c5d-4657-b40a-2cc5f9fcc9a1/image_1950.webp",
+        "cats": [
+          "Kuru ve Hassas Saçlar İçin",
+          "Dökülme Karşıtı",
+          "Saç Dökülme Bakımı"
+        ],
+        "stock": 1
       },
       {
         "name": "Bioxcin Genesis Yağlı Saçlar İçin Şampuan 3'lü Paket",
@@ -24661,6 +24699,18 @@
           "Dökülme Karşıtı"
         ],
         "stock": 1
+      },
+      {
+        "name": "Ducray Anaphase+ Saç Dökülmesi Karşıtı Şampuan 400 ml",
+        "slug": "ducray-anaphase-plus-sac-dokulmesine-karsi-bakim-sampuani-400-ml",
+        "brand": "Ducray",
+        "price": 1323.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ff28e35d-12b9-4588-9b02-68eab0152498/image_1950.webp",
+        "cats": [
+          "Dökülme Karşıtı"
+        ],
+        "stock": 2
       },
       {
         "name": "Ducray Creastim Reactiv Losyon 60 ml",
@@ -24802,18 +24852,6 @@
       },
       {
         "name": "Vichy Dercos Dökülme Karşıtı Şampuan 400 ml",
-        "slug": "vichy-dercos-dokulme-karsiti-sampuan-400-ml",
-        "brand": "Vichy",
-        "price": 1914.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6a1836b-58a7-48e3-8a56-30713daa1f28/image_1950.webp",
-        "cats": [
-          "Dökülme Karşıtı"
-        ],
-        "stock": 14
-      },
-      {
-        "name": "Vichy Dercos Dökülme Karşıtı Şampuan 400 ml",
         "slug": "vichy-dercos-dokulme-karsiti-sampuan-400-ml-2",
         "brand": "Vichy",
         "price": 1849.9,
@@ -24823,6 +24861,18 @@
           "Dökülme Karşıtı"
         ],
         "stock": 8
+      },
+      {
+        "name": "Vichy Dercos Dökülme Karşıtı Şampuan 400 ml",
+        "slug": "vichy-dercos-dokulme-karsiti-sampuan-400-ml",
+        "brand": "Vichy",
+        "price": 1914.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c6a1836b-58a7-48e3-8a56-30713daa1f28/image_1950.webp",
+        "cats": [
+          "Dökülme Karşıtı"
+        ],
+        "stock": 14
       },
       {
         "name": "Vichy Dercos Neogenic Saç Yoğunlaştırıcı Şampuan 400 ml",
@@ -25049,6 +25099,20 @@
           "Şampuan"
         ],
         "stock": 2
+      },
+      {
+        "name": "Radix Baby Emollient Shampoo Very Dry Skin Çok Kuru Ciltler İçin Şampuan 200 ml",
+        "slug": "radix-baby-emollient-shampoo-very-dry-skin-kuru-ciltler-sampuan",
+        "brand": "Radix",
+        "price": 437.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a34fb9d-19c1-4fba-96e0-4a6a40f26b7c/image_1950.webp",
+        "cats": [
+          "Atopik Cilt Bakımı",
+          "Hassas Saç Derisi",
+          "Şampuan"
+        ],
+        "stock": 1
       },
       {
         "name": "Sebamed Yenidoğan Şampuanı 500 ml",
@@ -25326,7 +25390,533 @@
           "Nemlendirici Yağ ve Serumlar",
           "Saç Bakım Yağları"
         ],
+        "stock": 7
+      }
+    ],
+    "Hassas Ciltler İçin": [
+      {
+        "name": "Bioderma Atoderm Bar Katı Sabun Kuru Hassas Ciltler İçin",
+        "slug": "bioderma-atoderm-kati-sabun-kuru-hassas-ciltler-icin",
+        "brand": "Bioderma",
+        "price": 725.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9e0c8d92-e4eb-492e-be13-0e66ff67b74f/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Dermatolojik Sabun"
+        ],
         "stock": 2
+      },
+      {
+        "name": "Bioderma Sensibio AR+ Micellar Temizleme Jeli Hassas Ciltler İçin 250 ml",
+        "slug": "bioderma-sensibio-ar-plus-micellar-temizleme-jeli-hassas-cilt-250-ml",
+        "brand": "Bioderma",
+        "price": 1499.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e1ac070-0a68-4adf-ba5c-cfe18939c99b/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Micellar Su",
+          "Hassas Ciltler İçin",
+          "Hassas ve Kızarık Cilt",
+          "Hassas Ciltler",
+          "Temizleme Jeli"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Bioderma Sensibio DS+ Hassas Ciltler İçin Köpük Jel",
+        "slug": "bioderma-sensibio-ds-plus-hassas-ciltler-icin-kopuk-jel",
+        "brand": "Bioderma",
+        "price": 1733.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/63513a2d-09bf-4c5f-8949-34930d4f326c/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Seboreik Dermatit",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Temizleme Jeli"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Sensibio H2O Micellar Su 500 ml İkiz Set",
+        "slug": "bioderma-sensibio-h2o-micellar-su-500-ml-ikiz-set",
+        "brand": "Bioderma",
+        "price": 2209.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/75f7fc97-cacd-494b-917d-6c2cab90b0a1/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Micellar Su",
+          "Hassas Ciltler İçin",
+          "Temizleyiciler"
+        ],
+        "stock": 10
+      },
+      {
+        "name": "Bioderma Sensibio H2O Micellar Su 850 ml",
+        "slug": "bioderma-sensibio-h2o-micellar-su-850-ml",
+        "brand": "Bioderma",
+        "price": 2049.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8dee458b-1a9f-4c67-b09f-8099fc8723f1/image_1950.webp",
+        "cats": [
+          "Micellar Su",
+          "Hassas Ciltler İçin",
+          "Temizleyiciler",
+          "Hassas ve Kızarık Cilt",
+          "Yüz Bakımı"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Capicade Güneş Kremi SPF50+ Hassas Ciltler İçin 100 ml",
+        "slug": "capicade-gunes-kremi-spf50-plus-hassas-ciltler-icin-100-ml",
+        "brand": "Capicade",
+        "price": 1328.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5d4c102f-ef53-4126-951a-7616e664d71e/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "SPF 50+",
+          "Güneş Kremi"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
+        "slug": "la-roche-posay-effaclar-h-hassas-ciltler-icin-kopuk-temizleyici",
+        "brand": "La Roche-Posay",
+        "price": 1689.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/02c9ebfb-2697-4395-b489-317a1b3b6dac/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Temizleme Köpüğü",
+          "Temizleyici",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Hassas Cilt"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "La Roche Posay Toleriane Dermallergo Fluid Hassas Ciltler İçin Nemlendirici",
+        "slug": "la-roche-posay-toleriane-dermallergo-fluid-hassas-cilt-nemlendirici",
+        "brand": "La Roche-Posay",
+        "price": 1969.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cb250259-bef4-4d73-8265-e02e944dd836/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "La Roche Posay Toleriane Hassas Ciltler İçin Temizleyici Krem 200 ml",
+        "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-temizleyici-krem-200-ml",
+        "brand": "La Roche-Posay",
+        "price": 1673.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a655284-b6b8-4617-929f-f3d8900855db/image_1950.webp",
+        "cats": [
+          "Temizleme Kremi",
+          "Temizleyiciler",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "La Roche Posay Toleriane Sensitive Krem Hassas Ciltler İçin",
+        "slug": "la-roche-posay-toleriane-sensitive-krem-hassas-ciltler-icin",
+        "brand": "La Roche-Posay",
+        "price": 1423.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06301515-fc7b-4099-a3c8-e3f94e26ad83/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Orzax SHINIQ Anti-Redness Care Hassas Ciltler İçin Bakım Kremi",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-bakim-kremi",
+        "brand": "Orzax",
+        "price": 1754.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/45e53d17-986d-405f-bbca-86b188b1b2c4/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Bakım Kremi",
+          "Hassas Ciltler",
+          "Lansmana Özel"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Orzax SHINIQ Calming Anti-Acnerose Expert Hassas Ciltler İçin Bakım Kremi 40 ml",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-akne-karsiti-yogun-bakim-kremi",
+        "brand": "Orzax",
+        "price": 1243.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0e9075a-91ac-4fed-83ae-3e87deb82f57/image_1950.webp",
+        "cats": [
+          "Akne Karşıtı Bakım",
+          "Bakım Kremi",
+          "Akne Karşıtı",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Lansmana Özel",
+          "Hassas Cilt"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Orzax SHINIQ Hassas Ciltler İçin Göz Çevresi Bakım Kremi 15 ml",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-goz-cevresi-bakim-kremi",
+        "brand": "Orzax",
+        "price": 1290.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b5a29313-c553-416a-a235-5924bdc711de/image_1950.webp",
+        "cats": [
+          "Hassas Göz Çevresi",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Lansmana Özel"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Orzax SHINIQ SS Hassas Ciltler İçin Temizleyici Krem Köpük 200 ml",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-temizleyici-krem-kopuk",
+        "brand": "Orzax",
+        "price": 1199.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6ead28-720d-459c-b050-38f948501ab0/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Lansmana Özel",
+          "Temizleyiciler"
+        ],
+        "stock": 2
+      }
+    ],
+    "Hassas Ciltler": [
+      {
+        "name": "Bioderma Atoderm Bar Katı Sabun Kuru Hassas Ciltler İçin",
+        "slug": "bioderma-atoderm-kati-sabun-kuru-hassas-ciltler-icin",
+        "brand": "Bioderma",
+        "price": 725.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9e0c8d92-e4eb-492e-be13-0e66ff67b74f/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Dermatolojik Sabun"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Sensibio AR+ Micellar Temizleme Jeli Hassas Ciltler İçin 250 ml",
+        "slug": "bioderma-sensibio-ar-plus-micellar-temizleme-jeli-hassas-cilt-250-ml",
+        "brand": "Bioderma",
+        "price": 1499.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e1ac070-0a68-4adf-ba5c-cfe18939c99b/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Micellar Su",
+          "Hassas Ciltler İçin",
+          "Hassas ve Kızarık Cilt",
+          "Hassas Ciltler",
+          "Temizleme Jeli"
+        ],
+        "stock": 6
+      },
+      {
+        "name": "Bioderma Sensibio DS+ Hassas Ciltler İçin Köpük Jel",
+        "slug": "bioderma-sensibio-ds-plus-hassas-ciltler-icin-kopuk-jel",
+        "brand": "Bioderma",
+        "price": 1733.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/63513a2d-09bf-4c5f-8949-34930d4f326c/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Seboreik Dermatit",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Temizleme Jeli"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Capicade Güneş Kremi SPF50+ Hassas Ciltler İçin 100 ml",
+        "slug": "capicade-gunes-kremi-spf50-plus-hassas-ciltler-icin-100-ml",
+        "brand": "Capicade",
+        "price": 1328.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5d4c102f-ef53-4126-951a-7616e664d71e/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "SPF 50+",
+          "Güneş Kremi"
+        ],
+        "stock": 7
+      },
+      {
+        "name": "CeraVe Moisturising Cream 340 gr",
+        "slug": "cerave-moisturising-cream-340-gr",
+        "brand": "CeraVe",
+        "price": 1252.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56b6e0c7-dcb8-43f2-a68c-b95225a395a2/image_1950.webp",
+        "cats": [
+          "Vücut Losyonu",
+          "Vücut Kremi",
+          "Kuru Cilt",
+          "Hassas Ciltler"
+        ],
+        "stock": 3
+      },
+      {
+        "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
+        "slug": "la-roche-posay-effaclar-h-hassas-ciltler-icin-kopuk-temizleyici",
+        "brand": "La Roche-Posay",
+        "price": 1689.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/02c9ebfb-2697-4395-b489-317a1b3b6dac/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Temizleme Köpüğü",
+          "Temizleyici",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Hassas Cilt"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "La Roche Posay Toleriane Dermallergo Fluid Hassas Ciltler İçin Nemlendirici",
+        "slug": "la-roche-posay-toleriane-dermallergo-fluid-hassas-cilt-nemlendirici",
+        "brand": "La Roche-Posay",
+        "price": 1969.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cb250259-bef4-4d73-8265-e02e944dd836/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "La Roche Posay Toleriane Hassas Ciltler İçin Temizleyici Krem 200 ml",
+        "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-temizleyici-krem-200-ml",
+        "brand": "La Roche-Posay",
+        "price": 1673.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a655284-b6b8-4617-929f-f3d8900855db/image_1950.webp",
+        "cats": [
+          "Temizleme Kremi",
+          "Temizleyiciler",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "La Roche Posay Toleriane Sensitive Krem Hassas Ciltler İçin",
+        "slug": "la-roche-posay-toleriane-sensitive-krem-hassas-ciltler-icin",
+        "brand": "La Roche-Posay",
+        "price": 1423.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06301515-fc7b-4099-a3c8-e3f94e26ad83/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Orzax SHINIQ Anti-Redness Care Hassas Ciltler İçin Bakım Kremi",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-bakim-kremi",
+        "brand": "Orzax",
+        "price": 1754.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/45e53d17-986d-405f-bbca-86b188b1b2c4/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Bakım Kremi",
+          "Hassas Ciltler",
+          "Lansmana Özel"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Orzax SHINIQ Calming Anti-Acnerose Expert Hassas Ciltler İçin Bakım Kremi 40 ml",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-akne-karsiti-yogun-bakim-kremi",
+        "brand": "Orzax",
+        "price": 1243.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0e9075a-91ac-4fed-83ae-3e87deb82f57/image_1950.webp",
+        "cats": [
+          "Akne Karşıtı Bakım",
+          "Bakım Kremi",
+          "Akne Karşıtı",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Lansmana Özel",
+          "Hassas Cilt"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Orzax SHINIQ Hassas Ciltler için Yoğun Bakım Serumu",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-yogun-bakim-serumu",
+        "brand": "Orzax",
+        "price": 1999.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/200f37fa-cc3e-4896-b371-301ba1dffe50/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler",
+          "Lansmana Özel"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Orzax SHINIQ Hassas Ciltler İçin Göz Çevresi Bakım Kremi 15 ml",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-goz-cevresi-bakim-kremi",
+        "brand": "Orzax",
+        "price": 1290.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b5a29313-c553-416a-a235-5924bdc711de/image_1950.webp",
+        "cats": [
+          "Hassas Göz Çevresi",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Lansmana Özel"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Orzax SHINIQ SS Hassas Ciltler İçin Temizleyici Krem Köpük 200 ml",
+        "slug": "orzax-shiniq-hassas-ciltler-icin-temizleyici-krem-kopuk",
+        "brand": "Orzax",
+        "price": 1199.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6ead28-720d-459c-b050-38f948501ab0/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Lansmana Özel",
+          "Temizleyiciler"
+        ],
+        "stock": 2
+      }
+    ],
+    "Dermatolojik Sabun": [
+      {
+        "name": "Bioderma Atoderm Bar Katı Sabun Kuru Hassas Ciltler İçin",
+        "slug": "bioderma-atoderm-kati-sabun-kuru-hassas-ciltler-icin",
+        "brand": "Bioderma",
+        "price": 725.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/9e0c8d92-e4eb-492e-be13-0e66ff67b74f/image_1950.webp",
+        "cats": [
+          "Hassas Ciltler İçin",
+          "Hassas Ciltler",
+          "Dermatolojik Sabun"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Bioderma Atoderm Temizleme Barı 150 gr",
+        "slug": "bioderma-atoderm-temizleme-bari-150-gr",
+        "brand": "Bioderma",
+        "price": 711.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/43ccfc9d-5300-462b-8cd8-0432737443f3/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Duş Jeli",
+          "Atopik ve Kuru Cilt",
+          "Temizleyiciler",
+          "Yüz Bakımı",
+          "Dermatolojik Sabun"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Juvera Calming Cleansing Yüz ve Vücut Temizleme Jeli 200 ml",
+        "slug": "juvera-calming-cleansing-yuz-ve-vucut-temizleme-jeli-200-ml",
+        "brand": "Juvera",
+        "price": 749.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89fc32bb-04a2-45f1-aa6e-421ca60321e0/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Temizleme Jeli",
+          "Dermatolojik Sabun"
+        ],
+        "stock": 2
+      },
+      {
+        "name": "Koza Sabun Kükürtlü 100 gr",
+        "slug": "koza-sabun-kukurtlu-100-gr",
+        "brand": "Koza",
+        "price": 105.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9da5c79-41c7-42cb-adb0-acec23deaad3/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Dermatolojik Sabun"
+        ],
+        "stock": 13
+      },
+      {
+        "name": "Otacı Kükürt ve Katran İçerikli Sabun",
+        "slug": "otaci-kukurt-ve-katran-icerikli-sabun",
+        "brand": "Otacı",
+        "price": 162.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d844c5d4-c612-4189-b05a-b6d1652627e1/image_1950.webp",
+        "cats": [
+          "Temizleyici",
+          "Doğal Sabunlar",
+          "Dermatolojik Sabun"
+        ],
+        "stock": 5
+      },
+      {
+        "name": "Sebamed Kompakt Temizleme Sabunu 100 g",
+        "slug": "sebamed-kompakt-temizleme-sabunu-100-g",
+        "brand": "Sebamed",
+        "price": 437.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2f1d8dec-5153-4832-866d-c168d5e631f7/image_1950.webp",
+        "cats": [
+          "Vücut Bakımı",
+          "Dermatolojik Sabun"
+        ],
+        "stock": 1
       }
     ],
     "Kişisel Bakım": [
@@ -25607,7 +26197,7 @@
           "Kişisel Bakım",
           "Ağız ve Diş Bakımı"
         ],
-        "stock": 3
+        "stock": 8
       },
       {
         "name": "O.B Tampon Mini 16'lı",
@@ -25789,7 +26379,7 @@
           "Kişisel Bakım",
           "Dezenfektan ve Kolonya"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Sensodyne Diş Macunu Çok Yönlü Koruma Ferah Nefes 75 ml",
@@ -26248,6 +26838,20 @@
         "stock": 12
       },
       {
+        "name": "Juvera Soothing Moisturising Cream Rahatlatıcı Nemlendirici Krem 50 ml",
+        "slug": "juvera-soothing-moisturising-cream-rahatlatici-nemlendirici-krem-50-ml",
+        "brand": "Juvera",
+        "price": 594.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fd7cf76-80b0-4577-9f5d-d69f38c16fb5/image_1950.webp",
+        "cats": [
+          "Nemlendirici Krem",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 1
+      },
+      {
         "name": "La Roche Posay Hyalu B5 Suractivated Cream 50 ml",
         "slug": "la-roche-posay-hyalu-b5-suractivated-cream-50-ml",
         "brand": "La Roche-Posay",
@@ -26699,6 +27303,19 @@
         "stock": 2
       },
       {
+        "name": "Juvera Soothing Cleansing Gel El ve Yüz Temizleme Jeli",
+        "slug": "juvera-soothing-cleansing-gel-el-ve-yuz-temizleme-jeli",
+        "brand": "Juvera",
+        "price": 698.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/29bcf920-8dc8-4462-aad0-4670e5d82f8e/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Temizleme Jeli"
+        ],
+        "stock": 1
+      },
+      {
         "name": "La Roche Posay Effaclar Jel 400 ml Kampanyalı Fiyat",
         "slug": "la-roche-posay-effaclar-jel-400-ml-kampanyali-fiyat",
         "brand": "La Roche-Posay",
@@ -26830,7 +27447,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/babfc402-0a1e-4c9f-a8ae-fee937d25b2f/image_1950.webp",
         "cats": [
           "Temizleme Köpüğü",
-          "Yüz Bakımı",
           "Temizleme Jeli"
         ],
         "stock": 1
@@ -26872,35 +27488,6 @@
           "Temizleyici",
           "Salisilik Asit İçeren Ürünler",
           "Temizleme Jeli"
-        ],
-        "stock": 2
-      }
-    ],
-    "Besleyici": [
-      {
-        "name": "Bioderma Atoderm Nutritive Besleyici Krem 40 ml",
-        "slug": "bioderma-atoderm-nutritive-besleyici-krem-40-ml",
-        "brand": "Bioderma",
-        "price": 763.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ddfc20e2-8e0e-46d6-9928-da7b0868d155/image_1950.webp",
-        "cats": [
-          "Kuru Cilt",
-          "Besleyici"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Orzax SHINIQ AD Atopiye Eğilimli Ciltler İçin Göz Kapağı Kremi 15 ml",
-        "slug": "orzax-shiniq-kuru-cok-kuru-ve-atopiye-egilimli-ciltler-icin-nemlendirici-ve-besleyici-goz-",
-        "brand": "Orzax",
-        "price": 1336.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ead8dbba-291a-4e18-8174-c702e2202c62/image_1950.webp",
-        "cats": [
-          "Nemlendirici",
-          "Kuru, Çok Kuru ve Atopiye Eğilimli Ciltler",
-          "Besleyici"
         ],
         "stock": 2
       }
@@ -27087,6 +27674,19 @@
         "stock": 2
       },
       {
+        "name": "Bioderma Sensibio Micellar Cleansing Oil 300 ml",
+        "slug": "bioderma-sensibio-micellar-cleansing-oil-300-ml",
+        "brand": "Bioderma",
+        "price": 2419.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/919bddc5-d142-47a6-8303-d0493ca1be82/image_1950.webp",
+        "cats": [
+          "Hassas ve Kızarık Cilt",
+          "Temizleyiciler"
+        ],
+        "stock": 2
+      },
+      {
         "name": "Capicade Hassas & Kuru Temizleme Jeli 150 ml",
         "slug": "capicade-hassas-ve-kuru-temizleme-jeli-150-ml",
         "brand": "Capicade",
@@ -27199,6 +27799,19 @@
           "Dermatolojik Sabun"
         ],
         "stock": 2
+      },
+      {
+        "name": "Juvera Soothing Cleansing Gel El ve Yüz Temizleme Jeli",
+        "slug": "juvera-soothing-cleansing-gel-el-ve-yuz-temizleme-jeli",
+        "brand": "Juvera",
+        "price": 698.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/29bcf920-8dc8-4462-aad0-4670e5d82f8e/image_1950.webp",
+        "cats": [
+          "Temizleyiciler",
+          "Temizleme Jeli"
+        ],
+        "stock": 1
       },
       {
         "name": "Koza Zeytinyağlı Sabun Doğal ve Geleneksel",
@@ -27427,79 +28040,6 @@
         "stock": 1
       }
     ],
-    "Dermatolojik Sabun": [
-      {
-        "name": "Bioderma Atoderm Temizleme Barı 150 gr",
-        "slug": "bioderma-atoderm-temizleme-bari-150-gr",
-        "brand": "Bioderma",
-        "price": 711.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/43ccfc9d-5300-462b-8cd8-0432737443f3/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Duş Jeli",
-          "Atopik ve Kuru Cilt",
-          "Temizleyiciler",
-          "Yüz Bakımı",
-          "Dermatolojik Sabun"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Juvera Calming Cleansing Yüz ve Vücut Temizleme Jeli 200 ml",
-        "slug": "juvera-calming-cleansing-yuz-ve-vucut-temizleme-jeli-200-ml",
-        "brand": "Juvera",
-        "price": 749.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/89fc32bb-04a2-45f1-aa6e-421ca60321e0/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleme Jeli",
-          "Dermatolojik Sabun"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Koza Sabun Kükürtlü 100 gr",
-        "slug": "koza-sabun-kukurtlu-100-gr",
-        "brand": "Koza",
-        "price": 105.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f9da5c79-41c7-42cb-adb0-acec23deaad3/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Dermatolojik Sabun"
-        ],
-        "stock": 13
-      },
-      {
-        "name": "Otacı Kükürt ve Katran İçerikli Sabun",
-        "slug": "otaci-kukurt-ve-katran-icerikli-sabun",
-        "brand": "Otacı",
-        "price": 162.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/d844c5d4-c612-4189-b05a-b6d1652627e1/image_1950.webp",
-        "cats": [
-          "Temizleyici",
-          "Doğal Sabunlar",
-          "Dermatolojik Sabun"
-        ],
-        "stock": 5
-      },
-      {
-        "name": "Sebamed Kompakt Temizleme Sabunu 100 g",
-        "slug": "sebamed-kompakt-temizleme-sabunu-100-g",
-        "brand": "Sebamed",
-        "price": 437.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2f1d8dec-5153-4832-866d-c168d5e631f7/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Dermatolojik Sabun"
-        ],
-        "stock": 1
-      }
-    ],
     "Nemlendirici Krem": [
       {
         "name": "Bioderma Atoderm Ultra Nemlendirici Krem 200 ml",
@@ -27562,6 +28102,20 @@
           "Yüz Bakımı"
         ],
         "stock": 3
+      },
+      {
+        "name": "Juvera Soothing Moisturising Cream Rahatlatıcı Nemlendirici Krem 50 ml",
+        "slug": "juvera-soothing-moisturising-cream-rahatlatici-nemlendirici-krem-50-ml",
+        "brand": "Juvera",
+        "price": 594.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5fd7cf76-80b0-4577-9f5d-d69f38c16fb5/image_1950.webp",
+        "cats": [
+          "Nemlendirici Krem",
+          "Nemlendiriciler",
+          "Hassas Cilt"
+        ],
+        "stock": 1
       },
       {
         "name": "La Roche Posay Toleriane Sensitive Riche Kuru Ciltler İçin Nemlendirici Krem 40 ml",
@@ -28072,10 +28626,24 @@
         "stock": 3
       },
       {
+        "name": "CeraVe Nemlendirici Yüz Kremi Normal ve Kuru Ciltler İçin",
+        "slug": "cerave-nemlendirici-yuz-kremi-normal-ve-kuru-ciltler-icin",
+        "brand": "CeraVe",
+        "price": 1363.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/52324196-cb12-49e7-9c56-d15da2f9d08b/image_1950.webp",
+        "cats": [
+          "Seramid İçeren Ürünler",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Günlük Bakım"
+        ],
+        "stock": 3
+      },
+      {
         "name": "CeraVe Nemlendirici Yüz Kremi SPF30 52ml",
         "slug": "cerave-nemlendirici-yuz-kremi-spf30-52ml",
         "brand": "CeraVe",
-        "price": 1363.0,
+        "price": 1074.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/134ce671-e487-436f-8b6d-38e203542316/image_1950.webp",
         "cats": [
@@ -29260,19 +29828,6 @@
         "stock": 1
       },
       {
-        "name": "La Roche Posay Milk Dream Pediatric UVmune SPF50 Bebek Güneş Sütü 75 ml",
-        "slug": "la-roche-posay-milk-dream-pediatric-uvmune-spf50-gunes-sutu-75-ml",
-        "brand": "La Roche-Posay",
-        "price": 1250.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/400adacd-242d-41a3-8057-ca6e24b7d5ca/image_1950.webp",
-        "cats": [
-          "Güneş Koruma",
-          "Çocuk ve Bebek Güneş Koruma"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Mustela Güneş Losyonu SPF50 200 ml + Mustela Hydra Bebe 100 ml Set",
         "slug": "mustela-gunes-losyonu-spf50-200-ml-plus-mustela-hydra-bebe-100-ml-set",
         "brand": "Mustela",
@@ -29712,7 +30267,7 @@
           "Vitaminler",
           "En Yeniler"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Ocean Extramag 120 Tablet",
@@ -29725,7 +30280,7 @@
           "Magnezyum",
           "En Yeniler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Extramag Bisglisinat 60 Tablet",
@@ -30030,6 +30585,19 @@
           "Yüz Bakımı"
         ],
         "stock": 1
+      },
+      {
+        "name": "Vichy Liftactiv B3 Leke Karşıtı Niasinamid Serum 30 ml",
+        "slug": "vichy-liftactiv-b3-leke-karsiti-niasinamid-serum-30-ml",
+        "brand": "Vichy",
+        "price": 2409.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41f6bc36-06a0-46c6-98d4-c15f252db48c/image_1950.webp",
+        "cats": [
+          "Niasinamid İçeren Ürünler",
+          "Serum"
+        ],
+        "stock": 1
       }
     ],
     "C Vitamini Serumu": [
@@ -30330,7 +30898,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/babfc402-0a1e-4c9f-a8ae-fee937d25b2f/image_1950.webp",
         "cats": [
           "Temizleme Köpüğü",
-          "Yüz Bakımı",
           "Temizleme Jeli"
         ],
         "stock": 1
@@ -30483,6 +31050,18 @@
           "Set"
         ],
         "stock": 15
+      },
+      {
+        "name": "Ducray Keracnyl PP+ Krem 30 ml + Keracnyl Jel 40 ml Hediye",
+        "slug": "ducray-keracnyl-pp-krem-30-ml-keracnyl-jel-40-ml-hediye",
+        "brand": "Ducray",
+        "price": 1399.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/6f9a431e-70d6-4088-a48d-6a1f8a9b2e0b/image_1950.webp",
+        "cats": [
+          "Set"
+        ],
+        "stock": 2
       },
       {
         "name": "La Roche Posay Effaclar Tanışma Kiti Yağlı ve Akneli Ciltler İçin",
@@ -30962,6 +31541,19 @@
         "stock": 2
       },
       {
+        "name": "Bioderma Sensibio Micellar Cleansing Oil 300 ml",
+        "slug": "bioderma-sensibio-micellar-cleansing-oil-300-ml",
+        "brand": "Bioderma",
+        "price": 2419.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/919bddc5-d142-47a6-8303-d0493ca1be82/image_1950.webp",
+        "cats": [
+          "Hassas ve Kızarık Cilt",
+          "Temizleyiciler"
+        ],
+        "stock": 2
+      },
+      {
         "name": "La Roche Posay Cicaplast Baume B5 Onarıcı Balsam 40 ml",
         "slug": "la-roche-posay-cicaplast-baume-b5-onarici-balsam-40-ml",
         "brand": "La Roche-Posay",
@@ -30987,417 +31579,6 @@
           "Hassas ve Kızarık Cilt"
         ],
         "stock": 1
-      }
-    ],
-    "Hassas Ciltler İçin": [
-      {
-        "name": "Bioderma Sensibio AR+ Micellar Temizleme Jeli Hassas Ciltler İçin 250 ml",
-        "slug": "bioderma-sensibio-ar-plus-micellar-temizleme-jeli-hassas-cilt-250-ml",
-        "brand": "Bioderma",
-        "price": 1499.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e1ac070-0a68-4adf-ba5c-cfe18939c99b/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Micellar Su",
-          "Hassas Ciltler İçin",
-          "Hassas ve Kızarık Cilt",
-          "Hassas Ciltler",
-          "Temizleme Jeli"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Bioderma Sensibio DS+ Hassas Ciltler İçin Köpük Jel",
-        "slug": "bioderma-sensibio-ds-plus-hassas-ciltler-icin-kopuk-jel",
-        "brand": "Bioderma",
-        "price": 1733.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/63513a2d-09bf-4c5f-8949-34930d4f326c/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Seboreik Dermatit",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Temizleme Jeli"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Bioderma Sensibio H2O Micellar Su 500 ml İkiz Set",
-        "slug": "bioderma-sensibio-h2o-micellar-su-500-ml-ikiz-set",
-        "brand": "Bioderma",
-        "price": 2209.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/75f7fc97-cacd-494b-917d-6c2cab90b0a1/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Micellar Su",
-          "Hassas Ciltler İçin",
-          "Temizleyiciler"
-        ],
-        "stock": 10
-      },
-      {
-        "name": "Bioderma Sensibio H2O Micellar Su 850 ml",
-        "slug": "bioderma-sensibio-h2o-micellar-su-850-ml",
-        "brand": "Bioderma",
-        "price": 2049.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8dee458b-1a9f-4c67-b09f-8099fc8723f1/image_1950.webp",
-        "cats": [
-          "Micellar Su",
-          "Hassas Ciltler İçin",
-          "Temizleyiciler",
-          "Hassas ve Kızarık Cilt",
-          "Yüz Bakımı"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Capicade Güneş Kremi SPF50+ Hassas Ciltler İçin 100 ml",
-        "slug": "capicade-gunes-kremi-spf50-plus-hassas-ciltler-icin-100-ml",
-        "brand": "Capicade",
-        "price": 1328.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5d4c102f-ef53-4126-951a-7616e664d71e/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
-        "slug": "la-roche-posay-effaclar-h-hassas-ciltler-icin-kopuk-temizleyici",
-        "brand": "La Roche-Posay",
-        "price": 1689.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/02c9ebfb-2697-4395-b489-317a1b3b6dac/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Temizleyici",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Hassas Cilt"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "La Roche Posay Toleriane Dermallergo Fluid Hassas Ciltler İçin Nemlendirici",
-        "slug": "la-roche-posay-toleriane-dermallergo-fluid-hassas-cilt-nemlendirici",
-        "brand": "La Roche-Posay",
-        "price": 1969.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cb250259-bef4-4d73-8265-e02e944dd836/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Nemlendiriciler",
-          "Hassas Cilt"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "La Roche Posay Toleriane Hassas Ciltler İçin Temizleyici Krem 200 ml",
-        "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-temizleyici-krem-200-ml",
-        "brand": "La Roche-Posay",
-        "price": 1673.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a655284-b6b8-4617-929f-f3d8900855db/image_1950.webp",
-        "cats": [
-          "Temizleme Kremi",
-          "Temizleyiciler",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "La Roche Posay Toleriane Sensitive Krem Hassas Ciltler İçin",
-        "slug": "la-roche-posay-toleriane-sensitive-krem-hassas-ciltler-icin",
-        "brand": "La Roche-Posay",
-        "price": 1423.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06301515-fc7b-4099-a3c8-e3f94e26ad83/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Nemlendiriciler",
-          "Hassas Cilt"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Orzax SHINIQ Anti-Redness Care Hassas Ciltler İçin Bakım Kremi",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-bakim-kremi",
-        "brand": "Orzax",
-        "price": 1754.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/45e53d17-986d-405f-bbca-86b188b1b2c4/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Bakım Kremi",
-          "Hassas Ciltler",
-          "Lansmana Özel"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Orzax SHINIQ Calming Anti-Acnerose Expert Hassas Ciltler İçin Bakım Kremi 40 ml",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-akne-karsiti-yogun-bakim-kremi",
-        "brand": "Orzax",
-        "price": 1243.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0e9075a-91ac-4fed-83ae-3e87deb82f57/image_1950.webp",
-        "cats": [
-          "Akne Karşıtı Bakım",
-          "Bakım Kremi",
-          "Akne Karşıtı",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Lansmana Özel",
-          "Hassas Cilt"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Orzax SHINIQ Hassas Ciltler İçin Göz Çevresi Bakım Kremi 15 ml",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-goz-cevresi-bakim-kremi",
-        "brand": "Orzax",
-        "price": 1290.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b5a29313-c553-416a-a235-5924bdc711de/image_1950.webp",
-        "cats": [
-          "Hassas Göz Çevresi",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Lansmana Özel"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Orzax SHINIQ SS Hassas Ciltler İçin Temizleyici Krem Köpük 200 ml",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-temizleyici-krem-kopuk",
-        "brand": "Orzax",
-        "price": 1199.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6ead28-720d-459c-b050-38f948501ab0/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Lansmana Özel",
-          "Temizleyiciler"
-        ],
-        "stock": 2
-      }
-    ],
-    "Hassas Ciltler": [
-      {
-        "name": "Bioderma Sensibio AR+ Micellar Temizleme Jeli Hassas Ciltler İçin 250 ml",
-        "slug": "bioderma-sensibio-ar-plus-micellar-temizleme-jeli-hassas-cilt-250-ml",
-        "brand": "Bioderma",
-        "price": 1499.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/2e1ac070-0a68-4adf-ba5c-cfe18939c99b/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Micellar Su",
-          "Hassas Ciltler İçin",
-          "Hassas ve Kızarık Cilt",
-          "Hassas Ciltler",
-          "Temizleme Jeli"
-        ],
-        "stock": 6
-      },
-      {
-        "name": "Bioderma Sensibio DS+ Hassas Ciltler İçin Köpük Jel",
-        "slug": "bioderma-sensibio-ds-plus-hassas-ciltler-icin-kopuk-jel",
-        "brand": "Bioderma",
-        "price": 1733.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/63513a2d-09bf-4c5f-8949-34930d4f326c/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Seboreik Dermatit",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Temizleme Jeli"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Capicade Güneş Kremi SPF50+ Hassas Ciltler İçin 100 ml",
-        "slug": "capicade-gunes-kremi-spf50-plus-hassas-ciltler-icin-100-ml",
-        "brand": "Capicade",
-        "price": 1328.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5d4c102f-ef53-4126-951a-7616e664d71e/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "SPF 50+",
-          "Güneş Kremi"
-        ],
-        "stock": 7
-      },
-      {
-        "name": "CeraVe Moisturising Cream 340 gr",
-        "slug": "cerave-moisturising-cream-340-gr",
-        "brand": "CeraVe",
-        "price": 1252.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56b6e0c7-dcb8-43f2-a68c-b95225a395a2/image_1950.webp",
-        "cats": [
-          "Vücut Losyonu",
-          "Vücut Kremi",
-          "Kuru Cilt",
-          "Hassas Ciltler"
-        ],
-        "stock": 3
-      },
-      {
-        "name": "La Roche Posay Effaclar H Hassas Ciltler İçin Köpük Temizleyici",
-        "slug": "la-roche-posay-effaclar-h-hassas-ciltler-icin-kopuk-temizleyici",
-        "brand": "La Roche-Posay",
-        "price": 1689.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/02c9ebfb-2697-4395-b489-317a1b3b6dac/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Temizleme Köpüğü",
-          "Temizleyici",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Hassas Cilt"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "La Roche Posay Toleriane Dermallergo Fluid Hassas Ciltler İçin Nemlendirici",
-        "slug": "la-roche-posay-toleriane-dermallergo-fluid-hassas-cilt-nemlendirici",
-        "brand": "La Roche-Posay",
-        "price": 1969.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/cb250259-bef4-4d73-8265-e02e944dd836/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Nemlendiriciler",
-          "Hassas Cilt"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "La Roche Posay Toleriane Hassas Ciltler İçin Temizleyici Krem 200 ml",
-        "slug": "la-roche-posay-toleriane-hassas-ciltler-icin-temizleyici-krem-200-ml",
-        "brand": "La Roche-Posay",
-        "price": 1673.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a655284-b6b8-4617-929f-f3d8900855db/image_1950.webp",
-        "cats": [
-          "Temizleme Kremi",
-          "Temizleyiciler",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "La Roche Posay Toleriane Sensitive Krem Hassas Ciltler İçin",
-        "slug": "la-roche-posay-toleriane-sensitive-krem-hassas-ciltler-icin",
-        "brand": "La Roche-Posay",
-        "price": 1423.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/06301515-fc7b-4099-a3c8-e3f94e26ad83/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Nemlendiriciler",
-          "Hassas Cilt"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Orzax SHINIQ Anti-Redness Care Hassas Ciltler İçin Bakım Kremi",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-bakim-kremi",
-        "brand": "Orzax",
-        "price": 1754.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/45e53d17-986d-405f-bbca-86b188b1b2c4/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler İçin",
-          "Bakım Kremi",
-          "Hassas Ciltler",
-          "Lansmana Özel"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Orzax SHINIQ Calming Anti-Acnerose Expert Hassas Ciltler İçin Bakım Kremi 40 ml",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-akne-karsiti-yogun-bakim-kremi",
-        "brand": "Orzax",
-        "price": 1243.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e0e9075a-91ac-4fed-83ae-3e87deb82f57/image_1950.webp",
-        "cats": [
-          "Akne Karşıtı Bakım",
-          "Bakım Kremi",
-          "Akne Karşıtı",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Lansmana Özel",
-          "Hassas Cilt"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Orzax SHINIQ Hassas Ciltler için Yoğun Bakım Serumu",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-yogun-bakim-serumu",
-        "brand": "Orzax",
-        "price": 1999.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/200f37fa-cc3e-4896-b371-301ba1dffe50/image_1950.webp",
-        "cats": [
-          "Hassas Ciltler",
-          "Lansmana Özel"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Orzax SHINIQ Hassas Ciltler İçin Göz Çevresi Bakım Kremi 15 ml",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-goz-cevresi-bakim-kremi",
-        "brand": "Orzax",
-        "price": 1290.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b5a29313-c553-416a-a235-5924bdc711de/image_1950.webp",
-        "cats": [
-          "Hassas Göz Çevresi",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Lansmana Özel"
-        ],
-        "stock": 2
-      },
-      {
-        "name": "Orzax SHINIQ SS Hassas Ciltler İçin Temizleyici Krem Köpük 200 ml",
-        "slug": "orzax-shiniq-hassas-ciltler-icin-temizleyici-krem-kopuk",
-        "brand": "Orzax",
-        "price": 1199.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ba6ead28-720d-459c-b050-38f948501ab0/image_1950.webp",
-        "cats": [
-          "Temizleyiciler",
-          "Hassas Ciltler İçin",
-          "Hassas Ciltler",
-          "Lansmana Özel",
-          "Temizleyiciler"
-        ],
-        "stock": 2
       }
     ],
     "Seboreik Dermatit": [
@@ -31457,6 +31638,20 @@
           "Dökülme Karşıtı"
         ],
         "stock": 7
+      },
+      {
+        "name": "Bioxcin Genesis Kuru ve Normal Saçlar İçin Şampuan 3'lü Paket",
+        "slug": "bioxcin-genesis-kuru-ve-normal-saclar-icin-sampuan-3lu-paket",
+        "brand": "Bioxcin",
+        "price": 519.98,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3346be17-9c5d-4657-b40a-2cc5f9fcc9a1/image_1950.webp",
+        "cats": [
+          "Kuru ve Hassas Saçlar İçin",
+          "Dökülme Karşıtı",
+          "Saç Dökülme Bakımı"
+        ],
+        "stock": 1
       },
       {
         "name": "Bioxcin Quantum Kuru ve Normal Saçlar İçin Şampuan 3'lü Paket",
@@ -31675,14 +31870,14 @@
         "name": "Ocean Biotin 5000 mcg Kapsül 60 Kapsül",
         "slug": "ocean-biotin-5000-mcg-kapsul-60-kapsul",
         "brand": "Orzax",
-        "price": 298.0,
+        "price": 368.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1963cc54-f691-4ef5-9f66-b9869c6de2cc/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 7
+        "stock": 20
       },
       {
         "name": "Solgar Biotin 1000 Mcg Kapsül 50 Kapsül",
@@ -31828,7 +32023,21 @@
           "Dökülme Karşıtı",
           "Saç Dökülme Bakımı"
         ],
-        "stock": 5
+        "stock": 4
+      },
+      {
+        "name": "Bioxcin Genesis Kuru ve Normal Saçlar İçin Şampuan 3'lü Paket",
+        "slug": "bioxcin-genesis-kuru-ve-normal-saclar-icin-sampuan-3lu-paket",
+        "brand": "Bioxcin",
+        "price": 519.98,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3346be17-9c5d-4657-b40a-2cc5f9fcc9a1/image_1950.webp",
+        "cats": [
+          "Kuru ve Hassas Saçlar İçin",
+          "Dökülme Karşıtı",
+          "Saç Dökülme Bakımı"
+        ],
+        "stock": 1
       },
       {
         "name": "Capillium Aga Erkek Tipi Saç Dökülmesine Karşı Şampuan 330 ml",
@@ -32047,7 +32256,7 @@
           "Normal Cilt",
           "Vücut Bakımı"
         ],
-        "stock": 3
+        "stock": 8
       },
       {
         "name": "Vichy Liftactiv Supreme Normal ve Karma Ciltler İçin Bakım Kremi",
@@ -32650,14 +32859,14 @@
         "name": "HHS A1 Bitkisel 30 Kapsül",
         "slug": "hhs-a1-bitkisel-30-kapsul",
         "brand": "HHS",
-        "price": 900.0,
+        "price": 814.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/fe5b05ff-d255-40ff-bb76-5b3ed469480a/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 1
+        "stock": 20
       },
       {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
@@ -32806,14 +33015,14 @@
         "name": "Ocean Biotin 5000 mcg Kapsül 60 Kapsül",
         "slug": "ocean-biotin-5000-mcg-kapsul-60-kapsul",
         "brand": "Orzax",
-        "price": 298.0,
+        "price": 368.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1963cc54-f691-4ef5-9f66-b9869c6de2cc/image_1950.webp",
         "cats": [
           "Çok Satanlar",
           "Biotin (B7 Vitamini)"
         ],
-        "stock": 7
+        "stock": 20
       },
       {
         "name": "Ocean Daily One Energy Tablet Ginseng Multivitamin ve Mineral İçeren Takviye Edici Gıda 30 Tablet",
@@ -32933,7 +33142,7 @@
           "Magnezyum",
           "Çok Satanlar"
         ],
-        "stock": 136
+        "stock": 134
       },
       {
         "name": "Orzax Ocean Extramag Threog Magnezyum L-Treonat 60 Tablet",
@@ -33041,7 +33250,7 @@
           "Çok Satanlar",
           "Ginseng"
         ],
-        "stock": 22
+        "stock": 21
       }
     ],
     "Cinsel Sağlık Ürünleri": [
@@ -33171,7 +33380,7 @@
           "Pelinotu",
           "Balkabağı Çekirdeği"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "Naturalnest Multy Energy Women Kadın Multivitamin ve Mineral 30 Tablet",
@@ -33768,7 +33977,7 @@
           "Vitaminler",
           "En Yeniler"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Pharmaton 50 Plus 30 Kapsül",
@@ -35443,7 +35652,7 @@
           "Magnezyum",
           "Magnezyum Malat"
         ],
-        "stock": 55
+        "stock": 54
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Sitrat Tablet (P5P) 30 Tablet",
@@ -35595,7 +35804,7 @@
           "Magnezyum Sitrat",
           "B6 Vitamini"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "New Life Mag 4 Day Night Magnezyum B6 Gündüz Gece 60 Tablet",
@@ -35680,7 +35889,7 @@
           "Magnezyum",
           "En Yeniler"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Ocean Extramag Bisglisinat 60 Tablet",
@@ -35778,7 +35987,7 @@
           "Magnezyum",
           "Çok Satanlar"
         ],
-        "stock": 136
+        "stock": 134
       },
       {
         "name": "Orzax Ocean Magnezyum Complex, Magnezyum, Vitamin B6 60 Tablet",
@@ -35963,7 +36172,7 @@
           "Magnezyum",
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Venatura Magnezyum Bisglisinat Kapsül 60 Kapsül",
@@ -36189,10 +36398,24 @@
         "stock": 3
       },
       {
+        "name": "CeraVe Nemlendirici Yüz Kremi Normal ve Kuru Ciltler İçin",
+        "slug": "cerave-nemlendirici-yuz-kremi-normal-ve-kuru-ciltler-icin",
+        "brand": "CeraVe",
+        "price": 1363.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/52324196-cb12-49e7-9c56-d15da2f9d08b/image_1950.webp",
+        "cats": [
+          "Seramid İçeren Ürünler",
+          "Hyalüronik Asit İçeren Ürünler",
+          "Günlük Bakım"
+        ],
+        "stock": 3
+      },
+      {
         "name": "CeraVe Nemlendirici Yüz Kremi SPF30 52ml",
         "slug": "cerave-nemlendirici-yuz-kremi-spf30-52ml",
         "brand": "CeraVe",
-        "price": 1363.0,
+        "price": 1074.0,
         "discount_price": null,
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/134ce671-e487-436f-8b6d-38e203542316/image_1950.webp",
         "cats": [
@@ -36352,6 +36575,19 @@
           "Bakım Kremi",
           "SPF 50+",
           "Yüz Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Vichy Liftactiv B3 Leke Karşıtı Niasinamid Serum 30 ml",
+        "slug": "vichy-liftactiv-b3-leke-karsiti-niasinamid-serum-30-ml",
+        "brand": "Vichy",
+        "price": 2409.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/41f6bc36-06a0-46c6-98d4-c15f252db48c/image_1950.webp",
+        "cats": [
+          "Niasinamid İçeren Ürünler",
+          "Serum"
         ],
         "stock": 1
       }
@@ -36572,7 +36808,7 @@
           "Antioksidan Serum",
           "Anti-Aging Serum"
         ],
-        "stock": 27
+        "stock": 26
       },
       {
         "name": "La Roche Posay Pure Vitamin C12 Serum 30 ml",
@@ -36711,7 +36947,7 @@
           "Antioksidan Serum",
           "Anti-Aging Serum"
         ],
-        "stock": 27
+        "stock": 26
       },
       {
         "name": "La Roche Posay Pure Vitamin C12 Serum 30 ml",
@@ -36873,6 +37109,20 @@
           "Kepek Karşıtı",
           "Saç Bakımı",
           "Hassas Saç Derisi"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Radix Baby Emollient Shampoo Very Dry Skin Çok Kuru Ciltler İçin Şampuan 200 ml",
+        "slug": "radix-baby-emollient-shampoo-very-dry-skin-kuru-ciltler-sampuan",
+        "brand": "Radix",
+        "price": 437.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a34fb9d-19c1-4fba-96e0-4a6a40f26b7c/image_1950.webp",
+        "cats": [
+          "Atopik Cilt Bakımı",
+          "Hassas Saç Derisi",
+          "Şampuan"
         ],
         "stock": 1
       },
@@ -37602,6 +37852,18 @@
           "Omega 3"
         ],
         "stock": 5
+      },
+      {
+        "name": "Ocean Limon Aromalı Balık Yağı 150 ml Şişe",
+        "slug": "ocean-limon-aromali-balik-yagi-150-ml-sise",
+        "brand": "Orzax",
+        "price": 421.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/f562db7a-1bf8-4bef-9fcb-b222df0d15d6/image_1950.webp",
+        "cats": [
+          "Omega 3"
+        ],
+        "stock": 10
       },
       {
         "name": "Ocean Omega 3 & QH Omega 3 ve Koenzim Q10 30 Kapsül",
@@ -38706,7 +38968,7 @@
           "Çok Satanlar",
           "Ginseng"
         ],
-        "stock": 22
+        "stock": 21
       }
     ],
     "Şeker Ölçüm Aksesuarları": [
@@ -39429,7 +39691,7 @@
           "Kişisel Bakım",
           "Dezenfektan ve Kolonya"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Selin Kolonya Pet Şişe Limon 400 ml",
@@ -39515,7 +39777,7 @@
           "Kişisel Bakım",
           "Dezenfektan ve Kolonya"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Selin Kolonya Pet Şişe Limon 400 ml",
@@ -40499,6 +40761,20 @@
           "Bebek Diş Bakımı"
         ],
         "stock": 11
+      },
+      {
+        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Elma Püresi",
+        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-elma-puresi",
+        "brand": "Rocs",
+        "price": 284.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/33ec9d6c-6f33-48f1-bf07-845edce34694/image_1950.webp",
+        "cats": [
+          "Diş Macunu",
+          "Bebek Diş Macunu",
+          "Bebek Diş Bakımı"
+        ],
+        "stock": 1
       },
       {
         "name": "Rocs Baby Bebek Diş Fırçası (0-3 Yaş)",
@@ -41552,6 +41828,19 @@
         "stock": 3
       },
       {
+        "name": "Dr.Plus İlaç Taşıma Kutusu 7 Gün Uzun Tek",
+        "slug": "dr-plus-ilac-tasima-kutusu-7-gun-uzun-tek",
+        "brand": "Dr. Plus",
+        "price": 51.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60df8235-6d1c-4e26-b925-56e66eef1dcb/image_1950.webp",
+        "cats": [
+          "İlaç Kutusu ve Aksesuarlar",
+          "İlaç Kutusu ve Düzenleyiciler"
+        ],
+        "stock": 20
+      },
+      {
         "name": "Dr.Plus İlaç Taşıma Kutusu Haftalık 7x24",
         "slug": "dr-plus-ilac-tasima-kutusu-haftalik-7x24",
         "brand": "Dr. Plus",
@@ -41621,6 +41910,19 @@
         "stock": 3
       },
       {
+        "name": "Dr.Plus İlaç Taşıma Kutusu 7 Gün Uzun Tek",
+        "slug": "dr-plus-ilac-tasima-kutusu-7-gun-uzun-tek",
+        "brand": "Dr. Plus",
+        "price": 51.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/60df8235-6d1c-4e26-b925-56e66eef1dcb/image_1950.webp",
+        "cats": [
+          "İlaç Kutusu ve Aksesuarlar",
+          "İlaç Kutusu ve Düzenleyiciler"
+        ],
+        "stock": 20
+      },
+      {
         "name": "Dr.Plus İlaç Taşıma Kutusu Haftalık 7x24",
         "slug": "dr-plus-ilac-tasima-kutusu-haftalik-7x24",
         "brand": "Dr. Plus",
@@ -41659,7 +41961,7 @@
           "Probiyotik ve Prebiyotik",
           "Synbiyotik"
         ],
-        "stock": 4
+        "stock": 5
       },
       {
         "name": "NBL Probiotic Gold Probiyotik Lif Vitamin Takviyesi 20 Poşet",
@@ -41864,20 +42166,6 @@
           "Yağ Asitleri",
           "Omega 6",
           "Omega 9"
-        ],
-        "stock": 1
-      }
-    ],
-    "Dil Basacağı": [
-      {
-        "name": "Duramed Abeslang Tek Kullanımlık Dil Basacağı 100 Adet",
-        "slug": "duramed-abeslang-tek-kullanimlik-dil-basacagi-100-adet",
-        "brand": "Duramed",
-        "price": 103.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c0e38b7a-426d-4082-b8df-0ae1953b4ee6/image_1950.webp",
-        "cats": [
-          "Dil Basacağı"
         ],
         "stock": 1
       }
@@ -42253,7 +42541,7 @@
         "cats": [
           "Bromelain"
         ],
-        "stock": 14
+        "stock": 10
       },
       {
         "name": "Orzax Ocean Bromelain Complex 60 Tablet",
@@ -42562,7 +42850,7 @@
           "Diş Macunu",
           "Beyazlatıcı"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Eyüp Sabri Tuncer Doğal Karanfil Özlü Diş Macunu 90 ml",
@@ -43022,7 +43310,7 @@
         "cats": [
           "Kadın Multivitamin"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Velavit V-Women's Daily Kadın Multivitamin ve Mineral 30 Tablet",
@@ -43033,46 +43321,6 @@
         "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/72bb719a-3f0f-4507-9424-e76b44222064/image_1950.webp",
         "cats": [
           "Kadın Multivitamin"
-        ],
-        "stock": 2
-      }
-    ],
-    "Göğüs Ucu Kremi": [
-      {
-        "name": "Garmastan Meme Ucu Bakım Pomadı 20 gr",
-        "slug": "garmastan-meme-ucu-bakim-pomadi-20-gr",
-        "brand": "Garmastan",
-        "price": 804.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/989d0dbd-2fee-48df-9534-973ad7c7936f/image_1950.webp",
-        "cats": [
-          "Vücut Bakımı",
-          "Pomad",
-          "Göğüs Ucu Kremi"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Lansinoh HPA Lanolin Göğüs Ucu Kremi 40 ml",
-        "slug": "lansinoh-hpa-lanolin-gogus-ucu-kremi-40-ml",
-        "brand": "Lansinoh",
-        "price": 1070.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7ed1ab2e-742b-4a78-a026-7f034340517c/image_1950.webp",
-        "cats": [
-          "Göğüs Ucu Kremi"
-        ],
-        "stock": 4
-      },
-      {
-        "name": "Mustela Çatlak Göğüs Ucu Kremi Emzirme Dönemi İçin 30 ml",
-        "slug": "mustela-catlak-gogus-ucu-kremi-emzirme-donemi-icin-30-ml",
-        "brand": "Mustela",
-        "price": 899.9,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ecb15d5f-80ed-4667-8646-4f19baff47d0/image_1950.webp",
-        "cats": [
-          "Göğüs Ucu Kremi"
         ],
         "stock": 2
       }
@@ -43412,7 +43660,7 @@
           "Magnezyum Sitrat",
           "B6 Vitamini"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "New Life B Active Trio B6 B12 Folik Asit Takviyesi 30 Tablet",
@@ -43683,7 +43931,7 @@
           "L-Karnitin",
           "L-Karnitin"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Limonata Aromalı",
@@ -43697,7 +43945,7 @@
           "L-Karnitin",
           "L-Karnitin"
         ],
-        "stock": 6
+        "stock": 5
       },
       {
         "name": "ProteinOcean L-Carnitine 150 gr Meyve Aromalı",
@@ -44660,7 +44908,7 @@
           "Frenk Kimyonu (Caraway) Yağı",
           "Nane Yağı"
         ],
-        "stock": 2
+        "stock": 6
       }
     ],
     "Frenk Kimyonu (Caraway) Yağı": [
@@ -44676,7 +44924,7 @@
           "Frenk Kimyonu (Caraway) Yağı",
           "Nane Yağı"
         ],
-        "stock": 2
+        "stock": 6
       }
     ],
     "Nane Yağı": [
@@ -44692,7 +44940,7 @@
           "Frenk Kimyonu (Caraway) Yağı",
           "Nane Yağı"
         ],
-        "stock": 2
+        "stock": 6
       },
       {
         "name": "Talya Nane Yağı 20 cc Ferahlatıcı",
@@ -45145,7 +45393,7 @@
         "cats": [
           "Glukomannan (Konjak)"
         ],
-        "stock": 3
+        "stock": 7
       },
       {
         "name": "Orzax Ocean Formera Glukomannan ve CLA İçeren Takviye Edici Gıda Seti 60 Kapsül + 30 Tüp",
@@ -45352,7 +45600,7 @@
           "Magnezyum",
           "Magnezyum Malat"
         ],
-        "stock": 55
+        "stock": 54
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -45602,7 +45850,7 @@
           "Magnezyum Sitrat",
           "B6 Vitamini"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Newday Magnezyum Complex Kapsül Takviye Edici Gıda 60 Kapsül",
@@ -46003,7 +46251,7 @@
           "Mineraller",
           "Multivitamin"
         ],
-        "stock": 11
+        "stock": 10
       },
       {
         "name": "Supradyn Efervesan Tablet (Multivitamin Mineral Koenzim Q10) 15 Tablet",
@@ -46262,7 +46510,7 @@
           "Pelinotu",
           "Balkabağı Çekirdeği"
         ],
-        "stock": 19
+        "stock": 18
       },
       {
         "name": "TabVitamins Berista Lipozomal Kadın Tuzluğu ve Krom 30 Tablet",
@@ -46363,21 +46611,7 @@
           "Pelinotu",
           "Balkabağı Çekirdeği"
         ],
-        "stock": 19
-      },
-      {
-        "name": "Zade Vital Pumpkin Seed Oil Yumuşak Kapsül 60 Kapsül",
-        "slug": "zade-vital-pumpkin-seed-oil-yumusak-kapsul-60-kapsul",
-        "brand": "Zade Vital",
-        "price": 350.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/56058c93-c5ed-4a43-9d32-d4356081297b/image_1950.webp",
-        "cats": [
-          "Vitamin ve Takviye",
-          "Bitkisel Takviyeler",
-          "Balkabağı Çekirdeği"
-        ],
-        "stock": 1
+        "stock": 18
       }
     ],
     "Keçiboynuzu": [
@@ -46511,20 +46745,6 @@
         "stock": 32
       }
     ],
-    "İnfüzyon Uzatma Seti": [
-      {
-        "name": "Konnektör Line Uzatma Kablosu 120 cm",
-        "slug": "konnektor-line-uzatma-kablosu-120-cm",
-        "brand": "",
-        "price": 43.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/e03ccb74-0f8a-4085-aabf-f488d548c09c/image_1950.webp",
-        "cats": [
-          "İnfüzyon Uzatma Seti"
-        ],
-        "stock": 1
-      }
-    ],
     "Doğal Sabunlar": [
       {
         "name": "Koza Zeytinyağlı Sabun Doğal ve Geleneksel",
@@ -46578,36 +46798,6 @@
           "Dermatolojik Sabun"
         ],
         "stock": 5
-      }
-    ],
-    "Göz Kapama Pedi (Çocuk)": [
-      {
-        "name": "Kurmed Optik Renkli Göz Kapama Pedi Kız Çocuk 20 Adet",
-        "slug": "kurmed-optik-renkli-goz-kapama-pedi-kiz-cocuk-20-adet",
-        "brand": "Kurmed",
-        "price": 233.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3fe230db-357b-42ba-b7e8-7ab20a713d91/image_1950.webp",
-        "cats": [
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi"
-        ],
-        "stock": 1
-      }
-    ],
-    "Göz Kapama Pedi": [
-      {
-        "name": "Kurmed Optik Renkli Göz Kapama Pedi Kız Çocuk 20 Adet",
-        "slug": "kurmed-optik-renkli-goz-kapama-pedi-kiz-cocuk-20-adet",
-        "brand": "Kurmed",
-        "price": 233.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3fe230db-357b-42ba-b7e8-7ab20a713d91/image_1950.webp",
-        "cats": [
-          "Göz Kapama Pedi (Çocuk)",
-          "Göz Kapama Pedi"
-        ],
-        "stock": 1
       }
     ],
     "B Vitaminleri": [
@@ -47000,6 +47190,32 @@
           "Göğüs Ucu Çıkartıcı"
         ],
         "stock": 1
+      }
+    ],
+    "Göğüs Ucu Kremi": [
+      {
+        "name": "Lansinoh HPA Lanolin Göğüs Ucu Kremi 40 ml",
+        "slug": "lansinoh-hpa-lanolin-gogus-ucu-kremi-40-ml",
+        "brand": "Lansinoh",
+        "price": 1070.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/7ed1ab2e-742b-4a78-a026-7f034340517c/image_1950.webp",
+        "cats": [
+          "Göğüs Ucu Kremi"
+        ],
+        "stock": 4
+      },
+      {
+        "name": "Mustela Çatlak Göğüs Ucu Kremi Emzirme Dönemi İçin 30 ml",
+        "slug": "mustela-catlak-gogus-ucu-kremi-emzirme-donemi-icin-30-ml",
+        "brand": "Mustela",
+        "price": 899.9,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ecb15d5f-80ed-4667-8646-4f19baff47d0/image_1950.webp",
+        "cats": [
+          "Göğüs Ucu Kremi"
+        ],
+        "stock": 2
       }
     ],
     "Biberon Emzikleri": [
@@ -47448,47 +47664,6 @@
           "Bariyer Krem"
         ],
         "stock": 2
-      },
-      {
-        "name": "Topicure Krem %25 Çinko Oksit 100 ml",
-        "slug": "topicure-krem-25-cinko-oksit-100-ml",
-        "brand": "Mega Farma",
-        "price": 283.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/b678b8a9-5b42-4953-867f-dff623991402/image_1950.webp",
-        "cats": [
-          "Onarıcı Bakım",
-          "Koruyucu ve Bariyer Kremler",
-          "Bariyer Krem"
-        ],
-        "stock": 1
-      }
-    ],
-    "Bitkisel Yağlar": [
-      {
-        "name": "Medfors Farma Aguline Sıvı Bitkisel Yağlar İçeren Takviye Edici Gıda 100 ml Şişe",
-        "slug": "medfors-farma-aguline-sivi-bitkisel-yaglar-100-ml",
-        "brand": "Medfors Farma",
-        "price": 684.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/684bf1ed-1a41-48a3-a9ec-deaf0b7efcff/image_1950.webp",
-        "cats": [
-          "Bitkisel Yağlar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Zinco Bitkisel Yağlar + Çinko Damla 30 ml",
-        "slug": "zinco-bitkisel-yaglar-plus-cinko-damla-30-ml",
-        "brand": "Berko",
-        "price": 298.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73995a3d-33a3-4030-9fd5-4d99e539a53f/image_1950.webp",
-        "cats": [
-          "Bitkisel Yağlar",
-          "Çinko"
-        ],
-        "stock": 1
       }
     ],
     "Diş İpi": [
@@ -47555,7 +47730,7 @@
           "Diş İpi",
           "Diş İpi"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Oral-B Essential Floss Naneli Diş İpi",
@@ -47568,7 +47743,7 @@
           "Diş İpi",
           "Diş İpi"
         ],
-        "stock": 1
+        "stock": 2
       },
       {
         "name": "Oral-B Satin Tape Mint Naneli Diş İpi",
@@ -48112,6 +48287,20 @@
         "stock": 5
       },
       {
+        "name": "Radix Baby Emollient Shampoo Very Dry Skin Çok Kuru Ciltler İçin Şampuan 200 ml",
+        "slug": "radix-baby-emollient-shampoo-very-dry-skin-kuru-ciltler-sampuan",
+        "brand": "Radix",
+        "price": 437.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5a34fb9d-19c1-4fba-96e0-4a6a40f26b7c/image_1950.webp",
+        "cats": [
+          "Atopik Cilt Bakımı",
+          "Hassas Saç Derisi",
+          "Şampuan"
+        ],
+        "stock": 1
+      },
+      {
         "name": "b-good Nemlendirici Vücut Kremi Atopik Ciltler Bebek ve Çocuk 150 ml",
         "slug": "b-good-nemlendirici-vucut-kremi-atopik-ciltler-bebek-ve-cocuk-150-ml",
         "brand": "b-good",
@@ -48124,7 +48313,7 @@
           "Atopik ve Kuru Cilt",
           "Atopik Cilt Bakımı"
         ],
-        "stock": 1
+        "stock": 5
       }
     ],
     "Temizleme Yağı": [
@@ -48173,7 +48362,7 @@
           "Pelinotu",
           "Balkabağı Çekirdeği"
         ],
-        "stock": 19
+        "stock": 18
       }
     ],
     "Balık Yağı ve Omega": [
@@ -48427,33 +48616,6 @@
           "Çinko"
         ],
         "stock": 4
-      },
-      {
-        "name": "Suvar Lugol Solüsyonu %2 İyot Çözeltisi 100 ml",
-        "slug": "suvar-lugol-solusyonu-2-iyot-cozeltisi-100-ml",
-        "brand": "Suvar Kimya",
-        "price": 339.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5c275aec-d184-497a-9496-674ca3a6a025/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Lugol Solüsyonu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Suvar Lugol Solüsyonu %5 İyot Çözeltisi 100 ml",
-        "slug": "suvar-lugol-solusyonu-5-iyot-cozeltisi-100-ml",
-        "brand": "Suvar Kimya",
-        "price": 381.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1348b846-8388-4f7c-84dc-98aba6301f8f/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Vitamin ve Takviye",
-          "Lugol Solüsyonu"
-        ],
-        "stock": 1
       },
       {
         "name": "VeNatura İyot Damla 150 mcg 25 ml",
@@ -49179,7 +49341,7 @@
           "Regl Dönemi",
           "İnositol (Myo & D-Chiro)"
         ],
-        "stock": 5
+        "stock": 4
       }
     ],
     "İnositol (Myo & D-Chiro)": [
@@ -49194,7 +49356,7 @@
           "Regl Dönemi",
           "İnositol (Myo & D-Chiro)"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Proceive F Saşe İnositol Koenzim Q10 Glutatyon Vitamin Mineral Takviyesi 30 Saşe",
@@ -49284,6 +49446,22 @@
           "Kuru, Çok Kuru ve Atopiye Eğilimli Ciltler"
         ],
         "stock": 1
+      }
+    ],
+    "Besleyici": [
+      {
+        "name": "Orzax SHINIQ AD Atopiye Eğilimli Ciltler İçin Göz Kapağı Kremi 15 ml",
+        "slug": "orzax-shiniq-kuru-cok-kuru-ve-atopiye-egilimli-ciltler-icin-nemlendirici-ve-besleyici-goz-",
+        "brand": "Orzax",
+        "price": 1336.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/ead8dbba-291a-4e18-8174-c702e2202c62/image_1950.webp",
+        "cats": [
+          "Nemlendirici",
+          "Kuru, Çok Kuru ve Atopiye Eğilimli Ciltler",
+          "Besleyici"
+        ],
+        "stock": 2
       }
     ],
     "Lansmana Özel": [
@@ -49984,6 +50162,54 @@
         "stock": 1
       }
     ],
+    "Bebek Diş Macunu": [
+      {
+        "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Elma Püresi",
+        "slug": "rocs-cocuk-dis-macunu-35-ml-0-3-elma-puresi",
+        "brand": "Rocs",
+        "price": 284.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/33ec9d6c-6f33-48f1-bf07-845edce34694/image_1950.webp",
+        "cats": [
+          "Diş Macunu",
+          "Bebek Diş Macunu",
+          "Bebek Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Rocs Baby Ihlamur Aromalı Bebek Diş Macunu 0-3 Yaş 35 ml",
+        "slug": "rocs-baby-ihlamur-aromali-bebek-dis-macunu",
+        "brand": "Rocs",
+        "price": 328.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8f85f0c6-a775-4384-9d72-d38da54803e1/image_1950.webp",
+        "cats": [
+          "Bebek Ağız ve Diş Bakımı",
+          "Diş Bakımı",
+          "Diş Macunu",
+          "Bebek Diş Macunu",
+          "Bebek Diş Bakımı"
+        ],
+        "stock": 1
+      },
+      {
+        "name": "Rocs Baby Papatya Aromalı Bebek Diş Macunu",
+        "slug": "rocs-baby-papatya-aromali-bebek-dis-macunu",
+        "brand": "Rocs",
+        "price": 266.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cd37393-2a0a-4037-ab77-9488930b6801/image_1950.webp",
+        "cats": [
+          "Bebek Ağız ve Diş Bakımı",
+          "Diş Bakımı",
+          "Diş Macunu",
+          "Bebek Diş Macunu",
+          "Bebek Diş Bakımı"
+        ],
+        "stock": 2
+      }
+    ],
     "Bebek Ağız ve Diş Bakımı": [
       {
         "name": "ROCS Çocuk Diş Macunu 35 ml 0-3 Papatya",
@@ -50109,40 +50335,6 @@
           "Bebek Diş Bakımı"
         ],
         "stock": 1
-      }
-    ],
-    "Bebek Diş Macunu": [
-      {
-        "name": "Rocs Baby Ihlamur Aromalı Bebek Diş Macunu 0-3 Yaş 35 ml",
-        "slug": "rocs-baby-ihlamur-aromali-bebek-dis-macunu",
-        "brand": "Rocs",
-        "price": 328.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8f85f0c6-a775-4384-9d72-d38da54803e1/image_1950.webp",
-        "cats": [
-          "Bebek Ağız ve Diş Bakımı",
-          "Diş Bakımı",
-          "Diş Macunu",
-          "Bebek Diş Macunu",
-          "Bebek Diş Bakımı"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Rocs Baby Papatya Aromalı Bebek Diş Macunu",
-        "slug": "rocs-baby-papatya-aromali-bebek-dis-macunu",
-        "brand": "Rocs",
-        "price": 266.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/8cd37393-2a0a-4037-ab77-9488930b6801/image_1950.webp",
-        "cats": [
-          "Bebek Ağız ve Diş Bakımı",
-          "Diş Bakımı",
-          "Diş Macunu",
-          "Bebek Diş Macunu",
-          "Bebek Diş Bakımı"
-        ],
-        "stock": 2
       }
     ],
     "Genç (Teen)": [
@@ -50609,7 +50801,7 @@
           "Kulak Temizleyici",
           "Kulak Kiri Yumuşatıcı"
         ],
-        "stock": 2
+        "stock": 3
       }
     ],
     "Kulak Kiri Yumuşatıcı": [
@@ -50624,7 +50816,7 @@
           "Kulak Temizleyici",
           "Kulak Kiri Yumuşatıcı"
         ],
-        "stock": 2
+        "stock": 3
       }
     ],
     "Sigara Filtresi ve Ağızlık": [
@@ -50651,35 +50843,6 @@
           "Sigara Filtresi ve Ağızlık"
         ],
         "stock": 4
-      }
-    ],
-    "Lugol Solüsyonu": [
-      {
-        "name": "Suvar Lugol Solüsyonu %2 İyot Çözeltisi 100 ml",
-        "slug": "suvar-lugol-solusyonu-2-iyot-cozeltisi-100-ml",
-        "brand": "Suvar Kimya",
-        "price": 339.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/5c275aec-d184-497a-9496-674ca3a6a025/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Lugol Solüsyonu"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Suvar Lugol Solüsyonu %5 İyot Çözeltisi 100 ml",
-        "slug": "suvar-lugol-solusyonu-5-iyot-cozeltisi-100-ml",
-        "brand": "Suvar Kimya",
-        "price": 381.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/1348b846-8388-4f7c-84dc-98aba6301f8f/image_1950.webp",
-        "cats": [
-          "İyot",
-          "Vitamin ve Takviye",
-          "Lugol Solüsyonu"
-        ],
-        "stock": 1
       }
     ],
     "Tırnak Solüsyonu": [
@@ -52045,6 +52208,21 @@
         "stock": 1
       }
     ],
+    "Bitkisel Yağlar": [
+      {
+        "name": "Zinco Bitkisel Yağlar + Çinko Damla 30 ml",
+        "slug": "zinco-bitkisel-yaglar-plus-cinko-damla-30-ml",
+        "brand": "Berko",
+        "price": 298.0,
+        "discount_price": null,
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/73995a3d-33a3-4030-9fd5-4d99e539a53f/image_1950.webp",
+        "cats": [
+          "Bitkisel Yağlar",
+          "Çinko"
+        ],
+        "stock": 1
+      }
+    ],
     "Çocuk Macunu": [
       {
         "name": "Zühre Ana Kids Çocuk Macunu 240 gr",
@@ -52078,9 +52256,9 @@
     ]
   },
   "stats": {
-    "total_products": 3641,
-    "total_categories": 538,
-    "generated": "2026-11-24 19:00",
+    "total_products": 3655,
+    "total_categories": 533,
+    "generated": "2026-11-25 12:34",
     "source": "ikas_api_live"
   }
 }
