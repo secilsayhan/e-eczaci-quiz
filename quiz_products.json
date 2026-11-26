@@ -655,7 +655,7 @@
         "cats": [
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Day2day The Collagen Multi Toz",
@@ -2144,7 +2144,7 @@
           "Vitamin ve Takviye",
           "Çok Satanlar"
         ],
-        "stock": 27
+        "stock": 25
       },
       {
         "name": "Ocean Milk Thistle 30 Kapsül",
@@ -2940,20 +2940,6 @@
           "Vitamin ve Takviye"
         ],
         "stock": 3
-      },
-      {
-        "name": "UpVita Memory Sitikolin Kapsül 60 Kapsül",
-        "slug": "upvita-memory-sitikolin-kapsul-60-kapsul",
-        "brand": "UpVita",
-        "price": 1155.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f4087a5-391c-4690-96c1-fb1539f73ed5/image_1950.webp",
-        "cats": [
-          "Sitikolin (Citicoline)",
-          "Vitamin ve Takviye",
-          "Sitikolin"
-        ],
-        "stock": 1
       },
       {
         "name": "Velavit Colostrum",
@@ -17528,7 +17514,7 @@
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Hünnap Alıç Sirkesi Organik Doğal Fermente 250 ml",
@@ -32920,7 +32906,7 @@
           "Çok Satanlar",
           "B6 Vitamini"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "GoodDay Magnesium Plus S/G Kapsül Magnezyum ve P5P 30 Kapsül",
@@ -32949,7 +32935,7 @@
           "Çok Satanlar",
           "Bitkisel Takviyeler"
         ],
-        "stock": 20
+        "stock": 19
       },
       {
         "name": "Hpwash Kapsül, Aktif Heksoz Korele Bileşik ve Dim İçeren Takviye Edici Gıda 30 Kapsül",
@@ -33146,7 +33132,7 @@
           "Vitamin ve Takviye",
           "Çok Satanlar"
         ],
-        "stock": 27
+        "stock": 25
       },
       {
         "name": "Ocean Methyl B12 1000 mcg Dilaltı Sprey 10 ml Şişe",
@@ -35644,20 +35630,6 @@
         "stock": 3
       },
       {
-        "name": "UpVita Memory Sitikolin Kapsül 60 Kapsül",
-        "slug": "upvita-memory-sitikolin-kapsul-60-kapsul",
-        "brand": "UpVita",
-        "price": 1155.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f4087a5-391c-4690-96c1-fb1539f73ed5/image_1950.webp",
-        "cats": [
-          "Sitikolin (Citicoline)",
-          "Vitamin ve Takviye",
-          "Sitikolin"
-        ],
-        "stock": 1
-      },
-      {
         "name": "Zebovit Sivi CAM Şişe, Fosfotidilserin, Kolin, Sitikolin, L-arjinin, L-karnitin, Multivitamin ve Mineral İçeren Takviye Edici Gıda 150ml Şişe",
         "slug": "zebovit-sivi-cam-sise-fosfotidilserin-kolin-sitikolin-l-arjinin-l",
         "brand": "Zebovit",
@@ -35764,7 +35736,7 @@
           "Çok Satanlar",
           "B6 Vitamini"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglisinat Saşe P5P 30 Saşe",
@@ -37400,20 +37372,6 @@
           "Sitikolin (Citicoline)"
         ],
         "stock": 4
-      },
-      {
-        "name": "UpVita Memory Sitikolin Kapsül 60 Kapsül",
-        "slug": "upvita-memory-sitikolin-kapsul-60-kapsul",
-        "brand": "UpVita",
-        "price": 1155.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/3f4087a5-391c-4690-96c1-fb1539f73ed5/image_1950.webp",
-        "cats": [
-          "Sitikolin (Citicoline)",
-          "Vitamin ve Takviye",
-          "Sitikolin"
-        ],
-        "stock": 1
       }
     ],
     "Omega 3": [
@@ -44084,13 +44042,13 @@
         "brand": "FEB",
         "price": 865.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c83a20b5-8681-49fd-b6f9-222d55eef517/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0a657717-1144-4e29-8512-a15f21367306/image_1950.webp",
         "cats": [
           "Erkek",
           "Erkek Multivitamin",
           "Saç Cilt Tırnak"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "NaturalNest Multy Energy Men 30 Tablet",
@@ -44125,13 +44083,13 @@
         "brand": "FEB",
         "price": 865.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c83a20b5-8681-49fd-b6f9-222d55eef517/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0a657717-1144-4e29-8512-a15f21367306/image_1950.webp",
         "cats": [
           "Erkek",
           "Erkek Multivitamin",
           "Saç Cilt Tırnak"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Nutraxin Vitals Mens Multi Vitamin Complex Tablet 60 Tablet",
@@ -44202,13 +44160,13 @@
         "brand": "FEB",
         "price": 865.0,
         "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/c83a20b5-8681-49fd-b6f9-222d55eef517/image_1950.webp",
+        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/0a657717-1144-4e29-8512-a15f21367306/image_1950.webp",
         "cats": [
           "Erkek",
           "Erkek Multivitamin",
           "Saç Cilt Tırnak"
         ],
-        "stock": 8
+        "stock": 7
       },
       {
         "name": "Naturalnest HNS Tablet, 60 Tablet",
@@ -44524,7 +44482,7 @@
           "Çok Satanlar",
           "B6 Vitamini"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglisinat Saşe P5P 30 Saşe",
@@ -46708,7 +46666,7 @@
           "Çok Satanlar",
           "B6 Vitamini"
         ],
-        "stock": 24
+        "stock": 23
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglisinat Saşe P5P 30 Saşe",
@@ -49470,7 +49428,7 @@
           "Vitamin ve Takviye",
           "Çok Satanlar"
         ],
-        "stock": 27
+        "stock": 25
       },
       {
         "name": "Orzax Ocean Krill Yağı 500 mg 30 Kapsül",
@@ -53152,9 +53110,9 @@
     ]
   },
   "stats": {
-    "total_products": 3724,
+    "total_products": 3721,
     "total_categories": 531,
-    "generated": "2026-11-26 11:04",
+    "generated": "2026-11-26 15:00",
     "source": "ikas_api_live"
   }
 }
