@@ -1919,7 +1919,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 100
+        "stock": 99
       },
       {
         "name": "Ocean DHA 30 Kapsül",
@@ -4777,7 +4777,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "NBL Probiotic ATP 20 Saşe",
@@ -6593,7 +6593,7 @@
           "Omega 3",
           "Sitikolin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Sorvagen Smart Double Sitikolin DHA Omega 3 B12 Vitamini 30 Kapsül",
@@ -18634,7 +18634,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 100
+        "stock": 99
       },
       {
         "name": "Ocean Osteofine Tablet, Kalsiyum, Magnezyum, Çinko ve D Vitamini, 60 Tablet",
@@ -33010,7 +33010,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "NBT Life Endofer Demir Takviyesi 30 Kapsül",
@@ -33239,7 +33239,7 @@
           "Çok Satanlar",
           "B6 Vitamini"
         ],
-        "stock": 100
+        "stock": 99
       },
       {
         "name": "Orzax Ocean Plus Yüksek EPA DHA Balık Yağı 50 Kapsül",
@@ -34069,7 +34069,7 @@
           "D Vitamini",
           "Vitaminler"
         ],
-        "stock": 100
+        "stock": 99
       },
       {
         "name": "Ocean E Vitamini 30 Kapsül",
@@ -35583,7 +35583,7 @@
           "Omega 3",
           "Sitikolin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Sorvagen Smart Double Sitikolin DHA Omega 3 B12 Vitamini 30 Kapsül",
@@ -35721,7 +35721,7 @@
           "Magnezyum Bisglisinat",
           "Magnezyum L-Treonat"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -36180,7 +36180,7 @@
           "Çok Satanlar",
           "B6 Vitamini"
         ],
-        "stock": 100
+        "stock": 99
       },
       {
         "name": "Primroya Tablet Primroz Yağı Magnezyum Şerbetçiotu Pasiflora Takviyesi 30 Tablet",
@@ -38391,7 +38391,7 @@
           "Omega 3",
           "Sitikolin"
         ],
-        "stock": 5
+        "stock": 4
       },
       {
         "name": "Sorvagen Smart Double Sitikolin DHA Omega 3 B12 Vitamini 30 Kapsül",
@@ -43042,7 +43042,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Vimesa Kapsül 30 Kapsül",
@@ -43089,7 +43089,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 26
+        "stock": 25
       }
     ],
     "Yağ Asitleri": [
@@ -44697,7 +44697,7 @@
           "Çok Satanlar",
           "B6 Vitamini"
         ],
-        "stock": 100
+        "stock": 99
       },
       {
         "name": "Solgar Magnezyum B6 Vitamini 100 Tablet",
@@ -46651,7 +46651,7 @@
           "Magnezyum Bisglisinat",
           "Magnezyum L-Treonat"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "GoodDay Magnesium Plus Magnezyum Bisglinat Tablet P5P 30 Tablet",
@@ -46755,7 +46755,7 @@
           "Magnezyum Bisglisinat",
           "Magnezyum L-Treonat"
         ],
-        "stock": 3
+        "stock": 2
       },
       {
         "name": "Orzax Ocean Extramag Threog Magnezyum L-Treonat 60 Tablet",
@@ -46918,7 +46918,7 @@
           "Kadın Probiyotikleri",
           "Vajinal Probiyotik"
         ],
-        "stock": 26
+        "stock": 25
       },
       {
         "name": "Nutraxin Herbal Cranberry Tablet Turna Yemişi Takviyesi 60 Tablet",
@@ -53112,7 +53112,7 @@
   "stats": {
     "total_products": 3721,
     "total_categories": 531,
-    "generated": "2026-11-26 15:00",
+    "generated": "2026-11-26 19:40",
     "source": "ikas_api_live"
   }
 }
