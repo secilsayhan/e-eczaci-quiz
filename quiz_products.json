@@ -1711,7 +1711,7 @@
           "Mineraller",
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Nutraxin Vitals Multivitamin Mineral Energy Tablet, 60 Tablet",
@@ -3191,21 +3191,6 @@
           "Balık Yağı ve Omega",
           "Vitamin ve Takviye",
           "Omega 3"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura PQQ+ALA+CoQ10 Kapsül 30 Kapsül",
-        "slug": "venatura-pqq-plusala-pluscoq10-kapsul-30-kapsul",
-        "brand": "VeNatura",
-        "price": 959.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/84b098eb-07d7-4ac4-a3ad-d223077646ae/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Vitamin ve Takviye",
-          "Antioksidanlar",
-          "Alfa Lipoik Asit"
         ],
         "stock": 1
       },
@@ -5186,7 +5171,7 @@
           "Mineraller",
           "Vitamin ve Takviye"
         ],
-        "stock": 2
+        "stock": 1
       },
       {
         "name": "Ocean Extramag 30 Tablet",
@@ -14258,7 +14243,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Capicade Sun Krem Yağlı Tinted SPF 50 50 ml",
@@ -23073,7 +23058,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Capicade Sun Krem Yağlı Tinted SPF 50 50 ml",
@@ -23458,7 +23443,7 @@
           "Yüz Güneş Koruma",
           "SPF 50+"
         ],
-        "stock": 6
+        "stock": 4
       },
       {
         "name": "Capicade Sun Krem Yağlı Tinted SPF 50 50 ml",
@@ -35043,21 +35028,6 @@
           "Alfa Lipoik Asit"
         ],
         "stock": 2
-      },
-      {
-        "name": "Venatura PQQ+ALA+CoQ10 Kapsül 30 Kapsül",
-        "slug": "venatura-pqq-plusala-pluscoq10-kapsul-30-kapsul",
-        "brand": "VeNatura",
-        "price": 959.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/84b098eb-07d7-4ac4-a3ad-d223077646ae/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Vitamin ve Takviye",
-          "Antioksidanlar",
-          "Alfa Lipoik Asit"
-        ],
-        "stock": 1
       }
     ],
     "Yaşlanma Karşıtı": [
@@ -44261,7 +44231,7 @@
         "cats": [
           "Kadın Multivitamin"
         ],
-        "stock": 10
+        "stock": 9
       },
       {
         "name": "Velavit V-Women's Daily Kadın Multivitamin ve Mineral 30 Tablet",
@@ -46075,21 +46045,6 @@
           "Antioksidanlar"
         ],
         "stock": 1
-      },
-      {
-        "name": "Venatura PQQ+ALA+CoQ10 Kapsül 30 Kapsül",
-        "slug": "venatura-pqq-plusala-pluscoq10-kapsul-30-kapsul",
-        "brand": "VeNatura",
-        "price": 959.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/84b098eb-07d7-4ac4-a3ad-d223077646ae/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Vitamin ve Takviye",
-          "Antioksidanlar",
-          "Alfa Lipoik Asit"
-        ],
-        "stock": 1
       }
     ],
     "Isırgan Otu (Nettle)": [
@@ -47271,21 +47226,6 @@
           "Koenzim Q10",
           "Vitamin ve Takviye",
           "Antioksidanlar"
-        ],
-        "stock": 1
-      },
-      {
-        "name": "Venatura PQQ+ALA+CoQ10 Kapsül 30 Kapsül",
-        "slug": "venatura-pqq-plusala-pluscoq10-kapsul-30-kapsul",
-        "brand": "VeNatura",
-        "price": 959.0,
-        "discount_price": null,
-        "image": "https://cdn.myikas.com/images/731a8afd-47a0-4440-9360-8a473c9a4f9e/84b098eb-07d7-4ac4-a3ad-d223077646ae/image_1950.webp",
-        "cats": [
-          "Koenzim Q10",
-          "Vitamin ve Takviye",
-          "Antioksidanlar",
-          "Alfa Lipoik Asit"
         ],
         "stock": 1
       },
@@ -53110,9 +53050,9 @@
     ]
   },
   "stats": {
-    "total_products": 3721,
+    "total_products": 3717,
     "total_categories": 531,
-    "generated": "2026-11-26 19:40",
+    "generated": "2026-11-27 08:21",
     "source": "ikas_api_live"
   }
 }
